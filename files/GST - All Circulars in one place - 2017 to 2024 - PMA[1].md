@@ -390,11 +390,18 @@ Representations have been received from the trade and the field formations seeki
 
 ## Page 18
 
-2. In order to clarify the issue and to ensure uniformity in the implementation of the provisions of law across the field formations, the Board, in exercise of its powers conferred by section 168 (1) of the Central Goods and Services Tax Act, 2017 (hereinafter referred to as "CGST Act"), hereby clarifies the issues as under:
+- 2. In order to clarify the issue and to ensure uniformity in the implementation of the provisions of law across the field formations, the Board, in exercise of its powers conferred by section 168 (1) of the Central Goods and Services Tax Act, 2017 (hereinafter referred to as "CGST Act"), hereby clarifies the issues as under:
 
-| S.No. |                                                                                                                                                                                    Issue                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                               Clarification                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| :---: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  1.  | Under HAM model of National Highways Authority of India (NHAI), the concessionaire has to construct the new road and provide Operation\& Maintenance of the same which is generally over a period of 15-17 years and the payment of the same is spread over the years. What is the time of supply for the purpose of payment of tax on the said service under the HAM model? | Under the Hybrid Annuity Model (HAM) of concession agreements, the highway development projects are under Design, Build, Operate and Transfer model (DBOT), wherein the concessionaire is required to undertake new construction of Highway, as well as the Operation and Maintenance (O\&M) of Highways. The payment terms for the construction portion as well as the O\&M portion of the contract are provided in the agreement between National Highways Authority of India (NHAI) and the concessionaire. `<br>` 2.1 A HAM contract is a single contract for construction as well as operation and maintenance of the highway. The payment terms are so staggered that the concessionaire is held accountable for the repair and maintenance of the highway as well. The contract needs to be looked at holistically based on the services to be performed by the concessionaire and cannot be artificially split into two separate contracts for construction and |
+
+## Issue
+
+Under HAM model of National Highways Authority of India (NHAI), the concessionaire has to construct the new road and provide Operation\& Maintenance of the same which is generally over a period of 15-17 years and the payment of the same is spread over the years. What is the time of supply for the purpose of payment of tax on the said service under the HAM model? 
+
+## Clarification
+
+Under the Hybrid Annuity Model (HAM) of concession agreements, the highway development projects are under Design, Build, Operate and Transfer model (DBOT), wherein the concessionaire is required to undertake new construction of Highway, as well as the Operation and Maintenance (O\&M) of Highways. The payment terms for the construction portion as well as the O\&M portion of the contract are provided in the agreement between National Highways Authority of India (NHAI) and the concessionaire. 
+
+2.1 A HAM contract is a single contract for construction as well as operation and maintenance of the highway. The payment terms are so staggered that the concessionaire is held accountable for the repair and maintenance of the highway as well. The contract needs to be looked at holistically based on the services to be performed by the concessionaire and cannot be artificially split into two separate contracts for construction and
 
 ## Page 19
 
@@ -415,13 +422,14 @@ the provisions of Section 31(5) of CGST Act.
 
 ## Page 22
 
-3. It is requested that suitable trade notices may be issued to publicize the contents of this Circular.
-4. Difficulty, if any, in implementation of this Circular may please be brought to the notice of the Board. Hindi version would follow.
+- 3. It is requested that suitable trade notices may be issued to publicize the contents of this Circular.
+- 4. Difficulty, if any, in implementation of this Circular may please be brought to the notice of the Board. Hindi version would follow.
    [F.No. CBIC-20001/4/2024-GST]
    (Sanjay Mangal)
    Principal Commissioner (GST)
 
-220/14/2024-GST - Custodial Services
+
+## 220/14/2024-GST - Custodial Services
 
 GOVERNMENT OF INDIA
 MINISTRY OF FINANCE
@@ -440,9 +448,13 @@ Subject: Clarification on place of supply applicable for custodial services prov
 Representations have been received seeking clarification on the Place of Supply in cases of Custodial Services provided by Banks to Foreign Portfolio Investors (hereinafter referred to as "FPIs"), as a view is being taken by some field formations that the Place of Supply in case of 'custodial service' would be determined as per Section 13(8)(a) of the Integrated Goods and Services Tax Act, 2017 (hereinafter referred to as "IGST Act"), i.e. the location of the service provider (banks or financial institutions).
 2. In order to clarify the issue and to ensure uniformity in the implementation of the provisions of law across the field formations, the Board, in exercise of its powers conferred by section 168(1) of the Central Goods and Services Tax Act, 2017 (hereinafter referred to as "CGST Act"), hereby clarifies the issue as under:
 
-|                                                                                                                                           Issue                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                          Clarification                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Whether the activity of providing Custodial Services by banks or financial institutions to FPIs will be treated as services provided to 'account holder' under Section 13(8)(a) of the IGST Act, 2017?`<br>` Further, how the place of supply of the said services shall be determined? | According to the Securities and Exchange Board of India (Custodian of Securities) Regulations 1996, 'Custodial Services' in relation to securities means safekeeping of securities of a client and providing services incidental thereto, and includes- maintaining accounts of securities of a client; - collecting the benefits or rights accruing to the client in respect of securities;`<br>` - keeping the client informed of the actions taken or to be taken by the issuer of securities, having a bearing on the benefits or rights accruing to the client; and `<br>` - maintaining and reconciling records of the services referred above. `<br>` As per Regulation 20(1) of the Securities and Exchange Board of India (Foreign Portfolio Investors) Regulations, 2019, an FPI is allowed to invest only in the following securities, namely- |
+### Issue :
+
+Whether the activity of providing Custodial Services by banks or financial institutions to FPIs will be treated as services provided to 'account holder' under Section 13(8)(a) of the IGST Act, 2017?`<br>` Further, how the place of supply of the said services shall be determined? 
+
+### clarification
+
+According to the Securities and Exchange Board of India (Custodian of Securities) Regulations 1996, 'Custodial Services' in relation to securities means safekeeping of securities of a client and providing services incidental thereto, and includes- maintaining accounts of securities of a client; - collecting the benefits or rights accruing to the client in respect of securities;`<br>` - keeping the client informed of the actions taken or to be taken by the issuer of securities, having a bearing on the benefits or rights accruing to the client; and `<br>` - maintaining and reconciling records of the services referred above. `<br>` As per Regulation 20(1) of the Securities and Exchange Board of India (Foreign Portfolio Investors) Regulations, 2019, an FPI is allowed to invest only in the following securities, namely-
 
 ## Page 24
 
@@ -489,16 +501,15 @@ In the case of any service which does not qualify as a service provided to an ac
 
 ## Page 28
 
-|  | Accordingly, it is clarified that the custodial services provided by banks or financial institutions to FPIs are not to be treated as services provided to 'account holder' and therefore, the said services are not covered under Section 13(8)(a) of the IGST Act. Therefore, the place of supply of such services is not to be determined under Section 13(8)(a) of the IGST Act but has to be determined under the default provision i.e., sub-section (2) of section 13 of the IGST Act. |
-| :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+Accordingly, it is clarified that the custodial services provided by banks or financial institutions to FPIs are not to be treated as services provided to 'account holder' and therefore, the said services are not covered under Section 13(8)(a) of the IGST Act. Therefore, the place of supply of such services is not to be determined under Section 13(8)(a) of the IGST Act but has to be determined under the default provision i.e., sub-section (2) of section 13 of the IGST Act.
 
-2. It is requested that suitable trade notices may be issued to publicize the contents of this Circular.
-3. Difficulty, if any, in implementation of the above instructions may please be brought to the notice of the Board. Hindi version would follow.
+- 2. It is requested that suitable trade notices may be issued to publicize the contents of this Circular.
+- 3. Difficulty, if any, in implementation of the above instructions may please be brought to the notice of the Board. Hindi version would follow.
    [F. No. CBIC-20001/4/2024-GST]
    (Sanjay Mangal)
    Principal Commissioner (GST)
 
-219/13/2024-GST- Input Tax Credit on Ducts and Manholes
+## 219/13/2024-GST- Input Tax Credit on Ducts and Manholes
 
 GOVERNMENT OF INDIA
 MINISTRY OF FINANCE
@@ -518,10 +529,15 @@ The Principal Chief Commissioners/ Chief Commissioners/ Principal Commissioners/
 The Principal Directors General/ Directors General (All)
 Subject: Clarification on availability of input tax credit on ducts and manholes used in network of optical fiber cables (OFCs) in terms of section 17(5) of the CGST Act, 2017 - reg. Representations have been received from Cellular Operators Association of India (COAI) submitting that input tax credit (ITC) is being denied by some tax authorities on ducts and manholes used in network of optical fiber cables (OFCs)on the ground that the same is blocked as per section 17(5) of the Central Goods \&Services Tax Act, 2017 (herein after referred to as the "CGST Act"), being in nature of immovable property (other than Plant and Machinery). It has been requested to issue clarification in respect of availability of ITC on ducts and manholes used in network of optical fiber cables (OFCs), so as to prevent unwarranted litigation in the telecommunication sector across the country.
 2. In order to ensure uniformity in the implementation of the provisions of law across the field formations, the Board, in exercise of its powers conferred by section 168 (1) of the CGST Act, hereby clarifies the issue as below.
+                                         
 
-|                                                                                                                                            Issue                                                                                                                                            |                                                                                                                                        Clarification                                                                                                                                        |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Whether the input tax credit on the ducts and manholes used in network of optical fiber cables (OFCs) for providing telecommunication services is barred in terms of clauses (c) and (d) of subsection (5) of section 17 of the CGST Act, read with Explanation to section 17 of CGST Act ? | 1. Sub-section (5) to Section 17 of the CGST`<br>` Act provides that input tax credit shall not be available, inter alia, in respect of the following: `<br>` i. works contract services when supplied for construction of an immovable property (other than plant and machinery) except |
+## Issue:
+
+Whether the input tax credit on the ducts and manholes used in network of optical fiber cables (OFCs) for providing telecommunication services is barred in terms of clauses (c) and (d) of subsection (5) of section 17 of the CGST Act, read with Explanation to section 17 of CGST Act ?
+
+## Clarification: 
+
+1. Sub-section (5) to Section 17 of the CGST`<br>` Act provides that input tax credit shall not be available, inter alia, in respect of the following: `<br>` i. works contract services when supplied for construction of an immovable property (other than plant and machinery) except |
 
 ## Page 30
 
@@ -533,8 +549,8 @@ where it is an input service for further supply of works contract service; or ii
 
 cable but also their upkeep and maintenance. In view of the Explanation in section 17 of the CGST Act, it appears that ducts and manholes are covered under the definition of "plant and machinery" as they are used as part of the OFC network for making outward supply of transmission of telecommunication signals from one point to another. Moreover, ducts and manholes used in network of optical fiber cables (OFCs) have not been specifically excluded from the definition of "plant and machinery" in the Explanation to section 17 of CGST Act, as they are neither in nature of land, building or civil structures nor are in nature of telecommunication towers or pipelines laid outside the factory premises.
 4. Accordingly, it is clarified that availment of input tax credit is not restricted in respect of such ducts and manhole used in network of optical fiber cables (OFCs), either under clause (c) or under clause (d) of sub-section (5) of section 17 of CGST Act.
-3. It is requested that suitable trade notices may be issued to publicize the contents of this Circular.
-4. Difficulty, if any, in the implementation of this Circular may be brought to the notice of the Board. Hindi version would follow.
+- 3. It is requested that suitable trade notices may be issued to publicize the contents of this Circular.
+- 4. Difficulty, if any, in the implementation of this Circular may be brought to the notice of the Board. Hindi version would follow.
 [F. No. CBIC-20001/4/2024-GST]
 
 ## Page 32
@@ -560,10 +576,19 @@ Subject: Clarification regarding taxability of the transaction of providing loan
 Representations have been received from trade and industry seeking clarity on whether there is any supply involved in the transaction of granting of loan by a person to a related person or by an overseas affiliate to its Indian entity, where the consideration being paid is only by way of interest or discount, and whether any GST is applicable on the same.
 2. In order to clarify the issue and to ensure uniformity in the implementation of the provisions of law across the field formations, the Board, in exercise of its powers conferred by section 168 (1) of the Central Goods and Services Tax Act, 2017 (hereinafter referred to as "CGST Act"), hereby clarifies the issues as under:
 
-|                                                                                 S.No.                                                                                 |                                                                                                                                                                                            Issue                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                                     Clarification                                                                                                                                                                                                                                                                                                     |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Clarification regarding taxability of the transaction of providing loan by an overseas entity to its Indian related entity or by a person in India to a related person |                                                                                                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-|                                                                                   1.                                                                                   | Whether the activity of providing loans by an overseas affiliate to its Indian affiliate or by a person to a related person, where there is no consideration in the nature of processing fee/ administrative charges/ loan granting charges etc., and the consideration is represented only by way of interest or discount, will be treated as a taxable supply of service under GST or not. | 1. As per clause (c) of sub-section (1) of section 7 of the CGST Act, read with S. No. 2 and S. No. 4 of Schedule I of CGST Act, supply of goods or services or both between related persons, when made in the course or furtherance of business, shall be treated as supply, even if made without consideration. Therefore, it is evident that the service of granting loan/ credit/ advances by an entity to its related entity is a supply under GST.`<br>` 2. Services by way of extending deposits, loans or advances in so far as the consideration is represented by way of interest or discount (other than |
+
+
+
+## Issue: 
+
+(Clarification regarding taxability of the transaction of providing loan by an overseas entity to its Indian related entity or by a person in India to a related person)
+
+Whether the activity of providing loans by an overseas affiliate to its Indian affiliate or by a person to a related person, where there is no consideration in the nature of processing fee/ administrative charges/ loan granting charges etc., and the consideration is represented only by way of interest or discount, will be treated as a taxable supply of service under GST or not.
+
+## Clarification: 
+1. As per clause (c) of sub-section (1) of section 7 of the CGST Act, read with S. No. 2 and S. No. 4 of Schedule I of CGST Act, supply of goods or services or both between related persons, when made in the course or furtherance of business, shall be treated as supply, even if made without consideration. Therefore, it is evident that the service of granting loan/ credit/ advances by an entity to its related entity is a supply under GST.
+
+2. Services by way of extending deposits, loans or advances in so far as the consideration is represented by way of interest or discount (other than
 
 ## Page 34
 
@@ -584,13 +609,12 @@ of the borrower's cash flow forecasts, the strength of the borrower's balance sh
 
 involved in granting such a loan.
 Therefore, it may not be desirable to place the services being provided for processing the loans by banks or independent lenders vis-a-vis the loans provided by a related party, on equal footing.
-6. Even in case of loans provided between unrelated parties, there may not be any processing fee/ administrative charges/ loan granting charges etc., based on the relationship between the bank/ independent lender and the person taking the loan. The lender might waive off the administrative charges in full, based on the nature and amount of loan granted, as well as based on the relationship between the lender and the concerned person taking the loan. 7. Accordingly, in the cases, where no consideration is charged by the person from the related person, or by an overseas affiliate from its Indian party, for extending loan or credit, other than by way of interest or discount, it cannot be said that any supply of service is being provided between the said related persons in the form of
+6. Even in case of loans provided between unrelated parties, there may not be any processing fee/ administrative charges/ loan granting charges etc., based on the relationship between the bank/ independent lender and the person taking the loan. The lender might waive off the administrative charges in full, based on the nature and amount of loan granted, as well as based on the relationship between the lender and the concerned person taking the loan. 7. Accordingly, in the cases, where no consideration is charged by the person from the related person, or by an overseas affiliate from its Indian party, for extending loan or credit, other than by way of interest or discount, it cannot be said that any supply of service is being provided between the said related persons in the form of rocessing/ facilitating/ administering the loan, by deeming the same as supply of services as per clause (c) of sub-section (1) of section 7 of the CGST Act, read with S. No. 2 and S. No. 4 of Schedule I of CGST Act. Accordingly, there is no question of levy of GST on the same by resorting to open market value for valuation of the same as per rule 28 of Central Goods and Services TaxRules, 2017.8. However, in cases of loans provided between related parties, wherever any fee in the nature of processing fee/ administrative charges/ service fee/ loan granting charges etc. is charged, over and above the amount charged by way of interest or discount, the same may be considered to be the consideration for the supply of services of processing/ facilitating/ administering of the loan, which will be liable to GST as supply of services by the lender to the related person availing the loan.
 
 ## Page 38
 
-![img-1.jpeg](page38_img-1.jpeg.png)
-3. It is requested that suitable trade notices may be issued to publicize the contents of this Circular.
-4. Difficulties, if any, in implementing this Circular may please be brought to the notice of the Board. Hindi version would follow. [F. No. CBIC-20001/4/2024-GST]
+- 3. It is requested that suitable trade notices may be issued to publicize the contents of this Circular.
+- 4. Difficulties, if any, in implementing this Circular may please be brought to the notice of the Board. Hindi version would follow. [F. No. CBIC-20001/4/2024-GST]
 
 ## Page 39
 
