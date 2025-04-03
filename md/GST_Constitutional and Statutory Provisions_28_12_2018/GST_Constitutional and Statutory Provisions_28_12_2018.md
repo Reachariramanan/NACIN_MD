@@ -112,7 +112,6 @@ Explanation.-For the purposes of this clause, supply of goods, or of services, o
 Table I
 
 | Union/State <br> List | Entry No. | Prior to Constitution (101 ${ }^{\text {st }}$ <br> amendment) Act, 2016 | After Constitution (101 ${ }^{\text {st }}$ amendment ) Act, <br> 2016 |
-| :--: | :--: | :--: | :--: |
 | Union List | Entry No. 84 | 84. Duties of excise on tobacco and other goods manufactured or produced in India except- <br> (a) alcoholic liquors for human consumption. <br> (b) opium, Indian hemp and other narcotic drugs and narcotics, but including medicinal and toilet preparations containing alcohol or any substance included in sub-paragraph (b) of this entry | 84. Duties of excise on the following goods manufactured or produced in India, namely: (a) petroleum crude; <br> (b) high speed diesel; <br> (c) motor spirit (commonly known as petrol); <br> (d) natural gas; <br> (e) aviation turbine fuel; and <br> (f) tobacco and tobacco products. |
 | Union List | Entry No. 92 | 92. Taxes on the sale or purchase of newspapers and on advertisements published therein | 92. Omitted |
 | Union List | Entry No. 92C | 92 C. Taxes on services. | 92C. Omitted |
@@ -154,30 +153,28 @@ Note: It may be noted that tobacco and tobacco products have been subjected to d
 
 Table-II
 
-| Sr. <br> No | Name of the Act | Name of the Duty | Sections repealed /Whole <br> Act repealed | Repealed by |
-| :-- | :-- | :-- | :-- | :-- |
-| 1. | Central Excise Act, 1944 | Central Excise Duty/ <br> CENVAT duty | Repealed except for five <br> petroleum commodities and <br> tobacco and Tobacco <br> products | CGST Act, 2017 |
-| 2 | The Finance Act, 1994 | Service Tax | Chapter V | CGST Act, 2017 |
-| 3. | The Medicinal and Toilet <br> Preparations (Excise Duties) <br> Act, 1955, | The Whole Act | CGST Act, 2017 |  |
-| 4. | The Additional Duties of <br> Excise (Goods of Special <br> Importance) Act, 1957 |  |  | CGST Act, 2017 |
-
-| 5 | The Additional Duties of Excise (Textiles and Textile Articles) Act, 1978 |  | The whole Act | CGST Act, 2017 |
-| :--: | :--: | :--: | :--: | :--: |
-| 6 | The Central Excise Tariff Act, 1985 |  | The whole Act | CGST Act, 2017 |
-| 3. | The Rubber Act, 1947 (24 of 1947) | Rubber Cess | Clause (b) of sub-section <br> (1) of section 9 and section <br> 12 (Repealed) | The Taxation Laws <br> (Amendment) Act, 2017 |
-| 4. | The Industries (Development and Regulation) Act, 1951 ( 65 of 1951) | Industries Cess on Scheduled Industries | Section 9 ( repealed) | The Taxation Laws ( Amendment) Act, 2017 |
-| 5. | The Tea Act, 1953 (29 of 1953) | Tea Cess | Clause (c) of section 3, sections 25 and 26 and clause (a) of sub-section (1) of section 27 | The Taxation Laws ( Amendment) Act, 2017 |
-| 6. | The Coal Mines (Conservation and Development) Act, 1974 (28 of 1974) | Coal Cess | Section 6, 7, and 8 | The Taxation Laws ( Amendment) Act, 2017 |
-| 7. | The Beedi Workers Welfare Cess Act, 1976 (56 of 1976) | Beedi Cess | The whole Act | The Taxation Laws ( Amendment) Act, 2017 |
-| 8. | The Water (Prevention and Control of Pollution) Cess Act, 1977 (36 of 1977) | Water Cess | The Whole Act | The Taxation Laws ( Amendment) Act, 2017 |
-| 9. | The Sugar Cess Act, 1982 (3 of 1982) | Sugar Cess | The whole Act | The Taxation Laws ( Amendment) Act, 2017 |
-| 10. | The Sugar Development Fund Act, 1982 (4 of 1982) |  | Sub-section (2) of section 3 | The Taxation Laws ( Amendment) Act, 2017 |
-| 11. | The Jute Manufacturers Cess Act, 1983 (28 of 1983) | Jute Cess imposed on manufactures of jute articles. | The whole Act | The Taxation Laws ( Amendment) Act, 2017 |
-| 12 | The Finance ( No. 2) Act, 2004 | Education Cess on excisable goods | Section 93 | The Taxation Laws ( Amendment) Act, 2017 <br> Note: Education Cess on imported goods has been imposed by Section 94 of the Finance Act, 2004. This section is still in existence. |
-| 13 | The Finance Act, 2007 | Secondary and Higher Education Cess on excisable goods | Section 138 | The Taxation Laws ( Amendment) Act, 2017. <br> Note: Secondary and Higher Education Cess is imposed by section 139 of the Finance Act, 2007. This section is still in existence. |
-| 14 | The Finance Act, 2010 | Clean Energy Cess (on goods falling on 27.01, 27.02 and 27.03) | Chapter VII | The Taxation Laws ( Amendment) Act, 2017 |
-| 15. | The Finance Act, 2015 | Swachh Bharat Cess (on all taxable services) | Chapter VI | The Taxation Laws (Amendment) Act, 2017 |
-| 16 | The Finance Act, 2016 | - Krishi Kalyan Cess ( on all taxable services) <br> - Infrastructure Cess ( on goods falling under 8703) | Chapter VI and VII | The Taxation Laws (Amendment) Act, 2017 |
+| Sr. No | Name of the Act                                                              | Name of the Duty                                           | Sections Repealed / Whole Act Repealed                                    | Repealed by                             |
+|--------|-----------------------------------------------------------------------------|------------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------|
+| 1      | Central Excise Act, 1944                                                    | Central Excise Duty / CENVAT duty                          | Repealed except for five petroleum commodities and tobacco products         | CGST Act, 2017                          |
+| 2      | The Finance Act, 1994                                                       | Service Tax                                                | Chapter V                                                                | CGST Act, 2017                          |
+| 3      | The Medicinal and Toilet Preparations (Excise Duties) Act, 1955              | The Whole Act                                              | The whole Act                                                            | CGST Act, 2017                          |
+| 4      | The Additional Duties of Excise (Goods of Special Importance) Act, 1957       |                                                            | The whole Act                                                            | CGST Act, 2017                          |
+| 5      | The Additional Duties of Excise (Textiles and Textile Articles) Act, 1978    |                                                            | The whole Act                                                            | CGST Act, 2017                          |
+| 6      | The Central Excise Tariff Act, 1985                                          |                                                            | The whole Act                                                            | CGST Act, 2017                          |
+| 7      | The Rubber Act, 1947 (24 of 1947)                                            | Rubber Cess                                                 | Clause (b) of sub-section (1) of section 9 and section 12 (repealed)      | The Taxation Laws (Amendment) Act, 2017  |
+| 8      | The Industries (Development and Regulation) Act, 1951 (65 of 1951)          | Industries Cess on Scheduled Industries                     | Section 9 (repealed)                                                     | The Taxation Laws (Amendment) Act, 2017  |
+| 9      | The Tea Act, 1953 (29 of 1953)                                               | Tea Cess                                                    | Clause (c) of section 3, sections 25 and 26 and clause (a) of sub-section (1) of section 27 | The Taxation Laws (Amendment) Act, 2017  |
+| 10     | The Coal Mines (Conservation and Development) Act, 1974 (28 of 1974)         | Coal Cess                                                   | Section 6, 7, and 8                                                      | The Taxation Laws (Amendment) Act, 2017  |
+| 11     | The Beedi Workers Welfare Cess Act, 1976 (56 of 1976)                        | Beedi Cess                                                  | The whole Act                                                            | The Taxation Laws (Amendment) Act, 2017  |
+| 12     | The Water (Prevention and Control of Pollution) Cess Act, 1977 (36 of 1977)  | Water Cess                                                  | The whole Act                                                            | The Taxation Laws (Amendment) Act, 2017  |
+| 13     | The Sugar Cess Act, 1982 (3 of 1982)                                         | Sugar Cess                                                  | The whole Act                                                            | The Taxation Laws (Amendment) Act, 2017  |
+| 14     | The Sugar Development Fund Act, 1982 (4 of 1982)                             |                                                            | Sub-section (2) of section 3                                              | The Taxation Laws (Amendment) Act, 2017  |
+| 15     | The Jute Manufacturers Cess Act, 1983 (28 of 1983)                           | Jute Cess imposed on manufactures of jute articles         | The whole Act                                                            | The Taxation Laws (Amendment) Act, 2017  |
+| 16     | The Finance (No. 2) Act, 2004                                                | Education Cess on excisable goods                          | Section 93                                                                | The Taxation Laws (Amendment) Act, 2017  |
+| 17     | The Finance Act, 2007                                                       | Secondary and Higher Education Cess on excisable goods     | Section 138                                                               | The Taxation Laws (Amendment) Act, 2017  |
+| 18     | The Finance Act, 2010                                                       | Clean Energy Cess (on goods falling on 27.01, 27.02, and 27.03) | Chapter VII                                                             | The Taxation Laws (Amendment) Act, 2017  |
+| 19     | The Finance Act, 2015                                                       | Swachh Bharat Cess (on all taxable services)               | Chapter VI                                                                | The Taxation Laws (Amendment) Act, 2017  |
+| 20     | The Finance Act, 2016                                                       | - Krishi Kalyan Cess (on all taxable services)             | Chapter VI and VII                                                       | The Taxation Laws (Amendment) Act, 2017  |
 
 Similar action has also been taken by each of the State in respect of duties/taxes which has been subsumed in GST.
 
