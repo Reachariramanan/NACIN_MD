@@ -1,10 +1,8 @@
-# Part 1 (from faq-on-gst_part1.pdf)
-
-
+# faq-on-gst
 
 ## Page 1
 
-# CENTRAL BOARD OF EXCISE \& CUSTOMS <br> NEW DELHI 
+# CENTRAL BOARD OF EXCISE \& CUSTOMS `<br>` NEW DELHI
 
 ## FREQUENTLY ASKED QUESTIONS (FAQs)
 
@@ -15,7 +13,7 @@ GOODS AND SERVICES TAX (GST)
 
 ## Page 2
 
-# FOREWORD 
+# FOREWORD
 
 The compilation of frequently asked questions on GST brought out by the apex training institute under the Central Board of Excise \& Customs (CBEC) the National Academy of Customs, Excise \& Narcotics (NACEN), has been extremely well received. These GST FAQs were released on $21^{\text {st }}$ September, 2016 by the Hon'ble Finance Minister and were based on the Model GST Law as on June, 2016. The GST FAQs were translated in many regional languages to ensure dissemination across the country.
 
@@ -27,7 +25,7 @@ Chairman, CBEC
 
 ## Page 3
 
-# Contents 
+# Contents
 
 1. Overview of Goods and Services Tax (GST) ..... 5
 2. Levy of and Exemption from Tax ..... 21
@@ -48,7 +46,7 @@ Chairman, CBEC
 17. Advance Ruling ..... 141
 18. Settlement Commission [Omitted] ..... 149
 19. Inspection, Search, Seizure and Arrest ..... 150
-20 Offences, Penalties, Prosecution and Compounding ..... 169
+    20 Offences, Penalties, Prosecution and Compounding ..... 169
 20. Overview of the IGST Act ..... 182
 21. Place of Supply of Goods and Service ..... 187
 22. GSTN and Frontend Business Process on GST Portal ..... 196
@@ -62,7 +60,7 @@ Reviewed by:S/Shri P.K. Mohanty, Consultant, CBEC (Chap. 1); Shri Vishal Pratap 
 
 Comments and Suggestions on FAQ may please be sent to dg.nacen-cbec@nic.in
 
-# Disclaimer: 
+# Disclaimer:
 
 This FAQ on GST compiled by NACEN and vetted by the Source Trainers is based on the CGST/SGST/UTGST/IGST Act(s). This FAQ is for training and academic purposes only.
 The information in this booklet is intended only to provide a general overview and is not intended to be treated as legal ad vice or opinion. For greater details, you are requested to refer to the respective CGST/SGST/UTGST/IGST Acts.
@@ -70,7 +68,7 @@ The FAQs refer to CGST and SGST Acts as CGST/SGST as CGST Act and SGST Act are i
 
 ## Page 5
 
-# 1. Overview of Goods and Services Tax (GST) 
+# 1. Overview of Goods and Services Tax (GST)
 
 ## Q 1. What is Goods and Services Tax (GST)?
 
@@ -109,7 +107,7 @@ i. State Surcharges and Cesses offar as they relate to supply of goods and servi
 
 The GST Council shall make recommendations to the Union and States on the taxes, cesses and surcharges levied by the Centre, the States and the local bodies which may be subsumed in the GST.
 
-# Q 4. What principles were adopted for subsuming the above taxes under GST? 
+# Q 4. What principles were adopted for subsuming the above taxes under GST?
 
 Ans. The various Central, State and Local levies were examined to identify their possibility of being subsumed under GST. While identifying, the following principles were kept in mind:
 (i) Taxes or levies to be subsumed should be primarily in the nature of indirect taxes, either on the supply of goods
@@ -121,7 +119,7 @@ or on the supply of services.
 (iii) The subsumation should result in free flow of tax credit in intra and inter-State levels. The taxes, levies and fees that are not specifically related to supply of goods \& services should not be subsumed under GST.
 (v) Revenue fairness for both the Union and the States individually would need to be attempted.
 
-# Q 5. Which are the commodities proposed to be kept outside the purview of GST? 
+# Q 5. Which are the commodities proposed to be kept outside the purview of GST?
 
 Ans. Article 366(12A) of the Constitution as amended by $101^{\text {st }}$ Constitutional Amendment Act, 2016 defines the Goods and Services tax (GST) as a tax on supply of goods or services or both, except supply of alcoholic liquor for human consumption. So alcohol for human consumption is kept out of GST by way of definition of GST on constitution. Five petroleum products viz. petroleum crude, motor spirit (petrol), high speed diesel, natural gas and aviation turbine fuel have temporarily been kept out and GST Council shall decide the date from which they shall be included in GST. Furthermore, electricity has been kept out of GST.
 
@@ -131,7 +129,7 @@ Ans. The existing taxation system (VAT \& Central Excise) will continue in respe
 
 ## Page 8
 
-# Q 7. What will be status of Tobacco and Tobacco products under the GST regime? 
+# Q 7. What will be status of Tobacco and Tobacco products under the GST regime?
 
 Ans. Tobacco and tobacco products would be subject to GST. In addition, the Centre would have the power to levy Central Excise duty on these products.
 
@@ -149,7 +147,7 @@ Ans. Centre will levy and administer CGST \& IGST while respective states /UTs w
 
 ## Page 9
 
-# Q 11. Why was the Constitution of India amended recently in the context of GST? 
+# Q 11. Why was the Constitution of India amended recently in the context of GST?
 
 Currently, the fiscal powers between the Centre and the States are clearly demarcated in the Constitution with almost no overlap between the respective domains. The Centre has the powers to levy tax on the manufacture of goods (except alcoholic liquor for human consumption, opium, narcotics etc.) while the States have the powers to levy tax on the sale of goods. In the case of inter-State sales, the Centre has the power to levy a tax (the Central Sales Tax) but, the tax is collected and retained entirely by the States. As for services, it is the Centre alone that is empowered to levy service tax.
 
@@ -171,7 +169,7 @@ Illustration II: Suppose, again hypothetically, that the rate of CGST is $10 \%$
 
 his purchase (say, of inputs such as stationery, office equipment, services of an artist etc.). But for paying CGST he would be allowed to use only the credit of CGST paid on its purchase while for SGST he can utilise the credit of SGST alone. In other words, CGST credit cannot, in general, be used for payment of SGST. Nor can SGST credit be used for payment of CGST.
 
-# Q 13. What are the benefits which the Country will accrue from GST? 
+# Q 13. What are the benefits which the Country will accrue from GST?
 
 Ans. Introduction of GST would be a very significant step in the field of indirect tax reforms in India. By amalgamating a large number of Central and State taxes into a single tax and allowing set-off of prior-stage taxes, it would mitigate the ill effects of cascading and pave the way for a common national market. For the consumers, the biggest gain would be in terms of a reduction in the overall tax burden on goods, which is currently estimated at $25 \%-30 \%$. Introduction of GST would also make our products competitive in the domestic and international markets. Studies show that this would instantly spur economic growth. There may also be revenue gain for the Centre and the States due to widening of the tax base, increase in trade volumes and improved tax compliance. Last but not the least, this tax, because of its transparent character, would be easier to administer.
 
@@ -183,7 +181,7 @@ Ans. Under the GST regime, an Integrated GST (IGST) would be levied and collecte
 
 the Goods and Services Tax Council.
 
-# Q 15. Who will decide rates for levy of GST? 
+# Q 15. Who will decide rates for levy of GST?
 
 Ans. The CGST and SGST would be levied at rates to be jointly decided by the Centre and States. The rates would be notified on the recommendations of the GST Council.
 
@@ -203,7 +201,7 @@ Ans. A GST Council would be constituted comprising the Union Finance Minister (w
 (viii) special provision with respect to the NorthEast States, J\&K, Himachal Pradesh and Uttarakhand; and
 (ix) any other matter relating to the GST, as the Council may decide.
 
-# Q 16. What is the guiding principle of GST Council? 
+# Q 16. What is the guiding principle of GST Council?
 
 Ans. The mechanism of GST Council would ensure harmonization on different aspects of GST between the Centre and the States as well as among States. It has been provided in the Constitution (one hundred and first amendment) Act, 2016 that the GST Council, in its discharge of various functions, shall be guided by the need for a harmonized structure of GST and for the development of a harmonized national market for goods and services.
 
@@ -219,7 +217,7 @@ Ans. Under the GST regime, tax is payable by the taxable person on the supply of
 
 pay tax arises when the taxable person crosses the turnover threshold of Rs. 20 lakhs (Rs. 10 lakhs for NE \& Special Category States) except in certain specified cases where the taxable person is liable to pay GST even though he has not crossed the threshold limit. The CGST / SGST is payable on all intra-State supply of goods and/or services and IGST is payable on all inter- State supply of goods and/or services. The CGST /SGST and IGST are payable at the rates specified in the Schedules to the respective Acts.
 
-# Q 19. What are the benefits available to small tax payers under the GST regime? 
+# Q 19. What are the benefits available to small tax payers under the GST regime?
 
 Ans. Tax payers with an aggregate turnover in a financial year up to [Rs. 20 lakhs \& Rs. 10 Lakhs for NE and special category states] would be exempt from tax. Further, a person whose aggregate turnover in the preceding financial year is less than Rs. 50 Lakhs can opt for a simplified composition scheme where tax will payable at a concessional rate on the turnover in a state.
 [Aggregate turnover shall include the aggregate value of all taxable supplies, exempt supplies and exports of goods and/or services and exclude taxes viz. GST.] Aggregate turnover shall be computed on all India basis. For NE States and special category states, the exemption threshold shall be [Rs. 10 lakhs]. All taxpayers eligible for threshold exemption will have the option of paying tax with input tax credit (ITC) benefits. Tax payers making inter-State supplies or paying tax on reverse charge basis shall not be eligible for threshold exemption.
@@ -234,7 +232,7 @@ Taxpayers whose turnover is above Rs. 1.5 crores but below Rs. 5 crores shall us
 
 Services will be classified as per the Services Accounting Code (SAC)
 
-# Q 21. How will imports be taxed under GST? 
+# Q 21. How will imports be taxed under GST?
 
 Ans. Imports of Goods and Services will be treated as inter-state supplies and IGST will be levied on import of goods and services into the country. The incidence of tax will follow the destination principle and the tax revenue in case of SGST will accrue to the State where the imported goods and services are consumed. Full and complete set-off will be available on the GST paid on import on goods and services.
 
@@ -251,7 +249,7 @@ Ans. Small taxpayers with an aggregate turnover in a preceding financial year up
 rate of tax for CGST and SGST/UTGST shall not be less than [1\% for manufacturer \& 0.5\% in other cases; 2.5\% for specific services as mentioned in para 6(b) of Schedule II viz Serving of food or any other article for human consumption]. A tax payer opting for composition levy shall not collect any tax from his customers. The government may increase the above said limit of 50 lakhs rupees to up to one crore rupees, on the recommendation of GST Council.
 Tax payers making inter- state supplies or making supplies through ecommerce operators who are required to collect tax at source shall not be eligible for composition scheme.
 
-# Q 24. Whether the composition scheme will be optional or compulsory? 
+# Q 24. Whether the composition scheme will be optional or compulsory?
 
 Ans. Optional.
 
@@ -263,7 +261,7 @@ Ans. GSTN stands for Goods and Service Tax Network (GSTN). A Special Purpose Veh
 
 The GSTN is developing a common GST portal and applications for registration, payment, return and MIS/ reports. The GSTN would also be integrating the common GST portal with the existing tax administration IT systems and would be building interfaces for tax payers. Further, the GSTN is developing back-end modules like assessment, audit, refund, appeal etc. for 19 States and UTs (Model II States). The CBEC and Model I States (15 States) are themselves developing their GST back-end systems. Integration of GST front-end system with back-end systems will have to be completed and tested well in advance for making the transition smooth.
 
-# Q 26. How are the disputes going to be resolved under the GST regime? 
+# Q 26. How are the disputes going to be resolved under the GST regime?
 
 Ans. The Constitution (one hundred and first amendment) Act, 2016 provides that the Goods and Services Tax Council shall establish a mechanism to adjudicate any dispute-
 (a) between the Government of India and one or more States; or
@@ -279,7 +277,7 @@ Ans. As per Section 149 of the CGST/SGST Act, every registered person shall be a
 
 based on the record of compliance in respect of specified parameters. Such ratings shall also be placed in the public domain. A prospective client will be able to see the compliance ratings of suppliers and take a decision as to whether to deal with a particular supplier or not. This will create healthy competition amongst taxable persons.
 
-# Q 28. Whether actionable claims liable to GST? 
+# Q 28. Whether actionable claims liable to GST?
 
 Ans. As per section 2(52) of the CGST/SGST Act actionable claims are to be considered as goods. Schedule III read with Section 7 of the CGST/SGST Act lists the activities or transactions which shall be treated neither as supply of goods nor supply of services. The Schedule lists actionable claims other than lottery, betting and gambling as one of such transactions. Thus only lottery, betting and gambling shall be treated as supplies under the GST regime. All the other actionable claims shall not be supplies.
 
@@ -295,7 +293,7 @@ Ans. Information return is based on the idea of verifying the compliance levels 
 
 details of transaction of goods or services or both or transactions related to a bank account or consumption of electricity or transaction of purchase, sale or exchange of goods or property or right or interest in a property under any law for the time being in force, are mandated to furnish an information return of the same in respect of such periods, within such time, in such form and manner and to such authority or agency as may be prescribed. Failure to do so may result in penalty being imposed as per Section 123.
 
-# Q 31. Different companies have different types of accounting software packages and no specific format are mandated for keeping records. How will department be able to read into these complex software? 
+# Q 31. Different companies have different types of accounting software packages and no specific format are mandated for keeping records. How will department be able to read into these complex software?
 
 Ans. As per Section 153 of the CGST/SGST Act, having regard to the nature and complexity of a case and in the interest of revenue, department may take assistance from an expert at any state of scrutiny, inquiry, investigation or any other proceedings.
 
@@ -307,13 +305,13 @@ Ans. Yes, Section 34 deals with such situations. Where the goods supplied are re
 
 reduction in claim for input tax credit by the recipient in his valid return for the same tax period or any subsequent tax period and the claim for reduction in output tax liability by the supplier that matches with the corresponding reduction in claim for ITC by the recipient shall be finally accepted and communicated to both parties.
 
-# Q 33. What is Anti-Profiteering measure? 
+# Q 33. What is Anti-Profiteering measure?
 
 Ans. As per section 171 of the CGST/SGST Act, any reduction in rate of tax on any supply of goods or services or the benefit of input tax credit shall be passed on to the recipient by way of commensurate reduction in prices. An authority may be constituted by the government to examine whether input tax credits availed by any registered person or the reduction in the tax rate have actually resulted in a commensurate reduction in the price of the goods or services or both supplied by him.
 
 ## Page 21
 
-# 2. Levy of and Exemption from Tax 
+# 2. Levy of and Exemption from Tax
 
 ## Q 1. Where is the power to levy GST derived from?
 
@@ -335,7 +333,7 @@ Ans. In order to be a supply which is taxable under GST, the transaction should 
 
 business. As there is no quid pro quo involved in supply for charitable activities, it is not a supply under GST.
 
-# Q 5. Who can notify a transaction to be supply of goods or services? 
+# Q 5. Who can notify a transaction to be supply of goods or services?
 
 Ans. Central Government or State Government, on the recommendations of the GST Council, can notify an activity to be the supply of goods and not supply of services or supply of services and not supply of goods or neither a supply of goods nor a supply of services.
 
@@ -346,7 +344,7 @@ Mixed supply is combination of more than one individual supplies of goods or ser
 
 ## Page 23
 
-# Q 7. What is the treatment of composite supply and mixed supply under GST? 
+# Q 7. What is the treatment of composite supply and mixed supply under GST?
 
 Ans. Composite supply shall be treated as supply of the principal supply. Mixed supply would be treated as supply of that particular goods or services which attracts the highest rate of tax.
 
@@ -366,7 +364,7 @@ Q 11. What will be the implications in case of
 
 ## Page 24
 
-# receipt of supply from unregistered persons? 
+# receipt of supply from unregistered persons?
 
 Ans. In case of receipt of supply from an unregistered person, the registered person who is receiving goods or services shall be liable to pay tax under reverse charge mechanism.
 
@@ -433,7 +431,7 @@ Q 23. What are the penal consequences if a person opts for the composition schem
 
 Ans. If a taxable person has paid tax under the composition scheme though he was not eligible for the scheme then the person would be liable to penalty and the provisions of section 73 or 74 shall be applicable for determination of tax and penalty.
 
-# Q 24. Does the GST Law empower the Government to exempt supplies from the levy of GST? 
+# Q 24. Does the GST Law empower the Government to exempt supplies from the levy of GST?
 
 Ans. Yes. In the public interest, the Central or the State Government can exempt either wholly or partly, on the recommendations of the GST council, the supplies of goods or services or both from the levy of GST either absolutely or subject to conditions. Further the Government can exempt, under circumstances of an exceptional nature, by special order any goods or services or both. It has also been provided in the SGST Act and UTGST Act that any exemption granted under CGST Act shall be deemed to be exemption under the said Act.
 
@@ -443,7 +441,7 @@ Ans. No, the person supplying exempted goods or services or both shall not colle
 
 ## Page 28
 
-# 3. Registration 
+# 3. Registration
 
 ## Q 1. What is advantage of taking registration in GST?
 
@@ -453,7 +451,6 @@ Ans. Registration under Goods and Service Tax (GST) regime will confer following
 - $\quad$ Proper accounting of taxes paid on the input goods or services which can be utilized for payment of GST due on supply of goods or services or both by the business.
 - $\quad$ Legally authorized to collect tax from his purchasers and pass on the credit of the taxes paid on the goods or services supplied to purchasers or recipients.
 - Getting eligible to avail various other benefits and privileges rendered under the GST laws.
-
 
 ## Q 2. Can a person without GST registration claim ITC and collect tax?
 
@@ -471,7 +468,7 @@ by the applicant after thirty days from the date of his becoming liable to regis
 
 In case of a person taking registration voluntarily while being within the threshold exemption limit for paying tax, the effective date of registration shall be the date of order of registration.
 
-# Q 4. Who are the persons liable to take a Registration under the Model GST Law? 
+# Q 4. Who are the persons liable to take a Registration under the Model GST Law?
 
 Ans. As per Section 22 of the CGST/SGST Act 2017, every supplier (including his agent) who makes a taxable supply i.e. supply of goods and / or services which are leviable to tax under GST law, and his aggregate turn over in a financial year exceeds the threshold limit of twenty lakh rupees shall be liable to register himself in the State or the Union territory of Delhi or Puducherry from where he makes the taxable supply.
 
@@ -497,7 +494,7 @@ Aggregate turnover does not include value of supplies on which tax is levied on 
 
 The value of goods after completion of job work is not includible in the turnover of the job-worker. It will be treated as supply of goods by the principal and will accordingly be includible in the turnover of the Principal.
 
-# Q 6. Which are the cases in which registration is compulsory? 
+# Q 6. Which are the cases in which registration is compulsory?
 
 Ans. As per Section 24 of the CGST/SGST Act, the following categories of persons shall be required to be registered compulsorily irrespective of the threshold limit:
 i) persons making any inter-State taxable supply;
@@ -516,7 +513,7 @@ x) every electronic commerce operator
 xi) every person supplying online information and data base retrieval services from a place outside India to a person in India, other than a registered person; and,
 xii) such other person or class of persons as may be notified by the Central Government or a State Government on the recommendations of the Council.
 
-# Q 7. What is the time limit for taking a Registration under GST? 
+# Q 7. What is the time limit for taking a Registration under GST?
 
 Ans. A person should take a Registration, within thirty days from the date on which he becomes liable to registration, in such manner and subject to such conditions as is prescribed under the Registration Rules. A Casual Taxable person and a non-resident taxable person should however apply for registration at least 5 days prior to commencement of business.
 
@@ -524,7 +521,7 @@ Q 8. If a person is operating in different states, with the same PAN number, whe
 
 ## Page 32
 
-# with a single Registration? 
+# with a single Registration?
 
 Ans. No. Every person who is liable to take a Registration will have to get registered separately for each of the States where he has a business operation and is liable to pay GST in terms of Sub-section (1) of Section 22 of the CGST/SGST Act.
 
@@ -548,7 +545,7 @@ However as per the proviso to the aforesaid section 25(6), a person required to 
 
 Also, as per Section 25(7) PAN is not mandatory for a nonresident taxable person who may be granted registration on the basis of any other document as maybe prescribed.
 
-# Q 12. Whether the Department through the proper officer, can suo-moto proceed to register of a Person under this Act? 
+# Q 12. Whether the Department through the proper officer, can suo-moto proceed to register of a Person under this Act?
 
 Ans. Yes. In terms of sub-section (8) of Section 25, where a person who is liable to be registered under this Act fails to obtain registration, the proper officer may, without prejudice to any action which may be taken under this Act, or under any other law for the time being in force, proceed to register such person in the manner as is prescribed in the Registration rules.
 
@@ -558,7 +555,7 @@ Ans. Yes. In terms of sub-section 10 of section 25 of the CGST/SGST Act, the pro
 
 ## Page 34
 
-# Q 14. Whether the Registration granted to any person is permanent? 
+# Q 14. Whether the Registration granted to any person is permanent?
 
 Ans. Yes, the registration Certificate once granted is permanent unless surrendered, cancelled, suspended or revoked.
 
@@ -572,7 +569,7 @@ Ans. The taxable supplier supplying to these organizations is expected to mentio
 
 ## Page 35
 
-# Q 17. Is it necessary for the Govt. Organization to get registration? 
+# Q 17. Is it necessary for the Govt. Organization to get registration?
 
 Ans. A unique identification number (ID) would be given by the respective state tax authorities through GST portal to Government authorities / PSUs not making outwards supplies of GST goods (and thus not liable to obtain GST registration) but are making inter-state purchases.
 
@@ -586,7 +583,7 @@ Ans. In terms of Section 2(77) of the CGST/SGST Act, a nonresident taxable perso
 
 ## Page 36
 
-# Q 20. What is the validity period of the Registration certificate issued to a Casual Taxable Person and non- Resident Taxable person? 
+# Q 20. What is the validity period of the Registration certificate issued to a Casual Taxable Person and non- Resident Taxable person?
 
 Ans. In terms of Section 27(1) read with proviso thereto, the certificate of registration issued to a "casual taxable person" or a "non-resident taxable person" shall be valid for a period specified in the application for registration or ninety days from the effective date of registration, whichever is earlier. However, the proper officer, at the request of the said taxable person, may extend the validity of the aforesaid period of ninety days by a further period not exceeding ninety days.
 
@@ -598,7 +595,7 @@ Q 22. Whether Amendments to the Registration
 
 ## Page 37
 
-# Certificate is permissible? 
+# Certificate is permissible?
 
 Ans. Yes. In terms of Section 28, the proper officer may, on the basis of such information furnished either by the registrant or as ascertained by him, approve or reject amendments in the registration particulars within a period of 15 common working days from the date of receipt of application for amendment.
 
@@ -612,7 +609,7 @@ Q 24. Whether cancellation of Registration under
 
 ## Page 38
 
-# CGST Act means cancellation under SGST Act also? 
+# CGST Act means cancellation under SGST Act also?
 
 Ans. Yes, the cancellation of registration under one Act (say CGST Act) shall be deemed to be a cancellation of registration under the other Act (i.e. SGST Act). (Section 29 (4))
 
@@ -634,7 +631,7 @@ Q 28. If the taxpayer has different business verticals in one state, will he hav
 
 Ans. No, however the taxpayer has the option to register such separate business verticals independently in terms of the proviso to Section 25(2) of the CGTST Act, 2017.
 
-# Q 29. Who is an ISD? 
+# Q 29. Who is an ISD?
 
 Ans. ISD stands for Input Service Distributor and has been defined under Section 2(61) of the CGST/SGST Act. It is basically an office meant to receive tax invoices towards receipt of input services and further distribute the credit to supplier units (having the same PAN) proportionately.
 
@@ -666,7 +663,7 @@ Q 35. Whether the goods will be permitted to be
 
 ## Page 41
 
-# supplied from the place of business of a job worker? 
+# supplied from the place of business of a job worker?
 
 Ans. Yes. But only in cases where the job worker is registered, or if not, the principal declares the place of business of the job worker as his additional place of business.
 
@@ -685,7 +682,7 @@ Tax Return Preparer(TRP): A taxable person may prepare his registration applicat
 be liable for any errors or incorrect information.
 Facilitation Centre (FC): shall be responsible for the digitization and/or uploading of the forms and documents including summary sheet duly signed by the Authorized Signatory and given to it by the taxable person. After uploading the data on common portal using the ID and Password of FC, a print-out of acknowledgement will be taken and signed by the FC and handed over to the taxable person for his records. The FC will scan and upload the summary sheet duly signed by the Authorized Signatory.
 
-# Q 38. Is there any facility for digital signature in the GSTN registration? 
+# Q 38. Is there any facility for digital signature in the GSTN registration?
 
 Ans. Tax payers would have the option to sign the submitted application using valid digital signatures. There will be two options for electronically signing the application or other submissions- by e-signing through Aadhar number, or through DSC i.e. by registering the tax payer's digital signature certificate with GST portal. However, companies or limited liability partnership entities will have to sign mandatorily through DSC only. Only level 2 and level 3 DSC certificates will be acceptable for signature purpose.
 
@@ -703,7 +700,7 @@ Ans. If during the process of verification, one of the tax authorities raises so
 
 On receipt of additional document or clarification, the relevant tax authority will respond within seven common working days from the date of receipt of clarification.
 
-# Q 41. What is the process of refusal of registration? 
+# Q 41. What is the process of refusal of registration?
 
 Ans. In case registration is refused, the applicant will be informed about the reasons for such refusal through a
 
@@ -711,7 +708,7 @@ Ans. In case registration is refused, the applicant will be informed about the r
 
 speaking order. The applicant shall have the right to appeal against the decision of the Authority. As per sub-section (2) of section 26 of the CGST Act, any rejection of application for registration by one authority (i.e. under the CGST Act / SGST Act) shall be deemed to be a rejection of application for registration by the other tax authority (i.e. under the SGST Act / UTGST Act/ CGST Act).
 
-# Q 42. Will there be any communication related to the application disposal? 
+# Q 42. Will there be any communication related to the application disposal?
 
 Ans. The applicant shall be informed of the fact of grant or rejection of his registration application through an e-mail and SMS by the GST common portal. Jurisdictional details would be intimated to the applicant at this stage.
 
@@ -727,7 +724,7 @@ Ans. Yes, but only in cases where the initial cancellation has been done by the 
 
 revocation of cancellation or receipt of information/clarification, either revoke the cancellation or reject the application for revocation of cancellation of registration.
 
-# Q 45. Does cancellation of registration impose any tax obligations on the person whose registration is so cancelled? 
+# Q 45. Does cancellation of registration impose any tax obligations on the person whose registration is so cancelled?
 
 Ans. Yes, as per Section 29(5) of the CGST/SGST Act, every registered taxable person whose registration is cancelled shall pay an amount, by way of debit in the electronic cash ledger, equivalent to the credit of input tax in respect of inputs held in stock and inputs contained in semi-finished or finished goods held in stock or capital goods or plant and machinery on the day immediately preceding the date of such cancellation or the output tax payable on such goods, whichever is higher.
 
@@ -735,22 +732,22 @@ Ans. Yes, as per Section 29(5) of the CGST/SGST Act, every registered taxable pe
 
 Ans. Casual and Non-resident taxable persons are separately defined in the CGST/SGST Act in Sections 2(20) and 2(77) respectively. Some of the differences are outlined below:
 
-| Casual Taxable Person | Non-resident Taxable <br> Person |
-| :-- | :-- |
-| Occasional undertakes <br> transactions involving supply <br> of goods or services in a state <br> or UT where he has no fixed <br> place of business. | Occasional undertakes <br> transactions involving <br> supply of goods or <br> services but has no <br> fixed place of business <br> residence in India. |
+| Casual Taxable Person                                                                                                                                                 | Non-resident Taxable`<br>` Person                                                                                                                                         |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Occasional undertakes`<br>` transactions involving supply `<br>` of goods or services in a state `<br>` or UT where he has no fixed `<br>` place of business. | Occasional undertakes`<br>` transactions involving `<br>` supply of goods or `<br>` services but has no `<br>` fixed place of business `<br>` residence in India. |
 
 ## Page 46
 
-| Has a PAN Number | Do not have a PAN <br> Number; A non- <br> resident person, if <br> having PAN number <br> may take registration <br> as a casual taxable <br> person |
-| :-- | :-- |
-| Same application form for <br> registration as for normal <br> taxable persons viz GST REG- <br> 01 | Separate application <br> form for registration by <br> non-resident taxable <br> person viz GST REG-10 |
-| Has to undertake <br> transactions in the course or <br> furtherance of business | Business test absent in <br> the definition |
-| Has to file normal GSTR-1, <br> GSTR-2 and GSTR-3 returns | Has to file a separate <br> simplified return in the <br> format GSTR-5 |
-| Can claim ITC of all inward <br> supplies | Can get ITC only in <br> respect of import of <br> goods and /or services. |
+| Has a PAN Number                                                                                               | Do not have a PAN`<br>` Number; A non- `<br>` resident person, if `<br>` having PAN number `<br>` may take registration `<br>` as a casual taxable `<br>` person |
+| :------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Same application form for`<br>` registration as for normal `<br>` taxable persons viz GST REG- `<br>` 01 | Separate application`<br>` form for registration by `<br>` non-resident taxable `<br>` person viz GST REG-10                                                           |
+| Has to undertake`<br>` transactions in the course or `<br>` furtherance of business                        | Business test absent in`<br>` the definition                                                                                                                               |
+| Has to file normal GSTR-1,`<br>` GSTR-2 and GSTR-3 returns                                                   | Has to file a separate`<br>` simplified return in the `<br>` format GSTR-5                                                                                               |
+| Can claim ITC of all inward`<br>` supplies                                                                   | Can get ITC only in`<br>` respect of import of `<br>` goods and /or services.                                                                                            |
 
 ## Page 47
 
-# 4. Meaning and Scope of Supply 
+# 4. Meaning and Scope of Supply
 
 ## Q 1. Q 1. What is the taxable event under GST?
 
@@ -781,7 +778,7 @@ Q 5. Can a transaction in which any one or more of the above criteria is not ful
 
 Ans. Yes. Under certain circumstances such as import of services for a consideration whether or not in the course or furtherance of business (Section 3(1) (b)) or supplies made without consideration, specified under Schedule-I of CGST /SGST Act, where one or more ingredients specified in answer to question no. 4 are not satisfied, it shall still be treated as supply for levy of GST.
 
-# Q 6. Import of Goods is conspicuous by its absence in Section 3. Why? 
+# Q 6. Import of Goods is conspicuous by its absence in Section 3. Why?
 
 Ans. Import of goods is dealt separately under the Customs Act, 1962, wherein IGST shall be levied as additional duty of customs in addition to basic customs duty under the Customs Tariff Act, 1975.
 
@@ -797,7 +794,7 @@ Q 8. Whether transfer of title and/or possession is necessary for a transaction 
 
 Ans. Title as well as possession both have to be transferred for a transaction to be considered as a supply of goods. In case title is not transferred, the transaction would be treated as supply of service in terms of Schedule II (1) (b). In some cases, possession may be transferred immediately but title may be transferred at a future date like in case of sale on approval basis or hire purchase arrangement. Such transactions will also be termed as supply of goods.
 
-# Q 9. What do you mean by "supply made in the course or furtherance of business"? 
+# Q 9. What do you mean by "supply made in the course or furtherance of business"?
 
 Ans. "Business" is defined under Section 2(17) include any trade, commerce, manufacture, profession, vocation etc. whether or not undertaken for a pecuniary benefit. Business also includes any activity or transaction which is incidental or ancillary to the aforementioned listed activities. In addition, any activity undertaken by the Central Govt. or a State Govt. or any local authority in which they are engaged as public authority shall also be construed as business. From the above, it may be noted that any activity undertaken included in the definition for furtherance or promoting of a business could constitute a supply under GST law.
 
@@ -805,7 +802,7 @@ Q 10. An individual buys a car for personal use and after a year sells it to a c
 
 ## Page 50
 
-# transaction be a supply in terms of CGST/SGST Act? Give reasons for the answer. 
+# transaction be a supply in terms of CGST/SGST Act? Give reasons for the answer.
 
 Ans. No, because supply is not made by the individual in the course or furtherance of business. Further, no input tax credit was admissible on such car at the time of its acquisition as it was meant for non-business use.
 
@@ -846,7 +843,7 @@ Ans. Supply of goods on hire purchase shall be treated
 
 as supply of goods as there is transfer of title, albeit at a future date.
 
-# Q 19. What is a Composite Supply under CGST/ SGST/UTGST Act? 
+# Q 19. What is a Composite Supply under CGST/ SGST/UTGST Act?
 
 Ans. Composite Supply means a supply made by a taxable person to a recipient comprising two or more supplies of goods or services, or any combination thereof, which are naturally bundled and supplied in conjunction with each other in the ordinary course of business, one of which is a principal supply. For example, where goods are packed and transported with insurance, the supply of goods, packing materials, transport and insurance is a composite supply and supply of goods is the principal supply.
 
@@ -860,7 +857,7 @@ Ans. Mixed Supply means two or more individual supplies of goods or services or 
 
 ## Page 53
 
-# Q 22. How will tax liability on a mixed supply be determined under GST? 
+# Q 22. How will tax liability on a mixed supply be determined under GST?
 
 Ans. A mixed supply comprising two or more supplies shall be treated as supply of that particular supply which attracts the highest rate of tax.
 
@@ -882,7 +879,7 @@ in terms of Section 3. However, import of services by a taxable person from a re
 
 ## Page 55
 
-# 5. Time of Supply 
+# 5. Time of Supply
 
 ## Q 1. What is time of supply?
 
@@ -908,7 +905,7 @@ Ans. There is a residual entry in Section 12(5) as well as 13 (5) which says tha
 
 be the time of supply. In other cases, it will be the date on which the CGST/SGST/IGST is actually paid.
 
-# Q 5. What does "date of receipt of payment" mean? 
+# Q 5. What does "date of receipt of payment" mean?
 
 Ans. It is the earliest of the date on which the payment is entered in the books of accounts of the supplier or the date on which the payment is credited to his bank account.
 
@@ -949,7 +946,7 @@ Ans. In such cases time of supply will be
 
 (iii) where the payment is received before the change in rate of tax, but the invoice for the same has been issued after the change in rate of tax, the time of supply shall be the date of receipt of payment;
 
-# Q 12. What is the time of supply, where supply is completed after to change in rate of tax? 
+# Q 12. What is the time of supply, where supply is completed after to change in rate of tax?
 
 Ans. In such cases time of supply will be
 (i) where the payment is received after the change in rate of tax but the invoice has been issued prior to the change in rate of tax, the time of supply shall be the date of receipt of payment; or
@@ -968,7 +965,7 @@ applicable when goods are supplied and invoice issued after change in rate in Ju
 
 Ans. The new rate of 20\% shall be applicable as goods are supplied and invoice issued after 1.6.2017
 
-# Q 15. What is the time period within which invoice has to be issued for supply of Goods? 
+# Q 15. What is the time period within which invoice has to be issued for supply of Goods?
 
 Ans. As per Section 28 of CGST/SGST Act a registered taxable person shall issue a tax invoice showing description, quantity and value of goods, tax charged thereon and other prescribed particulars, before or at the time of
 (a) removal of goods for supply to the recipient, where supply involves movement of goods or
@@ -986,7 +983,7 @@ Ans. In case of continuous supply of goods, where
 
 successive statements of accounts or successive payments are involved, the invoice shall be issued before or at the time each such statement is issued or, as the case may be, each such payment is received.
 
-# Q 18. What is the time period within which invoice has to be issued in a case involving continuous supply of services? 
+# Q 18. What is the time period within which invoice has to be issued in a case involving continuous supply of services?
 
 Ans. In case of continuous supply of services,
 (a) where the due date of payment is ascertainable from the contract, the invoice shall be issued before or after the payment is liable to be made by the recipient but within a period prescribed in this behalf whether or not any payment has been received by the supplier of the service;
@@ -999,7 +996,7 @@ Ans. The invoice in respect of goods sent or taken on approval for sale or retur
 
 ## Page 61
 
-# 6. Valuation in GST 
+# 6. Valuation in GST
 
 ## Q 1. What is the value of taxable supply to be adopted for the levy of GST?
 
@@ -1019,7 +1016,7 @@ Ans. Contract price is more specifically referred to as 'transaction value' and 
 
 ## Page 62
 
-# Q 5. Is reference to GST Valuation Rules required in all cases? 
+# Q 5. Is reference to GST Valuation Rules required in all cases?
 
 Ans. No. Reference to GST Valuation Rules is required only in cases where value cannot be determined under subsection (1) of Section 15.
 
@@ -1043,7 +1040,7 @@ Ans. Valuation Rules are applicable when (i) consideration either wholly or in p
 
 (iii) transaction value declared is not reliable.
 
-# Q 10. What are the inclusions specified in Section 15(2) which could be added to Transaction Value? 
+# Q 10. What are the inclusions specified in Section 15(2) which could be added to Transaction Value?
 
 Ans. The inclusions specified in Section15 (2) which could be added to transaction value are as follows:
 a) Any taxes, duties, cesses, fees and charges levied under any statute, other than the SGST/CGST Act and the Goods and Services Tax (Compensation to the States for Loss of Revenue) Act, 2016, if charged separately by the supplier to the recipient;
@@ -1054,7 +1051,7 @@ e) Subsidies directly linked to the price excluding subsidies provided by the Ce
 
 ## Page 64
 
-# 7. GST Payment of Tax 
+# 7. GST Payment of Tax
 
 ## Q 1. What are the Payments to be made in GST regime?
 
@@ -1066,7 +1063,7 @@ Ans. In general, the supplier of goods or services is liable to pay GST. However
 
 ## Page 65
 
-# Q 3. When does liability to pay GST arises? 
+# Q 3. When does liability to pay GST arises?
 
 Ans. Liability to pay arises at the time of supply of Goods as explained in Section 12 and at the time of supply of services as explained in Section13.
 
@@ -1089,7 +1086,7 @@ Ans. The payment processes under GST Act(s) have the following features:
 
 ## Page 66
 
-# Q 5. How can payment be done? 
+# Q 5. How can payment be done?
 
 Ans. Payment can be done by the following methods:
 (i) Through debit of Credit Ledger of the tax payer maintained on the Common Portal - ONLY Tax can be paid. Interest, Penalty and Fees cannot be paid by debit in the credit ledger. Tax payers shall be allowed to take credit of taxes paid on inputs (input tax credit) and utilize the same for payment of output tax. However, no input tax credit on account of CGST shall be utilized towards payment of SGST and vice versa. The credit of IGST would be permitted to be utilized for payment of IGST, CGST and SGST in that order.
@@ -1103,7 +1100,7 @@ Ans. Payment of taxes by the normal tax payer is to be done on monthly basis by 
 
 quarterly basis.
 
-# Q 7. Whether time limit for payment of tax can be extended or paid in monthly installments? 
+# Q 7. Whether time limit for payment of tax can be extended or paid in monthly installments?
 
 Ans. No, this is not permitted in case of self-assessed liability. In other cases, competent authority has been empowered to extend the time period or allow payment in instalments. (Section 80 of the CGST/SGST Act).
 
@@ -1117,7 +1114,7 @@ Ans. It is the date of credit to the Government account.
 
 ## Page 68
 
-# Q 10. What are E-Ledgers? 
+# Q 10. What are E-Ledgers?
 
 Ans. Electronic Ledgers or E-Ledgers are statements of cash and input tax credit in respect of each registered taxpayer. In addition, each taxpayer shall also have an electronic tax liability register. Once a taxpayer is registered on Common Portal (GSTN), two e-ledgers (Cash \&Input Tax Credit ledger) and an electronic tax liability register will be automatically opened and displayed on his dash board at all times.
 
@@ -1139,7 +1136,7 @@ Ans. Input Tax Credit as self-assessed in monthly returns will be reflected in t
 
 Ans. There will be real time two-way linkage between the GSTN and the Core Banking Solution (CBS) of the Bank. CPIN is automatically routed to the Bank via electronic string for verification and receiving payment and a challan identification number (CIN) is automatically sent by the Bank to the Common Portal confirming payment receipt. No manual intervention will be involved in the process by any one including bank cashier or teller or the tax payer.
 
-# Q 15. Can a tax payer generate challan in multiple sittings? 
+# Q 15. Can a tax payer generate challan in multiple sittings?
 
 Ans. Yes, a taxpayer can partially fill in the challan form and temporarily "save" the challan for completion at a later stage. A saved challan can be "edited" before finalization. After the tax payer has finalized the challan, he will generate the challan, for use of payment of taxes. The remitter will have option of printing the challan for his record.
 
@@ -1149,7 +1146,7 @@ Ans. No. After logging into GSTN portal for generation of challan, payment parti
 
 ## Page 70
 
-# Q 17. Is there a validity period of challan? 
+# Q 17. Is there a validity period of challan?
 
 Ans. Yes, a challan will be valid for fifteen days after its generation and thereafter it will be purged from the System. However, the tax payer can generate another challan at his convenience.
 
@@ -1169,7 +1166,7 @@ Ans. Section 49(8) prescribes an order of payment where the taxpayer has tax lia
 
 dues for the current period; and thereafter any other amounts payable including any confirmed demands under section 73 or 74 . This sequence has to be mandatorily followed.
 
-# Q 21. What does the expression "Other dues" referred to above mean? 
+# Q 21. What does the expression "Other dues" referred to above mean?
 
 Ans. The expression "other dues" means interest, penalty, fee or any other amount payable under the Act or the rules made thereunder.
 
@@ -1187,7 +1184,7 @@ Ans. TDS stands for Tax Deducted at Source (TDS). As per section 51, this provis
 
 payments under such contracts, the concerned Government/authority shall deduct $1 \%$ of the total payment made and remit it into the appropriate GST account.
 
-# Q 24. How will the Supplier account for this TDS? while filing his return? 
+# Q 24. How will the Supplier account for this TDS? while filing his return?
 
 Ans. Any amount shown as TDS will be reflected in the electronic cash ledger of the concerned supplier. He can utilize this amount towards discharging his liability towards tax, interest fees and any other amount.
 
@@ -1208,7 +1205,7 @@ Ans. This provision is applicable only for E-Commerce Operator under section 52 
 
 withhold an amount calculated at the rate not exceeding one percent of the "net value of taxable supplies" made through it where the consideration with respect to such supplies is to be collected by the operator. Such withheld amount is to be deposited by such E-Commerce Operator to the appropriate GST account by the 10th of the next month. The amount deposited as TCS will be reflected in the electronic cash ledger of the supplier.
 
-# Q 27. What does the expression "Net value of taxable supplies" mean? 
+# Q 27. What does the expression "Net value of taxable supplies" mean?
 
 Ans. The expression "net value of taxable supplies" means the aggregate value of taxable supplies of goods or services, other than services notified under Section 9(5), made during any month by all registered taxable persons through the operator reduced by the aggregate value of taxable supplies returned to the suppliers during the said month.
 
@@ -1218,7 +1215,7 @@ Ans. Yes. The taxpayer would be required to pre-register his credit card, from w
 
 ## Page 74
 
-# 8. Electronic Commerce 
+# 8. Electronic Commerce
 
 ## Q 1. What is Electronic Commerce?
 
@@ -1242,7 +1239,7 @@ Q 5. Will an e-commerce operator be liable to pay tax in respect of supply of go
 
 Ans. Yes, but only in case of certain notified services. In such cases tax shall be paid by the electronic commerce operator if such services are supplied through it and all the provisions of the Act shall apply to such electronic commerce operator as if he is the person liable to pay tax in relation to supply of such services.
 
-# Q 6. Will threshold exemption be available to electronic commerce operators liable to pay tax on notified services? 
+# Q 6. Will threshold exemption be available to electronic commerce operators liable to pay tax on notified services?
 
 Ans. No. Threshold exemption is not available to ecommerce operator who are require to pay tax on notified services provided through them.
 
@@ -1256,7 +1253,7 @@ Ans. An e-commerce company is required to collect tax only on the net value of t
 
 ## Page 76
 
-# Q 9. What is meant by "net value of taxable supplies"? 
+# Q 9. What is meant by "net value of taxable supplies"?
 
 Ans. The "net value of taxable supplies" means the aggregate value of taxable supplies of goods or services or both, other than the services on which entire tax is payable by the e-commerce operator, made during any month by all registered persons through such operator reduced by the aggregate value of taxable supplies returned to the suppliers during the said month.
 
@@ -1278,7 +1275,7 @@ Ans. The amount collected by the operator is to be paid to appropriate governmen
 
 Ans. The amount of TCS deposited by the operator with the appropriate government will be reflected in the cash ledger of the actual registered supplier (on whose account such collection has been made) on the basis of the statement filed by the operator. The same can be used at the time of discharge of tax liability in respect of the supplies by the actual supplier.
 
-# Q 14. Is the e-commerce operator required to submit any statement? What are the details that are required to be submitted in the statement? 
+# Q 14. Is the e-commerce operator required to submit any statement? What are the details that are required to be submitted in the statement?
 
 Ans. Yes, every operator is required to furnish a statement, electronically, containing the details of outward supplies of goods or services effected through it, including the supplies of goods or services returned through it, and the amount collected by it as TCS during a month within ten days after the end of such month. The operator is also required to file an annual statement by 31st day of December following the end of the financial year in which the tax was collected.
 
@@ -1290,7 +1287,7 @@ Ans. The details of supplies and the amount collected during a calendar month, a
 
 the discrepancy shall be communicated to both persons.
 
-# Q 16. What will happen if the details remain mismatched? 
+# Q 16. What will happen if the details remain mismatched?
 
 Ans. The value of a supply relating to any payment in respect of which any discrepancy is communicated and which is not rectified by the supplier in his valid return for the month in which discrepancy is communicated shall be added to the output liability of the said supplier, for the calendar month succeeding the calendar month in which the discrepancy is communicated. The concerned supplier shall, in whose output tax liability any amount has been added shall be liable to pay the tax payable in respect of such supply along with interest on the amount so added from the date such tax was due till the date of its payment.
 
@@ -1300,7 +1297,7 @@ Ans. Any authority not below the rank of Deputy Commissioner may issue a notice 
 
 ## Page 79
 
-# 9. Job Work 
+# 9. Job Work
 
 ## Q 1. Q 1. What is job work?
 
@@ -1314,7 +1311,7 @@ Ans. It will be treated as a supply as supply includes all forms of supply such 
 
 ## Page 80
 
-# Q 3. Is a job worker required to take registration? 
+# Q 3. Is a job worker required to take registration?
 
 Ans. Yes, as job work is a service, the job worker would be required to obtain registration if his aggregate turnover exceeds the prescribed threshold.
 
@@ -1350,7 +1347,7 @@ Ans. If the inputs or capital goods are not received back by the principal or ar
 
 business of job worker within the prescribed time limit, it would be deemed that such inputs or capital goods had been supplied by the principal to the job worker on the day when the said inputs or capital goods were sent out by the principal (or on the date of receipt by the job worker where the inputs or capital goods were sent directly to the place of business of job worker). Thus the principal would be liable to pay tax accordingly.
 
-# Q 10. Some capital goods like jigs and fixtures are non-usable after their use and normally sold as scrap. What is the treatment of such items in job work provisions? 
+# Q 10. Some capital goods like jigs and fixtures are non-usable after their use and normally sold as scrap. What is the treatment of such items in job work provisions?
 
 Ans. The condition of bringing back capital goods within three years is not applicable to moulds, dies, jigs and fixtures or tools.
 
@@ -1364,7 +1361,7 @@ Ans. Yes. The term inputs, for the purpose of job work, includes intermediate go
 
 ## Page 83
 
-# Q 13. Who is responsible for the maintenance of proper accounts related to job work? 
+# Q 13. Who is responsible for the maintenance of proper accounts related to job work?
 
 Ans. It is completely the responsibility of the principal to maintain proper accounts of job work related inputs and capital goods.
 
@@ -1382,7 +1379,7 @@ Ans. No this is not necessary as provisions relating to job work have been adopt
 
 ## Page 84
 
-# 10. Input Tax Credit 
+# 10. Input Tax Credit
 
 ## Q 1. What is input tax?
 
@@ -1426,7 +1423,7 @@ Ans. The amount of ITC would be added to output tax liability
 
 of the person. He would also be required to pay interest. However, he can take ITC again on payment of consideration and tax.
 
-# Q 9. Who will get the ITC where goods have been delivered to a person other than taxable person ('bill to'- 'ship to 'scenarios)? 
+# Q 9. Who will get the ITC where goods have been delivered to a person other than taxable person ('bill to'- 'ship to 'scenarios)?
 
 Ans. It would be deemed that the registered person has received the goods when the goods have been delivered to a third party on the direction of such taxable person. So ITC will be available to the person on whose order the goods are delivered to third person.
 
@@ -1442,7 +1439,7 @@ Q 11. Where the registered taxable person has claimed depreciation on the tax co
 
 Ans. The input tax credit shall not be allowed on the said tax component in respect of which depreciation has been claimed.
 
-# Q 12. Is credit of tax paid on every input used for supply of taxable goods or services or both is allowed under GST? 
+# Q 12. Is credit of tax paid on every input used for supply of taxable goods or services or both is allowed under GST?
 
 Ans. Yes, except a small list of items provided in the law, the credit is admissible on all items. The list covers mainly items of personal consumption, inputs use of which results into formation of an immovable property (except plant and machinery), telecommunication towers, pipelines laid outside the factory premises, etc. and taxes paid as a result of detection of evasion of taxes.
 
@@ -1460,7 +1457,7 @@ Ans. No, a person cannot take ITC with respect to goods lost, stolen, destroyed 
 
 Ans. No. ITC on goods or services by a person for construction of immovable property, other than plant and machinery, is not allowed. Plant and machinery cover only apparatus, equipment, and machinery fixed to earth by foundation or structural support, and excludes land and building, among other things.
 
-# Q 16. What is the ITC entitlement of a newly registered person? 
+# Q 16. What is the ITC entitlement of a newly registered person?
 
 Ans. A person applying for registration can take input tax credit of inputs held in stock and inputs contained in semifinished or finished goods held in stock on the day immediately preceding the date of grant of registration. If the person was liable to take registration and he has applied for registration within thirty days from the date on which he became liable to registration, then input tax credit of inputs held in stock and inputs contained in semifinished or finished goods held in stock on the day immediately preceding the date on which he became liable to pay tax can be taken.
 
@@ -1478,7 +1475,7 @@ Q 18. What is the eligibility of input tax credit on inputs in stock for a perso
 
 Ans. The person who obtains voluntary registration is entitled to take the input tax credit of input tax on inputs in stock, inputs in semi- finished goods and finished goods in stock, held on the day immediately preceding the date of registration.
 
-# Q 19. What would be input tax eligibility in cases where there is a change in the constitution of a registered person? 
+# Q 19. What would be input tax eligibility in cases where there is a change in the constitution of a registered person?
 
 Ans. The registered person shall be allowed to transfer the input tax credit that remains unutilized in its electronic credit ledger to the new entity, provided that there is a specific provision for transfer of liabilities.
 
@@ -1512,7 +1509,7 @@ Ans. He can avail ITC in respect of inputs held in stock and inputs contained in
 
 be provided by rules.
 
-# Q 25. Are there any special provisions in respect of banking companies? 
+# Q 25. Are there any special provisions in respect of banking companies?
 
 Ans. A banking company or a financial institution including a non-banking financial company engaged in supply of specified services would either avail proportionate credit or avail $50 \%$ of the eligible input tax credit.
 
@@ -1528,7 +1525,7 @@ Q 28. What would happen to the input tax credit availed by a registered person w
 
 ## Page 92
 
-# services or both supplied by him become wholly exempt? 
+# services or both supplied by him become wholly exempt?
 
 Ans. The registered person has to pay an amount equal to the input tax credit in respect of stocks held on the day immediately preceding the date of exercise of option or date of exemption. In respect of capital goods, the payable amount would be calculated by reducing by a prescribed percentage point. The payment can be made by debiting electronic credit ledger, if there is sufficient balance in the credit ledger, or by debiting electronic cash ledger. If any balance remains in the credit ledger, it would lapse.
 
@@ -1546,7 +1543,7 @@ Q 31. Is input tax credit allowed only after
 
 ## Page 93
 
-# matching? 
+# matching?
 
 Ans. No, input tax credit is allowed provisionally for two months. The supply details are matched by the system and discrepancies are communicated to concerned supplier and recipient. In case mismatch continues, the ITC taken would be reversed automatically.
 
@@ -1564,7 +1561,7 @@ Ans. The registered person would pay an amount equal to ITC reduced by prescribe
 
 ## Page 94
 
-# 11. Concept of Input Service Distributor in GST 
+# 11. Concept of Input Service Distributor in GST
 
 ## Q 1. What is Input Service Distributor (ISD)?
 
@@ -1590,7 +1587,7 @@ Q 5. It is not possible many a times to establish a one-to-one link between quan
 
 Ans. In such situations, distribution would be based on a formula. Firstly, distribution would be done only amongst those recipients of input tax credit to whom the input service being distributed are attributable. Secondly, distribution would be done amongst the operational units only. Thirdly, distribution would be done in the ratio of turnover in a State or Union territory of the recipient during the period to the aggregate of all recipients to whom input service being distributed is attributable. Lastly, the credit distributed should not exceed the credit available for distribution.
 
-# Q 6. What does the turnover used for ISD cover? 
+# Q 6. What does the turnover used for ISD cover?
 
 Ans. The turnover for the purpose of ISD does not include any duty or tax levied under entry 84 of List I and entry 51 and 54 of List II of the Seventh Schedule to the Constitution.
 
@@ -1627,8 +1624,6 @@ Ans. Yes, ISD can distribute SGST and IGST credit as SGST / UTGST credit for the
 Q 14. How to distribute common credit among all the recipients of an ISD?
 
 ## Page 97
-
-
 
 Ans. The common credit used by all the recipients can be distributed by ISD on pro rata basis i.e. based on the turnover of each recipient to the aggregate turnover of all the recipients to which credit is distributed.
 
@@ -1667,7 +1662,7 @@ Ans. (a) Distributed among the suppliers who used such
 
 input service on pro rata basis of turnover in such State.
 
-# Q 18. Whether the excess credit distributed could be recovered from ISD by the department? 
+# Q 18. Whether the excess credit distributed could be recovered from ISD by the department?
 
 Ans. No. Excess credit distributed can be recovered along with interest only from the recipient and not ISD. The provisions of section 73 or 74 would be applicable for the recovery of credit.
 
@@ -1677,7 +1672,7 @@ Ans. The credit distributed in contravention of provisions of Act could be recov
 
 ## Page 99
 
-# 12. Returns Process and matching of Input Tax Credit 
+# 12. Returns Process and matching of Input Tax Credit
 
 ## Q 1. What is the purpose of returns?
 
@@ -1696,7 +1691,7 @@ Q 3. What type of outward supply details are to be
 
 ## Page 100
 
-# filed in the return? 
+# filed in the return?
 
 Ans. A normal registered taxpayer has to file the outward supply details in GSTR-1 in relation to various types of supplies made in a month, namely outward supplies to registered persons, outward supplies to unregistered persons (consumers), details of Credit/Debit Notes, zero rated, exempted and non-GST supplies, exports, and advances received in relation to future supply.
 
@@ -1718,7 +1713,7 @@ In B2C supplies, uploading in general may not be required as the buyer will not 
 
 Ans. No. In fact, description will not have to be uploaded. Only HSN code in respect of supply of goods and Accounting code in respect of supply of services will have to be fed. The minimum number of digits that the filer will have to upload would depend on his turnover in the last year.
 
-# Q 7. Whether value for each transaction will have to be fed? What if no consideration? 
+# Q 7. Whether value for each transaction will have to be fed? What if no consideration?
 
 Ans. Yes. Not only value but taxable value will also have to be fed. In some cases, both may be different.
 
@@ -1750,7 +1745,7 @@ Q 12. What is the special feature of GSTR-2?
 
 Ans. The special feature of GSTR-2 is that the details of supplies received by a recipient can be auto populated on the basis of the details furnished by the counterparty supplier in his GSTR-1.
 
-# Q 13. Do tax payers under the composition scheme also need to file GSTR-1 and GSTR-2? 
+# Q 13. Do tax payers under the composition scheme also need to file GSTR-1 and GSTR-2?
 
 Ans. No. Composition tax payers do not need to file any statement of outward or inward supplies. They have to file a quarterly return in Form GSTR-4 by the $18^{\text {th }}$ of the month after the end of the quarter. Since they are not eligible for any input tax credit, there is no relevance of GSTR-2 for them and since the credit of tax paid under Composition Levy is not eligible; there is no relevance of GSTR-1 for them. In their return, they have to declare summary details of their outward supplies along with the details of tax payment. They also have to give details of their purchases in their quarterly return itself, most of which will be auto populated.
 
@@ -1764,7 +1759,7 @@ Q 15. How does a taxpayer get the credit of the tax deducted at source on his be
 
 Ans. Under GST, the deductor will be submitting the deductee wise details of all the deductions made by him in his return in Form GSTR-7 to be filed by 10th of the month next to the month in which deductions were made. The details of the deductions as uploaded by the deductor shall be auto populated in the GSTR-2 of the deductee. The taxpayer shall be required to confirm these details in his GSTR-2 to avail the credit for deductions made on his behalf. To avail this credit, he does not require to produce any certificate in physical or electronic form. The certificate will only be for record keeping of the tax payer and can be downloaded from the Common Portal.
 
-# Q 16. Which type of taxpayers need to file Annual Return? 
+# Q 16. Which type of taxpayers need to file Annual Return?
 
 Ans. All taxpayers filing return in GSTR-1 to GSTR-3, other than ISD's, casual/non-resident taxpayers, taxpayers under composition scheme, TDS/TCS deductors, are required to file an annual return. Casual taxpayers, nonresident taxpayers, ISDs and persons authorized to deduct/collect tax at source are not required to file annual return.
 
@@ -1774,7 +1769,7 @@ Ans. No. Annual Return has to be filed by every registered person paying tax as 
 
 ## Page 105
 
-# Q 18. If a return has been filed, how can it be revised if some changes are required to be made? 
+# Q 18. If a return has been filed, how can it be revised if some changes are required to be made?
 
 Ans. In GST since the returns are built from details of individual transactions, there is no requirement for having a revised return. Any need to revise a return may arise due to the need to change a set of invoices or debit/ credit notes. Instead of revising the return already submitted, the system will allow changing the details of those transactions (invoices or debit/credit notes) that are required to be amended. They can be amended in any of the future GSTR$1 / 2$ in the tables specifically provided for the purposes of amending previously declared details.
 
@@ -1790,13 +1785,13 @@ Ans. One of the most important things under GST will be timely uploading of the 
 
 information in one go. However, if the number of invoices is large, the invoices (or debit/ credit notes) should be uploaded on a regular basis. GSTN will allow regular uploading of invoices even on a real time basis. Till the statement is actually submitted, the system will also allow the taxpayer to modify the uploaded invoices. Therefore, it would always be beneficial for the taxpayers to regularly upload the invoices. Last minute rush will make uploading difficult and will come with higher risk of possible failure and default. The second thing would be to ensure that taxpayers follow up on uploading the invoices of their inward supplies by their suppliers. This would be helpful in ensuring that the input tax credit is available without any hassle and delay. Recipients can also encourage their suppliers to upload their invoices on a regular basis instead of doing it on or close to the due date. The system would allow recipients to see if their suppliers have uploaded invoices pertaining to them. The GSTN system will also provide the track record about the compliance level of a tax payer, especially about his track record in respect of timely uploading of his supply invoices giving details about the auto reversals that have happened for invoices issued by a supplier. The Common Portal of GST would have pan India data at one place which will enable valuable services to the taxpayers. Efforts are being made to make regular uploading of invoices as easy as possible and it is expected that an enabling ecosystem will be developed to achieve this objective. Taxpayers should make efficient use of this ecosystem for easy and hassle free compliance under GST.
 
-# Q 21. Is it compulsory for a taxpayer to file return by himself? 
+# Q 21. Is it compulsory for a taxpayer to file return by himself?
 
 Ans. No. A registered taxpayer can also get his return filed through a Tax Return Preparer, duly approved by the Central or the State tax administration.
 
 ## Page 107
 
-# Q 22. What is the consequence of not filing the return within the prescribed date? 
+# Q 22. What is the consequence of not filing the return within the prescribed date?
 
 Ans. A registered person who files return beyond the prescribed date will have to pay late fees of rupees one hundred for every day of delay subject to a maximum of rupees five thousand. For failure to furnish Annual returns by due date, late fee of Rs. One hundred for every day during which such failure continues subject to a maximum of an amount calculated at a quarter percent [0.25\%] of his turnover in a state, will be levied.
 
@@ -1810,7 +1805,7 @@ Ans. Yes, once the mismatch is rectified by the supplier by declaring the detail
 
 ## Page 108
 
-# 13. Assessment and Audit 
+# 13. Assessment and Audit
 
 ## Q 1. Who is the person responsible to make assessment of taxes payable under the Act?
 
@@ -1826,7 +1821,7 @@ In such cases the taxable person has to execute a bond in the prescribed form, a
 
 ## Page 109
 
-# Q 3. What is the latest time by which final assessment is required to be made? 
+# Q 3. What is the latest time by which final assessment is required to be made?
 
 Ans. The final assessment order has to be passed by the proper officer within six months from the date of the communication of the order of provisional assessment. However, on sufficient cause being shown and for reasons to be recorded in writing, the above period of six months may be extended:
 a) by the Joint /Additional Commissioner for a further period not exceeding six months, and
@@ -1860,7 +1855,7 @@ Ans. The best judgment order passed by the Proper Officer under section 62 of CG
 
 furnishes a valid return for the default period (i.e. files the return and pays the tax as assessed by him), within thirty days of the receipt of the best judgment assessment order.
 
-# Q 8. What is the time limit for passing assessment order u/s 62 (Best Judgment) and 63 (Non-filers)? 
+# Q 8. What is the time limit for passing assessment order u/s 62 (Best Judgment) and 63 (Non-filers)?
 
 Ans. The time limit for passing an assessment order under section 62 or 63 is five years from the due date for furnishing the annual return.
 
@@ -1878,7 +1873,7 @@ b) the proper officer believes that delay in passing an assessment order will ad
 
 Such order can be passed after seeking permission from the Additional Commissioner / Joint Commissioner.
 
-# Q 11. Other than appellate remedy, is there any other recourse available to the taxpayer against a summary assessment order? 
+# Q 11. Other than appellate remedy, is there any other recourse available to the taxpayer against a summary assessment order?
 
 Ans. A taxable person against whom a summary assessment order has been passed can apply for its withdrawal to the jurisdictional Additional/Joint Commissioner within thirty days of the date of receipt of the order. If the said officer finds the order erroneous, he can withdraw it and direct the proper officer to carry out determination of tax liability in terms of section 73 or 74 of CGST/SGST Act. The Additional/Joint Commissioner can follow a similar course of action on his own motion if he finds the summary assessment order to be erroneous (section 64 of CGST/SGST Act).
 
@@ -1897,7 +1892,7 @@ chartered accountant or a cost accountant. (Section 35(5) of the CGST/SGST Act)
 (b) Audit by Department: The Commissioner or any officer of CGST or SGST or UTGST authorized by him by a general or specific order, may conduct audit of any registered person. The frequency and manner of audit will be prescribed in due course. (Section 65 of the CGST/SGST Act)
 (c) Special Audit: If at any stage of scrutiny, inquiry, investigations or any other proceedings, if department is of the opinion that the value has not been correctly declared or credit availed is not with in the normal limits, department may order special audit by chartered accountant or cost accountant, nominated by department. (Section 66 of the CGST/SGST Act)
 
-# Q 14. Whether any prior intimation is required before conducting the audit? 
+# Q 14. Whether any prior intimation is required before conducting the audit?
 
 Ans. Yes, prior intimation is required and the taxable person should be informed at least 15 working days prior to conduct of audit.
 
@@ -1915,7 +1910,7 @@ a) the date on which the records/accounts called
 for by the audit authorities are made available to them, or
 b) the actual institution of audit at the place of business of the taxpayer.
 
-# Q 17. What are the obligations of the taxable person when he receives the notice of audit? 
+# Q 17. What are the obligations of the taxable person when he receives the notice of audit?
 
 Ans. The taxable person is required to:
 a) facilitate the verification of accounts/records available or requisitioned by the authorities,
@@ -1938,7 +1933,7 @@ Ans. The Assistant / Deputy Commissioner is to serve the communication for speci
 
 approval of the Commissioner.
 
-# Q 21. Who will do the special audit? 
+# Q 21. Who will do the special audit?
 
 Ans. A Chartered Accountant or a Cost Accountant so nominated by the Commissioner may undertake the audit.
 
@@ -1956,7 +1951,7 @@ Ans. Based on the findings / observations of the special audit, action can be in
 
 ## Page 116
 
-# 14. Refunds 
+# 14. Refunds
 
 ## Q 1. What is refund?
 
@@ -1976,7 +1971,7 @@ Ans. Unutilized input tax credit can be allowed as refund in accordance with the
 
 However, no refund of unutilized input tax credit shall be allowed in cases where the goods exported out of India are subjected to export duty, and also in the case where the supplier of goods or services or both avails of drawback in respect of central tax or claims refund of the integrated tax paid on such supplies.
 
-# Q 3. Can unutilized ITC be given refund, in case goods Exported outside India are subjected to export duty? 
+# Q 3. Can unutilized ITC be given refund, in case goods Exported outside India are subjected to export duty?
 
 Ans. Refund of unutilized input tax credit is not allowed in cases where the goods exported out of India are subjected to export duty - as per the second proviso to Section 54(3) of CGST/SGST Act.
 
@@ -1990,7 +1985,7 @@ Q 5. Suppose a taxable person has paid IGST/ CGST/SGST mistakenly as an Intersta
 
 Ans. The taxable person cannot adjust CGST/SGST or IGST with the wrongly paid IGST or CGST/SGST but he is entitled to refund of the tax so paid wrongly - Sec. 77 of the CGST/SGST Act.
 
-# Q 6. Whether purchases made by Embassies or UN are taxed or exempted? 
+# Q 6. Whether purchases made by Embassies or UN are taxed or exempted?
 
 Ans. Supplies to the Embassies or UN bodies will be taxed, which later on can be claimed as refund by them in terms of Section 54(2) of the CGST/SGST Act. The claim has to be filed in the manner prescribed under CGST/SGST Refund rules, before expiry of six months from the last day of the month in which such supply was received.
 [The United Nations Organization and Consulates or Embassies are required to take a Unique Identity Number [section 26(1) of the CGST/SGST Act] and purchases made by them will be reflected against their Unique Identity Number in the return of outward supplies of the supplier(s)]
@@ -2001,7 +1996,7 @@ Ans. Supplies to the Embassies or UN bodies will be taxed, which later on can be
 
 Ans. A person claiming refund is required to file an application before the expiry of two years from the "relevant date" as given in the Explanation to section 54 of the CGST/SGST Act.
 
-# Q 8. Whether principle of unjust enrichment will be applicable in refund? 
+# Q 8. Whether principle of unjust enrichment will be applicable in refund?
 
 Ans. The principle of unjust enrichment would be applicable in all cases of refund except in the following cases -
 i. Refund of tax paid on zero-rated supplies of goods or services or both or on inputs or input services used in making such zero-rated supplies
@@ -2015,7 +2010,7 @@ Q 9. In case the tax has been passed on to the
 
 ## Page 120
 
-# consumer, whether refund will be sanctioned? 
+# consumer, whether refund will be sanctioned?
 
 Ans. Yes, the amount so refunded shall be credited to the Consumer Welfare Fund - Section 57 of the CGST/SGST Act
 
@@ -2053,7 +2048,7 @@ Ans. The refund arising out of existing law will be paid as per the provisions o
 
 cash and will not be available as ITC.
 
-# Q 15. Whether refund can be made before verification of documents? 
+# Q 15. Whether refund can be made before verification of documents?
 
 Ans. In case of any claim of refund to a registered person on account of zero rated supplies of goods or services or both (other than registered persons as may be notified), 90\% refund may be granted on provisional basis before verification subject to such conditions and restrictions as may be prescribed in accordance with sub-section 6 of section 54 of the CGST/SGST Act.
 
@@ -2071,7 +2066,7 @@ Ans. The principle of unjust enrichment would not be applicable to zero-rated su
 
 Ans. Where the claim of refund is less than Rs. 2 Lakh, a selfdeclaration by the applicant based on the documentary or other evidences available with him, certifying that the incidence of tax has not been passed on to any other person would make him eligible to get refund. However, if the claim of refund is more than Rs. 2 Lakh, the applicant is required to submit a certificate from a Chartered Accountant or a Cost Accountant to the effect that the incidence of tax has not been passed on to any other person.
 
-# Q 19. Today under VAT/CST merchant exporters can purchase goods without payment of tax on furnishing of a declaration form. Will this system be there in GST? 
+# Q 19. Today under VAT/CST merchant exporters can purchase goods without payment of tax on furnishing of a declaration form. Will this system be there in GST?
 
 Ans. There is no such provision in the GST law. They will have to procure goods upon payment of tax and claim refund of the unutilized input tax credit in accordance with section 54(3) of the CGST/SGST Act.
 
@@ -2096,7 +2091,7 @@ Q 23. Is there any specified format for filing refund claim?
 
 Ans. Every claim of refund has to be filed in Form GST RFD 1. However, claim of refund of balance in electronic cash ledger can be claimed through furnishing of monthly/quarterly returns in Form GSTR 3, GSTR 4 or GSTR 7, as the case may be, of the relevant period.
 
-# Q 24. Is there any specified format for sanction of refund claim? 
+# Q 24. Is there any specified format for sanction of refund claim?
 
 Ans. The claim of refund will be sanctioned by the proper officer in Form GST RFD-06 if the claim is found to be in order and payment advice will be issued in Form GST RFD05. The refund amount will then be electronically credited to the applicants given bank account.
 
@@ -2114,7 +2109,7 @@ claim is not admissible he shall issue a notice in Form GST RFD-08 to the applic
 
 ## Page 127
 
-# 15. Demands and Recovery 
+# 15. Demands and Recovery
 
 Q 1. Which are the applicable sections for the purpose of recovery of tax short paid or not paid or amount erroneously refunded or input tax credit wrongly availed or utilized?
 
@@ -2138,7 +2133,7 @@ Ans.
 The SCN has to be adjudicated within at period of three years from the due date of filing of annual return. The SCN is required to be issued at least three months prior to the time limit set for adjudication. \{sec.73(2\&10)\}
 (ii) In case of section 74(cases involving fraud/ suppression of facts/willful misstatement), the relevant date shall be counted from the due date for filing of annual return for the financial year to which demand relates to. The SCN has to be adjudicated within at period of five years from the due date of filing of annual return. The SCN is required to be issued at least six months prior to the time limit set for adjudication. $\{$ sec.74(2\&10) $\}$
 
-# Q 5. Is there any time limit for adjudication the cases? 
+# Q 5. Is there any time limit for adjudication the cases?
 
 Ans:
 (i) In case of section 73(cases other than fraud/ suppression of facts/willful misstatement), the time limit for adjudication of cases is 3 years from the due date for filing of annual return for the financial year to which demand relates to. $\{$ sec.73(10)\}
@@ -2186,8 +2181,6 @@ a) Deduction of dues from the amount owned by the tax authorities payable to suc
 
 ## Page 131
 
-
-
 b) Recovery by way of detaining and selling any goods belonging to such person;
 
 c) Recovery from other person, from whom money is due or may become due to such person or who holds or may subsequently hold money for or on account of such person, to pay to the credit of the Central or a State Government;
@@ -2212,7 +2205,7 @@ Ans. On receipt of any such request, Commissioner/Chief Commissioner may extend 
 
 installment on its due date, the whole outstanding balance payable on such date shall become payable and recovered without any further notice. \{sec.80\}
 
-# Q 15. What is the course of recovery in cases where the tax demand confirmed is enhanced in appeal/ revision proceedings? 
+# Q 15. What is the course of recovery in cases where the tax demand confirmed is enhanced in appeal/ revision proceedings?
 
 Ans. The notice of demand is required to be served only in respect of the enhanced dues. In so far as the amount already confirmed prior to disposal of appeal/revision, the recovery proceedings may be continued from the stage at which such proceedings stood immediately before such disposal of appeal/revision. (Sec.84(a))
 
@@ -2226,7 +2219,7 @@ Ans. When any company is wound up, every appointed receiver of assets ("Liquidat
 
 ## Page 133
 
-# Q 18. What is the liability of directors of the Company (taxable person) under liquidation? 
+# Q 18. What is the liability of directors of the Company (taxable person) under liquidation?
 
 Ans: When any private company is wound up and any tax or other dues determined whether before or after liquidation that remains unrecovered, every person who was a director of the company during the period for which the tax was due, shall jointly and severally be liable for payment of dues unless he proves to the satisfaction of the Commissioner that such non-recovery is not attributed to any gross neglect, misfeasance or breach of duties on his part in relation to the affairs of the company. \{Sec.88(3),89\}
 
@@ -2245,13 +2238,13 @@ Ans. Where the business in respect of which any tax is payable is carried on by 
 
 benefit of such minor/incapacitated person, the tax, interest or penalty shall be levied upon and recoverable from such guardian / trustee / agent. \{Sec.91\}
 
-# Q 21. What happens when the estate of a taxable person is under the control of Court of Wards? 
+# Q 21. What happens when the estate of a taxable person is under the control of Court of Wards?
 
 Ans. Where the estate of a taxable person owning a business in respect of which any tax, interest or penalty is payable is under the control of the Court of Wards/ Administrator General / Official Trustee / Receiver or Manager appointed under any order of a Court, the tax, interest or penalty shall be levied and recoverable from such Court of Wards/Administrator General / Official Trustee / Receiver or Manager to the same extent as it would be determined and recoverable from a taxable person. \{Sec.92\}
 
 ## Page 135
 
-# 16. Appeals, Review and Revision in GST 
+# 16. Appeals, Review and Revision in GST
 
 ## Q 1. Whether any person aggrieved by any order or decision passed against him has the right to appeal?
 
@@ -2273,7 +2266,7 @@ Q 4. Whether the appellate authority has any powers to allow additional grounds 
 
 Ans. Yes. He has the powers to allow additional grounds if he is satisfied that the omission was not wilful or unreasonable.
 
-# Q 5. The order passed by Appellate Authority has to be communicated to whom? 
+# Q 5. The order passed by Appellate Authority has to be communicated to whom?
 
 Ans. Appellate Authority has to communicate the copy of order to the appellant, respondent and the adjudicating authority with a copy to jurisdictional Commissioner of CGST and SGST/UTIST.
 
@@ -2303,7 +2296,7 @@ Q 10. Does the AA have the power to remand the case back to the adjudicating aut
 
 Ans. No. Section 107(11) specifically states that the AA shall, after making such inquiry as may be necessary, pass such order, as he thinks just and proper, confirming, modifying or annulling the decision or order appealed against, but shall not refer the case back to the authority that passed the decision or order.
 
-# Q 11. Can any CGST/SGST authority revise any order passed under the Act by his subordinates? 
+# Q 11. Can any CGST/SGST authority revise any order passed under the Act by his subordinates?
 
 Ans. Section 2(99) of the Act defines "Revisional Authority" as an authority appointed or authorised under this Act for revision of decision or orders referred to in
 
@@ -2311,7 +2304,7 @@ Ans. Section 2(99) of the Act defines "Revisional Authority" as an authority app
 
 section 108. Section 108 of the Act authorizes such "revisional authority" to call for and examine any order passed by his subordinates and in case he considers the order of the lower authority to be erroneous in so far as it is prejudicial to revenue and is illegal or improper or has not taken into account certain material facts, whether available at the time of issuance of the said order or not or in consequence of an observation by the Comptroller and Auditor General of India, he may, if necessary, he can revise the order after giving opportunity of being heard to the noticee.
 
-# Q 12. Can the "revisional authority" order for staying of operation of any order passed by his subordinates pending such revision? 
+# Q 12. Can the "revisional authority" order for staying of operation of any order passed by his subordinates pending such revision?
 
 Ans. Yes.
 
@@ -2324,15 +2317,14 @@ Ans. Yes. The "revisional authority" shall not revise any order if
 
 ## Page 139
 
-# Q 14. When the Tribunal is having powers to refuse to admit the appeal? 
+# Q 14. When the Tribunal is having powers to refuse to admit the appeal?
 
 Ans. In cases where the appeal involves -
 
 - tax amount or input tax credit or
 - the difference in tax or the difference in input tax credit involved or
 - amount of fine, fees or amount of penalty determined by such order,
-does not exceed Rs 50,000/-, the Tribunal has discretion to refuse to admit such appeal. (Section 112(2) of the Act)
-
+  does not exceed Rs 50,000/-, the Tribunal has discretion to refuse to admit such appeal. (Section 112(2) of the Act)
 
 ## Q 15. What is the time limit within which appeal has to be filed before the Tribunal?
 
@@ -2348,7 +2340,7 @@ Ans. 45 days from the date of receipt of appeal.
 
 ## Page 140
 
-# Q 18. Whether interest becomes payable on refund of pre-deposit amount? 
+# Q 18. Whether interest becomes payable on refund of pre-deposit amount?
 
 Ans. Yes. As per Section 115 of the Act, where an amount deposited by the appellant under sub-section (6) of section 107 or under sub-section (8) of section 112 is required to be refunded consequent to any order of the Appellate Authority or of the Appellate Tribunal, as the case may be, interest at the rate specified under section 56 shall be payable in respect of such refund from the date of payment of the amount till the date of refund of such amount.
 
@@ -2362,7 +2354,7 @@ Ans. 180 days from the date of receipt of the order appealed against. However, t
 
 ## Page 141
 
-# 17. Advance Ruling 
+# 17. Advance Ruling
 
 ## Q 1. What is the meaning of Advance Ruling?
 
@@ -2383,7 +2375,7 @@ Ans. Advance Ruling can be sought for the following questions:
 
 amounts to or results in a supply of goods or services, within the meaning of that term.
 
-# Q 3. What is the objective of having a mechanism of Advance Ruling? 
+# Q 3. What is the objective of having a mechanism of Advance Ruling?
 
 Ans. The broad objective for setting up such an authority is to:
 i. provide certainty in tax liability in advance in relation to an activity proposed to be undertaken by the applicant;
@@ -2405,7 +2397,7 @@ Ans. No, any person registered under the GST Act(s) or desirous of obtaining reg
 
 Ans. An applicant can apply for advance ruling even before taking up a transaction (proposed supply of goods or services) or in respect of a supply which is being undertaken. The only restriction is that the question being raised is already not pending or decided in any proceedings in the case of applicant.
 
-# Q 7. In how much time will the Authority for Advance Rulings have to pronounce its ruling? 
+# Q 7. In how much time will the Authority for Advance Rulings have to pronounce its ruling?
 
 Ans. As per Section 98(6) of CGST/SGST Act, the Authority shall pronounce its ruling in writing within ninety days from the date of receipt of application.
 
@@ -2424,7 +2416,7 @@ Ans. Section 103 provides that an advance ruling
 
 pronounced by AAR or AAAR shall be binding only on the applicant who sought it in respect of any matter referred to in 97 (2) and on the jurisdictional tax authority of the applicant. This clearly means that an advance ruling is not applicable to similarly placed taxable persons in the State. It is only limited to the person who has applied for an advance ruling.
 
-# Q 11. Whether the advance ruling have precedent value of a judgment of the High Court or the Supreme Court? 
+# Q 11. Whether the advance ruling have precedent value of a judgment of the High Court or the Supreme Court?
 
 Ans. No, the advance ruling is binding only in respect of the matter referred. It has no precedent value. However, even for persons other than applicant, it does have persuasive value.
 
@@ -2440,7 +2432,7 @@ Ans. Section 104(1) provides that an advance ruling shall be held to be ab initi
 
 the advance ruling was obtained by the applicant by fraud or suppression of material facts or misrepresentation of facts. In such a situation, all the provisions of the GST Act(s) shall apply to the applicant as if such advance ruling had never been made (but excluding the period when advance ruling was given and up to the period when the order declaring it to be void is issued). An order declaring advance ruling to be void can be passed only after hearing the applicant.
 
-# Q 14. What is the procedure for obtaining Advance Ruling? 
+# Q 14. What is the procedure for obtaining Advance Ruling?
 
 Ans. Section 97 and 98 deals with procedure for obtaining advance ruling. Section 97 provides that the applicant desirous of obtaining advance ruling should make application to AAR in a prescribed form and manner. The format of the form and the detailed procedure for making application will be prescribed in the Rules.
 
@@ -2456,7 +2448,7 @@ If the application is rejected, it should be by way of a
 
 speaking order giving the reasons for rejection.
 
-# Q 16. What is the procedure to be followed by AAR once the application is admitted? 
+# Q 16. What is the procedure to be followed by AAR once the application is admitted?
 
 Ans. If the application is admitted, the AAR shall pronounce its ruling within ninety days of receipt of application. Before giving its ruling, it shall examine the application and any further material furnished by the applicant or by the concerned departmental officer.
 
@@ -2480,26 +2472,26 @@ Any appeal must be filed within thirty days from the receipt of the advance ruli
 
 The Appellate Authority must pass an order after hearing the parties to the appeal within a period of ninety days of the filing of an appeal. If members of AAAR differ on any point referred to in appeal, it shall be deemed that no advance ruling is issued in respect of the question under appeal.
 
-# Q 19. Whether Appeal can be filed before High Court or Supreme Court against the ruling of Appellate Authority for Advance Rulings? 
+# Q 19. Whether Appeal can be filed before High Court or Supreme Court against the ruling of Appellate Authority for Advance Rulings?
 
 Ans The CGST /SGST Act do not provide for any appeal against the ruling of Appellate Authority for Advance Rulings. Thus no further appeals lie and the ruling shall be binding on the applicant as well as the jurisdictional officer in respect of applicant.
 However, Writ Jurisdiction may lie before Hon'ble High Court or the Supreme Court.
 
 ## Page 148
 
-# Q 20. Can the AAR \& AAAR order for rectification of mistakes in the ruling? 
+# Q 20. Can the AAR \& AAAR order for rectification of mistakes in the ruling?
 
 Ans. Yes, AAR and AAAR have power to amend their order to rectify any mistake apparent from the record within a period of six months from the date of the order. Such mistake may be noticed by the authority on its own accord or may be brought to its notice by the applicant or the concerned or the jurisdictional CGST/SGST officer. If a rectification has the effect of enhancing the tax liability or reducing the quantum of input tax credit, the applicant or the appellant must be heard before the order is passed. (Section 102)
 
 ## Page 149
 
-# 18. Settlement Commission [Omitted] 
+# 18. Settlement Commission [Omitted]
 
 Omitted as the chapter is no longer there in the Final GST Act(s)
 
 ## Page 150
 
-# 19. Inspection, Search, Seizure and Arrest 
+# 19. Inspection, Search, Seizure and Arrest
 
 ## Q 1. What is the meaning of the term "Search"?
 
@@ -2521,7 +2513,7 @@ iii. claimed excess input tax credit;
 iv. contravened any provision of the CGST/SGST Act to evade tax;
 v. a transporter or warehouse owner has kept goods which have escaped payment of tax or has kept his accounts or goods in a manner that is likely to cause evasion of tax.
 
-# Q 4. Can the proper officer authorize Inspection of any assets/premises of any person under this Section? 
+# Q 4. Can the proper officer authorize Inspection of any assets/premises of any person under this Section?
 
 Ans. No. Authorization can be given to an officer of CGST/ SGST to carry out inspection of any of the following:
 i. any place of business of a taxable person;
@@ -2540,7 +2532,7 @@ Ans. Reason to believe is to have knowledge of facts
 
 which, although not amounting to direct knowledge, would cause a reasonable person, knowing the same facts, to reasonably conclude the same thing. As per Section 26 of the IPC, 1860, "A person is said to have 'reason to believe' a thing, if he has sufficient cause to believe that thing but not otherwise." 'Reason to believe' contemplates an objective determination based on intelligent care and evaluation as distinguished from a purely subjective consideration. It has to be and must be that of an honest and reasonable person based on relevant material and circumstances.
 
-# Q 7. Is it mandatory that such 'reasons to believe' has to be recorded in writing by the proper officer, before issuing authorization for Inspection or Search and Seizure? 
+# Q 7. Is it mandatory that such 'reasons to believe' has to be recorded in writing by the proper officer, before issuing authorization for Inspection or Search and Seizure?
 
 Ans. Although the officer is not required to state the reasons for such belief before issuing an authorization for search, he has to disclose the material on which his belief was formed. 'Reason to believe' need not be recorded invariably in each case. However, it would be better if the materials / information etc. are recorded before issue of search warrant or before conducting search.
 
@@ -2558,7 +2550,7 @@ v. date and place of issue,
 vi. serial number of the search warrant,
 vii. period of validity i.e. a day or two days etc.
 
-# Q 9. When does goods become liable to confiscation under the provisions of CGST/SGST Act? 
+# Q 9. When does goods become liable to confiscation under the provisions of CGST/SGST Act?
 
 Ans. As per section 130 of SGST/SGST Act, goods become liable to confiscation when any person does the following:
 (i) supplies or receives any goods in contravention of any of the provisions of this Act or rules made thereunder leading to evasion of tax;
@@ -2574,7 +2566,7 @@ Ans. An officer carrying out a search has the power to search for and seize good
 
 under CGST/SGST Act) from the premises searched. During search, the officer has the power to break open the door of the premises authorized to be searched if access to the same is denied. Similarly, while carrying out search within the premises, he can break open any almirah or box if access to such almirah or box is denied and in which any goods, account, registers or documents are suspected to be concealed. He can also seal the premises if access to it denied.
 
-# Q 11. What is the procedure for conducting search? 
+# Q 11. What is the procedure for conducting search?
 
 Ans. Section 67(10) of CGST/SGST Act prescribes that searches must be carried out in accordance with the provisions of Code of Criminal Procedure, 1973. Section 100 of the Code of Criminal Procedure describes the procedure for search.
 
@@ -2592,7 +2584,7 @@ Ans. The following principles should be observed during Search:
 at least two witnesses should also be taken on the body of the search warrant.
 
 - The search should be made in the presence of at least two independent witnesses of the locality. If no such inhabitants are available
-/willing, the inhabitants of any other locality should be asked to be witness to the search. The witnesses should be briefed about the purpose of the search.
+  /willing, the inhabitants of any other locality should be asked to be witness to the search. The witnesses should be briefed about the purpose of the search.
 - Before the start of the search proceedings, the team of officers conducting the search and the accompanying witnesses should offer themselves for their personal search to the person in-charge of the premises being searched. Similarly, after the completion of search all the officers and the witnesses should again offer themselves for their personal search.
 - A Panchnama / Mahazar of the proceedings of the search should necessarily be prepared on the spot. A list of all goods, documents recovered and seized/detained should be prepared and annexed to the Panchnama/Mahazar. The Panchnama / Mahazar and the list of goods/ documents seized/detained should invariably be signed by the witnesses, the incharge/ owner of the premises before whom the search is conducted and also by the officer(s) duly authorized for conducting the search.
 - After the search is over, the search warrant duly executed should be returned in original to the issuing officer with a report regarding the outcome of the search. The names of the officers who participated in the search may also be
@@ -2604,8 +2596,7 @@ written on the reverse of the search warrant.
 - The issuing authority of search warrant should maintain register of records of search warrant issued and returned and used search warrants should be kept in records.
 - A copy of the Panchnama / Mahazar along with its annexure should be given to the person incharge/owner of the premises being searched under acknowledgement.
 
-
-# Q 13. Can a CGST/SGST officer access business premises under any other circumstances? 
+# Q 13. Can a CGST/SGST officer access business premises under any other circumstances?
 
 Ans. Yes. Access can also be obtained in terms of Section 65 of CGST/SGST Act. This provision of law is meant to allow an audit party of CGST/SGST or C\&AG or a cost accountant or chartered accountant nominated under section 66 of CGST/SGST Act, access to any business premises without issuance of a search warrant for the purposes of carrying out any audit, scrutiny, verification and checks as may be necessary to safeguard the interest of revenue. However, a written authorization is to be issued by an officer of the rank of Commissioner of CGST or SGST. This provision facilitates access to a business premise which is not registered by a taxable person as a principal or additional place of business but has books of accounts, documents, computers etc. which are required for audit or verification of accounts of a taxable person.
 
@@ -2617,7 +2608,7 @@ Ans. The term 'seizure' has not been specifically defined in the Model GST Law. 
 
 possession forcibly contrary to the wishes of the owner of the property or who has the possession and who was unwilling to part with the possession.
 
-# Q 15. Does GST Act(s) have any power of detention of goods and conveyances? 
+# Q 15. Does GST Act(s) have any power of detention of goods and conveyances?
 
 Ans. Yes, under Section 129 of CGST/SGST Act, an officer has power to detain goods along with the conveyance (like a truck or other types of vehicle) transporting the goods. This can be done for such goods which are being transported or are stored in transit in violation of the provisions of CGST/SGST Act. Goods which are stored or are kept in stock but not accounted for can also be detained. Such goods and conveyance shall be released after payment of applicable tax or upon furnishing security of equivalent amount.
 
@@ -2645,7 +2636,7 @@ Q 18. Is there any special document required to be carried during transport of t
 
 Ans. Under section 68 of CGST /SGST Act, a person in charge of a conveyance carrying any consignment of goods of value exceeding a specified amount may be required to carry a prescribed document as may be prescribed.
 
-# Q 19. What is meant by the term "arrest"? 
+# Q 19. What is meant by the term "arrest"?
 
 Ans. The term 'arrest' has not been defined in the CGST/SGST Act. However, as per judicial pronouncements, it denotes 'the taking into custody of a person under some lawful command or authority'. In other words, a person is said to be arrested when he is taken and restrained of his liberty by power or colour of lawful warrant.
 
@@ -2664,7 +2655,7 @@ offence, he must be informed in writing of the grounds of arrest and he must be 
 i. If a person is arrested for a noncognizable and bailable offence, the Deputy/ Assistant Commissioner of CGST/SGST can release him on bail and he will be subject to the same provisions as an officer in-charge of a police station under section 436 of the Code of Criminal Procedure, 1973;
 ii. All arrest must be in accordance with the provisions of the Code of Criminal Procedure, 1973 relating to arrest.
 
-# Q 22. What are the precautions to be taken during arrest? 
+# Q 22. What are the precautions to be taken during arrest?
 
 Ans. The provisions of the Code of Criminal Procedure, 1973 (2 of 1974) relating to arrest and the procedure thereof must be adhered to. It is therefore necessary that all field officers of CGST/SGST be fully familiar with the provisions of the Code of Criminal Procedure, 1973.
 
@@ -2694,7 +2685,7 @@ x. A police control room should be provided at all district and State headquarte
 
 of custody of the arrestee shall be communicated by the officer causing the arrest, within 12 hours of effecting the arrest and at the police control room it should be displayed on a conspicuous notice board.
 
-# Q 23. What are the broad guidelines for arrest followed in CBEC? 
+# Q 23. What are the broad guidelines for arrest followed in CBEC?
 
 Ans. Decision to arrest needs to be taken on case-tocase basis considering various factors, such as, nature and gravity of offence, quantum of duty evaded or credit wrongfully availed, nature and quality of evidence, possibility of evidences being tampered with or witnesses being influenced, cooperation with the investigation, etc. Power to arrest has to be exercised after careful consideration of the facts of the case which may include:
 i. to ensure proper investigation of the offence;
@@ -2712,7 +2703,7 @@ viii. large amounts of evasion of duty or service tax at least exceeding one cro
 
 Ans. Generally, cognizable offence means serious category of offences in respect of which a police officer has the authority to make an arrest without a warrant and to start an investigation with or without the permission of a court.
 
-# Q 25. What is a non-cognizable offence? 
+# Q 25. What is a non-cognizable offence?
 
 Ans. Non-cognizable offence means relatively less serious offences in respect of which a police officer does not have the authority to make an arrest without a warrant and an investigation cannot be initiated without a court order.
 
@@ -2726,7 +2717,7 @@ Ans. Section 70 of CGST/SGST Act gives powers to a duly authorized CGST/SGST off
 
 ## Page 165
 
-# Q 28. What are the responsibilities of the person so summoned? 
+# Q 28. What are the responsibilities of the person so summoned?
 
 Ans. A person who is issued summon is legally bound to attend either in person or by an authorized representative and he is bound to state the truth before the officer who has issued the summon upon any subject which is the subject matter of examination and to produce such documents and other things as may be required.
 
@@ -2750,7 +2741,7 @@ vi. senior management officials such as CEO, CFO, General Managers of a large co
 
 ## Page 167
 
-# Q 31. What are the precautions to be observed while issuing summons? 
+# Q 31. What are the precautions to be observed while issuing summons?
 
 Ans. The following precautions should generally be observed when summoning a person: -
 (i) A summon should not be issued for appearance where it is not justified. The power to summon can be exercised only when there is an inquiry being undertaken and the attendance of the person is considered necessary.
@@ -2774,7 +2765,7 @@ vii. Any other class of officers as may be notified by the Central/State Governm
 
 ## Page 169
 
-# 20. Offences, Penalties, Prosecution and Compounding 
+# 20. Offences, Penalties, Prosecution and Compounding
 
 ## Q 1. What are the prescribed offences under CGST/SGST Act?
 
@@ -2805,7 +2796,7 @@ Ans. The CGST/SGST Act codifies the offences and penalties in Chapter XVI. The A
 20) Tampering/destroying any material evidence;
 21) Disposing of /tampering with goods detained/ seized/attached under the Act.
 
-# Q 2. What is meant by the term penalty? 
+# Q 2. What is meant by the term penalty?
 
 Ans. The word "penalty" has not been defined in the CGST/SGST Act but judicial pronouncements and principles of jurisprudence have laid down the nature of a
 
@@ -2816,8 +2807,7 @@ penalty as:
 - a temporary punishment or a sum of money imposed by statute, to be paid as punishment for the commission of a certain offence;
 - a punishment imposed by law or contract for doing or failing to do something that was the duty of a party to do.
 
-
-# Q 3. What are the general disciplines to be followed while imposing penalties? 
+# Q 3. What are the general disciplines to be followed while imposing penalties?
 
 Ans. The levy of penalty is subject to a certain disciplinary regime which is based on jurisprudence, principles of natural justice and principles governing international trade and agreements. Such general discipline is enshrined in section 126 of the Act. Accordingly-
 
@@ -2837,7 +2827,7 @@ Section 126 further specifies that, in particular, no substantial penalty is to 
 
 Further, wherever penalty of a fixed amount or a fixed percentage has been provided in the CGST/SGST Act, the same shall apply.
 
-# Q 4. What is the quantum of penalty provided for in the CGST /SGST Act? 
+# Q 4. What is the quantum of penalty provided for in the CGST /SGST Act?
 
 Ans. Section 122(1) provides that any taxable person who has committed any of the offences mentioned in section 122 shall be punished with a penalty that shall be higher of the following amounts:
 
@@ -2851,7 +2841,7 @@ Further Section 122(2) provides that any registered person who has not paid tax 
 
 ## Page 173
 
-# Q 5. Is any penalty prescribed for any person other than the taxable person? 
+# Q 5. Is any penalty prescribed for any person other than the taxable person?
 
 Ans. Yes. Section 122(3) provides for levy of penalty extending to Rs. 25,000/- for any person who-
 
@@ -2881,7 +2871,7 @@ Where owner does not come forward: - Such goods shall be released on payment of 
 
 In case of exempted goods, penalty is $5 \%$ of value of goods or Rs 25,000/- whichever is lesser.
 
-# Q 7. What is the penalty prescribed for a person who opts for composition scheme despite being ineligible for the said scheme? 
+# Q 7. What is the penalty prescribed for a person who opts for composition scheme despite being ineligible for the said scheme?
 
 Ans. Section 10(5) provides that if a person who has paid under composition levy is found as not being eligible for compounding then such person shall be liable to penalty to an amount equivalent to the tax payable by him under the provisions of the Act i.e. as a normal taxable person and that this penalty shall be in addition to the tax payable by him.
 
@@ -2895,7 +2885,7 @@ Ans. The word 'confiscation' has not been defined in the Act. The concept is der
 
 In short in means transfer of the title to the goods to the Government.
 
-# Q 9. Under which circumstances can goods be confiscated under CGST/SGST Act? 
+# Q 9. Under which circumstances can goods be confiscated under CGST/SGST Act?
 
 Ans. Under Section 70 of the CGST Act, goods shall be liable to confiscation if any person:
 
@@ -2905,7 +2895,6 @@ Ans. Under Section 70 of the CGST Act, goods shall be liable to confiscation if 
 - uses any conveyance as a means of transport for carriage of goods in contravention of the provisions of CGST/SGST Act (unless used without knowledge of owner)
 - contravenes any provision of the Act/Rules with the intention of evading payment of tax.
 
-
 ## Q 10. What happens to the goods upon confiscation of goods by the proper officer?
 
 Ans. Upon confiscation, the title in the confiscated goods shall vest in the Government and every Police officer to whom the proper officer makes a request in this behalf, shall assist in taking possession of the goods.
@@ -2914,7 +2903,7 @@ Q 11. After confiscation, is it required to give option
 
 ## Page 176
 
-# to the person to redeem the goods? 
+# to the person to redeem the goods?
 
 Ans. Yes. In terms of section 130(2), the Owner or the person in-charge of the goods liable to confiscation is to be given the option for fine (not exceeding market price of confiscated goods) in lieu of confiscation. This fine shall be in addition to the tax and other charges payable in respect of such goods.
 
@@ -2947,18 +2936,18 @@ k) tampers with or destroys any material evidence or documents
 I) Failing to supply any information required of him under the Act/Rules or supplying false information;
 m) Attempting to commit or abetting the commission of any of the offences at (a) to (l) above.
 
-# Q 17. What is the punishment prescribed on conviction of any offence under the CGST/SGST Act? 
+# Q 17. What is the punishment prescribed on conviction of any offence under the CGST/SGST Act?
 
 Ans. The scheme of punishment provided in section 132(1) is as follows:
 
 ## Page 178
 
-| Offence involving-- | Punishment (Imprisonment <br> extending to--) |
-| :-- | :-- |
-| Tax evaded exceeding <br> Rs. 5 crore or repeat <br> offender250 lakh | 5 years and fine |
-| Tax evaded between Rs. 2 <br> crore and Rs.5 crore | 3 years and fine |
-| Tax evaded between Rs. 1 <br> crore and Rs. 2 crore | 1 years and fine |
-| - False records <br> - Obstructing officer <br> - Tamper records | 6 months |
+| Offence involving--                                                          | Punishment (Imprisonment`<br>` extending to--) |
+| :--------------------------------------------------------------------------- | :----------------------------------------------- |
+| Tax evaded exceeding`<br>` Rs. 5 crore or repeat `<br>` offender250 lakh | 5 years and fine                                 |
+| Tax evaded between Rs. 2`<br>` crore and Rs.5 crore                        | 3 years and fine                                 |
+| Tax evaded between Rs. 1`<br>` crore and Rs. 2 crore                       | 1 years and fine                                 |
+| - False records`<br>` - Obstructing officer `<br>` - Tamper records      | 6 months                                         |
 
 Q 15. What are cognizable and non-cognizable offences under CGST/SGST Act?
 
@@ -2967,14 +2956,13 @@ Ans. In terms of Section 132(4) and 132(5) of CGST/SGST Act
 - all offences where the evasion of tax is less than Rs. 5 crores shall be non-cognizable and bailable,
 - all offences where the evasion of tax exceeds Rs. 5 crores shall be cognizable and non- bailable.
 
-
-# Q 16. Is prior sanction of competent authority mandatory for initiating prosecution? 
+# Q 16. Is prior sanction of competent authority mandatory for initiating prosecution?
 
 Ans. Yes. No person shall be prosecuted for any offence without the prior sanction of the designated authority.
 
 ## Page 179
 
-# Q 17. Is 'mensrea' or culpable mental state necessary for prosecution under CGST/SGST Act? 
+# Q 17. Is 'mensrea' or culpable mental state necessary for prosecution under CGST/SGST Act?
 
 Ans. Yes. However, Section 135 presumes the existence of a state of mind (i.e. "culpable mental state" or mensrea) required to commit an offence if it cannot be committed without such a state of mind
 
@@ -2996,10 +2984,9 @@ Ans. Yes. Section 137 of the CGST/SGST ACT provides that every person who was in
 ## Page 180
 
 - is attributable to negligence of-
-any officer of the company then such officer shall be deemed to be guilty of the said offence and liable to be proceeded against and punished accordingly.
+  any officer of the company then such officer shall be deemed to be guilty of the said offence and liable to be proceeded against and punished accordingly.
 
-
-# Q 20. What is meant by compounding of offences? 
+# Q 20. What is meant by compounding of offences?
 
 Ans. Section 320 of the Code of Criminal Procedure defines "compounding" as to forbear from prosecution for consideration or any private motive.
 
@@ -3014,10 +3001,9 @@ Ans. Yes. As per section 138 of the CGST/SGST Act, any offence, other than the f
 ## Page 181
 
 - Any offence which is also an offence under NDPSA or FEMA or any other Act other than CGST/SGST;
-Compounding is to be permitted only after payment of tax, interest and penalty and compounding shall not affect any proceeding already instituted under any other law.
+  Compounding is to be permitted only after payment of tax, interest and penalty and compounding shall not affect any proceeding already instituted under any other law.
 
-
-# Q 22. Are there any monetary limits prescribed for compounding of offence? 
+# Q 22. Are there any monetary limits prescribed for compounding of offence?
 
 Ans. Yes. The lower limit for compounding amount is to be the greater of the following amounts: -
 
@@ -3029,14 +3015,13 @@ The upper limit for compounding amount is to be greater of the following amounts
 - $150 \%$ of tax involved or
 - Rs. 30,000.
 
-
 ## Q 23. What is the consequence of compounding of an offence under CGST/SGST Act?
 
 Ans. Sub-section (3) of section 138 provides that on payment of compounding amount no further proceeding to be initiated under this Act and criminal proceeding already initiated shall stand abated.
 
 ## Page 182
 
-# 21. Overview of the IGST Act 
+# 21. Overview of the IGST Act
 
 ## Q 1. What is IGST?
 
@@ -3054,7 +3039,7 @@ Ans. IGST shall be levied and collected by Centre on interstate supplies. IGST w
 
 respective governments to transfer the funds.
 
-# Q 4. What are the salient features of the draft IGST Law? 
+# Q 4. What are the salient features of the draft IGST Law?
 
 Ans. The draft IGST law contains 25 sections divided into9 Chapters. The law, inter alia, sets out the rules for determination of the place of supply of goods. Where the supply involves movement of goods, the place of supply shall be the location of goods at the time at which the movement of goods terminates for delivery to the recipient. Where the supply does not involve movement of goods, the place of supply shall be the location of such goods at the time of delivery to the recipient. In the case of goods assembled or installed at site, the place of supply shall be the place of such installation or assembly. Finally, where the goods are supplied on board a conveyance, the place of supply shall be the location at which such goods are taken on board.
 
@@ -3076,7 +3061,7 @@ e. Ensures tax neutrality while keeping the tax regime simple;
 f. Simple accounting with no additional compliance burden on the taxpayer;
 g. Would facilitate in ensuring high level of compliance and thus higher collection efficiency. Model can handle 'Business to Business' as well as 'Business to Consumer' transactions.
 
-# Q 6. How will imports/exports be taxed under GST? 
+# Q 6. How will imports/exports be taxed under GST?
 
 Ans. All imports/exports will be deemed as inter-state supplies for the purposes of levy of GST (IGST). The incidence of tax will follow the destination principle and the tax revenue in case of SGST will accrue to the State where the imported goods and services are consumed. Full and complete set-off will be available as ITC of the IGST paid on import on goods and services. Exports of goods and services will be zero rated. The exporter has the option either to export under bond without payment of duty and claim refund of ITC or pay IGST at the time of export and claim refund of IGST. The IGST on imports is leviable under the provisions of the Customs Tariff Act and shall be levied at
 
@@ -3084,7 +3069,7 @@ Ans. All imports/exports will be deemed as inter-state supplies for the purposes
 
 the time of imports along with the levy of the Customs Act (Section 5 of the IGST Act)
 
-# Q 7. How will the IGST be paid? 
+# Q 7. How will the IGST be paid?
 
 Ans. The IGST payment can be done utilizing ITC or by cash. However, the use of ITC for payment of IGST will be done using the following hierarchy, -
 
@@ -3106,7 +3091,7 @@ Ans. There would be settlement of account between the Centre and the states on t
 
 The settlement would be on cumulative basis for a state taking into account the details furnished by all the dealer in the settlement period. Similar settlement of amount would also be undertaken between CGST and IGST account.
 
-# Q 9. What treatment is given to supplies made to SEZ units or developer? 
+# Q 9. What treatment is given to supplies made to SEZ units or developer?
 
 Ans: Supplies to SEZ units or developer shall be zero rated in the same manner as done for the physical exports. Supplier shall have option to make supplies to SEZ without payment of taxes and claim refunds of input taxes on such supplies (section 16 of the IGST Act).
 
@@ -3116,7 +3101,7 @@ Ans: The procedure and compliance requirement are same for processes likes regis
 
 ## Page 187
 
-# 22. Place of Supply of Goods and Service 
+# 22. Place of Supply of Goods and Service
 
 ## Q 1. What is the need for the Place of Supply of Goods and Services under GST?
 
@@ -3153,7 +3138,7 @@ Ans. In respect of B2B transactions, the taxes paid are taken as credit by the r
 
 and the taxes paid actually come to the government.
 
-# Q 5. What would be the place of supply where goods are removed? 
+# Q 5. What would be the place of supply where goods are removed?
 
 Ans. The place of supply of goods shall be the location of the goods at the time at which the movement of goods terminates for delivery to the recipient. (Section 10 of IGST Act)
 
@@ -3169,7 +3154,7 @@ However, in respect of services, the place of supply shall be the location of th
 
 ## Page 191
 
-# Q 8. What is the default presumption for place of supply in respect of B2B supply of services? 
+# Q 8. What is the default presumption for place of supply in respect of B2B supply of services?
 
 Ans. The terms used in the IGST Act are registered taxpayers and non-registered taxpayers. The presumption in case of supplies to registered person is the location of such person. Since the recipient is registered, address of recipient is always there and the same can be taken as proxy for place of supply.
 
@@ -3185,7 +3170,7 @@ Ans. Where the immovable property is located in more than one State, the supply 
 
 supplies)
 
-# Q 11. What would be the place of supply of services provided for organizing an event, say, IPL cricket series which is held in multiple states? 
+# Q 11. What would be the place of supply of services provided for organizing an event, say, IPL cricket series which is held in multiple states?
 
 Ans. In case of an event, if the recipient of service is registered, the place of supply of services for organizing the event shall be the location of such person.
 
@@ -3217,7 +3202,7 @@ Q 15. What will be the place of supply for mobile
 
 ## Page 194
 
-# connection? Can it be the location of supplier? 
+# connection? Can it be the location of supplier?
 
 Ans. For domestic supplies: The location of supplier of mobile services cannot be the place of supply as the mobile companies are providing services in multiple states and many of these services are inter-state. The consumption principle will be broken if the location of supplier is taken as place of supply and all the revenue may go to a few states where the suppliers are located.
 
@@ -3235,7 +3220,7 @@ Ans. The place of supply shall be the location of the recipient of services on t
 
 ## Page 195
 
-# and takes some services from ICICI Bank in Manali. What will be the place of supply? 
+# and takes some services from ICICI Bank in Manali. What will be the place of supply?
 
 Ans. If the service is not linked to the account of person, place of supply shall be Kullu i.e. the location of the supplier of services. However, if the service is linked to the account of the person, the place of supply shall be Mumbai, the location of recipient on the records of the supplier.
 
@@ -3245,7 +3230,7 @@ Ans. The location of the recipient of services on the records of the supplier of
 
 ## Page 196
 
-# 23. GSTN and Frontend Business Process on GST Portal 
+# 23. GSTN and Frontend Business Process on GST Portal
 
 ## Q 1. What is GSTN?
 
@@ -3259,7 +3244,7 @@ Ans. The GST System Project is a unique and complex IT initiative. It is unique 
 
 IT Infrastructure and Service back bone which enables capture, processing and exchange of information amongst the stakeholders (including taxpayers, States and Central Government, Bank and RBI). To achieve these objectives GSTN was created.
 
-# Q 3. What is the genesis of GSTN? 
+# Q 3. What is the genesis of GSTN?
 
 Requirements of strong IT Infrastructure was discussed in the 4th meeting of 2010 of the Empowered Committee of State Finance Ministers held on 21/7/2010. In the said meeting the EC approved creation of an 'Empowered Group on IT Infrastructure for GST' (referred to as EG) under the chairmanship of Dr. Nandan Nilekani with Additional Secretary (Rev), Member (B\&C) CBEC, DG (Systems), CBEC, FA Ministry of Finance, Member Secretary EC and five state commissioners of Trade Taxes (Maharashtra, Assam, Karnataka, West Bengal and Gujarat) as members. The Group was mandated to suggest, inter alia, the modalities for setting up a National Information Utility (NIU/ SPV) for implementing the Common Portal to be called GST Network (GSTN) and recommend the structure and terms of reference for the NIU/ SPV, detailed implementation strategy and the road map for its creation in addition to other items like training, outreach etc.
 
@@ -3293,20 +3278,20 @@ v. GSTN SPV would have a self- sustaining revenue model, where it would be able 
 vi. GSTN SPV to be the exclusive national agency responsible for delivering integrated indirect Tax related services involving multiple tax authorities. Accordingly, any other service provider seeking to deliver similar integrated services would be required to enter into a formal arrangement with GSTN SPV for the services.
 vii. A one- time non- recurring Grant- in aid of Rs. 315 crores from the Central Government towards functioning of the SPV for a three-year period after incorporation.
 
-# Q 4. What is the equity structure and Revenue Model of GSTN? 
+# Q 4. What is the equity structure and Revenue Model of GSTN?
 
 Ans. (a) Equity Structure: - In compliance of the Cabinet decision, GST Network was registered as a not-for-profit, non-Government, private limited company under section 8 of the Companies Act, 1956 with the following equity structure:
 
 ## Page 201
 
-| Central Govt | $24.5 \%$ |
-| :-- | :--: |
-| State Govts | $24.5 \%$ |
-| HDFC | $10 \%$ |
-| HDFC Bank | $10 \%$ |
-| ICICI Bank | $10 \%$ |
-| NSE Strategic Investment Co | $10 \%$ |
-| LIC Housing Finance Ltd | $11 \%$ |
+| Central Govt                | $24.5 \%$ |
+| :-------------------------- | :---------: |
+| State Govts                 | $24.5 \%$ |
+| HDFC                        |  $10 \%$  |
+| HDFC Bank                   |  $10 \%$  |
+| ICICI Bank                  |  $10 \%$  |
+| NSE Strategic Investment Co |  $10 \%$  |
+| LIC Housing Finance Ltd     |  $11 \%$  |
 
 The GSTN in its current form was created after taking approval of the Empowered Committee of State Finance Ministers and Union Government after due deliberations over a long period of time.
 (b) Revenue Model: An amount of 315 Cr. was approved by the Govt. of India as Grants-in-Aid for initial setting up of the GSTN-SPV in 2013. During the period 31.03.2013 to 31.03.2016, an amount of Rs 143.96 Crores was released as Grant-In-Aid to GSTN out of Rs 315 Crores approved by Govt of India. Out of the grant-in-aid received, only Rs. 62.11 Cr was spent during this period in setting of the Company and making it functional. The balance grant was returned to Govt. of India. During FY 2016-17, GSTN has got loan sanctioned from a commercial bank to meet expenditure over setting up the IT Platform to provide services to the Center and States through GST portal and developing the backend for 27 States and Union Territories. The Revenue model for GSTN has been approved by the Empowered Committee of State Finance Ministers under which user charges will be paid by the Centre and States/UTs equally on behalf of taxpayers and other stakeholders for availing services from the GST Portal. The user charges will be shared equally by the Centre and the States. The user charges for States will be apportioned amongst them based on
@@ -3315,7 +3300,7 @@ The GSTN in its current form was created after taking approval of the Empowered 
 
 number of registered taxpayers.
 
-# Q 5. What services will be rendered by GSTN? 
+# Q 5. What services will be rendered by GSTN?
 
 Ans. GSTN will render the following services through the Common GST Portal:
 (a) Registration (including existing taxpayer migration, a process which began on $8^{\text {th }}$ Nov 2016);
@@ -3343,7 +3328,7 @@ etc.) shall be conducted by the tax authorities of States and Central government
 
 Thus, the frontend (GST Portal services) shall be provided by GSTN and the backend modules shall be developed by states and Central Government themselves. However, 27 states (termed as Model-2 states) have asked GSTN to develop their backend modules also. The CBEC and rest of the 9 states (Model 1) have decided to develop and host the back-end modules themselves. For Model 1 states/ CBEC full data (registration, return, payment etc.) submitted by taxpayers will be shared with them for information and analysis as deemed fit by them.
 
-# Q 7. What will be the role of GSTN in registration? 
+# Q 7. What will be the role of GSTN in registration?
 
 Ans. The application for Registration will be made Online on GST Portal.
 
@@ -3359,7 +3344,7 @@ Ans. GSTN has engaged M/S Infosys as a single Managed Service Provider (MSP) for
 
 maintaining the system for a period of 5 years from the Go-Live date.
 
-# Q 9. What are the basic features of GST common portal? 
+# Q 9. What are the basic features of GST common portal?
 
 Ans. The GST portal (www.gst.gov.in ) is accessible over Internet (by Taxpayers and their CAs/Tax Advocates etc.) and Intranet by Tax Officials etc. The portal is going to be one single common portal for all GST related services e.g.-
 i. Tax payer registration (New, surrender, cancelation, amendment etc.);
@@ -3377,7 +3362,7 @@ Ans. A common GST system will provide linkage to all State/UT Commercial Tax dep
 
 ![img-1.jpeg](page205_img-1.jpeg.png)
 
-# Q 11. What is GSP (GST Suvidha Provider)? 
+# Q 11. What is GSP (GST Suvidha Provider)?
 
 Ans. GST System will provide a GST portal for taxpayers to access the GST System and do all the GST compliance activities. But there will be wide variety of tax payers (SME, Large Enterprise, Micro Enterprise etc.) which may require different kind of facilities like converting their purchase/sales register data in GST compliant format, Integration of their Accounting Packages/ERP with GST System etc., various kind of dashboards to view Matched/Mismatched ITC claims, Tax liability, Filing status etc. As invoice level filing is required, so large organizations may require an automated way to interact with GST system as it may be practically impossible for them to upload large number of invoices through a web portal. So an eco- system is required, which can help such taxpayers in GST compliance.
 
@@ -3387,7 +3372,7 @@ As Tax payer convenience will be the key to success of GST regime, this eco-syst
 
 All above reasons require an eco-system of third party service providers, who have access to GST System and capability to develop such applications. These service providers have been given a generic name, GST Suvidha Providers or GSP.
 
-# Q 12. What will be the role of GST Suvidha Providers (GSP)? 
+# Q 12. What will be the role of GST Suvidha Providers (GSP)?
 
 Ans. GSP will be developing applications having features like return filing, reconciliation of purchase register data with auto populated data for acceptance/rejection/Modification, dashboards for taxpayers for quick monitoring of GST compliance activities. they may also provide role based access to divide various GST related activities like uploading invoice, filing returns etc., among different set of users inside a company (medium or large companies will need it), Applications for Tax Professional to manage their client's GST compliance activities, Integration of existing accounting packages/ERP with GST System, etc.
 
@@ -3407,7 +3392,7 @@ could be offered by the GSPs to meet specific requirements of Taxpayers for GST 
 
 Above are just a few illustrations. There will be many more requirements of different sets of Tax payers. These requirements of taxpayers can be met by GSPs.
 
-# Q 14. What are the functions which a taxpayer will perform at the GST Common Portal being developed and maintained by GSTN for the taxpayers? 
+# Q 14. What are the functions which a taxpayer will perform at the GST Common Portal being developed and maintained by GSTN for the taxpayers?
 
 Ans. GST Common Portal is envisaged as one-stop-
 
@@ -3423,8 +3408,7 @@ shop for all requirements under GST for the taxpayers. Illustrative list of func
 - File application for refund etc.
 - Status review of return/tax ledger/cash ledger
 
-
-# Q 15. What will be the role of tax officers from State and Central Govt in respect of the GST system being developed by GSTN? 
+# Q 15. What will be the role of tax officers from State and Central Govt in respect of the GST system being developed by GSTN?
 
 Ans. The officers will use information/ application submitted by taxpayer on GST Portal for following statutory functions:
 
@@ -3434,7 +3418,7 @@ Ans. The officers will use information/ application submitted by taxpayer on GST
 
 ## Page 209
 
-# Q 16. Will GSTN generate a unique identification for each invoice line in GSTN system? 
+# Q 16. Will GSTN generate a unique identification for each invoice line in GSTN system?
 
 Ans. No, GSTN will not generate any new identification. The combination of Supplier's GSTIN, Invoice no and Financial year will make each Invoice unique.
 
@@ -3471,19 +3455,19 @@ GSTN has issued Provisional IDs and passwords to all such taxpayers and the same
 Q 23. What material will be provided by GSTN, on various aspects of working on GST portal, for the benefit of taxpayers?
 Ans. GSTN is preparing Computer Based Training materials (CBT's) which have videos embedded into them for each process to be performed on the GST portal. These will be put on the GST portal as well as on the website of all tax authorities. Apart from CBT's, Various User Manuals, FAQ's etc., will also be placed on GST Portal for education of the taxpayers. Apart from it, a helpdesk has been set up for the taxpayers for logging of their tickets via mail (helpdesk@gst.gov.in) or phone (0124-4688999). CBT, FAQ and User Manual for enrolment process are available at https://www.gst.gov.in/help.
 
-# Q 24. Will the return and registration data furnished by the taxpayers on the GST Common Portal will remain Confidential? 
+# Q 24. Will the return and registration data furnished by the taxpayers on the GST Common Portal will remain Confidential?
 
 Ans. Yes, all steps are being taken by GSTN to ensure the confidentiality of personal and business information furnished by the taxpayers on GST Common Portal. This will be done by ensuring Role Based Access Control (RBAC) and encryption of critical data of taxpayers both during transit and in storage. Only the authorized tax authorities will be able to see and read the data.
 
 ## Page 212
 
-# Q 25. What are the security measures being taken by GSTN to ensure security of the GST system? 
+# Q 25. What are the security measures being taken by GSTN to ensure security of the GST system?
 
 Ans. GST Systems project has incorporated state of art security framework for data and service security. Besides high end firewalls, intrusion detection, data encryption at rest as well as in motion, complete audit trail, tamper proofing using consistent hashing algorithms, OS and host hardening etc., GSTN is also establishing a primary and secondary Security Operations Command \& Control center, which will proactively monitor and protect malicious attack in real time. GSTN is also ensuring secure coding practices through continuous scanning of source code \& libraries being used in GST system to protect against commonly known and unknown threats.
 
 ## Page 213
 
-# 24. Transitional Provisions 
+# 24. Transitional Provisions
 
 ## Q 1. Will CENVAT credit (or VAT credit) carried forward in the last return prior to GST under existing law be available as ITC under GST?
 
@@ -3528,7 +3512,7 @@ Q 7. Will ITC be allowed to a service provider on VAT paid inputs held as stock 
 
 ## Page 216
 
-# day? 
+# day?
 
 Ans. Yes, he will be entitled to input tax credit on inputs held in stock in accordance with the provisions of section 140(3).
 
@@ -3562,7 +3546,7 @@ However, if the said inputs/semi- finished goods are not returned within six mon
 
 period of maximum two months), the input tax credit availed is liable to be recovered.
 
-# Q 11. What happens if the job worker does not return the goods within the specified time? 
+# Q 11. What happens if the job worker does not return the goods within the specified time?
 
 Ans. Tax will be payable by the job worker on the said goods if they are not returned to the place of business of the manufacturer within six months (or within the extended period of maximum two months) from the appointed day Section 141(1), 141(2)
 
@@ -3578,7 +3562,7 @@ Ans. No tax under GST will be payable if finished goods removed from factory pri
 
 other process within six months (or within the extended period of maximum two months) from the appointed day section 141(3).
 
-# Q 14. When tax shall become payable in GST on manufactured goods sent to a Job worker for carrying out tests or any other process not amounting to manufacture under the existing law? 
+# Q 14. When tax shall become payable in GST on manufactured goods sent to a Job worker for carrying out tests or any other process not amounting to manufacture under the existing law?
 
 Ans. Tax will be payable in GST on manufactured goods sent to a job worker prior to the appointed day for carrying out tests or any process not amounting to manufacture under the existing law if such goods are not returned to the manufacturer within six months (or within the extended period of maximum two months) from the appointed day. Further, the input tax credit enjoyed by the manufacturer will liable to be recovered if the aforesaid goods are not returned within six months from the appointed day. Section 141(3)
 
@@ -3596,7 +3580,7 @@ revision.
 
 In case where the price is revised downwards the taxable person will be allowed to reduce his tax liability only if the recipient of the invoice or credit note has reduced his ITC corresponding to such reduction of tax liability-section 142(2).
 
-# Q 17. What will be the fate of pending refund of tax/interest under the existing law? 
+# Q 17. What will be the fate of pending refund of tax/interest under the existing law?
 
 Ans. The pending refund claims will be disposed of in accordance with the provisions of the existing law section 142(3).
 
@@ -3645,4 +3629,3 @@ Ans. No, in such case no deduction of tax at source shall be made under GST.
 Q 26. Goods were sent on approval not earlier than six months before the appointed day but are returned to the seller after 6 months from the appointed day, will tax be payable under GST?
 
 Ans. Yes, if such goods are liable to tax under GST and the person who has rejected or has not approved the goods, returns it after 6 months (or within the extended period of maximum two months) from the appointed day. In that case tax shall also be payable by the person who has sent the goods on approval basis- section 142(12).
-

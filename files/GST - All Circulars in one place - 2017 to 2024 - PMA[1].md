@@ -1,4 +1,4 @@
-# Part 1 (from GST - All Circulars in one place - 2017 to 2024 - PMA[1]_part1.pdf)
+# GST - All Circulars in one place - 2017 to 2024 - PMA
 
 
 

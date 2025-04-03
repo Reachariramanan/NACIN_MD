@@ -1,6 +1,6 @@
-List of Supply of Goods Fully Exempted from Payment of IGST under IGST Act, 2017.
+# List of Supply of Goods Fully Exempted from Payment of IGST under IGST Act, 2017.
 
-# Introduction: 
+## Introduction: 
 
 By exercising its power under Section 6 of the IGST Act, 2017, the Central Government has fully exempted inter-state supply of certain goods from the payment of Integrated GST under Section 5 of the IGST Act, 2017. This has been done by issuing a notification No. 2/2017-Integrated Tax (Rate), dated 28.06.2017 (effective from 1.7.2017) under Section 6 of the CGST Act, 2017.
 2. The notification No. 2/2017-Integrated Tax (Rate), dated 28.06.2017 has been amended several times in the past one and half years. In this document, efforts have been made to provide the updated notification No. 2/2017-Integrated Tax (Rate), dated 28.06.2018 as on date. All the amendments made in this notification have been incorporated in the text of notification given in this document and have been properly referenced for the convenience of readers.
