@@ -577,8 +577,6 @@ Representations have been received from trade and industry seeking clarity on wh
 2. In order to clarify the issue and to ensure uniformity in the implementation of the provisions of law across the field formations, the Board, in exercise of its powers conferred by section 168 (1) of the Central Goods and Services Tax Act, 2017 (hereinafter referred to as "CGST Act"), hereby clarifies the issues as under:
 
 
-
-
 ## Issue: 
 
 (Clarification regarding taxability of the transaction of providing loan by an overseas entity to its Indian related entity or by a person in India to a related person)
@@ -614,12 +612,14 @@ Therefore, it may not be desirable to place the services being provided for proc
 ## Page 38
 
 - 3. It is requested that suitable trade notices may be issued to publicize the contents of this Circular.
-- 4. Difficulties, if any, in implementing this Circular may please be brought to the notice of the Board. Hindi version would follow. [F. No. CBIC-20001/4/2024-GST]
+- 4. Difficulties, if any, in implementing this Circular may please be brought to the notice of the Board. Hindi version would follow. **[F. No. CBIC-20001/4/2024-GST]**
 
 ## Page 39
 
 (Sanjay Mangal)
 Principal Commissioner (GST)
+
+
 
 217/11/2024-GST- ITC by the insurance companies
 

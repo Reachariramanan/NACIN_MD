@@ -112,7 +112,6 @@ Explanation.-For the purposes of this clause, supply of goods, or of services, o
 Table I
 
 | Union/State <br> List | Entry No. | Prior to Constitution (101 ${ }^{\text {st }}$ <br> amendment) Act, 2016 | After Constitution (101 ${ }^{\text {st }}$ amendment ) Act, <br> 2016 |
-| :--: | :--: | :--: | :--: |
 | Union List | Entry No. 84 | 84. Duties of excise on tobacco and other goods manufactured or produced in India except- <br> (a) alcoholic liquors for human consumption. <br> (b) opium, Indian hemp and other narcotic drugs and narcotics, but including medicinal and toilet preparations containing alcohol or any substance included in sub-paragraph (b) of this entry | 84. Duties of excise on the following goods manufactured or produced in India, namely: (a) petroleum crude; <br> (b) high speed diesel; <br> (c) motor spirit (commonly known as petrol); <br> (d) natural gas; <br> (e) aviation turbine fuel; and <br> (f) tobacco and tobacco products. |
 | Union List | Entry No. 92 | 92. Taxes on the sale or purchase of newspapers and on advertisements published therein | 92. Omitted |
 | Union List | Entry No. 92C | 92 C. Taxes on services. | 92C. Omitted |
@@ -155,14 +154,11 @@ Note: It may be noted that tobacco and tobacco products have been subjected to d
 Table-II
 
 | Sr. <br> No | Name of the Act | Name of the Duty | Sections repealed /Whole <br> Act repealed | Repealed by |
-| :-- | :-- | :-- | :-- | :-- |
 | 1. | Central Excise Act, 1944 | Central Excise Duty/ <br> CENVAT duty | Repealed except for five <br> petroleum commodities and <br> tobacco and Tobacco <br> products | CGST Act, 2017 |
 | 2 | The Finance Act, 1994 | Service Tax | Chapter V | CGST Act, 2017 |
 | 3. | The Medicinal and Toilet <br> Preparations (Excise Duties) <br> Act, 1955, | The Whole Act | CGST Act, 2017 |  |
 | 4. | The Additional Duties of <br> Excise (Goods of Special <br> Importance) Act, 1957 |  |  | CGST Act, 2017 |
-
 | 5 | The Additional Duties of Excise (Textiles and Textile Articles) Act, 1978 |  | The whole Act | CGST Act, 2017 |
-| :--: | :--: | :--: | :--: | :--: |
 | 6 | The Central Excise Tariff Act, 1985 |  | The whole Act | CGST Act, 2017 |
 | 3. | The Rubber Act, 1947 (24 of 1947) | Rubber Cess | Clause (b) of sub-section <br> (1) of section 9 and section <br> 12 (Repealed) | The Taxation Laws <br> (Amendment) Act, 2017 |
 | 4. | The Industries (Development and Regulation) Act, 1951 ( 65 of 1951) | Industries Cess on Scheduled Industries | Section 9 ( repealed) | The Taxation Laws ( Amendment) Act, 2017 |
