@@ -1,4 +1,4 @@
-# CENTRAL BOARD OF INDIRECT TAXES \& CUSTOMS 
+# CENTRAL BOARD OF INDIRECT TAXES \& CUSTOMS
 
 ## NEW DELHI
 
@@ -6,12 +6,9 @@
 
 ## GST FLYERS
 
-## Updated as on $1^{\text {st }}$ January, 2018 <br> (As Amended)
+## Updated as on $1^{\text {st }}$ January, 2018 `<br>` (As Amended)
 
-
-
-
-# F O R E W O R D 
+# F O R E W O R D
 
 Flyers on important topics of GST are being brought out by the National Academy of Customs, Indirect Taxes, \&Narcotics (NACIN), the apex training institution under the Central Board of Excise \& Customs (CBEC). These Flyers are being issued from time to time and are available on the GST Council website as well as the CBEC website. Till date, 51 Flyers have been issued and more are being issued on an ongoing basis. These flyers have been quite popular as they have been written from the layman's perspective in a simple and lucid language to promote conceptual understanding of GST.
 
@@ -23,10 +20,7 @@ I congratulate DG, NACIN and her team for this outreach effort and am sure that 
 Vanaja N. Sarna
 Chairman, CBEC
 
-
-
-
-# C O N T E N T S 
+# C O N T E N T S
 
 1. Registration under GST Law ..... 1
 2. Cancellation of Registration in GST ..... 10
@@ -45,8 +39,7 @@ Chairman, CBEC
 15. Credit Note in GST ..... 122
 16. Debit Note in GST ..... 127
 17. Electronic Cash/Credit Ledgers and Liability ..... 131
-Register in GST
-
+    Register in GST
 18. Electronic Way Bill in GST. ..... 138
 19. InputTax Credit Mechanism in GST. ..... 149
 20. Transition Provisions under GST. ..... 158
@@ -63,19 +56,18 @@ Register in GST
 31. Provisional Assessment in GST. ..... 253
 32. Returns in GST. ..... 258
 33. Statement of Outward Supplies (GSTR-1) ..... 270
-in GST
+    in GST
 34. Refunds under GST. ..... 281
 35. Refund of Integrated Tax paid on account of ..... 302
-zero rated supplies
+    zero rated supplies
 36. Refund of unutilised Input Tax Credit (ITC) ..... 312
-
 37. Advance Ruling Mechanism in GST. ..... 329
 38. Goods Transport Agency in GST. ..... 343
 39. GST on Charitable and Religious Trusts. ..... 352
 40. GST on Education Services ..... 363
 41. GST on Co-operative Housing Societies ..... 379
 42. Online Information Data Base Access and ..... 388
-Retrieval (OIDAR) Services in GST
+    Retrieval (OIDAR) Services in GST
 43. GST Practitioners ..... 400
 44. NationalAnti-ProfiteeringAuthorityin GST ..... 406
 45. BenefitsofGoodsandServicesTax(GST) ..... 413
@@ -106,16 +98,13 @@ Prepared under the supervision of Shri Samir Bajaj, Additional Director General,
 Vetted by GST Policy Wing, CBEC
 Comments and Suggestions may please be sent to dg.nacen-cbec@nic.in
 
-# Disclaimer: 
+# Disclaimer:
 
 The Flyers compiled by NACIN and vetted by the GST Policy Wing, CBEC are based on the CGST/SGST/UTGST/IGST Act(s), the CGST Rules, 2017 and the various orders/circulars issued by CBEC. These are for training and academic purposes only.
 
 The information in these flyers is intended only to provide a general overview and is not intended to be treated as legal advice or opinion. For greater details, you are requested to refer to the respective CGST/SGST/UTGST/IGST Acts, Rules, Notifications, Circulars, Orders issued from time to time.
 
-
-
-
-# Chapter One 
+# Chapter One
 
 ## Registration under GST Law
 
@@ -129,12 +118,10 @@ Registration will confer the following advantages to a taxpayer:
 
 - He is legally recognized as supplier of goods or services.
 - He is legally authorized to collect tax from his customers and pass on the credit of the taxes paid on the goods or services supplied to the purchasers/ recipients.
-
 - He can claim input tax credit of taxes paid and can utilize the same for payment of taxes due on supply of goods or services.
 - Seamless flow of Input Tax Credit from suppliers to recipients at the national level.
 
-
-# Liability to register 
+# Liability to register
 
 GST being a tax on the event of "supply", every supplier needs to get registered. However, small businesses having all India aggregate turnover below Rupees 20 lakh (10 lakh if business is in Assam, Arunachal Pradesh, Himachal Pradesh, Uttarakhand, Manipur, Mizoram, Sikkim, Meghalaya, Nagaland or Tripura) need not register. The small businesses, having turnover below the threshold limit can, however, voluntarily opt to register.
 
@@ -156,7 +143,6 @@ certain categories of suppliers who are required to get compulsory registration 
 - A person receiving supplies on which tax is payable by recipient on reverse charge basis
 - Casual taxable person who is not having fixed place of business in the State or Union Territory from where he wants to make supply. However casual taxable persons making supplies of specified handicraft goods need not take compulsory registration and are entitled to the threshold exemption of Rs. 20 Lakh. Handicraft goods are specified in Notification no. 33/2017-Central Tax dated 15.09.2017 as amended by Notification no. 38/2017-Central Tax dated 13.10.2017.
 - non-resident taxable persons who is not having fixed place of business in India
-
 - A person who supplies on behalf of some other taxable person (i.e. an Agent of some Principal)
 - E-commerce operators, who provide platform to the suppliers to make supply through it
 - Suppliers of goods who supply through such e-commerce operator who are liable to collect tax at source. Persons supplying services through e-commerce operators need not take compulsory registration and are entitled to avail the threshold exemption of Rs. 20 Lakh as per Notification No. 65/2017-Central tax dated 15.11.2017.
@@ -171,7 +157,7 @@ law prescribes special procedure for registration, as also for extension of the 
 
 In respect of supplies to some notified agencies of United Nations organisation, multinational financial institutions and other organisations, a centralised unique identification number (UIN) is issued.
 
-# Standardisation of procedures 
+# Standardisation of procedures
 
 A total of 30 forms / formats have been prescribed in the GST registration rules. For every process in the registration chain such as application for registration, acknowledgment, query, rejection, registration certificate, show cause notice for cancellation, reply, cancellation, amendment, field visit report etc., there are standard formats. This will make the process uniform all over the country. The decision making process will also be fast. Strict time lines have been stipulated for completion of different stages of registration process.
 
@@ -179,7 +165,7 @@ An application has to be submitted on line through the common portal (GSTN) with
 
 The Proper Officer has to either raise a query or approve the grant of registration within three working days failing which registration would be considered as deemed to have been approved. The applicant would have to respond within seven working days starting from the fourth day of filing the original application. The proper officer would have to grant or reject the application for registration within seven working days thereafter.
 
-# Amendment of Registration 
+# Amendment of Registration
 
 Except for the changes in some core information in the registration application, a taxable person shall be able to make amendments without requiring any specific approval from the tax authority. In case the change is for legal name of the business, or the State of place of business or additional place of business, the taxable person will apply for amendment within 15 days of the event necessitating the change. The proper officer, then, will approve the amendment within next 15 days. For other changes like name of day to day functionaries, e-mail Ids, Mobile numbers etc. no approval of the proper officer is required, and the amendment can be affected by the taxable person on his own on the common portal.
 
@@ -191,17 +177,17 @@ The GST law provides for two scenarios where cancellation
 
 of registration can take place; the one when the taxable person no more requires it (voluntary cancellation), and another when the proper officer considers the registration liable for cancellation in view of certain specified defaults (Suo-motu cancellation) like when the registrant is not doing business from the registered place of business or if he issues tax invoice without making the supply of goods or services. The taxable person desirous of cancellation of Registration will apply on the common portal within 30 days of event warranting cancellation. He will also declare in the application the stock held on the date with effect from which he seeks cancellation. He will also work out and declare the quantum of dues of payments and credit reversal, and the particulars of payments made towards discharge of such liabilities. In case of voluntary registration (taken despite not being liable for obtaining registration), no cancellation is allowed until expiry of one year from the effective date of registration. If satisfied, the proper officer has to cancel the registration within 30 days from the date of application or the date of reply to notice (if issued, when rejection is concluded by the officer).
 
-# Revocation of Cancellation 
+# Revocation of Cancellation
 
 In case where registration is cancelled suo-motu by the proper officer, the taxable person can apply within 30 days of service of cancellation order, requesting the officer for revoking the cancellation ordered by him. However, before so applying, the person has to make good the defaults (by filing all pending returns, making payment of all dues and so) for which the registration was cancelled by the officer.
 
 If satisfied, the proper officer will revoke the cancellation earlier ordered by him. However, if the officer concludes to reject the request for revocation of cancellation, he will first observe the principle of natural justice by way of issuing notice to the person and hearing him on the issue.
 
-# Physical verification in connection with registration 
+# Physical verification in connection with registration
 
 Physical verification is to be resorted to only where it is found necessary in the subjective satisfaction of the proper officer. If at all, it is felt necessary, it will be undertaken only after granting the registration and the verification report along with the supporting documents and photographs shall have to be uploaded on the common portal within fifteen working days.
 
-# C ancellation of R egistration in GST 
+# C ancellation of R egistration in GST
 
 ## Introduction:
 
@@ -222,7 +208,7 @@ a) any registered person, other than a person paying tax under Composition levy 
 a) any person who has taken voluntary registration under sub-section (3) of section 25 has not commenced business within six months from the date of registration;
 a) registration has been obtained by means of fraud, willful misstatement or suppression of facts
 
-# Procedurefor cancellation: 
+# Procedurefor cancellation:
 
 i. A person already registered under any of the existing laws (Central excise, Service tax, VAT etc.), but who now is not liable to be registered under the GST Act has to submit an application electronically by $31^{\mathrm{ST}}$ December 2017, in FORM GST REG-29 at the common portal for the cancellation of registration granted to him. The Superintendent of Central Tax
 
@@ -238,13 +224,13 @@ vii. The registered person whose registration is cancelled shall pay an amount, 
 viii. In case of capital goods or plant and machinery, the taxable person shall pay an amount equal to the input tax credit taken on the said capital goods or plant and machinery, reduced by such percentage points as may be prescribed or the tax on the transaction value of such capital goods or plant and machinery under section 15 , whichever is higher.
 ix. The cancellation of registration shall not affect the liability of the person to pay tax and other dues for any period prior to the date of cancellation whether or not such tax and other dues are determined before or after the date of cancellation.
 
-# Final Returns: 
+# Final Returns:
 
 When the registration of a registered person other than an Input Service Distributor or a non-resident taxable person
 
 or a person paying tax under the composition scheme or TDS/TCS; has been cancelled, the person has to file a final return within three months of the date of cancellation or date of order of cancellation, whichever is later, electronically in FORM GSTR-10 through the common portal either directly or through a Facilitation Centre notified by the Commissioner.
 
-# Revocation of Cancellation: 
+# Revocation of Cancellation:
 
 i. When the registration has been cancelled by the Proper Officer (Superintendent of Central Tax) on his own motion and not on the basis of an application ,then the registered person, whose registration has been cancelled, can submit an application for revocation of cancellation of registration, in FORM GST REG-21, to the Proper Officer (Assistant or Deputy Commissioners of Central Tax), within a period of thirty days from the date of the service of the order of cancellation of registration at the common portal, either directly or through a Facilitation Centre notified by the Commissioner:
 ii. However, if the registration has been cancelled for failure to furnish returns, application for revocation shall be filed, only after such returns are furnished and any amount due as tax, in terms of such returns, has been paid along with any amount payable towards interest, penalty and late fee in respect of the said returns.
@@ -256,7 +242,7 @@ v. Upon receipt of the information or clarification in FORM GST REG-24, the Prop
 plicant will be mandatorily given an opportunity of being heard, after which the Proper Officer (Assistant or Deputy Commissioners of Central Tax) after recording the reasons in writing may by an order in FORM GST REG- 05, reject the application for revocation of cancellation of registration and communicate the same to the applicant.
 vi. The revocation of cancellation of registration under the State Goods and Services Tax Act or the Union Territory Goods and Services Tax Act, as the case may be, shall be deemed to be a revocation of cancellation of registration under Central Goods and Services Tax Act
 
-# Chapter Three 
+# Chapter Three
 
 ## The Meaning and Scope of Supply
 
@@ -267,14 +253,13 @@ The Central and State governments will have simultaneous powers to levy the GST 
 The term, "supply" has been inclusively defined in the Act. The meaning and scope of supply under GST can be understood in terms of following six parameters, which can be adopted to characterize a transaction as supply:
 
 1. Supply of goods or services. Supply of anything other than goods or services does not attract GST.
-
 2. Supply should be made for a consideration
 3. Supply should be made in the course or furtherance of business
 4. Supply should be made by a taxable person
 5. Supply should be a taxable supply
 6. While these six parameters describe the concept of supply, there are a few exceptions to the requirement of supply being made for a consideration and in the course or furtherance of business. Any transaction involving supply of goods or services without consideration is not a supply, barring few exceptions, in which a transaction is deemed to be a supply even without consideration. Further import of services for a consideration, whether or not in the course or furtherance of business is treated as supply.
 
-# Supply of goods or services or both 
+# Supply of goods or services or both
 
 Goods as well as services have been defined in the GST Law. The securities are excluded from the definition of goods as well as that of services. Money is also excluded from the definition of goods as well as services, however, activities relating to the use of money or its conversion by cash or by any other mode, from one form, currency or denomination, to another form, currency or denomination for which a separate consideration is charged are included in services.
 
@@ -287,9 +272,9 @@ Further Schedule III to the CGST Act, 2017 spells out activities which shall be 
 1. Services by an employee to the employer in the course of or in relation to his employment.
 2. Services of funeral, burial, crematorium or mortuary including transportation of the deceased.
 3. Sale of land and, sale of building where the entire consideration has been received after completion certificate is issued or after its first occupation.
-Actionable claims are included in the definition of goods, however, schedule III provides that actionable claims other than lottery, betting and gambling shall be neither goods nor services.
+   Actionable claims are included in the definition of goods, however, schedule III provides that actionable claims other than lottery, betting and gambling shall be neither goods nor services.
 
-# Supply for consideration 
+# Supply for consideration
 
 Consideration has specifically been defined in the CGST Act, 2017. It can be in money or kind. Any subsidy given by the Central Government or a State Government is not considered as consideration. It is immaterial whether the payment is made by the recipient or by any other person.
 
@@ -310,7 +295,7 @@ GST is essentially tax only on commercial transactions. Hence only those supplie
 
 However, there is one exception to this 'Course or Furtherance of Business' rule i.e., import of services for a consideration.
 
-# Supply by a taxable Person 
+# Supply by a taxable Person
 
 A supply to attract GST should be made by a taxable person. Hence a supply between two non-taxable persons does not constitute supply under GST. A "taxable person" is a person who is registered or liable to be registered under section 22 or section 24 . Hence even an unregistered person who is liable to be registered is a taxable person. Similarly, a person not liable to be registered but has taken voluntary registration and got himself registered is also a taxable person.
 
@@ -318,7 +303,7 @@ It should be noted that GST in India is state-centric. Hence
 
 a person making supplies from different states need to take separate registration in each state. Further the person may take more than one registration within a state if the person has multiple business verticals. A person who has obtained or is required to obtain more than one registration, whether in one State or Union territory or more than one State or Union territory shall, in respect of each such registration, be treated as distinct persons for the purposes of GST. Hence a supply between these entities constitutes supply under GST.
 
-# Taxable supply 
+# Taxable supply
 
 For a supply to attract GST the supply must be taxable. Taxable supply has been broadly defined and means any supply of goods or services or both which is leviable to tax under the Act. Exemptions may be provided to the specified goods or services or to a specified category of persons / entities making supply.
 
@@ -332,7 +317,7 @@ The location of the supplier and the place of supply determines whether a supply
 
 of supply is essential to ascertain whether integrated tax is to be paid or Central plus State tax are to be paid. Inter State supply of goods means a supply of goods where the location of the supplier and place of supply are in different States or Union territories. Intra State supply of goods means supply of goods where the location of the supplier and place of supply are in the same State or Union territory. Imports, Supplies from and to SEZs are treated as deemed inter-State supplies.
 
-# Composite / Mixed supply 
+# Composite / Mixed supply
 
 A composite supply means a supply made by a taxable person to a recipient comprising two or more supplies of goods or services or any combination thereof, which are naturally bundled and supplied in conjunction with each other in the ordinary course of business, one of which is a principal supply. For instance, a travel ticket from Mumbai to Delhi may include service of food being served on board, free insurance, use of airport lounge. In this case, transport of passenger, constitutes the pre-dominant element of the composite supply, and is treated as the principal supply and all other supplies are ancillary.
 
@@ -343,7 +328,7 @@ The GST Law lays down the tax liability on a composite or mixed supply in the fo
 
 shall be treated as supply of that particular supply which attracts the highest rate of tax.
 
-# Composite Supply and Mixed Supply 
+# Composite Supply and Mixed Supply
 
 ## Introduction
 
@@ -353,7 +338,7 @@ But not all supplies will be such simple and clearly identifiable supplies. Some
 
 and provides certainty in respect of tax treatment under GST for such supplies.
 
-# Composite Supply under GST 
+# Composite Supply under GST
 
 Under GST, a composite supply would mean a supply made by a taxable person to a recipient consisting of two or more taxable supplies of goods or services or both, or any combination thereof, which are naturally bundled and supplied in conjunction with each other in the ordinary course of business, one of which is a principal supply;
 
@@ -370,11 +355,10 @@ in the existing service tax regime. This concept has been explained in the Educa
 
 The rule is - 'If various elements of a bundled service are naturally bundled in the ordinary course of business, it shall be treated as provision of a single service which gives such bundle its essential character'
 
-# Illustrations - 
+# Illustrations -
 
 - A hotel provides a $4-\mathrm{D} / 3-\mathrm{N}$ package with the facility of breakfast. This is a natural bundling of services in the ordinary course of business. The service of hotel accommodation gives the bundle the essential character and would, therefore, be treated as service of providing hotel accommodation.
 - A 5 star hotel is booked for a conference of 100 delegates on a lump sum package with the following facilities:
-
 - Accommodation for the delegates
 - Breakfast for the delegates,
 - Tea and coffee during conference
@@ -395,7 +379,6 @@ as a package, then such a package could be treated as naturally bundled in the o
 - Other illustrative indicators, not determinative but indicative of bundling of services in ordinary course of business are -
 - There is a single price or the customer pays the same amount, no matter how much of the package they actually receive or use.
 - The elements are normally advertised as a package.
-
 - The different elements are not available separately.
 - The different elements are integral to one overall supply - if one or more is removed, the nature of the supply would be affected.
 
@@ -403,7 +386,7 @@ No straight jacket formula can be laid down to determine whether a service is na
 
 The above principles explained in the light of what constitutes a naturally bundled service can be gainfully adopted to determine whether a particular supply constitutes a composite supply under GST and if so what constitutes the principal supply so as to determine the right classification and rate of tax of such composite supply.
 
-# Mixed Supply 
+# Mixed Supply
 
 Under GST, a mixed supply means two or more individual supplies of goods or services, or any combination thereof, made in conjunction with each other by a taxable person for a single price where such supply does not constitute a composite supply;
 
@@ -414,7 +397,7 @@ In order to identify if the particular supply is a Mixed Supply, the first requi
 The following illustration given in the Education Guide of CBEC referred to above can be a pointer towards a mixed supply of services: -
 "A house is given on rent one floor of which is to be used as residence and the other for housing a printing press. Such renting for two different purposes is not naturally bundled in the ordinary course of business. Therefore, if a single rent deed is executed it will be treated as a service comprising entirely of such service which attracts highest liability of service tax. In this case renting for use as residence is a negative list service while renting for non-residence use is chargeable to tax. Since the latter category attracts highest liability of service tax amongst the two services bundled together, the entire bundle would be treated as renting of commercial property."
 
-# Determination of tax liability of tax liability of Composite and Mixed Supplies 
+# Determination of tax liability of tax liability of Composite and Mixed Supplies
 
 The tax liability on a composite or a mixed supply shall be
 
@@ -422,7 +405,7 @@ determined in the following manner, namely: -
 a) acomposite supply comprising two or more supplies, one of which is a principal supply, shall be treated as a supply of such principal supply; and
 b) amixed supply comprising two or more supplies shall be treated as a supply of that particular supply which attracts the highest rate of tax.
 
-# Time of supply in case of Composite supply 
+# Time of supply in case of Composite supply
 
 If the composite supply involves supply of services as principal supply, such composite supply would qualify as supply of services and accordingly the provisions relating to time of supply of services would be applicable. Alternatively, if composite supply involves supply of goods as principal supply, such composite supply would qualify as supply of goods and accordingly, the provisions relating to time of supply of goods would be applicable.
 
@@ -430,7 +413,7 @@ If the composite supply involves supply of services as principal supply, such co
 
 The mixed supply, if involves supply of a service liable to tax at higher rates than any other constituent supplies, such mixed supply would qualify as supply of services and accordingly the provisions relating to time of supply of services would be applicable. Alternatively, the mixed supply, if involves supply of goods liable to tax at higher rates than any other constituent supplies, such mixed supply would qualify as supply of goods and accordingly the provisions relating to time of supply of services would be applicable.
 
-# Certain clarifications on composite and mixed supply given by CBEC 
+# Certain clarifications on composite and mixed supply given by CBEC
 
 The printing industry in India in particular faces a dilemma in determining whether the nature of supply provided is that of goods or services and whether in case certain contracts involve both supply of goods and services, whether the same would constitute a supply of goods or services or if it would be a composite supply and in case it is, then what would constitute the principal supply. It is to be noted that in case of composite supplies, taxability is determined by the principal supply. To address concerns of the printing industry, CBEC has come out with Circular no.11/11/2017GST dated 20.10.2017, where in it is clarified as under:
 "It is clarified that supply of books, pamphlets, brochures, envelopes, annual reports, leaflets, cartons, boxes etc. printed with logo, design, name, address or other contents supplied by the recipient of such printed goods, are composite supplies and the question, whether such supplies constitute supply of goods or services would be determined on the basis of what constitutes the principal supply.
@@ -439,7 +422,7 @@ In the case of printing of books, pamphlets, brochures, annual reports, and the 
 
 In case of supply of printed envelopes, letter cards, printed boxes, tissues, napkins, wall paper etc. falling under Chapter 48 or 49 , printed with design, logo etc. supplied by the recipient of goods but made using physical inputs including paper belonging to the printer, predominant supply is that of goods and the supply of printing of the content [supplied by the recipient of supply] is ancillary to the principal supply of goods and therefore such supplies would constitute supply of goods falling under respective headings of Chapter 48 or 49 of the Customs Tariff.
 
-# Chapter Five 
+# Chapter Five
 
 ## Time of Supply in GST
 
@@ -457,7 +440,7 @@ As per section 31 of the CGST Act, 2017 an invoice for supply of goods needs to 
 
 Similarly, an invoice for supply of services needs to be issued before or after the provision of service but not later than thirty days from the date of provision of service.
 
-# Time of supply of goods (Default Rule) 
+# Time of supply of goods (Default Rule)
 
 Earliest of the following dates
 
@@ -468,20 +451,19 @@ Section 148 of the CGST Act, 2017, confers powers on the government (on the reco
 
 at the time of supply specified in clause (a) of sub-section (2) of Section 12. Thus, in respect of supply of goods by normal registered persons (other than composition dealers), the time of supply will be the issue of invoice (or the last date by which invoice has to be issued in terms of Section 31) Therefore, all taxpayers (except composition taxpayers) are exempted from paying GST at the time of receipt of advance in relation to supply of goods. The entire GST shall be payable only when the invoice is issued for such supply of goods. The special procedure will be applicable to this class of persons (registered persons making supplies of goods other than composition dealers) even in situations governed by Section 14 of the Act (change in rate). Notification no. 66/2017-Central Tax dated 15.11.2017 may be referred to.
 
-# Time of supply of services (Default Rule) 
+# Time of supply of services (Default Rule)
 
 Earliest of the following dates
 
 - If the invoice is issued within the legally prescribed period under section 31(2) of the CGST Act, 2017 read with Rule 47 of CGST Rules, 2017 (which is thirty days from the date of the supply of service), then the date of issue of invoice by the supplier or date of receipt of payment, which ever is earlier.
 - If the invoice is not issued within the legally prescribed period under section 31(2) of the CGST Act, 2017 then the date of provision of service or date of receipt of payment, whichever is earlier.
-
 - Date on which recipient shows the receipt of service in his books of account, in a case aforesaid two provisions do not apply.
 
 The supply of services shall deemed to have been made to the extent it is covered by the invoice or by the payment, as the case may be. For example, Firm 'A' receives an advance of Rs. 2500/- on 29.07.2017 for provision ofservices worth Rs. 10000/- to be supplied in the month of September, then it is deemed that firm 'A' has made a supply of Rs. 2500/- on 29.07.2017 and tax liability on Rs. 2500/- is to be discharged by 20.08.2017.
 
 Although tax is payable on any advance received for a supply of services, however for the convenience of trade it is provided that if a supplier of taxable services receives an amount up to Rs. 1000/- in excess of the amount indicated on the tax invoice, then the supplier has an option to take the date of issue of invoice in respect of such supply as time of supply. For example, if a supplier has received an amount of Rs. 1500/- against an invoice of Rs.1100/- on 25.07.2017 and date of invoice of next supply to the said recipient is 14.08.2017, then he has option to treat the time of supply w.r.t Rs. 400/- either as 25.07.2017 or 14.08.2017.
 
-# Time of supply of goods when tax is to be paid on reverse charge basis 
+# Time of supply of goods when tax is to be paid on reverse charge basis
 
 Earliest of the following dates
 
@@ -494,7 +476,7 @@ accounts of the recipient or the date on which the payment is debited in his ban
 
 However, if it is not possible to determine the time of supply in aforesaid manner then the time of supply is the date of entry of the transaction in the books of accounts of the recipient of supply.
 
-# Time of supply of services when tax is to be paid on reverse charge basis 
+# Time of supply of services when tax is to be paid on reverse charge basis
 
 Earliest of the following dates
 
@@ -507,19 +489,18 @@ However, if it is not possible to determine the time of supply in aforesaid mann
 
 In this case, the time of supply is the date of entry in the books of account of the recipient or the date of payment, whichever is earlier.
 
-# Time of supply in case of supply of vouchers 
+# Time of supply in case of supply of vouchers
 
 Voucher has been defined in the CGST Act, 2017 as an instrument where there is an obligation to accept it as consideration or part consideration for a supply of goods or services or both and where the goods or services or both to be supplied or the identities of their potential suppliers are either indicated on the instrument itself or in related documentation, including the terms and conditions of use of such instrument. Vouchers are commonly used for transaction in the Indian economy. A shopkeeper may issue vouchers for specific supply i.e. supply is identifiable at the time of issuance of voucher. In trade parlance, these are known as single purpose vouchers. For example, vouchers for pressure cookers or Television or for spa or haircut. Similarly, a voucher can be general purpose voucher which can be used for multiple purposes. For example, a Rs. 1000/- voucher issued by Shoppers' Stop store can be used for buying any product at any Shoppes' Stop store. Time of supply is different in case of single purpose voucher and in the case of general purpose voucher.
 
 Time of supply in the case of single purpose voucher i.e. case where supply is identifiable at the time of issuance of voucher is date of issue of voucher. However, in all other cases of supply of vouchers, time of supply is date of redemption of voucher.
 
-# Time of supply of goods or services (Residual provisions) 
+# Time of supply of goods or services (Residual provisions)
 
 In case it is not possible to determine the time of supply under aforesaid provisions, the time of supply is,-
 
 - Due date of filing of return, in case where periodical return has to be filed
 - Date of payment of tax in all other cases.
-
 
 ## Time of supply of goods or services related to an addition in the value of supply by way of interest, late fees or penalty
 
@@ -531,29 +512,29 @@ Where there is a change in rate of tax of supply of goods or services, time of s
 
 Supply is completed before the change in rate of tax
 
-| Invoice <br> issued <br> before date <br> of change <br> in tax rate | Payment <br> received <br> before date <br> of change <br> in tax rate | Time of supply | Applicable <br> rate of tax |
-| :-- | :-- | :-- | :-- |
-| No | No | earliest of the <br> date of invoice <br> or payment | New rate of <br> tax |
-| Yes | No | Date of issue of <br> invoice. | Old tax rate |
-| No | Yes | Date of receipt <br> of payment | Old tax rate |
+| Invoice `<br>` issued `<br>` before date `<br>` of change `<br>` in tax rate | Payment `<br>` received `<br>` before date `<br>` of change `<br>` in tax rate | Time of supply                                               | Applicable `<br>` rate of tax |
+| :----------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------- | :----------------------------------------------------------- | :------------------------------ |
+| No                                                                                   | No                                                                                     | earliest of the `<br>` date of invoice `<br>` or payment | New rate of `<br>` tax        |
+| Yes                                                                                  | No                                                                                     | Date of issue of `<br>` invoice.                           | Old tax rate                    |
+| No                                                                                   | Yes                                                                                    | Date of receipt `<br>` of payment                          | Old tax rate                    |
 
 Supply is completed after the change in rate of tax
 
-| Invoice <br> issued before <br> date of <br> change in tax <br> rate | Payment <br> received <br> before date <br> of change in <br> tax rate | Time of sup- <br> ply | Applicable <br> rate of tax |
-| :-- | :-- | :-- | :-- |
-| Yes | Yes | earliest of the <br> date of invoice <br> or payment | Old rate of tax |
-| Yes | No | Date of receipt <br> of payment | New rate of tax |
-| No | Yes | Date of issue <br> of invoice | New rate of tax |
+| Invoice `<br>` issued before `<br>` date of `<br>` change in tax `<br>` rate | Payment `<br>` received `<br>` before date `<br>` of change in `<br>` tax rate | Time of sup-`<br>` ply                                     | Applicable `<br>` rate of tax |
+| :----------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------- | :----------------------------------------------------------- | :------------------------------ |
+| Yes                                                                                  | Yes                                                                                    | earliest of the `<br>` date of invoice `<br>` or payment | Old rate of tax                 |
+| Yes                                                                                  | No                                                                                     | Date of receipt `<br>` of payment                          | New rate of tax                 |
+| No                                                                                   | Yes                                                                                    | Date of issue `<br>` of invoice                            | New rate of tax                 |
 
 However, the special procedure for payment of tax by
 
 suppliers of goods (other than composition dealers) notified by Government vide notification no. 66/2017-Central Tax dated 15.11.2017 under section 148 of the CGST Act, 2017, will continue to govern even in the above situation. In a nutshell, suppliers of goods other than composition dealers will have to pay tax at the time of issue of invoice only.
 
-# Date of receipt of Payment in case of change in rate of tax 
+# Date of receipt of Payment in case of change in rate of tax
 
 Normally the date of receipt of payment is the date of credit in the bank account of the recipient of payment or the date on which the payment is entered into his books of account, whichever is earlier. Further, the date of credit in the bank account is relevant if such credit is after four working days from the date of change in rate of tax.
 
-# Chapter Six 
+# Chapter Six
 
 ## GST on advances received for future supplies
 
@@ -573,7 +554,7 @@ the invoice for the same was also issued after the change in tax rate, the time 
 
 For the categories of taxpayers who are required to discharge GST on Advances, the following would be relevant.
 
-# Compliances under GST: 
+# Compliances under GST:
 
 As per Section 31 (3) (d) of the CGST Act, 2017, a registered person shall, on receipt of advance payment with respect to any supply of goods or services or both, issue a receipt voucher or any other document, containing such particulars as may be prescribed, evidencing receipt of such payment;
 
@@ -623,7 +604,7 @@ periods against invoices issued in the current tax period. The details of inform
 
 It may be noted that dates for FORM GSTR-2 and FORM GSTR-3 have not been notified so far.
 
-# GST on advance received by Composition dealer: 
+# GST on advance received by Composition dealer:
 
 A Composition dealer is governed by Section 10 of the Act ibid which states as under:
 10. (1) Notwithstanding anything to the contrary contained in this Act but subject to the provisions of sub-sections (3) and (4) of section 9 , a registered person, whose aggregate turnover in the preceding financial year did not exceed one crore rupees, may opt to pay, in lieu of the tax payable by him, an amount calculated at such rate as may be prescribed, but not exceeding, -
@@ -638,7 +619,7 @@ A combined reading of the above provisions would
 
 indicate that a composition dealer will not have to pay any tax on advances received, if such advances pertain to his outward supplies. The advances received and goods returned do not form part of taxable supplies and do not form part of the turnover in a state at the end of the quarter (tax period) for the purpose of computing turnover in a state.
 
-# Chapter Seven 
+# Chapter Seven
 
 ## Concept of Aggregate Turnover in GST
 
@@ -659,7 +640,7 @@ Last but not the least, such turnover is to be calculated by taking together the
 
 The aggregate turnover is different from turnover in a State. The former is used for determining the threshold limit for registration as well as eligibility for Composition Scheme. However, the composition levy would be calculated on the basis of turnover in the State.
 
-# Chapter Eight 
+# Chapter Eight
 
 ## Non-resident taxable person in GST
 
@@ -693,7 +674,7 @@ the details of outward supplies and inward supplies and shall pay the tax, inter
 
 Refund: The amount of advance tax deposited by a nonresident taxable person at the time of initial registration/ extension of registration, will be refunded only after the person has furnished all the returns required in respect of the entire period for which the certificate of registration granted to him had remained in force. Refund can be applied in the serial no. 13 of the FORM GSTR -5.
 
-# Casual taxable person in GST 
+# Casual taxable person in GST
 
 ## Introduction:
 
@@ -701,49 +682,49 @@ Refund: The amount of advance tax deposited by a nonresident taxable person at t
 
 A casual taxable person (other than those making supply of specified handicraft goods) making taxable supply in India has to compulsorily take registration. There is no threshold limit for registration. Casual Taxable persons making supply of specified handicraft goods need to register only if their aggregate turnover crosses Rs. 20 Lakh (Rs. 10 lakh for in case of Special Category States, other than the State of Jammu and Kashmir.). A casual taxable person cannot exercise the option to pay tax under composition levy. He has to apply for registration at least five days prior to commencing his business in India. The specified handicraft goods are as under:
 
-| Sr. <br> No | Products | HSN Code |
-| :--: | :--: | :--: |
-| 1 | Leather articles (including bags, <br> purses, saddlery, harness, gar- <br> ments) | $\begin{aligned} & 4201,4202, \\ & 4203 \end{aligned}$ |
-| 2 | Carved wood products (including <br> boxes, inlay work, cases, casks) | 4415,4416 |
-| 3 | Carved wood products (including <br> table and kitchenware) | 4419 |
-| 4 | Carved Wood Products | 4420 |
-| 5 | Wood turning and lacquer ware | 4421 |
-| 6 | Bamboo products [decorative and <br> utility items] | 46 |
-| 7 | Grass, leaf and reed and fiber <br> products, mats, pouches, wallets | 4601,4602 |
-| 8 | Paper Mache articles | 4823 |
-| 9 | Textile (handloom products), <br> Handmade shawls, <br> stoles and scarves | Including 50, <br> $58,61,62,63$ |
-| 10 | Textiles hand printing | $50,52,54$ |
-| 11 | Zari thread | 5605 |
-| 12 | Carpet, rugs and durries | 57 |
-| 13 | Textiles hand embroidery | 58 |
-| 14 | Theatre costumes | $61,62,63$ |
-| 15 | Coir products (including mats, <br> mattresses) | 5705,9404 |
+| Sr.`<br>` No |                                         Products                                         |                         HSN Code                         |
+| :------------: | :---------------------------------------------------------------------------------------: | :------------------------------------------------------: |
+|       1       | Leather articles (including bags,`<br>` purses, saddlery, harness, gar- `<br>` ments) | $\begin{aligned} & 4201,4202, \\ & 4203 \end{aligned}$ |
+|       2       |         Carved wood products (including `<br>` boxes, inlay work, cases, casks)         |                        4415,4416                        |
+|       3       |              Carved wood products (including `<br>` table and kitchenware)              |                           4419                           |
+|       4       |                                   Carved Wood Products                                   |                           4420                           |
+|       5       |                               Wood turning and lacquer ware                               |                           4421                           |
+|       6       |                  Bamboo products [decorative and `<br>` utility items]                  |                            46                            |
+|       7       |         Grass, leaf and reed and fiber `<br>` products, mats, pouches, wallets         |                        4601,4602                        |
+|       8       |                                   Paper Mache articles                                   |                           4823                           |
+|       9       |     Textile (handloom products),`<br>` Handmade shawls, `<br>` stoles and scarves     |          Including 50,`<br>` $58,61,62,63$          |
+|       10       |                                  Textiles hand printing                                  |                       $50,52,54$                       |
+|       11       |                                        Zari thread                                        |                           5605                           |
+|       12       |                                 Carpet, rugs and durries                                 |                            57                            |
+|       13       |                                 Textiles hand embroidery                                 |                            58                            |
+|       14       |                                     Theatre costumes                                     |                       $61,62,63$                       |
+|       15       |                    Coir products (including mats,`<br>` mattresses)                    |                        5705,9404                        |
 
-| 16 | Leather footwear | 6403,6405 |
-| :-- | :-- | :-- |
-| 17 | Carved stone products (including <br> statues, statuettes, figures of ani- <br> mals, writing sets, ashtray, candle <br> stand) | 6802 |
-| 18 | Stones inlay work | 68 |
-| 19 | Pottery and clay products, includ- <br> ing terracotta | $6901,6909$, <br> $6911,6912$, <br> $6913,6914$ |
-| 20 | Metal table and kitchen ware <br> (copper, brass ware) | 7418 |
-| 21 | Metal statues, images/statues vas- <br> es, urns and crosses of the type <br> used for decoration of metals of <br> chapters 73 and 74 | 8306 |
-| 22 | Metal bidriware | 8306 |
-| 23 | Musical instruments | 92 |
-| 24 | Horn and bone products | 96 |
-| 25 | Conch shell crafts | 96 |
-| 26 | Bamboo furniture, cane/Rattan <br> furniture |  |
-| 27 | Dolls and toys | 9503 |
-| 28 | Folk paintings, madhubani, <br> patchitra, Rajasthani miniature | 97 |
-| 29 | Chain switch | Any chapter |
-| 30 | Crewel, Namda, Gabba | Any chapter |
-| 31 | Wicker willow products | Any chapter |
+| 16 | Leather footwear                                                                                                                                  | 6403,6405                                                     |
+| :- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------ |
+| 17 | Carved stone products (including `<br>` statues, statuettes, figures of ani- `<br>` mals, writing sets, ashtray, candle `<br>` stand)       | 6802                                                          |
+| 18 | Stones inlay work                                                                                                                                 | 68                                                            |
+| 19 | Pottery and clay products, includ-`<br>` ing terracotta                                                                                         | $6901,6909$, `<br>` $6911,6912$, `<br>` $6913,6914$ |
+| 20 | Metal table and kitchen ware `<br>` (copper, brass ware)                                                                                        | 7418                                                          |
+| 21 | Metal statues, images/statues vas-`<br>` es, urns and crosses of the type `<br>` used for decoration of metals of `<br>` chapters 73 and 74 | 8306                                                          |
+| 22 | Metal bidriware                                                                                                                                   | 8306                                                          |
+| 23 | Musical instruments                                                                                                                               | 92                                                            |
+| 24 | Horn and bone products                                                                                                                            | 96                                                            |
+| 25 | Conch shell crafts                                                                                                                                | 96                                                            |
+| 26 | Bamboo furniture, cane/Rattan `<br>` furniture                                                                                                  |                                                               |
+| 27 | Dolls and toys                                                                                                                                    | 9503                                                          |
+| 28 | Folk paintings, madhubani,`<br>` patchitra, Rajasthani miniature                                                                                | 97                                                            |
+| 29 | Chain switch                                                                                                                                      | Any chapter                                                   |
+| 30 | Crewel, Namda, Gabba                                                                                                                              | Any chapter                                                   |
+| 31 | Wicker willow products                                                                                                                            | Any chapter                                                   |
 
-| 32 | Toran | Any chapter |
-| :-- | :-- | :-- |
+| 32 | Toran                  | Any chapter |
+| :- | :--------------------- | :---------- |
 | 33 | Articles made of shoal | Any chapter |
 
 A casual taxable person has to make an advance deposit of tax in an amount equivalent to his estimated tax liability for the period for which the registration is sought.
 
-# Registration: 
+# Registration:
 
 A casual taxable person has to apply for registration at least five days prior to the commencement of business. There is no special form to register as a casual taxable person. The normal FORM GST REG-01 which is used by other taxable persons can be used for obtaining registration by casual taxable person also. A casual taxable person, before applying for registration, should declare his Permanent Account Number, mobile number, e-mail address, State or Union territory in Part A of FORM GST REG-01on the common portal, either directly or through a Facilitation Centre notified by the Commissioner.
 
@@ -759,7 +740,7 @@ In case the casual taxable person intends to extend the period of registration i
 
 further period not exceeding ninety days. The extension will be allowed only on payment of the amount of an additional amount of tax equivalent to the estimated tax liability for the period for which the extension is sought.
 
-# Returns: 
+# Returns:
 
 The casual taxable person is required to furnish the following returns electronically through the common portal, either directly or through a Facilitation Centre notified by the Commissioner:
 a) FORM GSTR-1 giving the details of outward supplies of goods or services to be filed on or before the tenth day of the following month.
@@ -776,39 +757,39 @@ the class of registered persons who shall follow the special procedure as detail
 
 The said persons shall furnish the details of outward supply of goods or services or both in FORM GSTR-1 effected during the quarter as specified in column (2) of the Table below till the time period as specified in the corresponding entry in column (3) of the said Table, namely
 
-| Sr. <br> No. | Quarter for which the <br> details in <br> FORM GSTR-1 are fur- <br> nished | Time period for fur- <br> nishing the details <br> in FORM GSTR-1 |
-| :-- | :-- | :-- |
-| 1 | July - September, 2017 | 10th January, 2018 |
-| 2 | October - December, 2017 | 15th February, 2018 |
-| 3 | January - March, 2018 | 30th April, 2018 |
+| Sr.`<br>` No. | Quarter for which the `<br>` details in `<br>` FORM GSTR-1 are fur- `<br>` nished | Time period for fur-`<br>` nishing the details `<br>` in FORM GSTR-1 |
+| :-------------- | :-------------------------------------------------------------------------------------- | :----------------------------------------------------------------------- |
+| 1               | July - September, 2017                                                                  | 10th January, 2018                                                       |
+| 2               | October - December, 2017                                                                | 15th February, 2018                                                      |
+| 3               | January - March, 2018                                                                   | 30th April, 2018                                                         |
 
 The special procedure or extension of the time limit for furnishing the details or return, as the case may be, under sub-section (2) of section 38 (GSTR-2) and sub-section (1) of section 39 (GSTR-3) of the Act, for the months of July, 2017 to March, 2018 shall be subsequently notified in the Official Gazette.
 
-# Special Returns procedure for registered persons with turnover exceeding Rs. 1.5 Crore: 
+# Special Returns procedure for registered persons with turnover exceeding Rs. 1.5 Crore:
 
 The government has notified that the registered persons having aggregate turnover of more than 1.5 crore rupees in the preceding financial year or the current financial year shall furnish the details of outward supply of goods or
 
 services or both in FORM GSTR-1 effected during the quarter as specified in column (2) of the Table below till the time period as specified in the corresponding entry in column (3) of the said Table, namely
 
-| Sr. <br> No. | Month for which the details <br> in <br> FORM GSTR-1 are fur- <br> nished | Time period for <br> furnishing the <br> details in FORM <br> GSTR-1 |
-| :-- | :-- | :-- |
-| 1 | July - November, 2017 | 10th January, 2018 |
-| 2 | December, 2017 | 10th February, <br> 2018 |
-| 3 | January, 2018 | 10th March, 2018 |
-| 4 | February, 2018 | 10th April, 2018 |
-| 5 | March, 2018 | 10th May, 2018 |
+| Sr.`<br>` No. | Month for which the details `<br>` in `<br>` FORM GSTR-1 are fur- `<br>` nished | Time period for `<br>` furnishing the `<br>` details in FORM `<br>` GSTR-1 |
+| :-------------- | :------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------- |
+| 1               | July - November, 2017                                                                 | 10th January, 2018                                                               |
+| 2               | December, 2017                                                                        | 10th February,`<br>` 2018                                                      |
+| 3               | January, 2018                                                                         | 10th March, 2018                                                                 |
+| 4               | February, 2018                                                                        | 10th April, 2018                                                                 |
+| 5               | March, 2018                                                                           | 10th May, 2018                                                                   |
 
 The special procedure or extension of the time limit for furnishing the details or return, as the case may be, under sub-section (2) of section 38 (GSTR-2) and sub-section (1) of section 39 (GSTR-3) of the Act, for the months of July, 2017 to March, 2018 shall be subsequently notified in the Official Gazette.
 
 However, a casual tax person shall not be required to file any annual return as required by a normal registered taxpayer.
 
-# Refund by Casual taxable person: 
+# Refund by Casual taxable person:
 
 The casual taxable person is eligible for the refund of any balance of the advance tax deposited by him after adjusting his tax liability. The balance advance tax deposit can be
 
 refunded only after all the returns have been furnished, in respect of the entire period for which the certificate of registration was granted to him had remained in force. The refund relating to balance in the electronic cash ledger has to be made in serial no. 14 of the last FORM GSTR-3 return required to be furnished by him (instead of FORM GST RFD 01).
 
-# Chapter Ten 
+# Chapter Ten
 
 ## Input Service Distributor in GST
 
@@ -855,12 +836,12 @@ $=$ Rs. 2, 00, 00,000 (20\%)
 
 Computation of Input Tax Credit Distributed to various units is as follows:
 
-|  | Credit distributed to all units |  |  |  |
-| :-- | :-- | :-- | :-- | :-- |
-| Particulars | Total <br> credit <br> available | Mumbai | Jabal- <br> pur | Delhi |
-| CGST paid on <br> services used <br> onlyfor Mum- <br> bai Unit. | 300000 | 300000 | 0 | 0 |
-| IGST, CGST <br> \& SGST paid <br> on services <br> used in all <br> units- <br> Distribution <br> on pro rata <br> basis toall the <br> units which <br> are operational <br> in the current <br> year | 1200000 | 600000 | 360000 | 240000 |
-| Total | 1500000 | 900000 | 360000 | 240000 |
+|                                                                                                                                                                                                                                                    | Credit distributed to all units          |        |                    |        |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :----- | :----------------- | :----- |
+| Particulars                                                                                                                                                                                                                                        | Total `<br>` credit `<br>` available | Mumbai | Jabal-`<br>` pur | Delhi  |
+| CGST paid on `<br>` services used `<br>` onlyfor Mum- `<br>` bai Unit.                                                                                                                                                                       | 300000                                   | 300000 | 0                  | 0      |
+| IGST, CGST `<br>` \& SGST paid `<br>` on services `<br>` used in all `<br>` units- `<br>` Distribution `<br>` on pro rata `<br>` basis toall the `<br>` units which `<br>` are operational `<br>` in the current `<br>` year | 1200000                                  | 600000 | 360000             | 240000 |
+| Total                                                                                                                                                                                                                                              | 1500000                                  | 900000 | 360000             | 240000 |
 
 Note 1: Credit distributed pro rata basis on the basis of the turnover of all the units is as under: -
 a) Unit Mumbai: (50000000/100000000) *1200000 =
@@ -871,11 +852,11 @@ c) Unit Delhi: $(20000000 / 100000000) * 1200000=$ Rs. 240000
 
 An ISD will have to file monthly returns in GSTR-6 within thirteen days after the end of the month and will have to furnish information of all ISD invoices issued. The details in the returns will be made available to the respective recipients in their GSTR 2A. The recipients may include these in its GSTR-2 and take credit. An ISD shall not be required to file Annual return. An ISD cannot accept any invoices on which tax is to be discharged under reverse charge mechanism. This is because the ISD mechanism is only to facilitate distribution of credit of taxes paid. The ISD itself cannot discharge any tax liability (as person liable to pay tax) and remit tax to government account. If ISD wants to take reverse charge supplies, then in that case ISD has to separately register as Normal taxpayer.
 
-# Conclusion: 
+# Conclusion:
 
 Thus the concept of ISD is a facility made available to business having a large share of common expenditure and billing/payment is done from a centralized location. The mechanism is meant to simplify the credit taking process for entities and the facility is meant to strengthen the seamless flow of credit under GST.
 
-# Composition Levy Scheme in GST 
+# Composition Levy Scheme in GST
 
 1. Composition Levy Scheme under GST law.
 
@@ -895,7 +876,7 @@ has to pay an amount equal to certain fixed percentage of his annual turnover as
 
 However, upon opting for this scheme, he cannot issue taxable invoice under GST law and can neither collect GST from his customers nor can claim Input Tax credit on his purchases.
 
-# 2. Method to calculate Aggregate Turnover 
+# 2. Method to calculate Aggregate Turnover
 
 Aggregate turnover is computed on all India basis for a person having same Permanent Account Number (PAN). It is sum of value of all outward supplies falling in the following four categories:
 
@@ -904,16 +885,13 @@ Aggregate turnover is computed on all India basis for a person having same Perma
 - Exports of goods or services or both
 - Inter-state supplies.
 
-
 ## but excludes
 
 - the value of inward supplies on which tax is payable by a person on reverse charge basis \&
-
 - taxes including cess paid under GST law.
 - CBEC vide Order No. 01/2017-Central Tax dated $13^{\text {th }}$ October, 2017 has clarified that a person supplying any exempt services including services by way of extending deposits, loans or advances in so far as the consideration is represented by way of interest or discount, shall not be ineligible for the composition scheme. In computing his aggregate turnover in order to determine his eligibility for composition scheme, value of supply of the exempt services including services by way of extending deposits, loans or advances shall not be taken into account.
 
-
-# 3. Registration and intimation under the scheme. 
+# 3. Registration and intimation under the scheme.
 
 Registration under GST law is compulsory for opting for the Composition scheme. A person who is registered under existing laws and has obtained a provisional registration under GST has to file an electronic intimation in the FORM GST CMP-01 on the common portal (www. gstn.gov.in). He can file this intimation either before the appointed day (i.e. day on which GST came into force 01/07/2017) or within 30 days (or as extended by the commissioner) of the appointed day (01/07/2017), (which was later extended up to 16/08/2017). If he intimates after the appointed day, he shall not collect GST and issue bill of supply from the appointed day. Further such person has to furnish a statement containing details of stock including the inward supply of goods received from unregistered persons, held by him on the day preceding the date from which he
 
@@ -933,7 +911,7 @@ Effective date for registered taxpayer who intimates about opting for the scheme
 
 Effective date for a person who applies for fresh registration under Rule 8 of the CGST Rules, 2017 by providing necessary information under part B of FORM GST REG01, shall be the effective date of registration as per sub rule 2 or 3 of Rule 10 of CGST Rules, 2017.
 
-# 5. Persons who are not eligible for the scheme. 
+# 5. Persons who are not eligible for the scheme.
 
 Barring few exceptions, all registered taxable persons whose aggregate turnover has not exceeded Rs. One crore (Rs. 75 lakhs for special category states except J \& K and Uttrakhand) in the financial year 2016-17 are eligible to opt for this scheme. List of taxable persons who are not eligible for the scheme is as below:
 i. A casual taxable person i.e. a person who occasionally undertakes supplies in a State or Union Territory where he has no fixed place of business.
@@ -948,13 +926,13 @@ vii. The goods held in stock by him on the appointed day have not been purchased
 viii. the goods held in stock by him have not been purchased from an unregistered supplier and where purchased, he pays the tax under the reverse charge mechanism.
 ix. A person engaged in manufacturing of goods notified under sec 10 (2) (e) of the CGST Act either in the year 2016-17 or later. Following goods have been notified for which composition scheme is not available.
 
-| S. <br> No. | Classification <br> (Tariffitem/ <br> Chapter) | Description |
-| :-- | :-- | :-- |
-| 1 | 21050000 | Ice cream and other edible ice, whether or not <br> containing cocoa |
-| 2 | 21069020 | Pan masala |
-| 3 | 24 | Tobacco and manufactured tobacco substi- <br> tutes |
+| S.`<br>` No. | Classification `<br>` (Tariffitem/ `<br>` Chapter) | Description                                                              |
+| :------------- | :----------------------------------------------------- | :----------------------------------------------------------------------- |
+| 1              | 21050000                                               | Ice cream and other edible ice, whether or not `<br>` containing cocoa |
+| 2              | 21069020                                               | Pan masala                                                               |
+| 3              | 24                                                     | Tobacco and manufactured tobacco substi-`<br>` tutes                   |
 
-# 6. Rate of Tax under the scheme 
+# 6. Rate of Tax under the scheme
 
 There are three rates prescribed for three different categories of suppliers.
 
@@ -962,14 +940,13 @@ There are three rates prescribed for three different categories of suppliers.
 - An eligible person engaged in making supplies mentioned in clause (b) of para 6 of Schedule II of the CGST Act (supplier of restaurant Service) has to pay 5\% (2.5\% CGST and 2.5\% SGST/ UTGST) of turnover in a state or Union Territory, as the case may be.
 - An eligible person engaged in any other supply has to pay $1 \%$ ( $0.5 \%$ CGST and $0.5 \%$ SGST/ UTGST) of turnover of taxable supplies of goods in a state or Union Territory, as the case may be.
 
-
 ## 7. Bill of Supply
 
 A taxable person opting for the scheme has to issue bill of
 
 supply as he is not eligible to issue taxable invoice under GST. He has to mention the words "composition taxable person, not eligible to collect tax on supplies" at the top of every bill of supply issued by him.
 
-# 8. Conditions \& Restrictions under the scheme 
+# 8. Conditions \& Restrictions under the scheme
 
 A person opting for the scheme has to adhere to the following conditions
 
@@ -980,7 +957,7 @@ A person opting for the scheme has to adhere to the following conditions
 - Where ever a person, registered under any of the existing laws, and who has been given provisional registration, gives an intimation for the composition scheme, he shall not be allowed the composition scheme in case the goods held in stock by him on the appointed day have been purchased in the course of inter-State trade or commerce or imported from a place outside India or received from his branch situated outside the State or from his agent or principal outside the State.
 - Withdraw from the scheme if not eligible
 
-# 9. Validity of the composition levy scheme 
+# 9. Validity of the composition levy scheme
 
 A person opting for the composition levy scheme can continue to pay tax under the said scheme as long as he satisfies the eligibility criteria and conditions related to the scheme and do not require to file a fresh application every year. But, such a person shall be liable to pay tax under subsection (1) of section 9 of the CGST Act, 2017 from the day he ceases to satisfy any of the conditions and shall issue tax invoice for every taxable supply made thereafter and he shall also file an intimation for withdrawal from the scheme.
 10. Conditions which may render a person in-eligible for the scheme
@@ -1005,7 +982,7 @@ Subsequently the registered person who has been denied the option to pay tax und
 
 The delinquent taxpayer will be liable to pay the due tax and penalty. However, no adverse action will be taken without following the principles of natural justice.
 
-# Chapter Twelve 
+# Chapter Twelve
 
 ## Reverse Charge Mechanism in GST
 
@@ -1025,7 +1002,7 @@ who are TDS Deductors under Section 51 of CGST Act, 2015, need not pay GST under
 
 Registration: A person who is required to pay tax under reverse charge has to compulsorily register under GST and the threshold limit of Rs. 20 lakh (Rs. 10 lakh for special category states except $\mathrm{J} \& \mathrm{~K}$ ) is not applicable to them.
 
-# ITC: 
+# ITC:
 
 A supplier cannot take ITC of GST paid on goods or services used to make supplies on which recipient is liable to pay tax.
 
@@ -1043,60 +1020,44 @@ a) date of payment as per books of account or date of debit in bank account, whi
 b) the date immediately following sixty days from the date of issue of invoice or similar other document.
 Where it is not possible to determine time of supply using above methods, time of supply would be date of entry in the books of account of the recipient.
 
-# Compliances in respect of supplies under reverse charge mechanism: 
+# Compliances in respect of supplies under reverse charge mechanism:
 
 1. As per section 31 of the CGST Act, 2017 read with Rule 46 of the CGST Rules, 2017, every tax invoice has to mention whether the tax in respect of supply in the invoice is payable on reverse charge. Similarly, this also needs to be mentioned in receipt voucher as well as refund voucher, if tax is payable on reverse charge.
 2. Maintenance of accounts by registered persons: Every registered person is required to keep and maintain records of all supplies attracting payment of tax on reverse charge
 3. Any amount payable under reverse charge shall be paid by debiting the electronic cash ledger. In other words, reverse charge liability cannot be discharged by using input tax credit. However, after discharging reverse charge liability, credit of the same can be taken by the recipient, if he is otherwise eligible.
-
 4. Invoice level information in respect of all supplies attracting reverse charge, rate wise, are to be furnished separately in the table 4B of GSTR-1.
 5. Advance paid for reverse charge supplies is also leviable to GST. The person making advance payment has to pay tax on reverse charge basis.
 
-# Supplies of goods under reverse charge mechanism: 
+# Supplies of goods under reverse charge mechanism:
 
-| $\begin{gathered} \text { S/ } \\ \text { No. } \end{gathered}$ | Description of supply of Goods | Supplier of goods | Recipient of Goods |
-| :--: | :--: | :--: | :--: |
-| 1 | Cashew nuts, not shelled or peeled | Agriculturist | Any registered person |
-| 2 | Bidi wrapper leaves (tendu) | Agriculturist | Any registered person |
-| 3 | Tobacco leaves | Agriculturist | Any registered person |
-| 4 | Silk yarn | Any person who manufactures silk yarn from raw silk or silk worm cocoons for supply of silk yarn | Any registered person |
+| $\begin{gathered} \text { S/ } \\ \text { No. } \end{gathered}$ |                          Description of supply of Goods                          |                                        Supplier of goods                                        |          Recipient of Goods          |
+| :---------------------------------------------------------------: | :------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :----------------------------------: |
+|                                 1                                 |                        Cashew nuts, not shelled or peeled                        |                                          Agriculturist                                          |        Any registered person        |
+|                                 2                                 |                           Bidi wrapper leaves (tendu)                           |                                          Agriculturist                                          |        Any registered person        |
+|                                 3                                 |                                  Tobacco leaves                                  |                                          Agriculturist                                          |        Any registered person        |
+|                                 4                                 |                                    Silk yarn                                    | Any person who manufactures silk yarn from raw silk or silk worm cocoons for supply of silk yarn |        Any registered person        |
+|                                4A                                |                                    Raw cotton                                    |                                          Agriculturist                                          |        Any registered person.        |
+|                                 5                                 |                                Supply of lottery                                |                     State Government, Union Territory or any local authority                     | Lottery distributor or selling agent |
+|                                 6                                 | Used vehicles, seized and confiscated goods, old and used goods, waste and scrap |        Central Government,`<br>` State Government, Union territory or a local authority        |        Any registered person        |
 
-| 4A | Raw cotton | Agriculturist | Any registered person. |
-| :--: | :--: | :--: | :--: |
-| 5 | Supply of lottery | State Government, Union Territory or any local authority | Lottery distributor or selling agent |
-| 6 | Used vehicles, seized and confiscated goods, old and used goods, waste and scrap | Central Government, <br> State Government, Union territory or a local authority | Any registered person |
+# Supplies of services under reverse charge mechanism:
 
-Supplies of services under reverse charge mechanism:
+| **S/No.** | **Description of supply of Service**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | **Supplier of service**                                                                                                  | **Recipient of service**                                                                                                                          |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1               | Any service supplied by any person who is located in a non-taxable territory to any person other than nontaxable online recipient.                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Any person located in a non-taxable territory                                                                                  | Any person located in the taxable territory other than nontaxable online recipient.                                                                     |
+| 2               | GTA Services                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Goods `<br>` Transport `<br>` Agency (GTA) who has not paid integrated tax at the rate of $12\%$                         | Any factory, society, cooperative society, registered person, body corporate, partnership firm, casual taxable person; located in the taxable territory |
+| 3               | Legal Services by advocate                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | An individual advocate including a senior advocate or firm of advocates                                                        | Any business entity located in the taxable territory                                                                                                    |
+| 4               | Services supplied by an arbitral tribunal to a business entity                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | An arbitral tribunal                                                                                                           | Any business entity located in the taxable territory                                                                                                    |
+| 5               | Services provided by way of sponsorship to any body corporate or partnership firm                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Any person                                                                                                                     | Any body corporate or partnership firm located in the taxable territory                                                                                 |
+| 6               | Services supplied by the Central Government, State Government, Union territory or local authority to a business entity excluding, - (1) renting of immovable property, and (2) services specified below- (i) services by the Department of Posts by way of speed post, express parcel post, life insurance, and agency services provided to a person other than Central Government, State Government or Union territory or local authority; (ii) services in relation to an aircraft or a vessel, inside or outside the precincts of a port or an airport; (iii) transport of goods or passengers. | Central `<br>` Government, `<br>` State `<br>` Government, `<br>` Union territory `<br>` or local `<br>` authority | Any business entity located in the taxable territory                                                                                                    |
+| 7               | Services supplied by a director of a company or a body corporate to the said company or the body corporate                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | A director of a company or a body corporate                                                                                    | The company or a body corporate located in the taxable territory                                                                                        |
+| 8               | Services supplied by an insurance agent to any person carrying on insurance business                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | An insurance agent                                                                                                             | Any person carrying on insurance business, located in the taxable territory                                                                             |
+| 9               | Services supplied by a recovery agent to a banking company or a financial institution or a non-banking financial company                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | A recovery agent                                                                                                               | A banking company or a financial institution or a non-banking financial company, located in the taxable territory                                       |
+| 10              | Services supplied by a person located in non- taxable territory by way of transportation of goods by a vessel from a place outside India up to the customs station of clearance in India                                                                                                                                                                                                                                                                                                                                                                                                           | A person located in non-taxable territory                                                                                      | Importer, as defined in clause (26) of section 2 of the Customs Act, 1962(52 of 1962), located in the taxable territory                                 |
+| 11              | Supply of services by an author, music composer, photographer, artist or the like by way of transfer or permitting the use or enjoyment of a copyright covered under section 13(1)`<br><br>` (a) of the `<br>` Copyright Act, `<br>` 1957 relating to `<br>` original literary, `<br>` dramatic, `<br>` musical or `<br>` artistic works `<br>` to a publisher, `<br>` music company, `<br>` producer or the `<br>` like                                                                                                                                                     | Author or music composer, photograph her, artist, or the like                                                                  | Publisher, music company, producer or the like, located in the taxable territory                                                                        |
+| 12              | Supply of `<br>` services by the `<br>` members of `<br>` Overseeing `<br>` Committee to `<br>` Reserve Bank `<br>` of India                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Members of `<br>` Overseeing `<br>` Committee `<br>` constituted by `<br>` the Reserve `<br>` Bank of India          | Reserve Bank `<br>` of `<br>` India.                                                                                                                |
 
-| $\begin{gathered} \text { S/ } \\ \text { No. } \end{gathered}$ | Description of supply of Service | Supplier of service | Recipient of service |
-| :--: | :--: | :--: | :--: |
-
-| 1 | Any service supplied by any person who is located in a non-taxable territory to any person other than nontaxable online recipient. | Any person located in a non-taxable territory | Any person located in the taxable territory other than nontaxable online recipient. |
-| :--: | :--: | :--: | :--: |
-| 2 | GTA Services | Goods <br> Transport <br> Agency (GTA) who has not paid integrated tax at the rate of $12 \%$ | Any factory, society, cooperative society, registered person, body corporate, partnership firm, casual taxable person; located in the taxable territory |
-
-| 3 | Legal Services by advocate | An individual advocate including a senior advocate or firm of advocates | Any business entity located in the taxable territory |
-| :--: | :--: | :--: | :--: |
-| 4 | Services supplied by an arbitral tribunal to a business entity | An arbitral tribunal | Any business entity located in the taxable territory |
-| 5 | Services provided by way of sponsorship to any body corporate or partnership firm | Any person | Any body corporate or partnership firm located in the taxable territory |
-| 6 | Services supplied by the Central Government, State Government, Union territory or local authority to a business entity excluding, - | Central <br> Government, <br> State <br> Government, <br> Union territory <br> or local <br> authority | Any business entity located in the taxable territory |
-
-![img-2.jpeg](img-2.jpeg.png)
-
-| 7 | Services supplied by a director of a company or a body corporate to the said company or the body corporate | A director of a company or a body corporate | The company or a body corporate located in the taxable territory |
-| :--: | :--: | :--: | :--: |
-| 8 | Services supplied by an insurance agent to any person carrying on insurance business | An insurance agent | Any person carrying on insurance business, located in the taxable territory |
-| 9 | Services supplied by a recovery agent to a banking company or a financial institution or a non-banking financial company | A recovery agent | A banking company or a financial institution or a non-banking financial company, located in the taxable territory |
-
-| 10 | Services supplied by a person located in non- taxable territory by way of transportation of goods by a vessel from a place outside India up to the customs station of clearance in India | A person located in non-taxable territory | Importer, as defined in clause (26) of section 2 of the Customs Act, 1962(52 of 1962), located in the taxable territory |
-| :--: | :--: | :--: | :--: |
-| 11 | Supply of services by an author, music composer, photographer, artist or the like by way of transfer or permitting the use or enjoyment of a copyright covered under section 13(1) | Author or music composer, photograph her, artist, or the like | Publisher, music company, producer or the like, located in the taxable territory |
-
-|  | (a) of the <br> Copyright Act, <br> 1957 relating to <br> original literary, <br> dramatic, <br> musical or <br> artistic works <br> to a publisher, <br> music company, <br> producer or the <br> like |  |  |
-| :-- | :-- | :-- | :-- |
-| 12 | Supply of <br> services by the <br> members of <br> Overseeing <br> Committee to <br> Reserve Bank <br> of India | Members of <br> Overseeing <br> Committee <br> constituted by <br> the Reserve <br> Bank of India | Reserve Bank <br> of <br> India. |
-
-# Chapter Thirteen 
+# Chapter Thirteen
 
 ## Tax Invoice and other such instruments in GST
 
@@ -1112,7 +1073,7 @@ Under the GST regime, an "invoice" or "tax invoice" means the tax invoice referr
 
 services need to issue invoice. The GST law mandates that any registered person buying goods or services from an unregistered person needs to issue a payment voucher as well as a tax invoice. The type of invoice to be issued depends upon the category of registered person making the supply. For example, if a registered person is making or receiving supplies (from unregistered persons), then a tax invoice needs to be issued by such registered person. However, if a registered person is dealing only in exempted supplies or is availing of composition scheme (composition dealer), then such a registered person needs to issue a bill of supply in lieu of invoice. The invoice should contain description, quantity and value \& such other prescribed particulars (in case of supply of goods) and the description and value \& such other prescribed particulars (in case of supply of services). An invoice or a bill of supply need not be issued if the value of the supply is less than Rs. 200/subject to specified conditions.
 
-# Importance of tax invoice under GST 
+# Importance of tax invoice under GST
 
 Under GST a tax invoice is an important document. It not only evidences supply of goods or services, but is also an essential document for the recipient to avail Input Tax Credit (ITC). A registered person cannot avail input tax credit unless he is in possession of a tax invoice or a debit note.
 
@@ -1122,7 +1083,7 @@ earlier. However, a special procedure for payment of tax has been prescribed for
 
 Thus the importance of invoice under GST cannot be overemphasised. Suffice it to say, the tax invoice is the primary document evidencing the supply and vital for availing input tax credit.
 
-# When a tax invoice or a bill of supply should be issued by a registered person 
+# When a tax invoice or a bill of supply should be issued by a registered person
 
 ## Goods
 
@@ -1130,7 +1091,7 @@ The time for issuing invoice would depend on the nature of supply viz whether it
 
 The Government may, on the recommendations of the Council, by notification, specify the categories of goods or supplies in respect of which a tax invoice shall be issued, within such time and in such manner as may be prescribed.
 
-# Contents of invoice 
+# Contents of invoice
 
 There is no format prescribed for an invoice, however, Invoice rules makes it mandatory for an invoice to have following fields (only applicable field are to be filled):
 a) name, address and GSTIN of the supplier;
@@ -1148,12 +1109,12 @@ k) rate of tax (central tax, State tax, integrated tax, Union
 territory tax or cess);
 
 1) amount of tax charged in respect of taxable goods or services (central tax, State tax, integrated tax, Union territory tax or cess);
-m) place of supply along with the name of State, in case of a supply in the course of inter-State trade or commerce;
-n) address of delivery where the same is different from the place of supply;
-o) whether the tax is payable on reverse charge basis; and
-p) signature or digital signature of the supplier or his authorized representative
+   m) place of supply along with the name of State, in case of a supply in the course of inter-State trade or commerce;
+   n) address of delivery where the same is different from the place of supply;
+   o) whether the tax is payable on reverse charge basis; and
+   p) signature or digital signature of the supplier or his authorized representative
 
-# Contents of Bill of Supply 
+# Contents of Bill of Supply
 
 A bill of supply shall be issued by the supplier containing the following details:-
 a) name, address and GSTIN of the supplier;
@@ -1166,7 +1127,7 @@ f) description of goods or services or both;
 g) value of supply of goods or services or both taking into account discount or abatement, if any; and
 h) signature or digital signature of the supplier or his authorized representative
 
-# Services 
+# Services
 
 A registered person supplying taxable services shall, before or after the provision of service but within a prescribed period, issue a tax invoice, showing the description, value, tax charged thereon and such other particulars as has been prescribed in the Invoice Rules.
 
@@ -1182,7 +1143,7 @@ A registered person may, within one month from the date
 
 of issuance of certificate of registration and in such manner as has been prescribed in the Invoice Rules, issue a revised invoice against the invoice already issued during the period beginning with the effective date of registration till the date of issuance of certificate of registration to him. This provision is necessary as a person who becomes liable for registration has to apply for registration within 30 days of becoming liable for registration. When such an application is made within the time period and registration is granted, the effective date of registration is the date on which the person became liable for registration. Thus there would be a time lag between the date of grant of certificate of registration and the effective date of registration. For supplies made by such person during this intervening period, the law enables issuance of a revised invoice, so that ITC can be availed by the recipient on such supplies.
 
-# Receipt Voucher/ Refund voucher on receipt of advance payment 
+# Receipt Voucher/ Refund voucher on receipt of advance payment
 
 Whenever a registered person receives an advance payment with respect to any supply of goods or services or both, he has to issue a receipt voucher or any other document, containing such particulars as has been prescribed in the Invoice Rules, evidencing receipt of such payment.
 
@@ -1207,7 +1168,7 @@ i. the rate of tax is not determinable; the tax may be paid @18\%;
 
 ii. the nature of supply is not determinable, the same shall be treated as inter-State supply.
 
-# Invoice and payment voucher by a person liable to pay tax under reverse charge 
+# Invoice and payment voucher by a person liable to pay tax under reverse charge
 
 A registered person liable to pay tax under reverse charge (both for supplies on which tax is payable under reverse charge mechanism and supplies received from unregistered persons) has to issue an invoice in respect of goods or service or both received by him. Such a registered person in respect of such supplies also has to issue a payment voucher at the time of making payment to the supplier.
 
@@ -1223,7 +1184,7 @@ b) the due date of payment is not ascertainable from the contract; the invoice s
 
 c) the payment is linked to the completion of an event; the invoice shall be issued on or before the date of completion of that event.
 
-# Issue of invoice in case, where supply of service ceases under a contract before completion of supply 
+# Issue of invoice in case, where supply of service ceases under a contract before completion of supply
 
 In a case where the supply of services ceases under a contract before the completion of the supply, the invoice shall be issued at the time when the supply ceases and such invoice shall be issued to the extent of the supply made before such cessation.
 
@@ -1258,14 +1219,14 @@ h) serial number and date of the corresponding tax invoice or, as the case may b
 i) value of taxable supply of goods or services, rate of tax and the amount of the tax credited or, as the case may be, debited to the recipient; and
 j) signature or digital signature of the supplier or his authorized representative.
 
-# Manner of issuing invoice 
+# Manner of issuing invoice
 
 The invoice shall be prepared in triplicate, in case of supply of goods, in the following manner:-
 a) the original copy being marked as ORIGINAL FOR RECIPIENT;
 b) the duplicate copy being marked as DUPLICATE FOR TRANSPORTER; and
 c) the triplicate copy being marked as TRIPLICATE
 
-# FOR SUPPLIER. 
+# FOR SUPPLIER.
 
 The invoice shall be prepared in duplicate, in case of supply of services, in the following manner: -
 a) the original copy being marked as ORIGINAL FOR RECIPIENT; and
@@ -1282,7 +1243,7 @@ c) date of its issue;
 d) name, address and GSTIN of the recipient to whom the credit is distributed;
 e) amount of the credit distributed; and
 
-# f) signature or digital signature of the Input Service Distributor or his authorized representative. 
+# f) signature or digital signature of the Input Service Distributor or his authorized representative.
 
 ## Tax Invoice in special cases
 
@@ -1294,7 +1255,7 @@ Where the supplier of taxable service is a goods transport agency supplying serv
 
 Where the supplier of taxable service is supplying passenger transportation service, a tax invoice shall include ticket in any form, by whatever name called, whether or not serially numbered, and whether or not containing the address of the recipient of service but containing other information as prescribed under rule 1 of Invoice Rules.
 
-# Transportation of goods without an invoice 
+# Transportation of goods without an invoice
 
 In the following cases it is permissible for the consignor to issue a delivery challan in lieu of invoice at the time of removal of goods:
 a) supply of liquid gas where the quantity at the time of removal from the place of business of the supplier is not known,
@@ -1329,7 +1290,7 @@ b) the supplier shall issue a delivery challan for each of the subsequent consig
 c) each consignment shall be accompanied by copies of the corresponding delivery challan along with a duly certified copy of the invoice; and
 d) the original copy of the invoice shall be sent along with the last consignment.
 
-# Chapter Fourteen 
+# Chapter Fourteen
 
 ## Accounts and Records in GST
 
@@ -1351,12 +1312,12 @@ b) supplies attracting payment of tax on reverse charge along with relevant docu
 
 4. In case, more than one place of business is specified in the certificate of registration, the accounts relating to each place of business shall be kept at such places of business. A registered person may keep and maintain such accounts and other particulars in electronic form in such manner as may be prescribed.
 5. Following accounts and records will have to be maintained by every registered person:
-a) accounts of stock in respect of goods received and supplied; and such account shall contain particulars of the opening balance, receipt, supply, goods lost, stolen, destroyed, written off or disposed of by way of gift or free samples and balance of stock including raw materials, finished goods, scrap and wastage thereof;
-b) a separate account of advances received, paid and adjustments made thereto;
-c) an account, containing the details of tax payable, tax collected and paid, input tax, input tax credit claimed, together with a register of tax invoice, credit note, debit note, delivery challan issued or received during any tax period [not required for person paying tax under section 10];
-d) names and complete addresses of suppliers from whom goods or services, chargeable to tax under the Act, have been received;
-e) names and complete addresses of the persons to whom supplies have been made;
-f) the complete addresses of the premises where the goods
+   a) accounts of stock in respect of goods received and supplied; and such account shall contain particulars of the opening balance, receipt, supply, goods lost, stolen, destroyed, written off or disposed of by way of gift or free samples and balance of stock including raw materials, finished goods, scrap and wastage thereof;
+   b) a separate account of advances received, paid and adjustments made thereto;
+   c) an account, containing the details of tax payable, tax collected and paid, input tax, input tax credit claimed, together with a register of tax invoice, credit note, debit note, delivery challan issued or received during any tax period [not required for person paying tax under section 10];
+   d) names and complete addresses of suppliers from whom goods or services, chargeable to tax under the Act, have been received;
+   e) names and complete addresses of the persons to whom supplies have been made;
+   f) the complete addresses of the premises where the goods
 
 are stored including goods stored during transit along with the particulars of the stock stored therein;
 g) monthly production accounts, showing the quantitative details of raw materials or services used in the manufacture and quantitative details of the goods so manufactured including the waste and by products thereof;
@@ -1375,7 +1336,7 @@ electronic form of data stored on any electronic devices. The data so stored sha
 7. Attention is invited to Circular No. 23/23/2017GST dated 21.12.2017 which provides relaxation from maintenance of books of accounts relating to additional place of business by a principal or an auctioneer for the purpose of auction of tea, coffee, rubber etc. subject to prescribed conditions.
 8. Any entry in registers, accounts and documents shall not be erased, effaced or overwritten, and all incorrect entries, otherwise than those of clerical nature, shall be scored out under attestation and thereafter correct entry shall be recorded, and where the registers and other documents are maintained electronically, a log of every entry edited or deleted shall be maintained. Further each volume of books of account maintained manually by the registered person shall be serially numbered.
 
-# 9. Period for preservation of accounts: 
+# 9. Period for preservation of accounts:
 
 - All accounts maintained together with all invoices, bills of supply, credit and debit notes, and delivery challans relating to stocks, deliveries, inward supply and outward supply shall be preserved for seventytwo months (six years) from the due date of furnishing of annual return for the year pertaining to such accounts and records and shall be kept at every related place of business mentioned in the certificate of registration.
 - A registered person, who is a party to an appeal or revision or any other proceedings whether filed by him or by the Commissioner, or is under investigation for an offence, has to retain the records pertaining to the subject matter of such appeal or revision or proceedings or investigation for a period of one year after final disposal of such appeal or revision or proceedings or investigation, or for the period specified above (seventy-two months), whichever is later.
@@ -1383,19 +1344,17 @@ electronic form of data stored on any electronic devices. The data so stored sha
 10. Electronic Records: The following requirements have been prescribed for maintenance of records in electronic form.
 
 - Proper electronic back-up of records in such manner that, in the event of destruction of such records due to accidents or natural causes, the information can be restored within a reasonable period of time.
-
 - produce, on demand, the relevant records or documents, duly authenticated, in hard copy or in any electronically readable format.
 - Where the accounts and records are stored electronically by any registered person, he shall, on demand, provide the details of such files, passwords of such files and explanation for codes used, where necessary, for access and any other information which is required for such access along with a sample copy in print form of the information stored in such files.
 
-
-# 11. Recordstobe maintained by owner or operator of godown or warehouse and transporters: 
+# 11. Recordstobe maintained by owner or operator of godown or warehouse and transporters:
 
 The transporters, owners or operators of godowns, if not already registered under the GST Act(s), shall submit the details regarding their business electronically on the Common Portal in FORM GST ENR-01. A unique enrolment number shall be generated and communicated to them. A person enrolled in any other State or Union territory shall be deemed to be enrolled in the State or Union Territory.
 12. Every person engaged in the business of transporting goods shall maintain records of goods transported, delivered and goods stored in transit by him and for each of his branches. Every owner or operator of a warehouse or godown shall maintain books of accounts, with respect to the period for which particular goods remain in the warehouse, including
 
 the particulars relating to dispatch, movement, receipt, and disposal of such goods. The goods shall be stored in such manner that they can be identified item wise and owner wise and shall facilitate any physical verification or inspection, if required at any time.
 
-# Chapter Fifteen 
+# Chapter Fifteen
 
 ## Credit Note in GST
 
@@ -1413,7 +1372,7 @@ In order to regularize these kinds of situations the supplier is
 
 allowed to issue what is called as credit note to the recipient. Once the credit note has been issued, the tax liability of the supplier will reduce.
 
-# Meaning 
+# Meaning
 
 Where a tax invoice has been issued for supply of any goods or services or both and the taxable value or tax charged in that tax invoice is found to exceed the taxable value or tax payable in respect of such supply, or where the goods supplied are returned by the recipient, or where goods or services or both supplied are found to be deficient, the registered person, who has supplied such goods or services or both, may issue to the recipient what is called as a credit note containing the prescribed particulars.
 
@@ -1431,7 +1390,7 @@ g) serial number and date of the corresponding tax invoice or, as the case may b
 h) value of taxable supply of goods or services, rate of tax and the amount of the tax credited to the recipient; and
 i) signature or digital signature of the supplier or his authorised representative.
 
-# Adjustment of tax liability 
+# Adjustment of tax liability
 
 The person who issues a credit note in relation to a supply of goods or services or both must declare the details of such credit note in the return for the month during which such credit note has been issued but not later than September following the end of the financial year in which such supply was made, or the date of furnishing of the relevant annual return, whichever is earlier. In other words, the output tax liability cannot be reduced in cases where credit note has been issued after September.
 
@@ -1451,7 +1410,7 @@ The amount in respect of any reduction in output tax liability that is found to 
 
 in his return for the month in which such duplication is communicated.
 
-# Records 
+# Records
 
 The records of the credit notes have to be retained until the expiry of seventy-two months from the due date of furnishing of annual return for the year pertaining to such accounts and records. Where such accounts and documents are maintained manually, it should be kept at every related place of business mentioned in the certificate of registration and shall be accessible at every related place of business where such accounts and documents are maintained digitally.
 
@@ -1459,7 +1418,7 @@ The records of the credit notes have to be retained until the expiry of seventy-
 
 The credit note is therefore a convenient and legal method by which the value of the goods or services in the original tax invoice can be amended or revised. The issuance of the credit note will easily allow the supplier to decrease his tax liability in his returns without requiring him to undertake any tedious process of refunds.
 
-# Chapter Sixteen 
+# Chapter Sixteen
 
 ## Debit Note in GST
 
@@ -1478,7 +1437,7 @@ In order to regularize these kinds of situations the supplier is allowed to issu
 
 When a tax invoice has been issued for supply of any goods or services or both and the taxable value or tax charged in that tax invoice is found to be less than the taxable value or tax payable in respect of such supply, the registered person, who has supplied such goods or services or both, shall issue to the recipient a debit note containing the prescribed particulars.
 
-# Format: 
+# Format:
 
 There is no prescribed format but debit note issued by a supplier must contain the following particulars, namely: -
 a) name, address and Goods and Services Tax Identification Number of the supplier;
@@ -1493,7 +1452,7 @@ or, as the case may be, bill of supply;
 h) value of taxable supply of goods or services, rate of tax and the amount of the tax debited to the recipient; and
 i) signature or digital signature of the supplier or his authorized representative.
 
-# Tax liability: 
+# Tax liability:
 
 The issuance of a debit note or a supplementary invoice creates additional tax liability. The treatment of a debit note or a supplementary invoice would be identical to the treatment of a tax invoice as far as returns and payment are concerned.
 
@@ -1507,7 +1466,7 @@ The debit note or a supplementary invoice is therefore a convenient and legal me
 
 to pay his enhanced tax liability in his returns without requiring him to undertake any other tedious process.
 
-# Chapter Seventeen 
+# Chapter Seventeen
 
 ## Electronic Cash/Credit Ledgers and Liability Register in GST
 
@@ -1517,7 +1476,7 @@ On the common portal each registered taxpayer will have one electronic register 
 
 liability register. In case of any discrepancy in his electronic liability ledger, electronic cash ledger or electronic credit ledger the registered person has to communicate the same to the officer exercising jurisdiction in the matter, through the common portal in FORM GST PMT-04.
 
-# Electronic liability register: 
+# Electronic liability register:
 
 The electronic liability register is maintained in FORM GST PMT-01 for each person liable to pay tax, interest, penalty, late fee or any other amount on the common portal and all amounts payable by him shall be debited to the said register. The electronic liability register will be maintained in two parts at the common portal.
 
@@ -1526,7 +1485,6 @@ Part I will be for maintaining the return related liabilities. All liabilities a
 Part II will be for maintaining the complete description of the transactions of all liabilities accruing, other than return related liabilities. Such other liabilities may include the following:
 
 - Liabilities due to reduction or enhancement in the amount payable due to decision of appeal, rectification, revision, review etc.;
-
 - Refund of pre-deposit that can be claimed for a particular demand if appeal is allowed;
 - Payment made against the show cause notice or any other payment made voluntarily;
 - Reduction in amount of penalty (which would be automatically shown) based on payment made after show cause notice or within the time specified in the Act or the rules.
@@ -1551,7 +1509,7 @@ Any amount of demand debited in the electronic liability register shall stand re
 
 The amount of penalty imposed or liable to be imposed shall stand reduced partly or fully, as the case may be, if the taxable person makes the payment of tax, interest and penalty specified in the show cause notice or demand order and the electronic liability register shall be credited accordingly.
 
-# Electronic cash ledger: 
+# Electronic cash ledger:
 
 Every deposit made by a person by internet banking or by using credit or debit cards or National Electronic Fund Transfer (NEFT) or Real Time Gross Settlement (RTGS)
 
@@ -1581,7 +1539,7 @@ Refund from cash ledger can only be claimed only when all the return related lia
 
 discharged. A registered person, claiming refund of any balance in the electronic cash ledger can claim such refund in Part B of the return in FORM GSTR-3 and such return shall be deemed to be an application filed under section 54 of the CGST Act, 2017.
 
-# Electronic credit ledger: 
+# Electronic credit ledger:
 
 The electronic credit ledger shall be maintained in FORM GST PMT-02 for each registered person eligible for input tax credit on the common portal and every claim of input tax credit will be credited to this ledger. The amount available in the electronic credit ledger can be used for making any payment towards output tax.
 
@@ -1591,7 +1549,7 @@ If the refund so filed is rejected, either fully or partly, the amount debited t
 
 Unless otherwise allowed, entries will not be allowed to be made directly in the electronic credit ledger under any circumstance.
 
-# Chapter Eighteen 
+# Chapter Eighteen
 
 ## Electronic Way Bill in GST
 
@@ -1611,7 +1569,7 @@ Components - Part A comprising of details of GSTIN of recipient, place of delive
 
 As per Rule 138 of the CGST Rules, 2017, every registered person who causes movement of goods (which may not necessarily be on account of supply) of consignment value more than Rs. 50000/- is required to furnish above mentioned information in part A of e-way bill. The part B containing transport details helps in generation of e-way bill.
 
-# Who should generate the e-way bill and Why? 
+# Who should generate the e-way bill and Why?
 
 E-way bill is to be generated by the consignor or consignee himself if the transportation is being done in own/hired conveyance or by railways, by air or by Vessel. If the goods are handed over to a transporter for transportation by road, E-way bill is to be generated by the Transporter. Where neither the consignor nor consignee generates the e-way bill and the value of goods is more than Rs.50,000/- it shall be the responsibility of the transporter to generate it.
 
@@ -1621,7 +1579,7 @@ Also, where handicraft goods are transported from one State to another by a pers
 
 requirement of obtaining registration, the e-way bill shall be generated by the said person irrespective of the value of the consignment.
 
-# How is it generated? 
+# How is it generated?
 
 An e-way bill contains two parts-Part A to be furnished by the person who is causing movement of goods of consignment value exceeding Rs. 50,000/- and part B (transport details) to be furnished by the person who is transporting the goods. Where the goods are transported by a registered personwhether as consignor or recipient, the said person shall have to generate the e-way bill by furnishing information in part B on the GST common portal. Where the e-way bill is not generated by registered person and the goods are handed over to the transporter for transportation by road, the registered person shall furnish the information relating to the transporter in Part B of FORM GST EWB-01 on the common portal and the e-way bill shall be generated by the transporter on the said portal on the basis of the information furnished by the registered person in Part A of FORM GST EWB-01.
 
@@ -1629,7 +1587,7 @@ A registered person may obtain an Invoice Reference Number from the common porta
 
 In the above case, the registered person will not have to upload the information in Part A of FORM GST EWB-
 
-# 01 for generation of e-way bill and the same shall be auto-populated by the common portal on the basis of the information furnished in FORM GST INV-1. 
+# 01 for generation of e-way bill and the same shall be auto-populated by the common portal on the basis of the information furnished in FORM GST INV-1.
 
 Upon generation of the e-way bill on the common portal, a unique e-way bill number (EBN) generated by the common portal, shall be made available to the supplier, the recipient and the transporter on the common portal.
 
@@ -1647,7 +1605,7 @@ at which the e-way bill has been generated and each day shall be counted as twen
 
 Further, if under circumstances of an exceptional nature, the goods cannot be transported within the validity period of the e-way bill, the transporter may generate another e-way bill after updating the details in Part B of FORM GST EWB-01.
 
-# Cancellation of E-Way Bill 
+# Cancellation of E-Way Bill
 
 Where an e-way bill has been generated under this rule, but goods are either not transported or are not transported as per the details furnished in the e-way bill, the e-way bill may be cancelled electronically on the common portal, either directly or through a Facilitation Centre notified by the Commissioner, within 24 hours of generation of the e-way bill. However, an e-way bill cannot be cancelled if it has been verified in transit in accordance with the provisions of rule 138B of the CGST Rules, 2017 .
 
@@ -1667,7 +1625,7 @@ a) tax invoice or bill of supply or bill of entry; or
 b) a delivery challan, where the goods are transported for reasons other than by way of supply.
 It is also be noted that the Commissioner may, by notification, require a class of transporters to obtain a unique Radio Frequency Identification Device and get the said device embedded on to the conveyance and map the e-way bill to the Radio Frequency Identification Device prior to the movement of goods.
 
-# E-Way bill to be issued whether for supply or otherwise 
+# E-Way bill to be issued whether for supply or otherwise
 
 E-way bill is to be issued irrespective of whether the movement of goods is caused by reasons of supply or otherwise. In respect of transportation for reasons other than supply, movement could be in view of export/import, job-work, SKD or CKD, recipient not known, line sales, sales returns, exhibition or fairs, for own use, sale on approval basis etc.
 
@@ -1681,7 +1639,7 @@ tainer depot or a container freight station for clearance by Customs;
 d) in respect of movement of goods within such areas as are notified under rule 138(14) (d) of the SGST Rules, 2017 of the concerned State; and
 e) Consignment value less than Rs. 50,000/-
 
-# Consequences of non-conformance to E-way bill rules 
+# Consequences of non-conformance to E-way bill rules
 
 If e-way bills, wherever required, are not issued in accordance with the provisions contained in Rule 138 of the CGST Rules, 2017, the same will be considered as contravention of rules. As per Section 122 of the CGST Act, 2017, a taxable person who transports any taxable goods without the cover of specified documents (e-way bill is one of the specified documents) shall be liable to a penalty of Rs. 10,000/- or tax sought to be evaded (wherever applicable) whichever is greater. As per Section 129 of CGST Act, 2017, where any person transports any goods or stores any goods while they are in transit in contravention of the provisions of this Act or the rules made thereunder, all such goods and conveyance used as a means of transport for carrying the said goods and documents relating to such goods and conveyance shall be liable to detention or seizure.
 
@@ -1702,7 +1660,7 @@ Recent Developments in respect of the E-Way Bill mechanism under GST.
 
 Decision of GST Council : Inter-State e-way Bill to be
 
-# made compulsory from 1 st of February, 2018; system to be ready by 16th of January, 2018. 
+# made compulsory from 1 st of February, 2018; system to be ready by 16th of January, 2018.
 
 The 24th meeting of the GST Council held on 16.12.2017 discussed about the implementation of e-way Bill system in the country. Till such time as National e-way Bill is ready, the States were authorized to continue their own separate e-way Bill systems. However, it was represented by the trade and transporters that this is causing undue hardship in interState movement of goods and therefore, bringing in an early all India system of e-way Bill has become a necessity. The GST Council reviewed the progress of readiness of hardware and software required for the introduction of nationwide e-way Bill system. After discussions with all the states, the following decisions are taken :-
 i. The nationwide e-way Bill system will be ready to be rolled out on a trial basis latest by $16^{\text {th }}$ January, 2018. Trade and transporters can start using this system on a voluntary basis from $16^{\text {th }}$ January, 2018.
@@ -1711,11 +1669,11 @@ iii. While the system for both inter-State and in-
 
 tra-State e-way Bill generation will be ready by $16^{\text {th }}$ January, 2018, the States may choose their own timings for implementation of e-way Bill for intra-State movement of goods on any date before 1st June, 2018. There are certain States which are already having system of e-way Bill for intra-State as well as inter-State movement and some of those States can be early adopters of national e-way Bill system for intra-State movement also. But in any case uniform system of e-way Bill for inter-State as well as in-tra-State movement will be implemented across the country by 1st June, 2018.
 
-# Conclusion 
+# Conclusion
 
 The e-way bill provisions aim to remove the ills of the erstwhile way bill system prevailing under VAT in different states, which was a major contributor to the bottlenecks at the check posts. Moreover, different states prescribed different e-way bill rules which made compliance difficult. The e-way bill provisions under GST will bring in a uniform e-way bill rule which will be applicable throughout the country. The physical interface will pave way for digital interface which will facilitate faster movement of goods. It is bound to improve the turnaround time of vehicles and help the logistics industry by increasing the average distances travelled, reducing the travel time as well as costs.
 
-# Chapter Ninteen 
+# Chapter Ninteen
 
 ## Input Tax Credit Mechanism in GST
 
@@ -1729,9 +1687,9 @@ Goods and Services Tax (GST) would mitigate such cascading of taxes. Under this 
 
 regime are as under:
 
-| Central Taxes | State Taxes |
-| :--: | :--: |
-| - Central Excise duty <br> - Additional duties of excise | - State VAT / Sales Tax <br> - Central Sales Tax <br> - Purchase Tax <br> - Entertainment Tax (other than those levied by local bodies) <br> - Luxury Tax <br> - Entry Tax (All forms) <br> - Taxes on lottery, betting \& gambling <br> - Surcharges \&Cesses |
+|                        Central Taxes                        |                                                                                                                                        State Taxes                                                                                                                                        |
+| :----------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| - Central Excise duty `<br>` - Additional duties of excise | - State VAT / Sales Tax `<br>` - Central Sales Tax `<br>` - Purchase Tax `<br>` - Entertainment Tax (other than those levied by local bodies) `<br>` - Luxury Tax `<br>` - Entry Tax (All forms) `<br>` - Taxes on lottery, betting \& gambling `<br>` - Surcharges \&Cesses |
 
 GST comprises of the following levies:
 a) Central Goods and Services Tax (CGST)[also known as Central Tax] on intra-state or intra-union territory without legislature supply of goods or services or both.
@@ -1742,13 +1700,13 @@ c) Union Territory Goods and Services Tax (UTGST)
 d) Integrated Goods and Services Tax (IGST)[also known as Integrated Tax] on inter-state supply of goods or services or both. In case of import of goods also the present levy of Countervailing Duty (CVD) and Special Additional Duty (SAD) would be replaced by Integrated tax.
 The protocol to avail and utilise the credit of these taxes is as follows:
 
-| Credit of | To be utilised first <br> for payment of | May be utilised fur- <br> ther for payment of |
-| :--: | :--: | :--: |
-| CGST | CGST | IGST |
-| SGST/UTGST | SGST/UTGST | IGST |
-| IGST | IGST | CGST, then SGST/ <br> UTGST |
+| Credit of | To be utilised first `<br>` for payment of | May be utilised fur-`<br>` ther for payment of |
+| :--------: | :------------------------------------------: | :----------------------------------------------: |
+|    CGST    |                     CGST                     |                       IGST                       |
+| SGST/UTGST |                  SGST/UTGST                  |                       IGST                       |
+|    IGST    |                     IGST                     |          CGST, then SGST/`<br>` UTGST          |
 
-# Credit of CGST cannot be used for payment of SGST/ UTGST and credit of SGST / UTGST cannot be utilised for payment of CGST. 
+# Credit of CGST cannot be used for payment of SGST/ UTGST and credit of SGST / UTGST cannot be utilised for payment of CGST.
 
 Some of the technical aspects of the scheme of Input Tax Credit are as under:
 a) Any registered person can avail credit of tax paid on the inward supply of goods or services or both which is used or intended to be used in the course or furtherance of business.
@@ -1766,7 +1724,7 @@ b) Invoice issued by recipient alongwith proof of payment of tax
 c) A debit note issued by supplier
 d) Bill of entry or similar document prescribed under
 
-# Customs Act 
+# Customs Act
 
 e) Revised invoice
 f) Document issued by Input Service Distributor
@@ -1800,7 +1758,7 @@ f) In case of change of constitution of a registered person on account of sale, 
 g) A person switching over from composition scheme under section 10 to normal scheme or where a taxable supply become exempt, the ITC availed in respect of goods held in stock (inputs as such and inputs contained in semi-finished or finished goods) as well as capital goods will have to be paid.
 h) In case of supply of capital goods or plant and machinery, on which ITC is taken, an amount equivalent to ITC availed minus the reduction as prescribed in rules ( $5 \%$ for every quarter or part thereof) shall have to be paid. In case the tax on transaction value of the supply is more, the same would have to be paid.
 
-# Chapter Twenty 
+# Chapter Twenty
 
 ## Transition Provisions under GST
 
@@ -1814,7 +1772,7 @@ a) A. Transitional arrangements for ITC
 
 Elaborate provisions have been made to carry forward the ITC earned under the existing law. Such credit should be permissible under GST law. However, the taxable person opting for composition scheme would not be eligible for carry forward of existing ITC. ITC of various taxes under the existing laws (CENVAT credit, VAT etc.) would be carried forward as under:
 
-# a) Closing balance of the credit in the last returns: 
+# a) Closing balance of the credit in the last returns:
 
 The closing balance of the CENVAT credit /VAT in the last returns filed under the existing law can be taken as credit in electronic credit ledger. Such credit would be available only when returns for the previous last six months have been filed under the existing law. In order to claim this credit, declaration in form GST TRAN 1 is required to be furnished on the common portal within ninety days from the appointed day i.e. $1^{\text {st }}$ July, 2017 or within such extended time.
 
@@ -1843,7 +1801,7 @@ e) Credit relating to exempted goods under the existing law which are now taxabl
 
 Input Tax Credit of CENVAT / VAT in respect of input, semi-finished and finished goods in stock attributable to such exempted goods or services which are now taxable can also be taken in the same manner.
 
-# f) Input/input services in transit: 
+# f) Input/input services in transit:
 
 There might be a scenario where input or input services are received on or after the appointed day but the duty or tax on the same was paid by the supplier under the existing law. Registered person (RP) may take credit of eligible duties and taxes, provided the invoice has been recorded in the books within 30 days from $1^{\text {st }}$ July, 2017. The period can be extended by the Commissioner GST by another 30 days. A statement of such invoices have to be furnished. ISD can also distribute such credit.
 
@@ -1858,7 +1816,7 @@ iii. Registered person is eligible for ITC under this Act.
 iv. Registered person is in possession of such Invoice or other duty payment documents.
 v. Such Invoices are not more than twelve months old on appointed day.
 
-# h) ITC in case of Centralized Registration under service tax: 
+# h) ITC in case of Centralized Registration under service tax:
 
 Such registered person can take credit of the amount of CENVAT carry forwarded in return furnished under the existing law, if the original / revised return under the existing law has been filed within three months. Such credit may be transferred to any of the registered persons having the same PAN for which the centralized registration was obtained.
 
@@ -1868,7 +1826,7 @@ CENVAT credit reversed on account of non-payment of consideration within three m
 
 from $1^{\text {st }}$ July, 2017
 
-# j) Where any goods or capital goods belonging to the principal are lying at the premises of the agent on the Appointed Day: 
+# j) Where any goods or capital goods belonging to the principal are lying at the premises of the agent on the Appointed Day:
 
 This provision is specific to SGST law. In such cases, agent shall be entitled to take credit subject to the following conditions:
 i. the agent is a registered taxable person
@@ -1893,13 +1851,13 @@ c) Goods sent on approval basis before 6 months of the appointed day i.e. $1^{\t
 
 No tax is payable by the person returning the goods. Commissioner may extend the period by 2 months. If returned after that, tax is payable if the supply is taxable under GST (by the recipient. If not returned, tax is payable by the person who sent the goods on approval basis.
 
-# d) TDS deducted in VAT 
+# d) TDS deducted in VAT
 
 Where a supplier has made any sale of goods and tax was
 
 required to be deducted under VAT Act and Invoice was issued before the appointed day, however, the payment was made on or after appointed day. In such cases no TDS under GST is to be deducted.
 
-# e) Price revision in respect of existing contracts 
+# e) Price revision in respect of existing contracts
 
 In case of upward price revision, a registered person will issue a supplementary invoice or debit notes within 30 days from the date of revision and such revision shall be treated as supply under GST and tax is payable under this Act.
 
@@ -1915,7 +1873,7 @@ no refund of CENVAT if already carry forwarded. If any amount becomes recoverabl
 
 Statutory provisions relating to transition are contained in chapter XX (section 139 to 142) of the CGST Act, 2017, SGST Act(s), 2017 and Rule 117 to 121 of the CGST Rules, 2017.
 
-# Chapter Twenty One 
+# Chapter Twenty One
 
 ## Integrated Goods and Services Tax Act
 
@@ -1926,12 +1884,12 @@ i. Central tax (CGST):
 ii. State tax (SGST)
 (levied $\mathcal{G}$ collected under the authority of SGST Act, 2017 passed by respective State)
 
-# Why the third tax in the name of IGST? 
+# Why the third tax in the name of IGST?
 
 3. Before discussing the IGST Model and its features it is important to understand how inter-state trade or commerce is being regulated in the present indirect tax system. It is significant to note that presently the Central Sales Tax Act, 1956 regulates the inter-state trade or commerce (hereinafter referred to as "CST") the authority for which is constitutionally derived from Article 269 of the Constitution. Further as per article 286 of the Constitution of India, no State can levy sales tax on any sales or purchase of goods that takes place outside the State or in the course of the import of the goods into, or export of the goods out of, the territory of India Only Parliament can levy tax on such transaction. The Central Sales Tax Act was enacted in 1956 to formulate principles for determining when a sale or purchase of goods takes place in the course of interstate trade or commerce. The Act also provides for the levy and collection of taxes on sale of goods in the course of interstate trade
 4. The CST suffers from following shortcomings:
-i. CST is collected and retained by the origin state, which is an aberration. Any indirect tax, by definition is a consumption tax, the incidence of which is borne by the consumer. Logically, the tax should accrue to the destination state having jurisdiction over such consumer.
-ii. Input Tax Credit (ITC) of CST is not allowed to the
+   i. CST is collected and retained by the origin state, which is an aberration. Any indirect tax, by definition is a consumption tax, the incidence of which is borne by the consumer. Logically, the tax should accrue to the destination state having jurisdiction over such consumer.
+   ii. Input Tax Credit (ITC) of CST is not allowed to the
 
 buyer which results in cascading of tax (tax on tax) in the supply chain.
 iii. Various accountal forms are required to be filed in CST viz., C Form, E1, E2, F, I, J Forms etc. which adds to the compliance cost of the business and impedes the free flow of trade.
@@ -1950,7 +1908,7 @@ The IGST payment can be done by utilizing ITC. The amount of ITC on account of I
 
 It is very important to determine the nature of supply whether it is inter-state or intra state, as the kind of tax to be paid (IGST or CGST+SGST) depends on that.
 
-# i. Inter-state Supply: 
+# i. Inter-state Supply:
 
 Subject to place of supply provisions, where the location of the supplier and the place of supply are in-
 a) two different States;
@@ -1965,125 +1923,112 @@ Any supply of goods or services in the taxable territory, not being an intra-Sta
 
 It has been defined as any supply where the location of the supplier and the place of supply are in the same State or Union territory.
 
-| Intra state supply | Interstate supply |
-| :--: | :--: |
-| $>$ Supply of goods within the state or union territory. <br> Supply of services within the state or union territory | $>$ Supply of goods from one state or union territory to other state or union territory. <br> $>$ Supply of service from one state or union territory to other state or union territory. <br> $>$ Import of goods till they cross customs frontier <br> $>$ Import of service. <br> $>$ Export of goods or service. Supply of goods/services to/by SEZ. <br> $>$ Supplies to international tourists <br> $>$ Any other supply in the taxable territory which is not intra state supply |
+|                                                     Intra state supply                                                     |                                                                                                                                                                                                                                                      Interstate supply                                                                                                                                                                                                                                                      |
+| :------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| $>$ Supply of goods within the state or union territory. `<br>` Supply of services within the state or union territory | $>$ Supply of goods from one state or union territory to other state or union territory. `<br>` $>$ Supply of service from one state or union territory to other state or union territory. `<br>` $>$ Import of goods till they cross customs frontier `<br>` $>$ Import of service. `<br>` $>$ Export of goods or service. Supply of goods/services to/by SEZ. `<br>` $>$ Supplies to international tourists `<br>` $>$ Any other supply in the taxable territory which is not intra state supply |
 
 Thus, the nature of the supply depends on the location of the supplier and the place of supply. Both these terms have been defined in the IGST Act.
 9. Location of Supplier broadly is the registered place of business or the fixed establishment of the supplier from where the supply is made. Sometime, a service provider has to go to client location for providing service. However, such place would not be considered as the location of supplier. It has to be either regular place of business or fixed establishment which is having sufficient degree of permanence and suitable structure in terms of human and technical resources.
 
-# 10. Place of supply 
+# 10. Place of supply
 
 10.1 Place of supply provisions have been framed for goods \& services keeping in mind the destination/consumption principle. In other words, place of supply is based on the place of consumption of goods or services. As goods are tangible, the determination of their place of supply based on the consumption principle is not difficult. Generally the place of delivery of goods becomes the place of supply. However, the services being intangible in nature, it is not easy to determine the exact place where services are acquired, enjoyed and consumed. In respect of certain categories of services, the place of supply is determined with reference to a proxy.
 10.2 A distinction has been made between B2B (Business to Business) \& B2C(Business to Consumer) transactions as B2B transactions are wash transactions as ITC is availed by such registered person (recipient) and no real revenue accrues to the Govt.
 10.3 Separate provisions for supply of goods and services have been made for determination of their place of supply. Separate provisions for determination of place of supply in respect of domestic supplies and cross border supplies have been framed.
-A. Place of Supply of Goods other than import and export [Section-10]
 
-| S.No. | Nature of supply | Place of Supply |
-| :--: | :--: | :--: |
-| 1 | Where the supply involves movement of goods, whether by the supplier or the recipient or by any other person. | Location of the goods at the time at which the movement of goods terminates for delivery to the recipient. |
-| 2 | where the goods are delivered to recipient or any person on the direction of third person by way of transfer of title or otherwise, it shall be deemed that third person has received the goods | The principal place of business of such person |
-| 3 | where there is no movement of goods either by supplier or recipient | Location of such goods at the time of delivery to recipient |
-| 4 | where goods are assembled or installed at site | The place where the goods are assembled or installed |
+## A. Place of Supply of Goods other than import and export [Section-10]
 
-| 5 | where the goods are <br> supplied on board <br> a conveyance, like <br> vessel, aircraft, train or <br> motor vehicle | The place where such <br> goods are taken on <br> board the conveyance |
-| :-- | :-- | :-- |
-| 6 | Where the place <br> of supply of goods <br> cannot be determined <br> in terms of sub- <br> section (2), (3), (4) <br> and (5) | It shall be determined <br> in such manner as may <br> be prescribed |
+| **S.No.** | **Nature of supply**                                                                                                                                                                       | **Place of Supply**                                                                                  |
+| :-------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+|        1        | Where the supply involves movement of goods, whether by the supplier or the recipient or by any other person.                                                                                    | Location of the goods at the time at which the movement of goods terminates for delivery to the recipient. |
+|        2        | Where the goods are delivered to recipient or any person on the direction of third person by way of transfer of title or otherwise, it shall be deemed that third person has received the goods. | The principal place of business of such person.                                                            |
+|        3        | Where there is no movement of goods either by supplier or recipient.                                                                                                                             | Location of such goods at the time of delivery to recipient.                                               |
+|        4        | Where goods are assembled or installed at site.                                                                                                                                                  | The place where the goods are assembled or installed.                                                      |
+|        5        | Where the goods are `<br>` supplied on board `<br>` a conveyance, like `<br>` vessel, aircraft, train, or `<br>` motor vehicle.                                                          | The place where such `<br>` goods are taken on `<br>` board the conveyance.                            |
+|        6        | Where the place `<br>` of supply of goods `<br>` cannot be determined `<br>` in terms of sub- `<br>` section (2), (3), (4), `<br>` and (5).                                            | It shall be determined `<br>` in such manner as may `<br>` be prescribed.                              |
 
-B. Place of supply of goods in case of import \&Export [ Section -11]
+## B. Place of supply of goods in case of import \&Export [ Section -11]
 
-| S.No. | Nature of supply of <br> goods | Place of Supply |
-| :-- | :-- | :-- |
-| 1 | Import | location of importer |
-| 2 | Export | location outside <br> India |
+| S.No. | Nature of supply of `<br>` goods | Place of Supply                 |
+| :---- | :--------------------------------- | :------------------------------ |
+| 1     | Import                             | location of importer            |
+| 2     | Export                             | location outside `<br>` India |
 
-C. Place of supply of services in case of domestic supplies: (section12)
+## C. Place of supply of services in case of domestic supplies: (section12)
+
 (Where the location of supplier of services and the location of the recipient of services is in India.)
 i. In respect of following 12category of services, the
 
 place of supply is determined with reference to a proxy. Rest of services are governed by a default provision.
 
-| S.No | Nature of service | Place of supply |
-| :--: | :--: | :--: |
-| 1 | Immovable property related services including hotel accommodation, | Location at which the immovable property or boat or vessel is located or intended to be located. <br> If located outside India: Location of the recipient. |
-| 2 | Restaurant and catering services, personal grooming, fitness, beauty treatment, health service, | Location where the services are actually performed. |
-| 3 | Training and performance appraisal, | B2B : Location of such registered person; <br> B2C: Location where the services are actually performed. |
-| 4 | Admission to an event or amusement park | Place where the event is actually held or where the park or such other place is located. |
-
-| 5 | Organization of an event. | B2B : Location of such registered person; <br> B2C: Location where the event is actually held. <br> If event is held outside India :Location of the recipient |
-| :--: | :--: | :--: |
-| 6 | Transportation of goods including mails | B2B : Location of such registered person; <br> B2C : Location at which such goods are handed over for their transportation |
-| 7 | Passenger transportation. | B2B : Location of such registered person; <br> B2C : Place where the passenger embarks on the conveyance for a continuous journey |
-| 8 | Services on board a conveyance | Location of the first scheduled point of departure of that conveyance for the journey. |
-
-| 9 | Telecommunication <br> services. | Services involving fixed <br> line, circuits, dish etc., <br> place of supply is location <br> of such fixed equipment. <br> In case of mobile/ inter- <br> net post-paid services, it is <br> location of billing address <br> of the recipient. In case of <br> sale of pre-paid voucher, <br> place of supply is place of <br> sale of such vouchers. In <br> other cases it is address of <br> the recipient in records. |
-| :-- | :-- | :-- |
-| 10 | Banking and other <br> financial services, | Location of the recipient <br> of services on the records <br> of the supplier. |
-| 11 | Insurance services | Location of the supplier of <br> services if the location of <br> the recipient of services is <br> not available |
-|  | B2B : Location of such <br> registered person; |  |
-
-| 12 | Advertisement ser- <br> vices to the Govern- <br> ment | The place of supply shall be <br> taken as located in each of <br> such States |
-| :-- | :-- | :-- |
-|  | Proportionate value in <br> case of multiple state |  |
+| **S.No** | **Nature of service**                                                                     | **Place of supply**                                                                                                                                                                                                                                                                                                                                                                                 |
+| :------------: | :---------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|       1       | Immovable property related services including hotel accommodation.                              | Location at which the immovable property or boat or vessel is located or intended to be located.`<br>` If located outside India: Location of the recipient.                                                                                                                                                                                                                                             |
+|       2       | Restaurant and catering services, personal grooming, fitness, beauty treatment, health service. | Location where the services are actually performed.                                                                                                                                                                                                                                                                                                                                                       |
+|       3       | Training and performance appraisal.                                                             | B2B: Location of such registered person;`<br>` B2C: Location where the services are actually performed.                                                                                                                                                                                                                                                                                                 |
+|       4       | Admission to an event or amusement park.                                                        | Place where the event is actually held or where the park or such other place is located.                                                                                                                                                                                                                                                                                                                  |
+|       5       | Organization of an event.                                                                       | B2B: Location of such registered person;`<br>` B2C: Location where the event is actually held. `<br>` If the event is held outside India: Location of the recipient.                                                                                                                                                                                                                                  |
+|       6       | Transportation of goods including mails.                                                        | B2B: Location of such registered person;`<br>` B2C: Location at which such goods are handed over for their transportation.                                                                                                                                                                                                                                                                              |
+|       7       | Passenger transportation.                                                                       | B2B: Location of such registered person;`<br>` B2C: Place where the passenger embarks on the conveyance for a continuous journey.                                                                                                                                                                                                                                                                       |
+|       8       | Services on board a conveyance.                                                                 | Location of the first scheduled point of departure of that conveyance for the journey.                                                                                                                                                                                                                                                                                                                    |
+|       9       | Telecommunication services.                                                                     | Services involving fixed line, circuits, dish, etc., place of supply is the location of such fixed equipment.`<br>` In case of mobile/internet post-paid services, it is the location of the billing address of the recipient. `<br>` In case of sale of pre-paid vouchers, the place of supply is the place of sale of such vouchers. In other cases, it is the address of the recipient in records. |
+|       10       | Banking and other financial services.                                                           | Location of the recipient of services on the records of the supplier.                                                                                                                                                                                                                                                                                                                                     |
+|       11       | Insurance services.                                                                             | Location of the supplier of services if the location of the recipient of services is not available.`<br>` B2B: Location of such registered person.                                                                                                                                                                                                                                                      |
+|       12       | Advertisement services to the Government.                                                       | The place of supply shall be taken as located in each of such States.`<br>` Proportionate value in case of multiple states.                                                                                                                                                                                                                                                                             |
 
 i. For the rest of the services other than those specified above, a default provision has been prescribed as under.
 
-| Default Rule for the Services other than twelve Speci- <br> fied Services |  |  |
-| :-- | :--: | :--: |
-| S.No. | Description of <br> supply | Place of supply |
-| 1 | B2B | Location of such registered person |
-| 2 | B2C | (i) Location of the recipient where the ad- <br> dress on record exists, and <br> (ii) the location of the supplier of services <br> in other cases. |
+| **Default Rule for the Services other than twelve Specified Services** |                                 |                                                                                                                                              |
+| :--------------------------------------------------------------------------- | :------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------- |
+| **S.No.**                                                              | **Description of supply** | **Place of supply**                                                                                                                    |
+| 1                                                                            | B2B                             | Location of such registered person                                                                                                           |
+| 2                                                                            | B2C                             | (i) Location of the recipient where the address on record exists, and `<br>` (ii) the location of the supplier of services in other cases. |
 
-# D. Place of supply of services in case of cross-border supplies :( Section 13) 
+# D. Place of supply of services in case of cross-border supplies :( Section 13)
 
 (Where the location of the supplier of services or the location of the recipient of services is outside India)
 i. In respect of following category of services, the place of supply is determined with reference to a proxy.
 
 Rest of the services are governed by a default provision.
 
-| S.No | Nature of service | Place of supply |
-| :--: | :--: | :--: |
-| 1 | Services supplied in respect of goods that are required to be made physically available <br> from a remote location by way of electronic means, <br> (Not Applicable in case of goods that are temporarily imported into India for repairs and exported.) | the location where the services are actually performed, <br> the location where goods are situated |
-| 2 | services supplied to an individual which require the physical presence of the receiver | the location where the services are actually performed. |
-| 3 | Immovable property related services including hotel accommodation. | Location at which the immovable property is located. |
-| 4 | Admission to or organisation of an event. | The place where the event is actually held. |
-
-| 5 | If the said three services supplied at more than one location i.e.(i) goods \& individual (ii) immovable property related(iii) event related |  |
-| :--: | :--: | :--: |
-| 5.1 | at more than one location including a location in the taxable territory, | Its place of supply shall be the location in the taxable territory where the greatest proportion of the service is provided. |
-| 5.2 | in more than one State | its place of supply shall be each such state in proportion to the value of services so provided in each State |
-| 6 | Banking, financial institutions, NBFC Intermediary services, hiring of vehicles services etc. | Location of the supplier of service |
-| 7 | Transportation of goods. | The place of destination of the goods |
-| 8 | Passenger transportation. | Place where the passenger embarks on the conveyance for a continuous journey |
-
-| 9 | Services on board a con- <br> veyance. | The first scheduled <br> point of departure of <br> that conveyance for the <br> journey. |
-| :-- | :-- | :-- |
-| 10 | online information <br> and database access <br> or retrieval services" | The location of recipi- <br> ent of service. |
+| S.No |                                                                                                                         Nature of service                                                                                                                         |                                                       Place of supply                                                       |
+| :--: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
+|  1  | Services supplied in respect of goods that are required to be made physically available `<br>` from a remote location by way of electronic means, `<br>` (Not Applicable in case of goods that are temporarily imported into India for repairs and exported.) |            the location where the services are actually performed,`<br>` the location where goods are situated            |
+|  2  |                                                                                      services supplied to an individual which require the physical presence of the receiver                                                                                      |                                   the location where the services are actually performed.                                   |
+|  3  |                                                                                                Immovable property related services including hotel accommodation.                                                                                                |                                     Location at which the immovable property is located.                                     |
+|  4  |                                                                                                             Admission to or organisation of an event.                                                                                                             |                                         The place where the event is actually held.                                         |
+|  5  |                                                            If the said three services supplied at more than one location i.e.(i) goods\& individual (ii) immovable property related(iii) event related                                                            |                                                                                                                              |
+| 5.1 |                                                                                             at more than one location including a location in the taxable territory,                                                                                             | Its place of supply shall be the location in the taxable territory where the greatest proportion of the service is provided. |
+| 5.2 |                                                                                                                      in more than one State                                                                                                                      |        its place of supply shall be each such state in proportion to the value of services so provided in each State        |
+|  6  |                                                                                   Banking, financial institutions, NBFC Intermediary services, hiring of vehicles services etc.                                                                                   |                                             Location of the supplier of service                                             |
+|  7  |                                                                                                                     Transportation of goods.                                                                                                                     |                                            The place of destination of the goods                                            |
+|  8  |                                                                                                                     Passenger transportation.                                                                                                                     |                         Place where the passenger embarks on the conveyance for a continuous journey                         |
+|  9  |                                                                                                             Services on board a con-`<br>` veyance.                                                                                                             |            The first scheduled `<br>` point of departure of `<br>` that conveyance for the `<br>` journey.            |
+|  10  |                                                                                          online information `<br>` and database access `<br>` or retrieval services"                                                                                          |                                       The location of recipi-`<br>` ent of service.                                       |
 
 ii. For the rest of the services other than those specified above, a default provision has been prescribed as under.
 
 Default Rule for the cross border supply of Services other than nine Specified Services
 
-| S.No. | Description <br> of supply | Place of supply |
-| :-- | :-- | :-- |
-| 1 | Any | Location of the Recipient of Service <br> If not available in the ordinary course of <br> business: The location of the supplier of <br> service. |
+| S.No. | Description `<br>` of supply | Place of supply                                                                                                                                               |
+| :---- | :----------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1     | Any                            | Location of the Recipient of Service `<br>` If not available in the ordinary course of `<br>` business: The location of the supplier of `<br>` service. |
 
-# 11. Supplies in territorial waters: 
+# 11. Supplies in territorial waters:
 
 Where the location of the supplier is in the territorial waters, the location of such supplier; or where the place of supply is in the territorial waters, the place of supply is be deemed to be in the coastal State or Union territory where the nearest point of the appropriate baseline is located.
 12. Export/Import of services: a supply would be treated as
 
 Import or export if certain conditions are satisfied. These conditions are as under: -
 
-|  | Export of | Import of Services |
-| :--: | :--: | :--: |
-| Services |  |  |
-| means the supply of any service where |  | means the supply of any service, where |
-| (a) the supplier of service is located in India, |  | (a) the supplier of service is located outside India, |
-| (b) the recipient of service is located outside India, |  | (b) the recipient of service is located in India, and |
-| (c) the place of supply of service is outside India, |  | (c) the place of supply of service is in India; |
-| (d) the payment for such service has been received by the supplier of service in convertible foreign exchange, and |  |  |
-| (e) the supplier of service and recipient of service are not merely establishments of a distinct person in accordance with explanation 1 of section 8 ; |  |  |
+| Export of Services                                                                                                                                      |                  Import of Services                  |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------: |
+| means the supply of any service where                                                                                                                   |        means the supply of any service, where        |
+| (a) the supplier of service is located in India,                                                                                                        | (a) the supplier of service is located outside India, |
+| (b) the recipient of service is located outside India,                                                                                                  | (b) the recipient of service is located in India, and |
+| (c) the place of supply of service is outside India,                                                                                                    |    (c) the place of supply of service is in India;    |
+| (d) the payment for such service has been received by the supplier of service in convertible foreign exchange, and                                      |                                                      |
+| (e) the supplier of service and recipient of service are not merely establishments of a distinct person in accordance with explanation 1 of section 8 ; |                                                      |
 
 13. Zero rated supply: Exports and supplies to SEZ are considered as 'zero rated supply' on which no tax is payable.
 
@@ -2095,7 +2040,7 @@ Section 15 of the IGST Act provides for refund of IGST paid to an international 
 
 This Section was not made applicable from $1^{\text {st }}$ July, 2017 and will be notified at a later date once the ecosystem for the same is ready.
 
-# Compensation cess in GST 
+# Compensation cess in GST
 
 ## Introduction:
 
@@ -2107,7 +2052,7 @@ Compensation Cess will not be charged on goods exported by an exporter under bon
 
 eligible for refund of Compensation Cess paid on goods exported by him. Compensation cess shall not be leviable on supplies made by a taxable person who has decided to opt for composition levy.
 
-# Input Tax Credit: 
+# Input Tax Credit:
 
 The input tax credit in respect of compensation cess on supply of goods or services can be utilised only towards payment of the compensation cess on supply of goods or services.
 
@@ -2125,7 +2070,7 @@ The compensation cess is a cess that will be collected on the
 
 supply of select goods and or services or both till $1^{\text {st }}$ July 2022. The cess will compensate the states for any revenue loss on account of implementation of GST. This cess will not be payable by exporters and those persons who have opted for compensation levy. The input tax credit of this cess can be only used to pay compensation cess and not the other taxes like CGST, SGCT or IGST.
 
-# Chapter Twenty Three 
+# Chapter Twenty Three
 
 ## Imports in GST Regime
 
@@ -2137,7 +2082,7 @@ Supply of goods or services or both to a Special Economic Zone developer or a un
 
 Importer Exporter Code (IEC): As per DGFT's Trade Notice No. 09 dated 12.06.2017, the PAN of an entity would be used as the Import Export code (IEC). Wherever an applicant applies for IEC, the PAN of the applicant will be authorized as an IEC. The importer would only be required to declare only GSTIN (where registered under GST).
 
-# Import of Goods 
+# Import of Goods
 
 The import of goods has been defined in the IGST Act, 2017 as bringing goods into India from a place outside India. All imports shall be deemed as inter-State supplies and accordingly Integrated tax shall be levied in addition to the applicable Custom duties. The IGST Act, 2017 provides that the integrated tax on goods imported into India shall be levied and collected in accordance with the provisions of the Customs Tariff Act, 1975 on the value as determined under the said Act at the point when duties of customs are levied on the said goods under the Customs Act, 1962. The integrated tax on goods shall be in addition to the applicable Basic Customs Duty (BCD) which is levied as per the Customs Tariff Act. In addition, GST compensation cess, may also be leviable on certain luxury and de-merit goods under the Goods and Services Tax (Compensation to States) Cess Act, 2017.
 
@@ -2145,46 +2090,42 @@ The Customs Tariff Act, 1975 has accordingly been amended to provide for levy of
 
 GST FLYERS
 
-| $\begin{aligned} & \text { St. } \\ & \text { No. } \end{aligned}$ | Date of prior in timation given for | Details of registered person | Jurisdictional GST officer details of registered person | Invoice no. and date of registered person | Details of supplies received | Amount of GST paid by supplier | Date of sending endorsed copy of tax in voice by EOU |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-|  |  | Name | Ad dress | GSTIN | Desig- <br> nation | Juris- <br> dic- <br> tional <br> Iden- <br> tifier <br> such as <br> Divi- <br> sion <br> name/ <br> No. | No. of invoice | Date | De- <br> scription | Value | Quantity <br> Tax/ <br> Union <br> territory <br> Tax | State <br> Tax/ <br> Union <br> territory <br> Tax |  |  |
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
+| $\begin{aligned} & \text { St. } \\ & \text { No. } \end{aligned}$ | Date of prior in timation given for | Details of registered person | Jurisdictional GST officer details of registered person | Invoice no. and date of registered person | Details of supplies received |                                                        Amount of GST paid by supplier                                                        | Date of sending endorsed copy of tax in voice by EOU |      |                      |      |                                                                      |                                                                    |    |
+| :------------------------------------------------------------------: | :---------------------------------: | :--------------------------: | :-----------------------------------------------------: | :---------------------------------------: | :--------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------: | :--: | :-------------------: | :---: | :-------------------------------------------------------------------: | :----------------------------------------------------------------: | :-: |
+|                                                                      |                                    |             Name             |                        Ad dress                        |                   GSTIN                   |    Desig-`<br>` nation    | Juris-`<br>` dic- `<br>` tional `<br>` Iden- `<br>` tifier `<br>` such as `<br>` Divi- `<br>` sion `<br>` name/ `<br>` No. |                    No. of invoice                    | Date | De-`<br>` scription | Value | Quantity `<br>` Tax/ `<br>` Union `<br>` territory `<br>` Tax | State `<br>` Tax/ `<br>` Union `<br>` territory `<br>` Tax |    |
+|                                  1                                  |                  2                  |              3              |                            4                            |                     5                     |              6              |                                                                      7                                                                      |                          8                          |  9  |          10          |  11  |                                  12                                  |                                 13                                 | 14 |
 
-
-| Removal for pro- <br> cessing |  |  |  | Remarks <br> (The goods removed for processing shall be accounted in a manner that enables the verification of input-output norms, extent of waste, scrap generated etc.) |  | Other removals/Returns |  |  |  |  |  |  | Balance in stock |  |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| Date \& time of $\mathrm{Re}-$ mov-al | Quantity | Value |  |  | Purpose of removal | Date \& time | Quantity | value |  | Quantity | value |  |  |
-| 18 | 19 | 20 | 21 |  | 22 | 23 | 24 | 25 |  | 26 |  | 27 |  |
+|    Removal for pro-`<br>` cessing    |          |      |  | Remarks `<br>` (The goods removed for processing shall be accounted in a manner that enables the verification of input-output norms, extent of waste, scrap generated etc.) |                    | Other removals/Returns |          |      |  |          |      |    | Balance in stock |  |
+| :------------------------------------: | :------: | :---: | :-: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------: | :--------------------: | :------: | :---: | :-: | :------: | :---: | :-: | :--------------: | :-: |
+| Date\& time of $\mathrm{Re}-$ mov-al | Quantity | Value |  |                                                                                                                                                                              | Purpose of removal |      Date\& time      | Quantity | value |  | Quantity | value |    |                  |  |
+|                   18                   |    19    |  20  |  |                                                                                      21                                                                                      |         22         |           23           |    24    |  25  |  |    26    |      | 27 |                  |  |
 
 under the IGST Act, 2017 on a like article on its supply in India. Further, the value of the goods for the purpose of levying Integrated tax shall be assessable value plus Customs Duty levied under the Act, and any other duty chargeable on the said goods under any law for the time being in force as an addition to, and in the same manner as, a duty of customs.
 
 The value of the imported article for the purpose of levying cess shall be assessable value plus Basic Customs Duty levied under the Act, and any sum chargeable on that goods under any law for the time being in force as an addition to, and in the same manner as, a duty of customs. The integrated tax paid shall not be added to the value for the purpose of calculating cess.
 
-# Let's take an example: 
+# Let's take an example:
 
 Suppose the assessable value of an article imported into India is Rs. 100/-. Basic Customs Duty is 10\% ad-valorem. Education Cess is 3\%; Integrated tax rate is $18 \%$ and Compensation Cess is $15 \%$
 
 The taxes will be calculated as under:
 
-| Particulars | Duty |  |
-| :-- | :-- | :--: |
-| (A) | Assessable Value | Rs. 100/- |
-| (B) | Basic Customs | Rs.10/- |
-| Duty@10\% | Rs.0.30 |  |
-| (C) | Education Cess @3\% | Rs.110.30 |
-| (D) | Value for Integrated Tax |  |
-
-| (E) | Integrated Tax @18\% | Rs.19.85 |
-| :-- | :-- | :--: |
-| (F) <br> Cess | Value for Compensation | Rs.110.30 |
-| (G) <br> $15 \%$ | Compensation Cess @ | Rs. 16.55 |
-| (H) | Total Duty $(\mathrm{B}+\mathrm{C}+\mathrm{E}+\mathrm{G})$ | Rs.46.70 |
+| Particulars      | Duty                                                        |          |
+| :--------------- | :---------------------------------------------------------- | :-------: |
+| (A)              | Assessable Value                                            | Rs. 100/- |
+| (B)              | Basic Customs Duty@10\%                                    |  Rs.10/-  |
+| (C)              | Education Cess @3\%                                         |  Rs.0.30  |
+| (D)              | Value for Integrated Tax                                    | Rs.110.30 |
+| (E)              | Integrated Tax @18\%                                        | Rs.19.85 |
+| (F)`<br>` Cess | Value for Compensation                                      | Rs.110.30 |
+| (F)`<br>` Cess | Value for Compensation                                      | Rs.110.30 |
+| (F)`<br>` Cess | Total Duty$(\mathrm{B}+\mathrm{C}+\mathrm{E}+\mathrm{G})$ | Rs.46.70 |
 
 Wherever the goods are also leviable to cess under the Goods and Services Tax (Compensation to States) Cess Act, 2017, the same will be collected on the value taken for levying integrated tax. Thus, in the above example, in case, cess is leviable, the same would be levied on Rs. 110.30/-.
 
 In cases where imported goods are liable to Anti-Dumping Duty or Safeguard Duty, value for calculation of IGST as well as Compensation Cess shall also include AntiDumping Duty amount and Safeguard duty amount.
 
-# Import as Baggage: 
+# Import as Baggage:
 
 Passenger Baggage are exempted from IGST as well as compensation cess. The basic customs duty at the rate of $35 \%$ and the applicable education cess shall be leviable on the value which is in excess of the duty free allowances provided under the Baggage Rules, 2016.
 
@@ -2196,13 +2137,13 @@ a customs station to a warehouse without payment of duty. The said Act has been 
 
 However, the transaction of sale / transfer etc. of the warehoused goods between the importer and any other person may be at a price higher than the assessable value of such goods. Such a transaction squarely falls within the definition of "supply" and shall be taxable under the IGST Act, 2017. It may be noted that as per sub-section (2) of section 7 of the IGST Act, any supply of imported goods which takes place before they cross the customs frontiers of India, shall be treated as an inter-State supply. Thus, such a transaction of sale/transfer will be subject to IGST under the IGST Act, 2017. The value of such supply shall be determined in terms of section 15 of the CGST Act, 2017 read with section 20 of the IGST Act, 2017 and the rules made thereunder, without prejudice to the fact that customs duty (which includes BCD and applicable IGST payable under the Customs Tariff Act) will be levied and collected at the ex-bond stage.
 
-# Leviability of Integrated Tax on High Seas Sales Transactions (Circular No. 33/2017-Customs dated $1^{\text {st }}$ August, 2017): 
+# Leviability of Integrated Tax on High Seas Sales Transactions (Circular No. 33/2017-Customs dated $1^{\text {st }}$ August, 2017):
 
 'High Sea Sales' is a common trade practice whereby the original importer sells the goods to a third person before the goods are entered for customs clearance. After the High
 
 sea sale of the goods, the Customs declarations i.e. Bill of Entry etc. is filed by the person who buys the goods from the original importer during the said sale. IGST on high sea sale (s) transactions of imported goods, whether one or multiple, shall be levied and collected only at the time of importation i.e. when the import declarations are filed before the Customs authorities for the customs clearance purposes for the first time. Further, value addition accruing in each such high sea sale shall form part of the value on which IGST is collected at the time of clearance.
 
-# Import of goods by 100\% EOU's and SEZs: 
+# Import of goods by 100\% EOU's and SEZs:
 
 Import of goods by 100\% EOU's would be governed by Notification no. 52/2003-Customs as amended by Notification no. 78/2017-Customs dated 13.10.2017. EOUs are allowed duty free import of goods (exempt from Customs duties, IGST \& Compensation Cess) under the said notifications. However, exemption from IGST is only available till 31.03.2018.
 
@@ -2218,7 +2159,7 @@ HSN (Harmonised System of Nomenclature) code would be used for the purpose of cl
 
 As per section 11 of the IGST Act, 2017 the place of supply of goods, imported into India shall be the location of the importer. Thus, if an importer say is located in Rajasthan, the state tax component of the integrated tax shall accrue to the State of Rajasthan.
 
-# Import of services 
+# Import of services
 
 Import of services has specifically been defined under IGST Act, 2017 and refers to supply of any service where the supplier is located outside India, the recipient is located in India and the place of supply of service is in India.
 
@@ -2232,12 +2173,12 @@ In view of the provisions contained in Section 14 of the IGST Act, 2017, import 
 
 Thus, import of services can be considered as supply based on whether there is consideration or not and whether the service is supplied in the course or furtherance of business. The same has been explained in the table below:
 
-| Nature of Service | Consideration | Business Test |
-| :-- | :--: | :--: |
-| Import of services | Necessarily <br> Required | Not required |
+| Nature of Service  |         Consideration         | Business Test |
+| :----------------- | :---------------------------: | :-----------: |
+| Import of services | Necessarily `<br>` Required | Not required |
 
-| Import of services <br> by a taxable person <br> from a related <br> person or from a <br> distinct person | Not required | Necessarily <br> Required |
-| :-- | :-- | :-- |
+| Import of services `<br>` by a taxable person `<br>` from a related `<br>` person or from a `<br>` distinct person | Not required | Necessarily `<br>` Required |
+| :------------------------------------------------------------------------------------------------------------------------- | :----------- | :---------------------------- |
 
 As per the provisions contained in Section 21 of the IGST Act, 2017, all import of services made on or after the appointed day i.e $1^{\text {st }}$ July, 2017 will be liable to integrated tax regardless of whether the transactions for such import of services had been initiated before the appointed day. However, if the tax on such import of services had been paid in full under the existing law, no tax shall be payable on such import under the IGST Act. In case the tax on such import of services had been paid in part under the existing law, the balance amount of tax shall be payable on such import under the IGST Act, 2017. For instance, suppose a supply of service for Rs. One crore was initiated prior to the introduction of GST, a payment of Rs. 20 lacs has already been made to the supplier and service tax has also been paid on the same, the integrated tax shall have to be paid on the balance Rs. 80 lacs.
 
@@ -2245,35 +2186,33 @@ Section 13 of the IGST Act, 2017 provides for determination of place of supply i
 
 supply of services are as below:
 
-| $\begin{aligned} & \text { S } \\ & \text { No. } \end{aligned}$ | Situation | Place of Supply |
-| :--: | :--: | :--: |
-| 1 | Default Rule other than specific situations mentioned below | Location of the recipient of services; <br> If not available, location of the supplier of services. |
-| 2 | Services supplied in respect of goods which are required to be made physically available | Location where the services are actually performed |
-|  | Services which require the physical presence of the recipient or the person acting on his behalf with the supplier of services |  |
-| 2.1 | Services are provided on goods but from a remote location by way of electronic means | Location where goods are situated at the time of supply of services |
-| 2.2 | Above provisions is not applicable in respect of goods which are temporarily imported into India for repairs and are exported after repairs |  |
-| 3 | Services supplied directly in relation to an immovable property | Place where the immovable property is located or intended to be located |
-| 4 | Admission to, or organisation of an event | Place where the event is actually held |
+| $\begin{aligned} & \text { S } \\ & \text { No. } \end{aligned}$ | Situation                                                                                                                                                                                    |                                            Place of Supply                                            |
+| :----------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------: |
+|                                 1                                 | Default Rule other than specific situations mentioned below                                                                                                                                  | Location of the recipient of services;`<br>` If not available, location of the supplier of services. |
+|                                 2                                 | Services supplied in respect of goods which are required to be made physically available                                                                                                     |                           Location where the services are actually performed                           |
+|                                                                    | Services which require the physical presence of the recipient or the person acting on his behalf with the supplier of services                                                               |                                                                                                        |
+|                                2.1                                | Services are provided on goods but from a remote location by way of electronic means                                                                                                         |                  Location where goods are situated at the time of supply of services                  |
+|                                2.2                                | Above provisions is not applicable in respect of goods which are temporarily imported into India for repairs and are exported after repairs                                                  |                                                                                                        |
+|                                 3                                 | Services supplied directly in relation to an immovable property                                                                                                                              |                Place where the immovable property is located or intended to be located                |
+|                                 4                                 | Admission to, or organisation of an event                                                                                                                                                    |                                 Place where the event is actually held                                 |
+|                                4.1                                | Above Services pro-`<br>` vided in more than `<br>` one country includ- `<br>` ing India                                                                                               |                                                 India                                                 |
+|                                4.2                                | Above Services pro-`<br>` vided in more than `<br>` one state                                                                                                                            |                                          Proportionate Basis                                          |
+|                                 5                                 | Services supplied by a `<br>` banking company, or `<br>` a financial institution, `<br>` or a non-banking fi- `<br>` nancial company, to `<br>` account holders                    |                             Location of the supplier of `<br>` services                             |
+|                                5.1                                | Intermediary services                                                                                                                                                                        |                                                                                                        |
+|                                5.2                                | Services consisting `<br>` of hiring of means of `<br>` transport, including `<br>` yachts but excluding `<br>` aircrafts and vessels, `<br>` up to a period of one `<br>` month |                              Place of destination of such `<br>` goods                              |
+|                                 6                                 | Transportation of `<br>` goods, other than by `<br>` way of mail or courier                                                                                                              |     Place where the passenger `<br>` embarks on the conveyance `<br>` for a continuous journey     |
+|                                 7                                 | Passenger transportation services                                                                                                                                                            |        First scheduled point of de-`<br>` parture of that conveyance `<br>` for the journey        |
+|                                 8                                 | Services provided on `<br>` board a conveyance                                                                                                                                             |                             Location of the recipient of `<br>` services                             |
+|                                 9                                 | Online information `<br>` and database access `<br>` or retrieval (OI- `<br>` DAR) services                                                                                            |                                                                                                        |
 
-| 4.1 | Above Services pro- <br> vided in more than <br> one country includ- <br> ing India | India |
-| :-- | :-- | :-- |
-| 4,2 | Above Services pro- <br> vided in more than <br> one state | Proportionate Basis |
-| 5 | Services supplied by a <br> banking company, or <br> a financial institution, <br> or a non-banking fi- <br> nancial company, to <br> account holders | Location of the supplier of <br> services |
-| 5.1 | Intermediary services |  |
-| 5.2 | Services consisting <br> of hiring of means of <br> transport, including <br> yachts but excluding <br> aircrafts and vessels, <br> up to a period of one <br> month | Place of destination of such <br> goods |
-| 6 | Transportation of <br> goods, other than by <br> way of mail or courier | Place where the passenger <br> embarks on the conveyance <br> for a continuous journey |
-| 7 | Passenger transportation services | First scheduled point of de- <br> parture of that conveyance <br> for the journey |
-| 8 | Services provided on <br> board a conveyance | Location of the recipient of <br> services |
-| 9 | Online information <br> and database access <br> or retrieval (OI- <br> DAR) services |  |
-
-# Zero Rating of Supplies in GST 
+# Zero Rating of Supplies in GST
 
 ## Introduction
 
 What is the need for Zero Rating?
 As per section 2(47) of the CGST Act, 2017, a supply is said to be exempt, when it attracts nil rate of duty or is specifically exempted by a notification or kept out of the purview of tax (i.e. a non-GST supply). But if a good or service is exempted from payment of tax, it cannot be said that it is zero rated. The reason is not hard to find. The inputs and input services which go into the making of the good or provision of service has already suffered tax and only the final product is exempted. Moreover, when the output is exempted, tax laws do not allow availment/utilisation of credit on the inputs and input services used for supply of the exempted output. Thus, in a true sense the entire supply is not zero rated. Though the output suffers no tax, the inputs and input services have suffered tax and since availment of tax credit on input side is not permitted, it becomes a cost for the supplier. The concept of zero rating of supplies aims to correct this anomaly.
 
-# What is Zero Rating? 
+# What is Zero Rating?
 
 By zero rating it is meant that the entire value chain of the supply is exempt from tax. This means that in case of zero rating, not only is the output exempt from payment of tax, there is no bar on taking/availing credit of taxes paid on the input side for making/providing the output supply. Such an approach would in true sense make the goods or services zero rated.
 
@@ -2298,16 +2237,16 @@ As per Section 54(3) of the CGST Act, 2017, any unutilised
 
 input tax credit in zero rated supplies can be refunded, wherever such supplies are made by using the option of Bond/ LUT. The difference between zero rated supplies and exempted supplies is tabulated as below:
 
-| Exempted Supplies | Zero rated Supplies |
-| :--: | :--: |
-| "exempt supply" means supply of any goods or services or both which attracts nil rate of tax or which may be wholly exempt from tax under section 11 of CGST Act or under section 6 of the IGST Act, and includes non-taxable supply | "zero-rated supply" shall bave the meaning assigned to it in section 16 |
-| No tax on the outward exempted supplies, however, the input supplies used for making exempt supplies to be taxed | No tax on the outward supplies; Input supplies also to be tax free |
-| Credit of input tax needs to be reversed, if taken; <br> No ITC on the exempted supplies | Credit of input tax may be availed for making zero-rated supplies, even if such supply is an exempt supply <br> ITC allowed on zerorated supplies |
+| Exempted Supplies                                                                                                                                                                                                                    | Zero rated Supplies                                                                                                                                   |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| "exempt supply" means supply of any goods or services or both which attracts nil rate of tax or which may be wholly exempt from tax under section 11 of CGST Act or under section 6 of the IGST Act, and includes non-taxable supply | "zero-rated supply" shall bave the meaning assigned to it in section 16                                                                               |
+| No tax on the outward exempted supplies, however, the input supplies used for making exempt supplies to be taxed                                                                                                                     | No tax on the outward supplies; Input supplies also to be tax free                                                                                    |
+| Credit of input tax needs to be reversed, if taken;`<br>` No ITC on the exempted supplies                                                                                                                                          | Credit of input tax may be availed for making zero-rated supplies, even if such supply is an exempt supply `<br>` ITC allowed on zerorated supplies |
 
-| Value of exempt supplies, for <br> apportionment of ITC, shall <br> include supplies on which the <br> recipient is liable to pay tax on <br> reverse charge basis, transactions <br> in securities, sale of land and, <br> subject to clause (b) of paragraph 5 <br> of Schedule II, sale of building. | Value ofzeroratedsupplies <br> shall be added along with <br> the taxable supplies for <br> apportionment of ITC |
-| :-- | :-- |
-| Any person engaged exclusively in <br> the business of supplying goods or <br> services or both that are not liable <br> to tax or wholly exempt from tax <br> under the CGST or IGST Act shall <br> not be liable to registration | A person exclusively <br> making zero rated <br> supplies may have <br> to register as refunds <br> of unutilised ITC or <br> integrated tax paid shall <br> have to be claimed |
-| A registered person supplying <br> exempted goods or services or both <br> shall issue, instead of a tax invoice, <br> a bill of supply | Normal tax invoice shall <br> be issued |
+| Value of exempt supplies, for `<br>` apportionment of ITC, shall `<br>` include supplies on which the `<br>` recipient is liable to pay tax on `<br>` reverse charge basis, transactions `<br>` in securities, sale of land and, `<br>` subject to clause (b) of paragraph 5 `<br>` of Schedule II, sale of building. | Value ofzeroratedsupplies `<br>` shall be added along with `<br>` the taxable supplies for `<br>` apportionment of ITC                                                                            |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Any person engaged exclusively in `<br>` the business of supplying goods or `<br>` services or both that are not liable `<br>` to tax or wholly exempt from tax `<br>` under the CGST or IGST Act shall `<br>` not be liable to registration                                                                              | A person exclusively `<br>` making zero rated `<br>` supplies may have `<br>` to register as refunds `<br>` of unutilised ITC or `<br>` integrated tax paid shall `<br>` have to be claimed |
+| A registered person supplying `<br>` exempted goods or services or both `<br>` shall issue, instead of a tax invoice, `<br>` a bill of supply                                                                                                                                                                                 | Normal tax invoice shall `<br>` be issued                                                                                                                                                             |
 
 Provisional refund: As per section 54(6) of the CGST Act, 2017, ninety per cent of the total amount of refund claimed, on account of zero-rated supply of goods or services or both made by registered persons, may be sanctioned on a provisional basis. The remaining ten percent can be refunded later after due verification of documents furnished by the applicant.
 
@@ -2315,7 +2254,7 @@ Non-applicability of Principle of Unjust Enrichment: The principle of unjust enr
 
 in case of refund of taxes paid wherever such refund is on accounts of zero rated supplies. As per section 54 (8) of the CGST Act, 2017, the refundable amount, if such amount is relatable to refund of tax paid on zero-rated supplies of goods or services or both or on inputs or input services used in making such zero-rated supplies, shall instead of being credited to the Fund, be paid to the applicant.
 
-# Deemed Exports in GST 
+# Deemed Exports in GST
 
 ## Introduction
 
@@ -2329,12 +2268,12 @@ In exercise of powers conferred under Section 147 of the
 
 CGST Act, the Central Government has issued Notification no. 48/2017-Central Tax dated 18.10.2017 wherein the following categories of supply of goods has been declared as Deemed Exports: -
 
-| Sr.No | Description of Supply |
-| :-- | :-- |
-| 1 | Supply of goods by a registered person against Advance <br> Authorisation |
-| 2 | Supply of capital goods by a registered person against <br> Export Promotion Capital Goods Authorisation |
-| 3. | Supply of goods by a registered person to Export Oriented <br> Unit |
-| 4. | Supply of gold by a bank or Public Sector Undertaking <br> specified in the notification No. 50/2017-Customs, <br> dated the 30th June, 2017 (as amended) against Advance <br> Authorisation |
+| Sr.No | Description of Supply                                                                                                                                                                                    |
+| :---- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | Supply of goods by a registered person against Advance `<br>` Authorisation                                                                                                                            |
+| 2     | Supply of capital goods by a registered person against `<br>` Export Promotion Capital Goods Authorisation                                                                                             |
+| 3.    | Supply of goods by a registered person to Export Oriented `<br>` Unit                                                                                                                                  |
+| 4.    | Supply of gold by a bank or Public Sector Undertaking `<br>` specified in the notification No. 50/2017-Customs, `<br>` dated the 30th June, 2017 (as amended) against Advance `<br>` Authorisation |
 
 For the purposes of the above notification, -
 
@@ -2345,7 +2284,7 @@ For the purposes of the above notification, -
 Unit or Electronic Hardware Technology Park Unit or Software Technology Park Unit or BioTechnology Park Unit approved in accordance with the provisions of Chapter 6 of the Foreign Trade Policy 2015-20.
 It may be noted that Notification no. 49/2017-Central tax dated 18.10.2017 also lays down the list of evidences which are required to be produced by the supplier of deemed export supplies for claiming refund.
 
-# Procedure to be followed in case of Deemed Export supplies 
+# Procedure to be followed in case of Deemed Export supplies
 
 Rule 89 of the CGST Rules, 2017 as amended vide Notification No. 47/2017- Central Tax dated 18.10.2017 allows either the recipient or supplier of such supplies to claim refund of tax paid thereon.
 
@@ -2368,7 +2307,7 @@ v. The recipient EOU / EHTP / STP / BTP unit shall maintain records of such deem
 tional data fields, as per their commercial requirements. All recipient units are required to enter data accurately and immediately upon the goods being received in, utilized by or removed from the said unit. The digital records should be kept updated, accurate, complete and available at the said unit at all times for verification by the proper officer, whenever required. A digital copy of Form - B containing transactions for the month, shall be provided to the jurisdictional GST officer, each month (by the 10th of month) in a CD or Pen drive, as convenient to the said unit.
 3. The above procedure and safeguards are in addition to the terms and conditions to be adhered to by a EOU / EHTP / STP / BTP unit in terms of the Foreign Trade Policy, 2015-20 and the duty exemption notification being availed by such unit.
 
-# Form - A 
+# Form - A
 
 (Intimation for procurement of supplies from the registered person by Export Oriented Unit (EOU)/Electronic Hardware Technology Park (EHTP) Unit/ Software Technology Park (STP) unit/ Bio-Technology Parks (BTP) Unit under deemed export benefits under section 147 of CGST Act,2017 read with Notification No.48/2017Central Tax dated 18.10.2017)
 (as per Circular ------- dated ----------)
@@ -2388,7 +2327,7 @@ To:
 2. The GST officer having Jurisdiction over the registered person intending to supply the goods.
 3. The registered person intending to supply goods to EOU/EHTP/STP/BTP unit.
 
-# FORM - B 
+# FORM - B
 
 Form to be maintained by EOU/EHTP/STP/BTP unit for the receipt, use and removal of goods received under deemed export benefit under section 147 of CGST Act, 2017 read with Notification No. 48/2017-Central Tax dated 18.10.2017
 
@@ -2407,7 +2346,7 @@ case of deemed export supplies on which the supplier has availed the benefit of 
 
 Further Rule 96(9) of the CGST Rules, 2017 as amended vide Notification no. 75/2017-Central Tax dated 29.12.2017 (w.e.f 23.10.2017) also provides that the recipient of deemed export supplies on which the supplier has availed the benefit of notification No. 48/2017-Central Tax dated 18.10.2017 cannot export on payment of integrated tax.
 
-# Time Limit for filing refund claim 
+# Time Limit for filing refund claim
 
 For obtaining refund the recipient or supplier of deemed export supplies has to file an application in FORM GST RFD-01 through the Common Portal, either directly or through a Facilitation Centre notified by the Commissioner before the expiry of two years from, the date on which the return relating to such deemed export supplies is to be furnished electronically. The application has to be accompanied by a statement containing the number and date of invoices along with such other evidences as may be notified in this behalf.
 
@@ -2417,7 +2356,7 @@ Due to the non-availability of the refund module on the common portal, it has be
 
 No. 17/17/2017-GST dated 15.11.2017 and Circular no. 24/24/2017-GST dated 21.12.2017 prescribing the detailed procedure have been issued in this regard.
 
-# Chapter Twenty Six 
+# Chapter Twenty Six
 
 ## Pure Agent Concept in GST
 
@@ -2431,7 +2370,7 @@ Let's understand the concept by taking an example. A is an importer and B is a C
 
 consignment to A would also require taking service of a transporter. So A, also authorises B, to incur expenditure on his behalf for procuring the services of a transporter and agrees to reimburse B for the transportation cost at actuals. In the given illustration, B is providing Customs Brokers service to A , which would be on a principal to principal basis. The ancillary service of transportation is procured by $B$ on behalf of $A$ as a pure agent and expenses incurred by B on transportation should not form part of value of Customs Broker service provided by B to A. This, in sum and substance is the relevance of the pure agent concept in GST.
 
-# RELEVANCE OF PURE AGENT UNDER GST 
+# RELEVANCE OF PURE AGENT UNDER GST
 
 The concept is borrowed from the erstwhile Service Tax Determination of Value Rules, 2006 and carried forward under GST. Under the GST Valuation Rules 2017 pure agent is given the following meaning.
 "pure agent" means a person who -
@@ -2444,7 +2383,7 @@ The important thing to note is that a pure agent does not use the goods or servi
 
 Another important fact is that, the person who provides any service as a pure agent receives only the actual amount for the services provided. Coming back to our example of Importer and Customs Broker, the agreement provides reimbursement of transport services utilised at actuals. In this case, let's say the value of transport service was Rs.10, 000/-. If the Customs Broker charges any amount more than Rs.10,000/-, then he will not be considered as a pure agent for the services of transport and the value of transport service will be included in the value of his Customs Broker service.
 
-# EXCLUSION FROM VALUE 
+# EXCLUSION FROM VALUE
 
 Expenditure incurred as pure agent becomes relevant, when it comes to determining the value of a supply for levy of
 
@@ -2465,7 +2404,7 @@ $>$ The fees charged by the Registrar of the companies, registration and approva
 $>A$ is merely acting as a pure agent in the payment of those fees.
 $>$ Therefore, A's recovery of such expenses is a reimbursement and not part of the value of supply made by A to B.
 
-# Some examples of pure agent are: 
+# Some examples of pure agent are:
 
 1. Port fees, Port charges, Custom duty, dock dues, transport charges etc. paid by Customs Broker on behalf of owner of goods.
 2. Expenses incurred by C\& F agent and reimbursed by principal such as freight, godown charges.
@@ -2474,20 +2413,20 @@ $>$ Therefore, A's recovery of such expenses is a reimbursement and not part of 
 
 Suppose a Customs Broker issues an invoice for reimbursement of a few expenses and for consideration towards agency service rendered to an importer. The amounts charged by the Customs Broker are as below:
 
-| S/No. | Component charged in in- <br> voice | Amount |
-| :-- | :-- | :-- |
-| 1 | Agency Income | Rs. 10, 000/- |
-| 2 | Traveling expenses ; Hotel ex- <br> penses | Rs. 15,000/- |
-| 3 | Customs Duty | Rs. 55,000/- |
-| 4 | Docks Dues | Rs. 5000/- |
+| S/No. | Component charged in in-`<br>` voice        | Amount        |
+| :---- | :-------------------------------------------- | :------------ |
+| 1     | Agency Income                                 | Rs. 10, 000/- |
+| 2     | Traveling expenses ; Hotel ex-`<br>` penses | Rs. 15,000/-  |
+| 3     | Customs Duty                                  | Rs. 55,000/-  |
+| 4     | Docks Dues                                    | Rs. 5000/-    |
 
 In the above situation, agency income and travelling/ hotel expenses shall be added for determining the value of supply by the Customs Broker whereas Docks dues and the Customs Duty shall not be added to the value provided the conditions of pure agent are satisfied.
 
-# CONCLUSION 
+# CONCLUSION
 
 A pure agent concept is an important one for businesses as it has direct implications on the value of taxable service. It has direct bearing on the amount of GST charged on a particular supply. It also has bearing on the aggregate turnover of the supplier and therefore on calculating the threshold limit for registration. Whenever the intention is to act as a pure agent, care should be taken to ensure that the conditions specified for such pure agents and further conditions given in the valuation rules are also met so that only the real value of the service provided is subjected to GST.
 
-# Chapter Twenty Seven 
+# Chapter Twenty Seven
 
 ## Job Work under GST
 
@@ -2497,7 +2436,7 @@ Job-work sector constitutes a significant industry in Indian economy. It include
 
 The GST Act makes special provisions with regard to removal of goods for job-work and receiving back the goods after processing from the job-worker without payment of GST. The benefit of these provisions shall be available both to the principal and the job-worker.
 
-# What is Job work? 
+# What is Job work?
 
 Section 2(68) of the CGST Act, 2017 defines job work as 'any treatment or process undertaken by a person on goods belonging to another registered person'. The one who does the said job would be termed as 'job worker'. The ownership of the goods does not transferto the job-worker but it rests with the principal. The job-worker is required to carry out the process specified by the principal, on the goods.
 
@@ -2520,7 +2459,7 @@ The inputs or capital goods shall be sent to the job worker under the cover of a
 
 The responsibility for keeping proper accounts for the inputs or capital goods shall lie with the principal.
 
-# Input Tax credit on goods supplied to jobworker 
+# Input Tax credit on goods supplied to jobworker
 
 Section 19 of the CGST Act, 2017 provides that the principal (a person supplying taxable goods to the jobworker) shall be entitled to take the credit of input tax paid on inputs sent to the job- worker for the job work. Further, the proviso also provides that the principal can take the credit even when the goods have been directly supplied to the job-worker without bringing into the premise of the principal. The principal need not wait till the inputs are first brought to his place of business.
 
@@ -2534,14 +2473,14 @@ As per the explanation provided in section 143 of the CGST Act, 2017, where cert
 
 both input and intermediate product can be cleared without payment of duty to job-worker.
 
-# Waste clearing provisions 
+# Waste clearing provisions
 
 Pursuant to section 143 (5) of the CGST Act, 2017, waste generated at the premises of the job-worker may be supplied directly by the registered jobworker fromhis place of business on payment of tax or s such waste may be cleared by the principal, in case the job-worker is not registered.
 
 Transitional provisions: Inputs as such or partially processed inputs which are sent to a job worker prior to introduction of GST under the provisions of existing law [Central Excise] and if such goods are returned within 6 months from the appointed day i.e. $1^{\text {st }}$ July, 2017 no tax would be payable. If such goods are not returned within prescribed time, the input tax credit availed on such goods will be liable to be recovered.
 If manufactured goods are removed, prior to the appointed day, without payment of duty for testing or any other process which does not amount to manufacture, and such goods are returned within 6 months from the appointed day, then no tax will be payable. For the purpose of these provisions during the transitional period, the manufacturer and the job worker are required to declare the details of such goods sent/received for job work in prescribed format GST TRAN-1, within 90 days of the introduction of GST.
 
-# Chapter Twenty Eight 
+# Chapter Twenty Eight
 
 ## Works Contract in GST
 
@@ -2557,7 +2496,7 @@ In a general sense, a contract of works, may relate to both immovable and immova
 
 A works contract has elements of both provision of services and sale of goods, and was therefore taxable under both laws.
 
-# VAT 
+# VAT
 
 In the case of Gannon Dunkerly, the Hon'ble Apex Court had held that in case of a works contract, the dominant intention of the contract is the execution of works, which is a service and there is no element of sale of goods (as per Sale of Goods Act). The contract being one indivisible contract, it cannot be broken up to levy VAT on sale of goods involved in the execution of works contract. This decision led the Government to amend the Constitution of India and insert Article 366(29A) (b) which enabled the State Governments to levy tax (VAT) on transfer of property in goods (whether as goods or in some other form) involved in the execution of a works contract.
 
@@ -2569,7 +2508,7 @@ By virtue of Section 66E of Finance Act, 1994, the service portion involved in t
 
 of the Service Tax (Determination of Value) Rules, 2006.
 
-# Position under GST 
+# Position under GST
 
 Under GST laws, the definition of "Works Contract" has been restricted to any work undertaken for an "Immovable Property" unlike the existing VAT and Service Tax provisions where works contracts for movable properties were also considered.
 
@@ -2590,7 +2529,7 @@ Plant and Machinery in certain cases when affixed permanently to the earth would
 
 used in the course or furtherance of business.
 
-# Maintenance of records: 
+# Maintenance of records:
 
 As per Rule 56 (14) of the CGST Rules, 2017, every registered person executing works contract shall keep separate accounts for works contract showing - (a) the names and addresses of the persons on whose behalf the works contract is executed; (b) description, value and quantity (wherever applicable) of goods or services received for the execution of works contract; (c) description, value and quantity (wherever applicable) of goods or services utilized in the execution of works contract; (d) the details of payment received in respect of each works contract; and (e) the names and addresses of suppliers from whom he received goods or services.
 
@@ -2598,10 +2537,10 @@ As per Rule 56 (14) of the CGST Rules, 2017, every registered person executing w
 
 The rate of GST for Works Contract service has been prescribed in serial number 3 of Notification No. 11/2017-Central Tax (Rate) dated 28.06.2017 as amended by Notification No. 20/2017-Central Tax (Rate) dated 22.08.2017 \& notification no.24/2017-Central Tax (Rate) dated 21.09.2017 and is as under:
 
-| (i) | Construction ofacomplex,building, civil structure or a part thereof, including a complex or building intended for sale to a buyer, wholly or partly, except where the entire consideration has been received after issuance of completion certificate, where required, by the competent authority or after its first occupation, whichever is earlier. (Provisions of paragraph 2 of this notification shall apply for valuation of this service) | 9\% CGST + 9\% SGST |
-| :--: | :--: | :--: |
-| (ii) | composite supply of works contract as defined in clause 119 of section 2 of Central Goods and Services Tax Act, 2017 | $\begin{aligned} & 9 \% \text { CGST }+ \\ & 9 \% \text { SGST } \end{aligned}$ |
-| (iii) | Composite supply of works contract as defined in clause (119) of section 2 of the Central Goods and Services Tax Act, 2017, supplied to the Government, a local authority or a Governmental authority by way of construction, erection, commissioning, installation, completion, fitting out, repair, maintenance, renovation, or alteration of, - | $\begin{aligned} & 6 \% \text { CGST }+ \\ & 6 \% \text { SGST } \end{aligned}$ |
+|  (i)  | Construction ofacomplex,building, civil structure or a part thereof, including a complex or building intended for sale to a buyer, wholly or partly, except where the entire consideration has been received after issuance of completion certificate, where required, by the competent authority or after its first occupation, whichever is earlier. (Provisions of paragraph 2 of this notification shall apply for valuation of this service) |                                9\% CGST + 9\% SGST                                |
+| :---: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
+| (ii) |                                                                                                                                                               composite supply of works contract as defined in clause 119 of section 2 of Central Goods and Services Tax Act, 2017                                                                                                                                                               | $\begin{aligned} & 9 \% \text { CGST }+ \\ & 9 \% \text { SGST } \end{aligned}$ |
+| (iii) |                                                Composite supply of works contract as defined in clause (119) of section 2 of the Central Goods and Services Tax Act, 2017, supplied to the Government, a local authority or a Governmental authority by way of construction, erection, commissioning, installation, completion, fitting out, repair, maintenance, renovation, or alteration of, -                                                | $\begin{aligned} & 6 \% \text { CGST }+ \\ & 6 \% \text { SGST } \end{aligned}$ |
 
 (a) a historical monument, archaeological site or remains of national importance, archaeological excavation, or antiquity specified under the Ancient Monuments and Archaeological Sites and Remains Act, 1958 (24 of 1958);
 (b) canal, dam or other irrigation works;
@@ -2626,11 +2565,11 @@ Urban Poverty Alleviation, Government of India;
 (e) post-harvest storage infrastructure for agricultural produce including a cold storage for such purposes; or
 (f) mechanised food grain handling system, machinery or equipment for units processing agricultural produce as food stuff excluding alcoholic beverages
 
-| (vi) | Services provided to the Central <br> Government, State Government, <br> Union Territory, a local authority <br> or a governmental authority by <br> way of construction, erection, <br> commissioning, installation, <br> completion, fitting out, repair, <br> maintenance, renovation, or <br> alteration of - (a) a civil structure <br> or any other original works meant <br> predominantly for use other than <br> for commerce, industry, or any <br> other business or profession; (b) <br> a structure meant predominantly <br> for use as (i) an educational, (ii) <br> a clinical, or(iii) an art or cultural <br> establishment; or (c) a residential <br> complex predominantly meant <br> for self-use or the use of their <br> employees or other persons <br> specified in paragraph 3 of the <br> Schedule III of the Central Goods <br> and Services Tax Act, 2017. | $6 \%$ CGST + <br> $6 \%$ SGST |
-| :-- | :-- | :-- |
-| (vii) | Construction services other than <br> (i), (ii), (iii), (iv), (v) \& (vi) above | $9 \%$ CGST + <br> $9 \%$ SGST |
+| (vi)  | Services provided to the Central `<br>` Government, State Government, `<br>` Union Territory, a local authority `<br>` or a governmental authority by `<br>` way of construction, erection, `<br>` commissioning, installation, `<br>` completion, fitting out, repair, `<br>` maintenance, renovation, or `<br>` alteration of - (a) a civil structure `<br>` or any other original works meant `<br>` predominantly for use other than `<br>` for commerce, industry, or any `<br>` other business or profession; (b) `<br>` a structure meant predominantly `<br>` for use as (i) an educational, (ii) `<br>` a clinical, or(iii) an art or cultural `<br>` establishment; or (c) a residential `<br>` complex predominantly meant `<br>` for self-use or the use of their `<br>` employees or other persons `<br>` specified in paragraph 3 of the `<br>` Schedule III of the Central Goods `<br>` and Services Tax Act, 2017. | $6 \%$ CGST + `<br>` $6 \%$ SGST |
+| :---- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------- |
+| (vii) | Construction services other than `<br>` (i), (ii), (iii), (iv), (v) \& (vi) above                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | $9 \%$ CGST + `<br>` $9 \%$ SGST |
 
-# Valuation 
+# Valuation
 
 Valuation of a works contract service is dependent upon whether the contract includes transfer of property in land as a part of the works contract.
 
@@ -2642,7 +2581,7 @@ Explanation. - For the above purpose, "total amount" means the sum total of,-
 (a) consideration charged for aforesaid service; and
 (b) amount charged for transfer of land or undivided share of land, as the case may be
 
-# Place of Supply in respect of Works Contract 
+# Place of Supply in respect of Works Contract
 
 Works Contract under GST would necessarily involve immovable property. In view of the same the place of supply would be governed by Section 12(3) of the IGST Act, 2017, where both the supplier and recipient are located in India. The place of supply would be where the immovable property is located.
 
@@ -2654,7 +2593,7 @@ As per Section 13(4) of the IGST Act, 2017, in cases where either the Supplier o
 
 A works contract is treated as supply of services under GST. Under the previous indirect taxes dispensation, there were issues in tax treatment of works contract. Both the Central Government (on the services component of a works contract) \& the State Governments (on the sale of goods portion involved in the execution of a works contract) used to levy tax. Thus the same contract was subject to taxation by both Central and State Government. GST aims to put at rest the controversy by defining what will constitute a works contract (applicable for immovable property only), by stating that a works contract will constitute a supply of service and specifying a uniform rate of tax applicable on same value across India. Thus, under GST, taxation of works contract will be simpler and easier to administer.
 
-# Chapter Twenty Nine 
+# Chapter Twenty Nine
 
 ## Valuation in GST
 
@@ -2672,7 +2611,7 @@ Any taxes, fees, charges levied under any law other than
 
 GST law, expenses incurred by the recipient on behalf of the supplier, incidental expenses like commission \& packing incurred by the supplier, interest or late fees or penalty for delayed payment and direct subsidies (except government subsidies) are required to be added to the price (if not already added) to arrive at the taxable value.
 
-# Exclusion of discounts 
+# Exclusion of discounts
 
 Discounts like trade discount, quantity discount etc. are part of the normal trade and commerce, therefore pre-supply discounts i.e. discounts recorded in the invoice have been allowed to be excluded while determining the taxable value.
 
@@ -2692,12 +2631,12 @@ Open Market Value means the full value in money excluding taxes under GST laws, 
 
 Supply of like kind \& quality means any other supply made under similar circumstances that is same or closely resembles in respect of characteristics, quality, quantity, functionality, reputation to the supply being valued.
 
-# Illustration: 
+# Illustration:
 
 (1) Where a new phone is supplied for Rs. 20000/- along with the exchange of an old phone and if the price of the new phone without exchange is Rs.24000/-, the open market value of the new phone is Rs 24000/-.
 (2) Where a laptop is supplied for Rs. 40000/- along with a barter of printer that is manufactured by the recipient and the value of the printer known at the time of supply is Rs. 4000/- but the open market value of the laptop is not known, the value of the supply of laptop is Rs. $44000 /-$
 
-# Value of supply between distinct and related persons (excluding Agents). 
+# Value of supply between distinct and related persons (excluding Agents).
 
 A person who is under influence of another person is called a related person like members of the same family or subsidiaries of a group company etc. Under GST law various categories of related persons have been specified and as relation may influence the price between two related persons therefore special valuation rule has been framed to arrive at the taxable value of transactions between related persons. In such cases following values have to be taken sequentially to determine the taxable value: -
 i. Open Market Value
@@ -2707,7 +2646,7 @@ iv. Value of supply determined by using reasonable means consistent with princip
 
 However if the recipient is eligible for full input tax credit, the invoice value will be deemed to be the open market value. It has also been provided that where the goods being supplied are intended for further supply as such by the recipient, the value shall, at the option of the supplier, be an amount equivalent to $90 \%$ of the price charged for the supply of goods of like kind and quality by the recipient to his unrelated customer.
 
-# Value of supply of goods made or received through an agent 
+# Value of supply of goods made or received through an agent
 
 a) Open market value of goods being supplied, or, at the option of the supplier, $90 \%$ of the price charged for the supply of goods of like kind and quality by the recipient to his unrelated customer.
 
@@ -2724,7 +2663,7 @@ Subject to fulfilment of certain conditions, the expenditure
 
 and costs incurred by the supplier as a pure agent of the recipient of supply of service has to be excluded from the value of supply.
 
-# Illustration 
+# Illustration
 
 Corporate services firm A is engaged to handle the legal work pertaining to the incorporation of Company B. Other than its service fees, A also recovers from B, registration fee and approval fee for the name of the company paid to Registrar of the Companies. The fees charged by the Registrar of the companies registration and approval of the name are compulsorily levied on B. A is merely acting as a pure agent in the payment of those fees. Therefore, A's recovery of such expenses is a disbursement and not part of the value of supply made by A to B .
 
@@ -2739,7 +2678,7 @@ e) Value of redeemable vouchers/Stamps/Coupons/tokens
 
 The special provisions related to determination of these supplies are as below: -
 
-# Special provision related to determination of value of service of purchase or sale of foreign currency including money changing 
+# Special provision related to determination of value of service of purchase or sale of foreign currency including money changing
 
 Option-1
 Case 1: Transaction where one of the currencies exchanged is Indian Rupees
@@ -2757,8 +2696,7 @@ The person supplying the service may also exercise the following option to ascer
 - One thousand rupees and half of a percent of the gross amount of currency exchanged for an amount exceeding one lakh rupees and up to ten lakh rupees.
 - Five thousand rupees and one tenth of a percent of the gross amount of currency exchanged for an amount exceeding ten lakhs rupees subject to a maximum amount of sixty thousand rupees.
 
-
-# Special provision related to determination of value of service of booking of tickets for air travel by an air travel agent 
+# Special provision related to determination of value of service of booking of tickets for air travel by an air travel agent
 
 Taxable value is $5 \%$ of basic fare in case of domestic travel and $10 \%$ of basic fare in case of international travel. Basic fare means that part of the air fare on which commission is normally paid to the air travel agent by the airline.
 
@@ -2774,7 +2712,7 @@ Taxable value varies with nature of insurance policy. The details are as follows
 
 However, where insurance policy has benefit of risk coverage only, then taxable value is entire premium charged from the policy holder.
 
-# Special provision related to determination of value of second hand goods 
+# Special provision related to determination of value of second hand goods
 
 The taxable value of supply of second hand goods i.e. used goods as such or after such minor processing which does not change the nature of goods shall be the difference between the purchase price and the selling price, provided no input tax credit has been availed on purchase of such goods. However, if the selling price is less than purchase price, that negative value will be ignored.
 
@@ -2782,7 +2720,7 @@ Persons who purchase second hand goods after payment of tax to supplier of such 
 
 valuation rule only when they do not avail input tax credit on such input supply. If input tax credit is availed, then such supply will be governed by normal GST valuation.
 
-# Value of supply of goods repossessed from a defaulting borrower. 
+# Value of supply of goods repossessed from a defaulting borrower.
 
 If the defaulting borrower is not a registered person, the purchase value will be purchase price in the hands of such borrower reduced by five percentage points for every quarter or part thereof, between the date of purchase and date of disposal by the person making such repossession.
 
@@ -2796,7 +2734,7 @@ Value of taxable services provided by a notified class of service providers as r
 
 The taxable value is deemed to be Nil wherever input tax credit is available.
 
-# Valuation of certain works contract services 
+# Valuation of certain works contract services
 
 (i) Construction of a complex, building, civil structure or a part thereof, including a complex or building intended for sale to a buyer, wholly or partly, except where the entire consideration has been received after issuance of completion certificate, where required, by the competent authority or after its first occupation, whichever is earlier.
 
@@ -2811,7 +2749,7 @@ Value of supply of lottery shall be 100/112 of the face value or the price notif
 
 State Government.
 
-# Rate of exchange of currency, other than Indian rupees, for determination of value 
+# Rate of exchange of currency, other than Indian rupees, for determination of value
 
 The rate of exchange for determination of value of taxable goods or services or both shall be the applicable RBI reference rate for that currency on the date of time of supply as determined in terms of section 12 or section 13 of the CGST Act.
 
@@ -2826,7 +2764,7 @@ If the value inclusive of tax is Rs. 100/- and applicable GST tax rate is $18 \%
 
 Tax amount $=(100 \times 18) /(100+18)=1800 / 118=$ Rs. 15.25
 
-# Chapter Thirty 
+# Chapter Thirty
 
 ## Margin Scheme in GST
 
@@ -2846,7 +2784,7 @@ In case any other value is added by way of repair, refurbishing, reconditioning 
 
 If margin scheme is opted for a transaction of second hand goods, the person selling the car to the company shall not issue any taxable invoice and the company purchasing the car shall not claim any ITC.
 
-# Chapter Thirty One 
+# Chapter Thirty One
 
 ## Provisional Assessment in GST
 
@@ -2858,7 +2796,7 @@ The Asst. Commissioner/Dy. Commissioner of Central Tax provisionally determines 
 
 only after he executes a bond with security, binding them for payment of the difference between the amounts of tax as may be finally assessed and the amount of tax provisionally assessed. On finalization of the provisional assessment, any amount that has been paid on the basis of such assessment is to be adjusted against the amount that has been finally determined as payable. In case of short payment, the same has to be paid with interest and in case of excess payment, the same will be refunded with interest.
 
-# Procedure: 
+# Procedure:
 
 In case a supplier is unable to determine the value of goods or services or both or to determine the rate of tax applicable thereto, he can request the Asst. Commissioner/Dy. Commissioner of Central Tax in writing, giving reasons for payment of tax on provisional basis. The supplier requesting for payment of tax on a provisional basis has to furnish an application along with the documents in support of his request, electronically in FORM GST ASMT-01 on the common portal, either directly or through a Facilitation Centre notified by the Commissioner.
 
@@ -2880,13 +2818,13 @@ The provisional assessment will be finalized, within a period not exceeding six 
 
 On sufficient cause beingshown and for reasons to be recorded in writing, the time limit for finalization of provisional assessment can be, extended by the Joint Commissioner orAdditional Commissioner for a further period not exceeding six months and by theCommissioner for such further period not exceeding four years.
 
-# Interest liability: 
+# Interest liability:
 
 In case any tax amount becomes payable subsequent to finalization of the provisional assessment, then interest at the specified rate will also be payable by the supplier from the first day after the due date of payment of the tax till the date of actual payment, whether such amount is paid before or after the issuance of order for final assessment.
 
 In case any tax amount becomes refundable subsequent to finalization of the provisional assessment, then interest (subject to the eligibility of refund and absence of unjust enrichment) at the specified rate will be payable to the supplier.
 
-# Release of Security consequent to Finalization: 
+# Release of Security consequent to Finalization:
 
 Once the order in FORM GST ASMT-07 is issued, the supplier has to file an application in FORM GST ASMT08 for the release of the security furnished. On receipt of this application the Asst. Commissioner/Dy. Commissioner of Central Taxwill issue an order in FORM GST ASMT-09 within a period of seven working days from the date of the receipt of the application,releasing the security after the amount payable if any as specified in FORM GST ASMT07 has been paid.
 
@@ -2894,7 +2832,7 @@ Once the order in FORM GST ASMT-07 is issued, the supplier has to file an applic
 
 Provisional assessment provides a method for determining the tax liability in case the correct tax liability cannot be determined at the time of supply. The payment of provisional tax is allowed only against a bond and security. The provisional assessment has to be finalized within six months unless extended. On finalization, the tax liability can either be more or less as compared to the provisionally paid tax.In case of increase in the tax liability, the difference is payable along with interest and in case of decrease in the tax liability the amount will be refunded with interest.
 
-# Chapter Thirty Two 
+# Chapter Thirty Two
 
 ## Returns in GST
 
@@ -2909,70 +2847,69 @@ All the returns are to be filed online. Returns can be filed using any of the fo
 1. GSTN portal (www.gst.gov.in )
 2. Offline utilities provided by GSTN
 3. GST Suvidha Providers (GSPs). If a tax payer is already using the services of an ERP providers such as Tally, SAP, Oracle etc, there is a high likelihood that these ERP providers would provide inbuilt solutions in the existing ERP systems.
-Following table lists the various types of returns under GST Law.
+   Following table lists the various types of returns under GST Law.
 
-| Return | Description | Who Files? | S t a n d a r d <br> Date for fil- <br> ing |
-| :-- | :-- | :-- | :-- |
-| GSTR- <br> $1^{*}$ | Statement of <br> Outward sup- <br> plies of Goods <br> or Services | Normal Reg- <br> istered Person | $10^{\text {th }}$ of the <br> next month |
-| GSTR- <br> $2^{*}$ | Statement of <br> Inward sup- <br> plies of Goods <br> or services | Normal Reg- <br> istered person | $15^{\text {th }}$ of the <br> next month |
+| Return                  | Description                                                                     | Who Files?                         | S t a n d a r d `<br>` Date for fil- `<br>` ing |
+| :---------------------- | :------------------------------------------------------------------------------ | :--------------------------------- | :-------------------------------------------------- |
+| GSTR-`<br>` $1^{*}$ | Statement of `<br>` Outward sup- `<br>` plies of Goods `<br>` or Services | Normal Reg-`<br>` istered Person | $10^{\text {th }}$ of the `<br>` next month     |
+| GSTR-`<br>` $2^{*}$ | Statement of `<br>` Inward sup- `<br>` plies of Goods `<br>` or services  | Normal Reg-`<br>` istered person | $15^{\text {th }}$ of the `<br>` next month     |
 
-| $\begin{aligned} & \text { G STR- } \\ & 3^{* \end{aligned}$ | Return for a normal taxpayer | Normal Registered Person | $20^{\text {th }}$ of the next month |
-| :--: | :--: | :--: | :--: |
-| $\begin{aligned} & \text { G STR- } \\ & 3 \mathrm{~B} \end{aligned}$ | S i m p 1 e <br> M o n t h 1 y Return for the period Jul 2017 to March 2018 | Normal Registered Person | 20th of the next month |
-| GSTR-4 | Quarterly Return | Taxable Person opting for Composition Levy | $18^{\text {th }}$ of the month succeeding the quarter |
-| GSTR-5 | Monthly return for a non-resident taxpayer | Non-resident taxpayer | 20th of the month succeeding tax period \& within 7 days after expiry of registration |
+|     $\begin{aligned} & \text { G STR- } \\ & 3^{* \end{aligned}$     |                          Return for a normal taxpayer                          |          Normal Registered Person          |                        $20^{\text {th }}$ of the next month                        |
+| :---------------------------------------------------------------------: | :-----------------------------------------------------------------------------: | :----------------------------------------: | :----------------------------------------------------------------------------------: |
+| $\begin{aligned} & \text { G STR- } \\ & 3 \mathrm{~B} \end{aligned}$ | S i m p 1 e `<br>` M o n t h 1 y Return for the period Jul 2017 to March 2018 |          Normal Registered Person          |                                20th of the next month                                |
+|                                 GSTR-4                                 |                                Quarterly Return                                | Taxable Person opting for Composition Levy |               $18^{\text {th }}$ of the month succeeding the quarter               |
+|                                 GSTR-5                                 |                   Monthly return for a non-resident taxpayer                   |           Non-resident taxpayer           | 20th of the month succeeding tax period\& within 7 days after expiry of registration |
 
 | $\begin{aligned} & \text { G STR- } \\ & 5 \mathrm{~A} \end{aligned}$ | Monthly return for a person supplying OIDAR services from a place outside India to a non-taxable online recipient | Supplier of OIDAR Services | $20^{\text {th }}$ of the next month |
-| :--: | :--: | :--: | :--: |
-| GSTR-6 | Monthly return for an Input Service Distributor (ISD) | Input Service Distributor | $13^{\text {th }}$ of the next month |
-| GSTR-7 | Monthly return for authorities deducting tax at source | Tax Deductor | $10^{\text {th }}$ of the next month |
-| GSTR-8 | Monthly statement for E-Commerce Operator depicting supplies effecting through it. | E-Commerce Operator | $10^{\text {th }}$ of the next month |
+| :---------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :------------------------: | :------------------------------------: |
+|                                 GSTR-6                                 |                               Monthly return for an Input Service Distributor (ISD)                               | Input Service Distributor | $13^{\text {th }}$ of the next month |
+|                                 GSTR-7                                 |                              Monthly return for authorities deducting tax at source                              |        Tax Deductor        | $10^{\text {th }}$ of the next month |
+|                                 GSTR-8                                 |                Monthly statement for E-Commerce Operator depicting supplies effecting through it.                |    E-Commerce Operator    | $10^{\text {th }}$ of the next month |
 
-| GSTR-9 | Annual Return | Registered Person other than an ISD, T D S / T C S Taxpayer, casual taxable person and Non-resident taxpayer. | $31^{\text {st }}$ December of next Financial Year |
-| :--: | :--: | :--: | :--: |
-| $\begin{aligned} & \text { G STR- } \\ & 9 \mathrm{~A} \end{aligned}$ | Simplified Annual Return under Composition Scheme | Taxable Person opting for Composition Levy | $31^{\text {st }}$ December of next Financial Year |
-| $\begin{aligned} & \text { G S T R- } \\ & 10 \end{aligned}$ | Final Return | Taxable person whose registration has been surrendered or cancelled. | Within three months of the date of cancellation or date of order of cancellation, whichever is later. |
+|                                 GSTR-9                                 |                   Annual Return                   | Registered Person other than an ISD, T D S / T C S Taxpayer, casual taxable person and Non-resident taxpayer. |                         $31^{\text {st }}$ December of next Financial Year                         |
+| :---------------------------------------------------------------------: | :-----------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |
+| $\begin{aligned} & \text { G STR- } \\ & 9 \mathrm{~A} \end{aligned}$ | Simplified Annual Return under Composition Scheme |                                  Taxable Person opting for Composition Levy                                  |                         $31^{\text {st }}$ December of next Financial Year                         |
+|     $\begin{aligned} & \text { G S T R- } \\ & 10 \end{aligned}$     |                   Final Return                   |                     Taxable person whose registration has been surrendered or cancelled.                     | Within three months of the date of cancellation or date of order of cancellation, whichever is later. |
 
 | $\begin{aligned} & \text { G S T R- } \\ & 11 \end{aligned}$ | Details of inward supplies to be furnished by a person having UIN | Persons who have been issued a Unique Identity Num$\operatorname{ber}(\mathrm{UIN})$ | $28^{\text {th }}$ of the next month |
-| :--: | :--: | :--: | :--: |
+| :------------------------------------------------------------: | :---------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :------------------------------------: |
 
 * Registered persons having aggregate turnover of up to 1.5 Crore rupees in the preceding financial year or the current financial year shall furnish GSTR-1on a quarterly basis. Other Registered persons having aggregate turnover of more than 1.5 Crore rupees shall furnish these returns on a monthly basis. Filing of GSTR-2 and GSTR-3 has been postponed till a further announcement in this regard is made.
 
-
-# Calendar for Return filing 
+# Calendar for Return filing
 
 The due dates for filing various GST returns may vary from the Standard dates mentioned in the table above. Various notifications are issued from time to time in this regard and as per the notifications issued till 29/12/2017.
 
-| Return | Category of <br> Taxpayer | Time Period | Due Date |
-| :-- | :-- | :-- | :-- |
-| G S T R - <br> 3B | All taxpayers to <br> file along with <br> payment of tax | Every month <br> till March <br> 2018 | $20^{\text {th }}$ of the <br> succeeding <br> month |
+| Return               | Category of `<br>` Taxpayer                                     | Time Period                                   | Due Date                                                       |
+| :------------------- | :---------------------------------------------------------------- | :-------------------------------------------- | :------------------------------------------------------------- |
+| G S T R -`<br>` 3B | All taxpayers to `<br>` file along with `<br>` payment of tax | Every month `<br>` till March `<br>` 2018 | $20^{\text {th }}$ of the `<br>` succeeding `<br>` month |
 
-| GSTR-1 | Taxpayers with annual aggregate turnover up to Rs 1.5 Crore to file on Quarterly basis | $\begin{aligned} & \text { July-S e p } \\ & 2017 \end{aligned}$ | $\begin{aligned} & 10^{\text {th }} \\ & 2018 \end{aligned}$ | Jan |
-| :--: | :--: | :--: | :--: | :--: |
-|  |  | $\begin{aligned} & \text { Oct-D e c } \\ & 2017 \end{aligned}$ | $\begin{aligned} & 15^{\text {th }} \\ & 2018 \end{aligned}$ | Feb |
-|  |  | $\begin{aligned} & \text { Jan - M a r } \\ & 2018 \end{aligned}$ | $\begin{aligned} & 30^{\text {th }} \\ & 2018 \end{aligned}$ | April |
-|  | Taxpayers with annual aggregate turnover of more than Rs 1.5 Crore to file on Monthly basis | $\begin{aligned} & \text { July-O c t } \\ & 2017 \end{aligned}$ | $\begin{aligned} & 10^{\text {th }} \\ & 2018 \end{aligned}$ | Jan |
-|  |  | Nov 2017 | $\begin{aligned} & 10^{\text {th }} \\ & 2018 \end{aligned}$ | Jan |
-|  |  | Dec 2017 | $\begin{aligned} & 10^{\text {th }} \\ & 2018 \end{aligned}$ | Feb |
-|  |  | Jan 2018 | $\begin{aligned} & 10^{\text {th }} \\ & 2018 \end{aligned}$ | Mar |
-|  |  | Feb 2018 | $\begin{aligned} & 10^{\text {th }} \\ & 2018 \end{aligned}$ | April |
-|  |  | Mar 2018 | $\begin{aligned} & 10^{\text {th }} \\ & 2018 \end{aligned}$ | May |
-| GSTR-4 | Taxpayers who have opted for Composition scheme to file every quarter | Jul-Sep 2017 | $\begin{aligned} & 24^{\text {th }} \\ & 2017 \end{aligned}$ | Dec |
+| GSTR-1 |   Taxpayers with annual aggregate turnover up to Rs 1.5 Crore to file on Quarterly basis   | $\begin{aligned} & \text { July-S e p } \\ & 2017 \end{aligned}$ | $\begin{aligned} & 10^{\text {th }} \\ & 2018 \end{aligned}$ |  Jan  |
+| :----: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------: | :------------------------------------------------------------: | :---: |
+|        |                                                                                            |  $\begin{aligned} & \text { Oct-D e c } \\ & 2017 \end{aligned}$  | $\begin{aligned} & 15^{\text {th }} \\ & 2018 \end{aligned}$ |  Feb  |
+|        |                                                                                            | $\begin{aligned} & \text { Jan - M a r } \\ & 2018 \end{aligned}$ | $\begin{aligned} & 30^{\text {th }} \\ & 2018 \end{aligned}$ | April |
+|        | Taxpayers with annual aggregate turnover of more than Rs 1.5 Crore to file on Monthly basis | $\begin{aligned} & \text { July-O c t } \\ & 2017 \end{aligned}$ | $\begin{aligned} & 10^{\text {th }} \\ & 2018 \end{aligned}$ |  Jan  |
+|        |                                                                                            |                              Nov 2017                              | $\begin{aligned} & 10^{\text {th }} \\ & 2018 \end{aligned}$ |  Jan  |
+|        |                                                                                            |                              Dec 2017                              | $\begin{aligned} & 10^{\text {th }} \\ & 2018 \end{aligned}$ |  Feb  |
+|        |                                                                                            |                              Jan 2018                              | $\begin{aligned} & 10^{\text {th }} \\ & 2018 \end{aligned}$ |  Mar  |
+|        |                                                                                            |                              Feb 2018                              | $\begin{aligned} & 10^{\text {th }} \\ & 2018 \end{aligned}$ | April |
+|        |                                                                                            |                              Mar 2018                              | $\begin{aligned} & 10^{\text {th }} \\ & 2018 \end{aligned}$ |  May  |
+| GSTR-4 |            Taxpayers who have opted for Composition scheme to file every quarter            |                            Jul-Sep 2017                            | $\begin{aligned} & 24^{\text {th }} \\ & 2017 \end{aligned}$ |  Dec  |
 
-| GSTR-5 | Non Resident <br> Taxable <br> Person to file every <br> month | Jul-Dec 2017 | $31^{\text {st }}$ Jan 2018 |
-| :-- | :-- | :-- | :-- |
-| G S T R - <br> 5A | Taxpayers sup- <br> plying OIDAR <br> services from <br> a place out- <br> side India to <br> a non-taxable <br> online recipient | Jul-Dec 2017 | $31^{\text {st }}$ Jan 2018 |
-| GSTR-6 | Input Service <br> Distributor | Jul 2017 | $31^{\text {st }} \quad$ Dec <br> 2017 |
+| GSTR-5               | Non Resident `<br>` Taxable `<br>` Person to file every `<br>` month                                                                               | Jul-Dec 2017 | $31^{\text {st }}$ Jan 2018                |
+| :------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- | :------------------------------------------- |
+| G S T R -`<br>` 5A | Taxpayers sup-`<br>` plying OIDAR `<br>` services from `<br>` a place out- `<br>` side India to `<br>` a non-taxable `<br>` online recipient | Jul-Dec 2017 | $31^{\text {st }}$ Jan 2018                |
+| GSTR-6               | Input Service `<br>` Distributor                                                                                                                       | Jul 2017     | $31^{\text {st }} \quad$ Dec `<br>` 2017 |
 
 Note: Due dates have not been notified for GSTR-2 and GSTR-3 for any of the months. That is, a taxpayer need not file GSTR-2 and GSTR-3 for any of the months from July 2017 until a notification is issued in this regard mentioning the due dates. Till such time, Form GSTR-3B is required to be filed by tax payers instead of Form GSTR-3.
 
-# Revision of Returns: 
+# Revision of Returns:
 
 The mechanism of filing of revised returns for any correction of errors/omissions has been done away with. The rectification of errors/omissions is allowed in the return for subsequent month(s). However, no rectification is allowed after furnishing of the return for the month of
 
 September following the end of the financial year to which such details pertain, or furnishing of the relevant annual return, whichever is earlier.
 
-# Interest on Late GST Payment 
+# Interest on Late GST Payment
 
 An interest of 18 percent is levied on the late payment of taxes under the GST regime. The interest would be levied for the days for which tax was not paid after the due date.
 
@@ -2985,7 +2922,7 @@ In case a taxpayer does not file his/her return within the due dates, he/she sha
 - For the months July to September, 2017, the late fee payable for failure to furnish the return has been waived completely.
 - From the month of October 2017 onwards, the GST Council has recommended that the amount of late fee payable by a taxpayer whose tax liability for that month is 'NIL' is Rs. 20/- per day (Rs. 10/- per day each under CGST \& SGST Acts). However, if the tax liability for that month is not 'NIL', the amount of late fee is Rs 50/- per day (Rs. 25/- per day each under CGST \& SGST Acts)
 
-# An overview of GSTR-1, GSTR-2 and GSTR-3 
+# An overview of GSTR-1, GSTR-2 and GSTR-3
 
 The population of these returns is explained by the following graphic:
 ![img-4.jpeg](img-4.jpeg.png)
@@ -3000,7 +2937,6 @@ NOTE:
 ## ITC Matching and Auto-Reversal:
 
 1. It is a mechanism to prevent revenue leakage and to facilitate availment of eligible and rightful ITC by taxpayers .
-
 2. The process of ITC Matching begins after the due date for filing of the return $\left(20^{\text {th }}\right)$. This is carried out by GSTN.
 3. The details of every inward supply furnished by the taxable person (i.e. the "recipient" of goods and/or services) in form GSTR-2 shall be matched with the corresponding details of outward supply furnished by the corresponding taxable person (i.e. the "supplier" of goods and / or services) in his valid return. A return may be considered to be a valid return only when the appropriate GST has been paid in full by the taxable person as shown in such return for a given tax period.
 4. In case the details match, then the ITC claimed by the recipient in his valid returns shall be considered as finally accepted and such acceptance shall be communicated to the recipient. Failure to file valid return by the supplier may lead to denial of ITC in the hands of the recipient.
@@ -3014,7 +2950,7 @@ communicated then such excess ITC as claimed by the recipient shall be added to 
 
 Note: It may be noted that the return process is being examined by a Committee of officers and has not been finalised so far.
 
-# Chapter Thirty Three 
+# Chapter Thirty Three
 
 ## Statement of Outward Supplies (GSTR-1) in GST
 
@@ -3030,7 +2966,7 @@ This return can be filed by the taxpayer directly through the
 
 common portal www.gst.gov.in ; or through a Facilitation Centre notified by the Commissioner.
 
-# Timelines for filing: 
+# Timelines for filing:
 
 The GSTR-1 return is meant to be filed for every tax period whether or not any supplies of goods or services or both have been made during such tax period. However, as a measure of easing the compliance requirement for small tax payers, GSTR-1 has been allowed to be filed quarterly by small tax payers with aggregate annual turnover up to Rs. 1.5 crore (as per Notification No. 71/2017 - Central Tax). Tax payers with annual aggregate turnover above Rs. 1.5 crore will however continue to file the return GSTR- 1 on a monthly basis. The return has to be filed on or before the tenth day of the following month. The Commissioner may, for reasons to be recorded in writing, by notification, extend this time limit for furnishing the returns for a specified class of registered persons. These dates have been extended for the financial year 2017-18 as per Notification No. 71/2017 - Central Tax and 72/2017 - Central Tax dated 29/12/2017.
 
@@ -3052,7 +2988,7 @@ The details of outward supplies of goods or services or both furnished in FORM G
 
 The details of outward supplies furnished by the supplier in GSTR 1 shall be made available electronically to the concerned registered persons (recipients) in Part A of FORM GSTR-2A, in FORM GSTR-4A and in FORM GSTR-6A through the common portal after the due date of filing of FORM GSTR-1.
 
-# About the return 
+# About the return
 
 GSTR-1 has a total of 13 Tables. Tables 1 and 2 pertain to GSTIN and Legal name/Trade name
 
@@ -3146,11 +3082,11 @@ Summary of supplies effected against a particular HSN code to be reported only i
 Table 13: Documents issued during the tax period
 Details of the documents like invoices, Debit note, Credit Note, Receipt Voucher, Payment Voucher, Refund Voucher and Deliver Challan issued and/or cancelled during the Tax period has to be entered here. The number of invoices reported in table 4,5 and 6 should be matched with the information provided in table 13.
 
-# GSTR 1A 
+# GSTR 1A
 
 The details of inward supplies added, corrected or deleted by the recipient in his FORM GSTR-2 under section 38 or FORM GSTR-4 or FORM GSTR-6 under section 39 shall be made available to the supplier electronically in FORM GSTR-1A through the common portal and such supplier may either accept or reject the modifications made by the recipient and FORM GSTR-1 furnished earlier by the supplier shall stand amended to the extent of modifications accepted by him.
 
-# Chapter Thirty Four 
+# Chapter Thirty Four
 
 ## Refunds under GST
 
@@ -3182,7 +3118,7 @@ CGST Act, 2017, provision contained in Section 77 of the CGST Act, 2017 and the 
 supply as intra-State supply which is subsequently held as inter-State supply and vice versa.
 Thus practically every situation is covered. The GST law requires that every claim for refund is to be filed within 2 years from the relevant date.
 
-# CREDIT NOTES 
+# CREDIT NOTES
 
 Further, Section 34 of the CGST Act, 2017 provides for issuance of credit notes for post supply discounts or if goods are returned back within a stipulated time. When such credit notes are issued, obviously it would call for reduction in output liability of the supplier. Hence, the taxes paid initially on the supply would be higher than what is actually payable. In such a scenario the excess tax paid by the supplier needs to be refunded. However, instead of refunding it outright, it is sought to be adjusted after verifying the corresponding reduction in the input tax credit availed by the recipient. Section 43 of the CGST Act, 2017 provides for procedure for reduction in output liability on account of issuance of such credit notes. This is another form of refund by adjustments in the output tax liability. Such refund is not governed under the general refund provisions contained in Section 54 of the CGST Act, 2017.
 
@@ -3196,13 +3132,13 @@ Act, 2017. "Zero rated supply" under Section 16 of the IGST Act, 2017 means any 
 
 On account of zero rating of supplies, the supplier will be entitled to claim input tax credit in respect of goods or services or both used for such supplies even though they might be non-taxable or even exempt supplies. Every person making claim of refund on account of zero rated supplies has two options. Either he can export under Bond/ LUT and claim refund of accumulated Input Tax Credit or he may export on payment of integrated tax and claim refund thereof as per the provisions of Section 54 of CGST Act, 2017. Thus, the GST law allows the flexibility to the exporter (which will include the supplier making supplies to SEZ) to claim refund upfront as integrated tax (by making supplies on payment of tax using ITC) or export without payment of tax by executing a Bond/LUT and claim refund of related ITC of taxes paid on inputs and input services used in making zero rated supplies.
 
-# GRANT OF PROVISIONAL REFUND IN CASE OF ZERO RATED SUPPLIES 
+# GRANT OF PROVISIONAL REFUND IN CASE OF ZERO RATED SUPPLIES
 
 GST law also provides for grant of provisional refund of $90 \%$ of the total refund claim, in case the claim relates for refund arising on account of zero rated supplies. The provisional refund would be paid within 7 days after giving
 
 the acknowledgement. The acknowledgement of refund application is normally issued within a period of 15 days. The provisional refund would not be granted to such supplier who was, during any period of five years immediately preceding the refund period, was prosecuted.
 
-# PAYMENT OF WRONG TAX 
+# PAYMENT OF WRONG TAX
 
 Under GST it might happen that the taxable person may pay integrated tax instead of central tax plus state tax and vice versa because of incorrect application of the place of supply provisions. In such cases, while making the appropriate payment of tax, interest will not be charged and the refund claim of the wrong tax paid earlier will be entertained without subjecting it to the provision of unjust enrichment.
 
@@ -3216,7 +3152,7 @@ A casual/Non-resident taxable person has to pay tax in advance at the time of re
 
 due to such persons at the end of the registration period because the tax paid in advance may be more than the actual tax liability on the supplies made by them during the period of validity of registration period. The law envisages refund to such categories of taxable persons also. But the amount of excess advance tax shall not be refunded unless such person has filed all the returns due during the time their registration was effective. It is only after such compliance that refund will be granted.
 
-# REFUND TO UN BODIES AND OTHER NOTIFIED AGENCIES 
+# REFUND TO UN BODIES AND OTHER NOTIFIED AGENCIES
 
 Supplies made to UN bodies and embassies may be exempted from payment of GST as per international obligations. However, this exemption is being operationalized by way of a refund mechanism. So a taxable person making supplies to such bodies would charge the tax due and remit the same to government account. However, the UN bodies and other entities notified under Section 55 of the CGST Act, 2017 can claim refund of the taxes paid by them on their purchases. The claim has to be made before the expiry of six months from the last day of the quarter in which such supply was received. It may be noted that refund would be granted by Central Government as facility of a single UIN has been made available to such agencies.
 
@@ -3226,19 +3162,19 @@ An enabling mechanism has been introduced in Section 15 of the IGST Act, 2017 wh
 
 refund of integrated tax paid by them. The term, "tourist" has been defined and refers to any person who is not normally resident in India and who enters India for a stay of not more than 6 months for legitimate non-immigrant purposes.
 
-# UNJUST ENRICHMENT 
+# UNJUST ENRICHMENT
 
 Talking about unjust enrichment, a presumption is always drawn that the businessman will shift the incidence of tax to the final consumer. This is because GST is an indirect tax whose incidence is to be borne by the consumer. It is for this reason that every claim of refund (barring specified exceptions) need to pass the test of unjust enrichment. And every such claim if sanctioned is first transferred to the Consumer Welfare Fund. The GST law makes this test inapplicable in case of refund of accumulated ITC, refund on account of exports, refund of payment of wrong tax (integrated tax instead of central tax plus state tax and vice versa), refund of tax paid on a supply which is not provided or which refund voucher is issued or if the applicant shows that he has not passed on the incidence of tax to any other person. In all other cases the test of unjust enrichment needs to be satisfied for the claim to be paid to the applicant. For crossing the bar of unjust enrichment, if the refund claim is less than Rs. 2 Lakhs, then a self-declaration of the applicant to the effect that the incidence of tax has not been passed to any other person will suffice to process the refund claim. For refund claims exceeding Rs. 2 Lakhs, a certificate from a Chartered Accountant/Cost Accountant will have to be given.
 
-# STANDARDISATION OF PROCEDURE 
+# STANDARDISATION OF PROCEDURE
 
 The GST laws makes standardised provisions for making a refund claim. Every claim has to be filed online in a standardised form. The applicationshall be forwarded to the proper officer who shall, within a period of fifteen days of filing of the said application, scrutinize the application for its completeness and where the application is found to be complete in all terms, an acknowledgement shall be made available to the applicant through the common portal electronically. However, till the time the refund module on the GSTN portal is operationalised, facility for manual filing of refund claims has been provided. The claim for refund of amount lying in the credit balance of the cash ledger can be made in the monthly returns also. The proper officer has to convey deficiencies if any in the refund claimed in such cases the claim will be sent back to the applicant along with the notified deficiencies and the applicant can file the refund claim again after making goods the deficiencies. The claim, if in order, has to be sanctioned within a period of 60 days from the date of receipt of the application of claim complete in all respect. If this mandatory period is exceeded, interest at the rate of $6 \%$ ( $9 \%$ in case of refund made on order passed by an adjudicating authority or Appellate Tribunal or court which has attained finality) will become payable along with refund from the expiry of 60 days till the date of payment of refund. However, if the refund claim is on account of pre-deposit made before any appellate authority, the interest becomes payable from the date of making such payment.
 
-# DOCUMENTATION 
+# DOCUMENTATION
 
 The applicant need not file elaborate documents along with the refund claim. Standardised and easy to understand documents have been prescribed. Thus, for every claim the main document prescribed is a statement of relevant invoices (NOT THE INVOICES ITSELF) pertaining to the claim. In case refund is on account of export of services, apart from the statement of invoices, the relevant bank realisation certificates or FIRC evidencing receipt of payment in foreign currency is also required to be submitted. If it is a claim made by the supplier to the SEZ unit, an endorsement from the proper officer evidencing receipt of such goods/services in the SEZ also needs to be submitted. Further a declaration is also required from the SEZ unit to the effect that they have not availed input tax credit of the tax paid by the supplier. If the claim is for refund of accumulated ITC, only a statement containing invoice details as prescribed in the refund chapter of the CGST Rules, 2017 need to be given. In case of claim of refund on account of any order or judgment of appellate authority or court, the reference number of the order giving rise to refund should also be given. For crossing the bar of unjust enrichment, if the refund claim is less than Rs. 2 Lakhs, then a self-declaration by the applicant to the effect that the incidence of tax has not been passed to any other person will suffice to process the refund claim. For refund claims exceeding Rs. 2 Lakhs, a certificate from a Chartered Accountant/Cost Accountant will have to be given.
 
-# COMPLIANCE WITH NATURAL JUSTICE 
+# COMPLIANCE WITH NATURAL JUSTICE
 
 In case the claim is sought to be rejected by the proper officer, a notice has to be given online to the applicant stating the ground on which the refund is sought to be rejected. The applicant needs to respond online within 15 days from the receipt of such notice. Thus no claim can be rejected without putting the applicant to notice.
 
@@ -3267,7 +3203,7 @@ As per Rule 96, the refund of IGST paid on export of goods is processed and disb
 amount claimed to have been paid under Table 6A of GSTR-1 of the corresponding period.
 It may be noted that Rule 96(9) has been inserted, w.e.f 23.10.2017, in CGST Rules, 2017 vide Notification no. 75/2017-Central Tax dated 29.12.2017 so as to provide that the refund of integrated tax paid on export of goods or services is not permitted to such persons who have received supplies on which the supplier has availed the benefit of Notification no. 48/2017-Central Tax dated 18.10.2017 or Notification no. 40/2017- Central Tax (Rate) dated 23.10.2017 or notification No. 41/2017-Integrated Tax (Rate) dated 23.10.2017.
 
-# Manual filing of Refund Claims 
+# Manual filing of Refund Claims
 
 Rule 97A has been inserted in the CGST Rules, 2017 vide Notification no. 55/2017-Central Tax dated 15.11.2017 to enable manual processing of refund claims. The said rule provides that any reference to electronic filing of an application, intimation, reply, declaration, statement or electronic issuance of a notice, order or certificate on the common portal shall, in respect of that process or procedure, include manual filing of the said application, intimation, reply, declaration, statement or issuance of the said notice, order or certificate in such Forms as appended to CGST Rules, 2017.
 
@@ -3278,13 +3214,13 @@ decided that the applications/documents/forms pertaining to refund claims on acc
 Procedure for filing refund claims (other than refund under Rule 96 on account of export of goods and refund of unutilised ITC on account of zero rated supply)
 The application for refund of integrated tax paid on zerorated supply of goods to a Special Economic Zone developer or a Special Economic Zone unit or in case of zero-rated supply of services is required to be filed in FORM GST RFD-01A (as notified in the CGST Rules, 2017 vide Notification no. 55/2017 - Central Tax dated 15.11.2017) by the supplier on the common portal and a print out of the said form shall be submitted before the jurisdictional proper officer along with all necessary documentary evidences as applicable (as per the details in statement 2 or 4 of Annexure to FORM GST RFD - 01), within the time stipulated for filing of such refund under the CGST Act, 2017.
 
-# Procedure for filing refund claims of unutilised ITC on account of zero rated supply 
+# Procedure for filing refund claims of unutilised ITC on account of zero rated supply
 
 The application for refund of unutilized input tax credit on inputs or input services used in making such zero-rated supplies shall be filed in FORM GST RFD-01A on the common portal and the amount claimed as refund shall get debited in accordance with sub-rule (3) of rule 86 of the CGST Rules, 2017 from the amount in the electronic credit ledger to the extent of the claim. The common portal shall generate a proof of debit (ARN- Acknowledgement Receipt
 
 Number) which would be mentioned in the FORM GST RFD-01A submitted manually, along with the print out of FORM GST RFD-01A to the jurisdictional proper officer, and with all necessary documentary evidences as applicable (as per details in statement 3 or 5 of Annexure to FORM GST RFD-01), within the time stipulated for filing of such refund under the CGST Act, 2017.
 
-# Where to file the refund claims 
+# Where to file the refund claims
 
 The registered person needs to file the refund claim with the jurisdictional tax authority to which the taxpayer has been assigned as per the administrative order issued in this regard by the Chief Commissioner of Central Tax and the Commissioner of State Tax. In case such an order has not been issued in the State, the registered person is at liberty to apply for refund before the Central Tax Authority or State Tax Authority till the administrative mechanism for assigning of taxpayers to respective authority is implemented. However, in the latter case, an undertaking is required to be submitted stating that the claim for sanction of refund has been made to only one of the authorities. It is reiterated that the Central Tax officers shall facilitate the processing of the refund claims of all registered persons whether or not such person was registered with the Central Government in the earlier regime.
 
@@ -3294,7 +3230,7 @@ The Circular no.17/17/2017-GST dated 15.11.2017 read with Circular no. 24/24/201
 
 of such manual refund claims, which needs to be adhered to scrupulously. The time limits laid down in the Act need to be followed and the prescribed forms need to be generated manually for processing of such refund claims
 
-# Manual filing and processing of refund claims on account of inverted duty structure, deemed exports and excess balance in electronic cash ledger 
+# Manual filing and processing of refund claims on account of inverted duty structure, deemed exports and excess balance in electronic cash ledger
 
 Due to the non-availability of the refund module on the common portal, it has been decided by the competent authority that the applications/documents/forms pertaining to refund claims on account of inverted duty structure (including supplies in terms of notification Nos. 40/2017-Central Tax (Rate) and 41/2017-Integrated Tax (Rate) both dated 23.10.2017), deemed exports and excess balance in electronic cash ledger shall be filed and processed manually till further orders. The procedure to be followed for manual filing of following type of refund claims and processing thereof shall be in accordance with Circular no. 24/24/2017-GST dated 21.12.2017 read with Circular no. 17/17/2017-GST dated 15.11.2017 :-
 (i) refund of unutilized input tax credit where the credit has accumulated on account of rate of tax on inputs being higher than the rate of tax on output supplies (other than nil rated or fully exempt supplies) of goods or services or both except those supplies which are notified by the Government on the recommendations of the Council (section 54(3) of the CGST Act, 2017 refers);
@@ -3302,7 +3238,7 @@ Due to the non-availability of the refund module on the common portal, it has be
 (ii) refund of tax on the supply of goods regarded as deemed exports; and
 (iii) refund of balance in the electronic cash ledger.
 
-# Manual claims in respect of inverted duty structure 
+# Manual claims in respect of inverted duty structure
 
 Refund claims on account of inverted duty structure shall be filed for a tax period on a monthly basis in FORM GST RFD-01A. However, the registered persons having aggregate turnover of up to Rs. 1.5 crore in the preceding financial year or the current financial year and opting to file FORM GSTR-1 on quarterly basis (Notification no. 71/2017-Central Tax dated 29.12.2017 refers) shall apply for refund on a quarterly basis. Further, it is stated that the refund claim for a tax period may be filed only after filing the details in FORM GSTR-1 for the said tax period. It is also to be ensured that a valid return in FORM GSTR3B has been filed for the last tax period before the one in which the refund application is being filed. Since the date of furnishing of FORM GSTR 1 from July, 2017 onwards has been extended while the dates of furnishing of FORM GSTR 2 and FORM GSTR 3 for such period are yet to be notified, it has been decided by the competent authority to sanction refund of provisionally accepted input tax credit at this juncture. However, the registered persons applying for refund is required to give an undertaking to the effect that the amount of refund sanctioned would be paid back to the Government with interest in case it is found subsequently that the requirements of clause (c) of sub-section (2) of section 16 read with sub-section (2) of sections 42 of the CGST Act, 2017 have not been complied with in respect
 
@@ -3310,7 +3246,7 @@ of the amount refunded. This undertaking should be submitted manually along with
 
 It may be noted that Rule 89(4B) has been inserted, i.e. 23.10.2017, in CGST Rules, 2017 vide Notification no. 75/2017-Central Tax dated 29.12.2017 so as to provide that refund of input tax credit, availed only in respect of inputs availed in respect of inputs received under Notification no. 40/2017-Central Tax (Rate) dated 23.10.2017 or Notification no. 41/2017-Integrated Tax (Rate) dated 23.10.2017, or both or other inputs or input services used in making such exports shall be granted.
 
-# Manual Claims in respect of Deemed Exports 
+# Manual Claims in respect of Deemed Exports
 
 TheGovernmenthasissuednotificationNo.48/2017-Central Tax dated 18.10.2017 under section 147 of the CGST Act, 2017 wherein certain supplies of goods have been notified as deemed export. Further, the third proviso to rule 89(1) of the CGST Rules, 2017 allows the recipient or the supplier to apply for refund of tax paid on such deemed export supplies. In case such refund is sought by the supplier of deemed export supplies, the documentary evidences as specified in notification No. 49/2017-Central Tax dated 18.10.2017 are also required to be furnished which includes an undertaking by the recipient of deemed export supplies that he shall not claim the refund in respect of such supplies and that no input tax credit on such supplies has been availed of by him.
 
@@ -3320,13 +3256,13 @@ Further, as per the provisions of rule 89(2)(g) of the CGST Rules, 2017, the sta
 
 It may be noted that Rule 89(4A) has been inserted, w.e.f 23.10.2017, in CGST Rules, 2017 vide Notification no. 75/2017-Central Tax dated 29.12.2017 so as to provide that refund of input tax credit, availed in respect of only other inputs or input services used in making zero-rated supply of goods or services or both, shall be granted in case of supplies received on which the supplier has availed the benefit of Notification no. 48/2017-Central Tax dated 18.10.2017.
 
-# Refund amount to be sanctioned by respective authorities 
+# Refund amount to be sanctioned by respective authorities
 
 Para 2.5 of Circular No. 17/17/2017-GST dated 15.11.2017
 
 may be referred to in order to ascertain the jurisdictional proper officer to whom the manual application for refund is to be submitted. Where any amount claimed as refund is rejected under rule 92 of the CGST Rules, 2017, either fully or partly, the amount debited, to the extent of rejection, shall be re-credited to the electronic credit ledger by an order made in FORM GST RFD-1B until the FORM GST PMT-03 is available on the common portal. Further, the payment of the sanctioned refund amount shall be made only by the respective tax authority of the Central or State Government. Thus, the refund order issued either by the Central tax authority or the State tax/UT tax authority shall be communicated to the concerned counter-part tax authority within seven working days for the purpose of payment of the relevant sanctioned refund amount of tax or cess, as the case may be. This time limit of seven working days is also applicable to refund claims in respect of zero-rated supplies being processed as per Circular No. 17/17/2017-GST dated 15.11.2017. It must be ensured that the timelines specified under section 54(7) and rule 91(2) of the CGST Rules, 2017 for the sanction of refund are adhered to.
 
-# Special Procedure to facilitate smooth refund of Central Tax and State Tax 
+# Special Procedure to facilitate smooth refund of Central Tax and State Tax
 
 In order to facilitate sanction of refund amount of Central tax and State tax by the respective tax authorities, it has been decided that both the Central and State Tax authority shall nominate nodal officer(s) for the purpose of liasioning through a dedicated e-mail id. Where the amount of
 
@@ -3336,7 +3272,7 @@ In case of refund claim for the balance amount in the electronic cash ledger, up
 
 Drawback of all taxes under GST (Central Tax, Integrated Tax, State/Union Territory Tax) should not have been availed while claiming refund of accumulated ITC under section 54(3)(ii) of the CGST Act, 2017. A declaration to this effect forms part of FORM GST RFD-01A as well.
 
-# POWER WITH THE COMMISSIONER TO WITHHOLD REFUND IN CERTAIN CASES 
+# POWER WITH THE COMMISSIONER TO WITHHOLD REFUND IN CERTAIN CASES
 
 GST law provides that where an order giving rise to a refund is the subject matter of an appeal or further proceedings or where any other proceedings under this Act is pending and the Commissioner is of the opinion that grant of such refund is likely to adversely affect the revenue in the said appeal or other proceedings on account of malfeasance or fraud committed, he may, after giving the taxable person an opportunity of being heard, withhold the refund till such time as he may determine.
 
@@ -3344,7 +3280,7 @@ GST law provides that where an order giving rise to a refund is the subject matt
 
 In sum, the law envisages a simplified, time bound and technology driven refund procedure with minimal human interface between the taxpayer and tax authorities.
 
-# Chapter Thirty Five 
+# Chapter Thirty Five
 
 ## Refund of Integrated Tax paid on account of zero rated supplies
 
@@ -3363,7 +3299,7 @@ The second category pertains to refund of integrated tax paid for the zero-rated
 1. Exporter of goods
 2. Service exporters and persons making supplies to SEZ.
 
-# Export of Goods 
+# Export of Goods
 
 The normal refund application in GST RFD-01 is not applicable in this case. There is no need for filing a separate refund claim as the shipping bill filed by the exporter is itself treated as a refund claim. As per rule 96 of the CGST Rules, 2017, the shipping bill filed by an exporter shall be deemed to be an application for refund of integrated tax paid on the goods exported out of India and such application shall be
 
@@ -3387,7 +3323,7 @@ As per Rule 96, the refund of IGST paid on export of goods is processed and disb
 
 It may be noted that Rule 96(9) has been inserted, w.e.f 23.10.2017, in CGST Rules, 2017 vide Notification no. 75/2017-Central Tax dated 29.12.2017 so as to provide that the refund of integrated tax paid on export of goods or services is not permitted to such persons who have received supplies on which the supplier has availed the benefit of Notification no. 48/2017-Central Tax dated 18.10.2017 or Notification no. 40/2017- Central Tax (Rate) dated 23.10.2017 or notification No. 41/2017-Integrated Tax (Rate) dated 23.10.2017.
 
-# Service Exporters and Persons making supplies to SEZ 
+# Service Exporters and Persons making supplies to SEZ
 
 Under this category also, the supplier may choose to first pay IGST and then claim refund of the IGST so paid. In these cases, the suppliers will have to file refund claim in FORM GST RFD - 01 on the common portal, as per Rule 89(1) of the CGST Rules, 2017. Service Exporters need to file a statement containing the number and date of invoices and the relevant Bank Realisation Certificates or Foreign Inward Remittance Certificates, as the case may be, along with the refund claim.
 
@@ -3405,25 +3341,25 @@ unit/Developer has to be filed along with the following documents:
 2. a statement containing the number and date of invoices, the evidence regarding the endorsement specified in the second proviso to rule 89(1) and the details of payment, along with the proof thereof, made by the recipient to the supplier for authorised operations as defined under the Special Economic Zone Act, 2005, in a case where the refund is on account of supply of services made to a Special Economic Zone unit or a Special Economic Zone developer;
 3. a declaration to the effect that the Special Economic Zone unit or the Special Economic Zone developer has not availed the input tax credit of the tax paid by the supplier of goods or services or both, in a case where the refund is on account of supply of goods or services made to a Special Economic Zone unit or a Special Economic Zone developer.
 
-# Manual filing of claims 
+# Manual filing of claims
 
 Tillsuch time as full-fledgedrefund moduleisoperationalised by GSTN, manual filing of claims has been prescribed vide Circular no.17/17/2017-GST dated 15.11.2017 \& Circular
 
 no. 24/24/2017-GST dated 21.12.2017. The application for refund of IGST paid on zero-rated supply of goods to a Special Economic Zone developer or a Special Economic Zone unit or in case of zero-rated supply of services is required to be filed in FORM GST RFD-01A (as notified in the CGST Rules, 2017 vide Notification no. 55/2017 - Central Tax dated 15.11.2017) by the supplier on the common portal and a print out of the said form shall be submitted before the jurisdictional proper officer along with all necessary documentary evidences as applicable (as per the details in statement 2 or 4 of Annexure to FORM GST RFD - 01), within the time stipulated for filing of such refund under the CGST Act, 2017.
 
-# Refund amount to be sanctioned by respective authorities 
+# Refund amount to be sanctioned by respective authorities
 
 Para 2.5 of Circular no. 17/17/2017-GST dated 15.11.2017 may be referred to in order to ascertain the jurisdictional proper officer to whom the manual application for refund is to be submitted. Where any amount claimed as refund is rejected under rule 92 of the CGST Rules, 2017, either fully or partly, the amount debited, to the extent of rejection, shall be re-credited to the electronic credit ledger by an order made in FORM GST RFD-1B until the FORM GST PMT-03 is available on the common portal. Further, the payment of the sanctioned refund amount shall be made only by the respective tax authority of the Central or State Government. Thus, the refund order issued either by the Central tax authority or the State tax/UT tax authority shall be communicated to the concerned counter- part tax authority within seven working days for the purpose of
 
 payment of the relevant sanctioned refund amount of tax or cess, as the case may be. This time limit of seven working days is also applicable to refund claims in respect of zero-rated supplies being processed as per Circular no. 17/17/2017GST dated 15.11.2017 as against the time limit of three days prescribed in para 4 of the said Circular. It must be ensured that the timelines specified under section 54(7) of the CGST Act, 2017 and rule 91(2) of the CGST Rules, 2017 for the sanction of refund are adhered to.
 
-# Special Procedure to facilitate smooth refund of Central Tax and State Tax 
+# Special Procedure to facilitate smooth refund of Central Tax and State Tax
 
 In order to facilitate sanction of refund amount of central tax and State tax by the respective tax authorities, it has been decided that both the Central and State Tax authority shall nominate nodal officer(s) for the purpose of liasioning through a dedicated e-mail id. Where the amount of central tax and State tax refund is ordered to be sanctioned provisionally by the Central tax authority and a sanction order is passed in accordance with the provisions of rule 91(2) of the CGST Rules, 2017, the Central tax authority shall communicate the same, through the nodal officer, to the State tax authority for making payment of the sanctioned refund amount in relation to State tax and vice versa. The aforesaid communication shall primarily be made through e-mail attaching the scanned copies of the sanction order [FORM GST RFD-04 and FORM GST RFD-06], the application for refund in FORM GST RFD-01A and the Acknowledgement Receipt Number (ARN). Accordingly, the jurisdictional proper officer of Central or State Tax,
 
 as the case may be, shall issue FORM GST RFD-05 and send it to the DDO for onward transmission for release of payment. After release of payment by the respective PAO to the applicant's bank account, the nodal officer of Central tax and State tax authority shall inform each other. The manner of communication as referred earlier shall be followed at the time of final sanctioning of the refund also.
 
-# Where to file the refund claims 
+# Where to file the refund claims
 
 The registered person needs to file the refund claim with the jurisdictional tax authority to which the taxpayer has been assigned as per the administrative order issued in this regard by the Chief Commissioner of Central Tax and the Commissioner of State Tax. In case such an order has not been issued in the State, the registered person is at liberty to apply for refund before the Central Tax Authority or State Tax Authority till the administrative mechanism for assigning of taxpayers to respective authority is implemented. However, in the latter case, an undertaking is required to be submitted stating that the claim for sanction of refund has been made to only one of the authorities. It is reiterated that the Central Tax officers shall facilitate the processing of the refund claims of all registered persons whether or not such person was registered with the Central Government in the earlier regime
 
@@ -3433,13 +3369,13 @@ The Circular No.17/17/2017-GST dated 15.11.2017 and circular no.24/24/2017-GST d
 
 such manual refund claims, which needs to be adhered to scrupulously. The time limits laid down in the Act need to be followed and the prescribed forms need to be generated manually for processing of such refund claims.
 
-# Grant of Provisional Refund 
+# Grant of Provisional Refund
 
 The above category of persons making zero rated supplies will be entitled to provisional refund of $90 \%$ of the claim in terms of Section 54(6) of CGST Act, 2017.
 
 Rule 91 of CGST Rules, 2017 provide that the provisional refund is to be granted within 7 days from the date of acknowledgement of the refund claim. An order for provisional refund is to be issued in Form GST RFD 04 along with payment advice in the name of the claimant in Form GST RFD 05. The amount will be electronically credited to the claimant's bank account. Rule 91 also prescribe that the provisional refund will not be granted if the person claiming refund has, during any period of five years immediately preceding the tax period to which the claim for refund relates, been prosecuted for any offence under the Act or under an earlier law where the amount of tax evaded exceeds two hundred and fifty lakh rupees.
 
-# Refund of unutilised Input Tax Credit (ITC) 
+# Refund of unutilised Input Tax Credit (ITC)
 
 Accumulation of Input Tax Credit happens when the tax paid on inputs is more than the output tax liability. Such accumulation will have to be carried over to the next financial year till such time as it can be utilised by the registered person for payment of output tax liability. However, the GST Law permits refund of unutilised ITC in two scenarios, namely if such credit accumulation is on account of zero rated supplies or on account of inverted duty structure, subject to certain exceptions.
 
@@ -3458,7 +3394,7 @@ In such cases also, refund can be applied under Section 54 of the CGST Act, 2017
 
 It should be noted that no refund of unutilised input tax credit is allowed in cases where the goods exported out of India are subjected to export duty. Further, no refund of input tax credit is allowed, if the supplier of goods or services or both avails of drawback in respect of central tax orclaims refund of the integrated tax paid on such supplies.
 
-# Refund of ITC on account of zero-rated supplies 
+# Refund of ITC on account of zero-rated supplies
 
 The application filed for refund of unutilized ITC on account of zero-rated supplies (without payment of tax under Bond/LUT) has to be accompanied by documentary evidence as may be prescribed to establish that a refund is due to the applicant; and such documentary or other evidence (including the documents referred to in section 33 of the CGST Act, 2017) as the applicant may furnish to establish that the amount of tax and interest, if any, paid on such tax or any other amount paid in relation to which such refund is claimed was collected from, or paid by, him and the incidence of such tax and interest had not been passed on to any other person.
 
@@ -3504,7 +3440,7 @@ during the relevant period;
 
 It may be noted that Rule 89(4B) has been inserted, w.e.f 23.10.2017, in CGST Rules, 2017 vide Notification no. 75/2017-Central Tax dated 29.12.2017 so as to provide that refund of input tax credit, availed only in respect of inputs availed in respect of inputs received under Notification no. 40/2017-Central Tax (Rate) dated 23.10.2017 or Notification no. 41/2017-Integrated Tax (Rate) dated 23.10.2017, or both or other inputs or input services used in making such exports shall be granted.
 
-# Refund of ITC on account of inverted duty structure. 
+# Refund of ITC on account of inverted duty structure.
 
 As per Section 54(3) of CGST Act, 2017, refund of accumulated ITC will be granted where the credit accumulation has taken place on account of inverted duty structure. It may be noted that this would include even those cases where supply has been made to merchant exporters
 
@@ -3512,32 +3448,32 @@ under Notification no. 40/2017- Central Tax (Rate) dated 23.10.2017 or notificat
 
 In respect of goods, the central government has issued Notification no. 5/2017- Central Tax (Rate) dated 28.06.2017 as amended by Notification no. 44/2017-Central Tax (Rate) dated 14.11.2017. The government has notified the following goods in respect of which unutilized ITC will not be admissible as refund: -
 
-| Sr.No | Tariff item, <br> heading, <br> sub-heading or <br> Chapter | Description of Goods |
-| :-- | :-- | :-- |
-| 1 | 5007 | Woven fabrics of silk or of silk <br> waste |
-| 2 | 5111 to 5113 | Woven fabrics of wool or of <br> animal hair |
+| Sr.No | Tariff item,`<br>` heading, `<br>` sub-heading or `<br>` Chapter | Description of Goods                             |
+| :---- | :--------------------------------------------------------------------- | :----------------------------------------------- |
+| 1     | 5007                                                                   | Woven fabrics of silk or of silk `<br>` waste  |
+| 2     | 5111 to 5113                                                           | Woven fabrics of wool or of `<br>` animal hair |
 
-| 3 | 5208 to 5212 | Woven fabrics of cotton |
-| :-- | :-- | :-- |
-| 4 | 5309 to 5311 | Woven fabrics of other vege- <br> table textile fibres, paper yarn |
-| 5 | 5407,5408 | Woven fabrics of manmade <br> textile materials |
-| 6 | 5512 to 5516 | Woven fabrics of manmade <br> staple fibres |
-| 6 A | 5608 | Knotted netting of twine, <br> cordage or rope; made up fish- <br> ing nets and other made up <br> nets, of textile materials |
-| 6 B | 5801 | Corduroy fabrics |
-| 6 C | 5806 | Narrow woven fabrics, other <br> than goods of heading 5807; <br> narrow fabrics consisting of <br> warp without weft assem- <br> bled by means of an adhesive <br> (bolducs)" |
-| 7 | 60 | Knitted or crocheted fabrics <br> [All goods] |
-| 8 | 8601 | Rail locomotives powered <br> from an external source of <br> electricity or by electric accu- <br> mulators |
-| 9 | 8602 | Other rail locomotives; lo- <br> comotive tenders; such as <br> Diesel-electric locomotives, <br> Steam locomotives and ten- <br> ders thereof |
+| 3   | 5208 to 5212 | Woven fabrics of cotton                                                                                                                                                                            |
+| :-- | :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 4   | 5309 to 5311 | Woven fabrics of other vege-`<br>` table textile fibres, paper yarn                                                                                                                              |
+| 5   | 5407,5408    | Woven fabrics of manmade `<br>` textile materials                                                                                                                                                |
+| 6   | 5512 to 5516 | Woven fabrics of manmade `<br>` staple fibres                                                                                                                                                    |
+| 6 A | 5608         | Knotted netting of twine,`<br>` cordage or rope; made up fish- `<br>` ing nets and other made up `<br>` nets, of textile materials                                                           |
+| 6 B | 5801         | Corduroy fabrics                                                                                                                                                                                   |
+| 6 C | 5806         | Narrow woven fabrics, other `<br>` than goods of heading 5807; `<br>` narrow fabrics consisting of `<br>` warp without weft assem- `<br>` bled by means of an adhesive `<br>` (bolducs)" |
+| 7   | 60           | Knitted or crocheted fabrics `<br>` [All goods]                                                                                                                                                  |
+| 8   | 8601         | Rail locomotives powered `<br>` from an external source of `<br>` electricity or by electric accu- `<br>` mulators                                                                           |
+| 9   | 8602         | Other rail locomotives; lo-`<br>` comotive tenders; such as `<br>` Diesel-electric locomotives, `<br>` Steam locomotives and ten- `<br>` ders thereof                                      |
 
-| 10 | 8603 | Self-propelled railway or <br> tramway coaches, vans and <br> trucks, other than those of <br> heading 8604 |
-| :-- | :-- | :-- |
-| 11 | 8604 | Railway or tramway main- <br> tenance or service vehicles, <br> whether or not self-propelled <br> (for example, workshops, <br> cranes, ballast tampers, track <br> liners, testing coaches and <br> track inspection vehicles) |
-| 12 | 8605 | Railway or tramway passen- <br> ger coaches, not self-pro- <br> pelled; luggage vans, post of- <br> fice coaches and other special <br> purpose railway or tramway <br> coaches, not self-propelled <br> (excluding those of heading <br> 8604) |
-| 13 | 8606 | Railway or tramway goods <br> vans and wagons, not self-pro- <br> pelled |
-| 14 | 8607 | Parts of railway or tramway <br> locomotives or rolling-stock; <br> such as Bogies, bissel-bogies, <br> axles and wheels, and parts <br> thereof |
+| 10 | 8603 | Self-propelled railway or `<br>` tramway coaches, vans and `<br>` trucks, other than those of `<br>` heading 8604                                                                                                                                                    |
+| :- | :--- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 11 | 8604 | Railway or tramway main-`<br>` tenance or service vehicles, `<br>` whether or not self-propelled `<br>` (for example, workshops, `<br>` cranes, ballast tampers, track `<br>` liners, testing coaches and `<br>` track inspection vehicles)                    |
+| 12 | 8605 | Railway or tramway passen-`<br>` ger coaches, not self-pro- `<br>` pelled; luggage vans, post of- `<br>` fice coaches and other special `<br>` purpose railway or tramway `<br>` coaches, not self-propelled `<br>` (excluding those of heading `<br>` 8604) |
+| 13 | 8606 | Railway or tramway goods `<br>` vans and wagons, not self-pro- `<br>` pelled                                                                                                                                                                                           |
+| 14 | 8607 | Parts of railway or tramway `<br>` locomotives or rolling-stock; `<br>` such as Bogies, bissel-bogies, `<br>` axles and wheels, and parts `<br>` thereof                                                                                                           |
 
 | 15 | 8608 | Railway or tramway track fixtures and fittings; mechanical (including electro-mechanical) signalling, safety or traffic control equipment for railways, tramways, roads, inland waterways, parking facilities, port installations or airfields; parts of the foregoing |
-| :--: | :--: | :--: |
+| :-: | :--: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 It has been clarified by the Government vide Circular no. 18/18/2017-GST dated 16.11.2017, that the aforesaid notification having been issued under clause (ii) of the proviso to sub-section (3) of Section 54 of the CGST Act, 2017, restriction on refund of unutilised input tax credit of GST paid on inputs will not be applicable to zero rated supplies, that is (a) export of goods or services or both; or (b) supply of goods or services or both to a Special Economic Zone Developer of special Economic Zone Unit. Accordingly, as regards export of fabrics, it has been clarified that subject to provisions of Section 54(10) of the CGST Act, 2017, a manufacturer of such fabrics will be eligible for refund of unutilised input tax credit of GST paid on inputs (other than input tax credit of GST paid on capital goods) in respect of fabrics manufactured and exported by him.
 
@@ -3552,13 +3488,13 @@ Also, interest will be paid for any delay in sanctioning of Refund beyond the ma
 
 The refund and/or interest sanctioned, if any, will be directly credited to the bank account of the applicant.
 
-# Manual filing of refund claims 
+# Manual filing of refund claims
 
 Circular no. 17/17/2017-GST dated 15.11.2017 clarifies that till such time as full-fledged refund module is operationalised by GSTN, manual filing of claims has been prescribed. The application for refund of unutilized input tax credit on inputs or input services used in making such zero-rated supplies shall be filed in FORM GST RFD01A on the common portal and the amount claimed as refund shall get debited in accordance with sub-rule (3) of rule 86 of the CGST Rules, 2017 from the amount in the electronic
 
 credit ledger to the extent of the claim. The common portal shall generate a proof of debit (ARN- Acknowledgement Receipt Number) which would be mentioned in the FORM GST RFD-01A submitted manually, along with the print out of FORM GST RFD-01A to the jurisdictional proper officer, and with all necessary documentary evidences as applicable (as per details in statement 3 or 5 of Annexure to FORM GST RFD-01), within the time stipulated for filing of such refund under the CGST Act, 2017. It has been further clarified vide Circular no. 24/24/2017-GST dated 21.12.2017, that the same procedure as prescribed in Circular no. 17/17/2017-GST dated 15.11.2017 shall be applicable to the refund of unutilized input tax credit where the credit has accumulated on account of rate of tax on inputs being higher than the rate of tax on output supplies (other than nil rated or fully exempt supplies) of goods or services or both except those supplies which are notified by the Government on the recommendations of the Council, in as much as they pertain to the method of filing of the refund claim and its processing which is consistent with the relevant provisions of the CGST Act, 2017
 
-# Manual claims in respect of inverted duty structure 
+# Manual claims in respect of inverted duty structure
 
 Refund claims on account of inverted duty structure shall be filed for a tax period on a monthly basis in FORM GST RFD-01A. However, the registered persons having aggregate turnover of up to Rs.1.5 crore in the preceding financial year or the current financial year and who have opted to file FORM GSTR-1 on a quarterly basis (Notification No. 71/2017-Central Tax dated 29.12.2017 refers) shall apply
 
@@ -3568,7 +3504,7 @@ In case of refund claim arising due to inverted duty structure, the prescribed s
 
 Drawback of all taxes under GST (Central Tax, Integrated Tax, State/Union Territory Tax) should not have been availed while claiming refund of accumulated ITC under section 54(3)(ii) of the CGST Act, 2017. A declaration to this effect forms part of FORM GST RFD-01A as well.
 
-# Where to file the refund claims 
+# Where to file the refund claims
 
 The registered person needs to file the refund claim with the jurisdictional tax authority to which the taxpayer has been assigned as per the administrative order issued in this regard by the Chief Commissioner of Central Tax and the Commissioner of State Tax. In case such an order has not been issued in the State, the registered person is at liberty to apply for refund before the Central Tax Authority or State Tax Authority till the administrative mechanism for assigning of taxpayers to respective authority is implemented. However, in the latter case, an undertaking is required to be submitted stating that the claim for sanction of refund has been made to only one of the authorities. It is reiterated that the Central Tax officers shall facilitate the processing of the refund claims of all registered persons whether or not such person was registered with the Central Government in the earlier regime.
 
@@ -3582,13 +3518,13 @@ Para 2.5 of Circular No. 17/17/2017-GST dated 15.11.2017
 
 may be referred to in order to ascertain the jurisdictional proper officer to whom the manual application for refund is to be submitted. Where any amount claimed as refund is rejected under rule 92 of the CGST Rules, 2017, either fully or partly, the amount debited, to the extent of rejection, shall be re-credited to the electronic credit ledger by an order made in FORM GST RFD-1B until the FORM GST PMT-03 is available on the common portal. Further, the payment of the sanctioned refund amount shall be made only by the respective tax authority of the Central or State Government. Thus, the refund order issued either by the Central tax authority or the State tax/UT tax authority shall be communicated to the concerned counter- part tax authority within seven working days for the purpose of payment of the relevant sanctioned refund amount of tax or cess, as the case may be. It must be ensured that the timelines specified under section 54(7) of the CGST Act, 2017and rule 91(2) of the CGST Rules, 2017 for the sanction of refund are adhered to.
 
-# Conclusion 
+# Conclusion
 
 The GST Law provides for multiple options to the suppliers of zero rated supplies to claim refund of taxes paid on the input side. One of the options is export under bond or LUT and claim refund of unutilised ITC. The law also provides for refund of unutilised ITC where credit accumulation is on account of inverted duty structure, subject to certain riders. It also includes cases where supply has been made to merchant exporters under Notification no. 40/2017Central Tax (Rate) dated 23.10.2017 or notification No.
 
 41/2017-Integrated Tax (Rate) dated 23.10.2017 or both. Time lines have been set for processing of refund claims and claims not settled within 60 days will be paid with interest @6\%. Moreover, 90\% of the claim would be paid within 7 days of acknowledgement of claim on provisional basis in case of claims on account of zero rated supplies. Claims are to be filed with minimum documentation and the refund amount will be credited directly to the claimant's bank account. The process is online and hassle free and with minimum interface with tax authorities.
 
-# Chapter Thirty Seven 
+# Chapter Thirty Seven
 
 ## Advance Ruling Mechanism in GST
 
@@ -3604,7 +3540,7 @@ ii. attract Foreign Direct Investment (FDI);
 iii. reduce litigation;
 iv. pronounce ruling expeditiously in transparent and inexpensive manner;
 
-# What is an Advance Ruling? 
+# What is an Advance Ruling?
 
 "Advance ruling" means a decision provided by the Authority or the Appellate Authority to an applicant on matters or on questions specified in sub-section (2) of section 97 or sub-section (1) of section 100 of the CGST Act, 2017, in relation to the supply of goods or services or both being undertaken or proposed to be undertaken by the applicant.
 
@@ -3624,7 +3560,7 @@ Section 100(1) of the CGST Act, 2017 provides that concerned officer, the jurisd
 
 Thus it can be seen that a decision of the Appellate authority is also treated as an advance ruling.
 
-# 'Authority for advance ruling' (AAR) and 'Appellate authority for advance ruling' (AAAR) 
+# 'Authority for advance ruling' (AAR) and 'Appellate authority for advance ruling' (AAAR)
 
 The Authority for Advance Ruling (AAR) and the Appellate Authority for Advance Ruling (AAAR) constituted under
 
@@ -3632,7 +3568,7 @@ the provisions of a State Goods and Services Tax Act or Union Territory Goods an
 
 Thus it can be seen that both the Authority for Advance Ruling (AAR) \& the Appellate Authority for Advance Ruling (AAAR) is constituted under the respective State / Union Territory Act and not the Central Act. This would mean that the ruling given by the AAR \& AAAR will be applicable only within the jurisdiction of the concerned state or union territory. It is also for this reason that questions on determination of place of supply cannot be raised with the AAR or AAAR.
 
-# To whom the Advance Ruling is applicable 
+# To whom the Advance Ruling is applicable
 
 An advance ruling pronounced by AAR or AAAR shall be binding only on the applicant who has sought the advance ruling and on the concerned officer or the jurisdictional officer in respect of the applicant. This clearly means that an advance ruling is not applicable to similarly placed other taxable persons in the State. It is only limited to the person who has applied for an advance ruling.
 
@@ -3644,7 +3580,7 @@ law, facts or circumstances supporting the original advance ruling have not chan
 
 However, an advance ruling shall, by an order passed by the AAR/AAAR, be declared to be ab initio void if the AAR or AAAR finds that the advance ruling was obtained by the applicant by fraud or suppression of material facts or misrepresentation of facts. In such a situation, all the provisions of the CGST/SGST Act shall apply to the applicant as if such advance ruling had never been made (but excluding the period when advance ruling was given and up to the period when the order declaring it to be void is issued). An order declaring advance ruling to be void can be passed only after providing an opportunity of hearing to the applicant.
 
-# Procedure for obtaining Advance Ruling 
+# Procedure for obtaining Advance Ruling
 
 The applicant desirous of obtaining advance ruling should make application to AAR in a prescribed form and manner. The format of the form and the detailed procedure for making application have been prescribed in Rule 104 of the CGST Rules, 2017.An application for obtaining an advance ruling under sub-section (1) of section 97 shall be made on the common portal in FORM GST ARA-01 and shall be accompanied by a fee of five thousand rupees, to be deposited in the manner specified in section 49 (Section 49 deals with procedure of payment of tax/interest/penalty and the mechanism to make payment through Electronic Cash and Credit Ledgers). The application, the verification contained therein and all the relevant documents accompanying such application shall be signed in the manner specified in rule
 
@@ -3664,7 +3600,7 @@ If there is difference of opinion between the two members of AAR, they shall ref
 
 differ to the AAAR for hearing the issue. If the members of AAAR are also unable to come to a common conclusion in regard to the point(s) referred to them by AAR, then it shall be deemed that no advance ruling can be given in respect of the question on which difference persists at the level of AAAR.
 
-# Appeals against order of AAR 
+# Appeals against order of AAR
 
 If the applicant is aggrieved with the finding of the AAR, he can file an appeal with AAAR. The form and manner of filing appeal with AAAR is given in Rule 106 of the CGST Rules, 2017. An appeal against the advance ruling shall be made by an applicant on the common portal in FORM GST ARA-02 and shall be accompanied by a fee of ten thousand rupees to be deposited in the manner specified in section 49. Similarly, if the prescribed or jurisdictional officer of CGST/SGST does not agree with the finding of AAR, he can also file an appeal with AAAR. The word prescribed officer of CGST/SGST means an officer who has been designated by the CGST/SGST administration in regard to an application for advance ruling. In normal circumstances, the concerned officer will be the officer in whose jurisdiction the applicant is located. An appeal against the advance ruling shall be made by the concerned officer or the jurisdictional officer referred to in section 100 on the common portal in FORM GST ARA-03 and no fee shall be payable by the said officer for filing the appeal. The appeal (by the applicant or jurisdictional officer), the verification contained therein and all the relevant documents accompanying such appeal shall be signed, -
 
@@ -3675,7 +3611,7 @@ Any appeal must be filed within thirty days from the date on which the advance r
 
 The Appellate Authority must pass an order after hearing the parties to the appeal within a period of ninety days of the filing of an appeal. If members of AAAR differ on any point referred to in appeal, it shall be deemed that no advance ruling is issued in respect of the question under appeal.
 
-# Manual Filing of applications before AAR \& AAAR 
+# Manual Filing of applications before AAR \& AAAR
 
 As per rules 104 and 106 of the CGST Rules, 2017 the application for obtaining an advance ruling and filing an appeal against an advance ruling shall be made by the applicant on the common portal. However, due to the unavailability of the requisite forms on the common portal, a new rule 107A has been inserted vide notification No. 55/2017-Central Tax, dated 15.11.2017, which states that in respect of any process or procedure prescribed in Chapter XII, any reference to electronic filing of an application, intimation, reply, declaration, statement or electronic issuance of a notice, order or certificate on the common portal shall, in respect of that process or procedure, include the manual filing of the said application, intimation, reply,
 
@@ -3683,7 +3619,7 @@ declaration, statement or issuance of the said notice, order or certificate in s
 
 Therefore, till the advance ruling module is made available on the common portal, the following conditions and procedure have been prescribed for the manual filing and processing of the applications.
 
-# Form and Manner of Application to the Authority for Advance Ruling 
+# Form and Manner of Application to the Authority for Advance Ruling
 
 An application for obtaining an advance ruling under sub-section (1) of section 97 of the CGST Act and the rules made thereunder, shall be made in quadruplicate, in FORM GST ARA-01. The application shall clearly state the question on which the advance ruling is sought. The application shall be accompanied by a fee of five thousand rupees which is to be deposited online by the applicant, in the manner specified under section 49 of the CGST Act. It is reiterated that though the application shall be filed manually till the advance ruling module is made available on the common portal, the fee is required to be deposited online in terms of section 49 of the CGST Act.
 
@@ -3705,7 +3641,7 @@ this behalf;
 (g) in the case of a trust, by the trustee or any trustee or the authorised signatory thereof; or
 (h) in the case of any other person, by some person competent to act on his behalf, or by a person authorised in accordance with the provisions of section 48 of the CGST Act.
 
-# Form and Manner of Appeal to the Appellate Authority for Advance Ruling 
+# Form and Manner of Appeal to the Appellate Authority for Advance Ruling
 
 An appeal against the advance ruling issued under subsection (6) of section 98 of the CGST Act and the rules made thereunder shall be made by an applicant in quadruplicate, in FORM GST ARA-02 and shall be accompanied by a fee of ten thousand rupees to be deposited online, in the manner specified in section 49 of the CGST Act. It may be noted that though the application shall be filed manually till the advance ruling module is made available on the common portal, the fee is required to be deposited online in terms of section 49 of the CGST Act. The payment of fee shall be made as per the procedure detailed earlier.
 
@@ -3722,7 +3658,7 @@ If the space provided for answering any item in the Forms is found to be insuffi
 
 The contact details of all the AARs for all States are available at http://www.gstcouncil.gov.in/sites/default/files/Detailso-of-AAR-as-on 22-11-2017.pdf
 
-# Rectification of Mistakes 
+# Rectification of Mistakes
 
 The law gives power to AAR and AAAR to amend their order to rectify any mistake apparent from the record within a period of six months from the date of the order. Such mistake may be noticed by the authority on its own accord or may be brought to its notice by the applicant or the prescribed or the jurisdictional CGST/SGST officer. If a rectification has the effect of enhancing the tax liability or reducing the quantum of input tax credit, the applicant must be heard before the order is passed.
 
@@ -3736,7 +3672,7 @@ To conclude it can be stated that the law makes a comprehensive provision for ad
 
 The aim is to provide certainty to the taxpayer with respect to his obligations under the GST Act and an expeditious ruling, so that the relationship between the taxpayer and administration is smooth and transparent and helps to avoid unnecessary litigation.
 
-# Chapter Thirty Eight 
+# Chapter Thirty Eight
 
 ## Goods Transport Agency in GST
 
@@ -3748,7 +3684,7 @@ The legal position prevailing under Service Tax is being continued under the GST
 
 so far as the services of GTA is concerned, if the services (of Goods Transportation) are provided (by the GTA) to specified classes of persons, the tax liability falls on such recipients under the reverse charge mechanism. The following discussion will clarifythe position.
 
-# Transportation of Goods by Road 
+# Transportation of Goods by Road
 
 In terms of Notification no. 12/2017-Central Tax (Rate) dated 28.06.2017 (sr.no.18), the following services are exempt from GST
 
@@ -3762,7 +3698,7 @@ Thus, it is to be seen that mere transportation of goods by road, unless it is a
 
 Who is a GTA - Goods Transport Agency? As per Section 65B (26) of the Finance Act, 1994; "Goods Transport Agency means any person who provides service in relation to transport of goods by road and issues consignment note, by whatever name called". Therefore, in the Service Tax regime, issuance of Consignment Note (C/N) was integral and mandatory requirement before any road transporter could be brought within the ambit of GTA.
 
-# Position under GST 
+# Position under GST
 
 Under GST laws, the definition of Goods Transport Agency is provided in clause (ze) of notification no.12/2017-Central Tax (Rate) dated 28.06.2017.
 (ze) "goods transport agency" means any person who provides service in relation to transport of goods by road and issues consignment note, by whatever name called;
@@ -3775,7 +3711,7 @@ Consignment Note is neither defined in the Act nor in the notification no.12/201
 
 Explanation to Rule 4B of Service Tax Rules, 1994. In terms of the said rule, consignment note means a document, issued by a goods transport agency against the receipt of goods for the purpose of transport of goods by road in a goods carriage, which is serially numbered, and contains the name of the consignor and consignee, registration number of the goods carriage in which the goods are transported, details of the goods transported, details of the place of origin and destination, person liable for paying service tax whether consignor, consignee or the goods transport agency.
 
-# Charge of GST on services provided by GTA 
+# Charge of GST on services provided by GTA
 
 In terms of notification no. 11/2017-Central Tax (Rate) dated 28.06.2017 as amended by notification no. 20/2017Central tax (Rate) dated 22.08.2017 , sr.no. 9 and sr. no. 11, (i) Services of goods transport agency (GTA) in relation to transportation of goods (including used household goods for personal use) (Heading $9965 \& 9967$ respectively) attracts GST @2.5\% or 6\% CGST. Identical rate would be applicable for SGST also, taking the effective rate to $5 \%$ or $12 \%$. However, the rate of $5 \%$ is subject to the condition that credit of input tax charged on goods or services used in supplying the service has not been taken. The Explanation to the notification further clarifies that it shall mean that,(a) credit of input tax charged on goods or services used exclusively in supplying such service has not been taken; and (b) credit of input tax charged on goods or services used partly for supplying such service and partly for effecting other supplies eligible for input tax credits, is reversed as if supply of such service is an exempt supply and attracts
 
@@ -3787,7 +3723,7 @@ Thus, where the GTA is not eligible to take ITC for the supplies effected by it 
 
 Notification no. 11/2017-Central Tax (Rate), sr.no.11, (ii) also provides that supporting services in transport other than those mentioned in (i) (Heading 9967) would attractGST @9\% CGST. Identical rate would be applicable for SGST also, taking the effective rate to $18 \%$. Similar rate has been prescribed for services falling under heading 9965 in terms of notification no. 11/2017-Central Tax (Rate), sr.no. 9 (v).
 
-# Person Liable to Pay GST on GTA services 
+# Person Liable to Pay GST on GTA services
 
 The liability to pay GST devolves on the recipientsfor supply of services by a goods transport agency (GTA) who has not paid central tax at the rate of $6 \%$, in respect of
 
@@ -3804,7 +3740,7 @@ Thus in cases where services of GTA are availed by the above categories of perso
 
 in the categories mentioned above, the liability will be on the supplierof GTA services.
 
-# GTA services specifically exempt 
+# GTA services specifically exempt
 
 In terms of notification no.12/2017-Central Tax (Rate) dated 28.06.2017 (sr.no.21), the following services provided by a GTA (Heading 9965 or 9967 ) is exempt from payment of tax:
 
@@ -3826,7 +3762,7 @@ Services by way of giving on hire -
 
 Thus, if the GTA hires a means of transportation of goods, no GST is payable on such transactions.
 
-# Significance of the term 'in relation to' in the definition of GTA 
+# Significance of the term 'in relation to' in the definition of GTA
 
 The use of the phrase 'in relation to' has extended the scope of the definition of GTA. It includes not only the actual transportation of goods, but any intermediate/ancillary service provided in relation to such transportation, like loading/unloading, packing/unpacking, trans-shipment, temporary warehousing, etc. If these services are not provided as independent activities but are the means for successful provision of GTA Service, then they are also covered under GTA.
 
@@ -3838,7 +3774,7 @@ by road is by a GTA. To qualify as services of GTA, the GTA should be necessaril
 
 In a nutshell, the GST law continues the provisions prevailing under the Service Tax regime. The law recognises that pure transportation of goods services are mostly provided by persons in the unorganised sector and hence has specifically excluded such operators from the tax net. In respect of those who provide agency services in transport, the liability is cast on the recipients in most of the cases or unless option to pay under forward charge has been exercised by the GTA.
 
-# Chapter Thirty Nine 
+# Chapter Thirty Nine
 
 ## GST on Charitable and Religious Trusts
 
@@ -3956,7 +3892,7 @@ GST on services provided to charitable trusts : Services provided to charitable 
 
 GST on supply of goods by Charitable Trusts : All goods, other than those specifically exempt, supplied by any charitable or religious trust against consideration in any form including donation are liable to GST.
 
-# Chapter Forty 
+# Chapter Forty
 
 ## GST on Education Services
 
@@ -3968,53 +3904,53 @@ Classification of Education Services: Education Services are classified in headi
 
 specialised and other educational \& support services as below:
 
-| Heading and Group | Service <br> Code <br> (Tariff) | Service Description |
-| :--: | :--: | :--: |
-| Heading no. 9992 |  | Education services |
-| Group 99921 |  | Pre-primary education services |
-|  | 999210 | Pre-primary education services |
-| Group 99922 |  | Primary education services |
-|  | 999220 | Primary education services |
-| Group 99923 |  | Secondary Education Services |
-|  | 999231 | Secondary education services, general |
-|  | 999232 | Secondary education services, technical and vocational |
-| Group 99924 |  | Higher education services |
-|  | 999241 | Higher education services, general |
-|  | 999242 | Higher education services, technical |
+| Heading and Group | Service `<br>` Code `<br>` (Tariff) |                  Service Description                  |
+| :---------------: | :-------------------------------------: | :----------------------------------------------------: |
+| Heading no. 9992 |                                        |                   Education services                   |
+|    Group 99921    |                                        |             Pre-primary education services             |
+|                  |                 999210                 |             Pre-primary education services             |
+|    Group 99922    |                                        |               Primary education services               |
+|                  |                 999220                 |               Primary education services               |
+|    Group 99923    |                                        |              Secondary Education Services              |
+|                  |                 999231                 |         Secondary education services, general         |
+|                  |                 999232                 | Secondary education services, technical and vocational |
+|    Group 99924    |                                        |               Higher education services               |
+|                  |                 999241                 |           Higher education services, general           |
+|                  |                 999242                 |          Higher education services, technical          |
 
-|  | 999243 | Higher education services, voca- <br> tional |
-| :-- | :-- | :-- |
-|  | 999249 | Other higher education services |
-| Group <br> 99925 |  | Specialised education services |
-|  | 999259 | Specialised education services |
-| Group <br> 99929 |  | Other education \& training <br> services and educational support <br> services |
-|  | 999291 | Cultural education services |
-|  | 999292 | Sports and recreation education <br> services |
-|  | 999293 | Commercial training and coach- <br> ing services |
-|  | 999294 | Other education and training <br> services n.e.c. |
-|  | 999295 | services involving conduct of <br> examination for admission to <br> educational institutions |
-|  | 999299 | Other Educational support <br> services |
+|                      | 999243 | Higher education services, voca-`<br>` tional                                                       |
+| :------------------- | :----- | :---------------------------------------------------------------------------------------------------- |
+|                      | 999249 | Other higher education services                                                                       |
+| Group `<br>` 99925 |        | Specialised education services                                                                        |
+|                      | 999259 | Specialised education services                                                                        |
+| Group `<br>` 99929 |        | Other education\& training `<br>` services and educational support `<br>` services                |
+|                      | 999291 | Cultural education services                                                                           |
+|                      | 999292 | Sports and recreation education `<br>` services                                                     |
+|                      | 999293 | Commercial training and coach-`<br>` ing services                                                   |
+|                      | 999294 | Other education and training `<br>` services n.e.c.                                                 |
+|                      | 999295 | services involving conduct of `<br>` examination for admission to `<br>` educational institutions |
+|                      | 999299 | Other Educational support `<br>` services                                                           |
 
-# Rate of GST: 
+# Rate of GST:
 
 The rates of GST on education services (as per
 Notification No. 11/2017-Central Tax (Rate), Notification No. 11/2017-Central Tax (Rate) and Notification No. 12/2017-Central Tax (Rate) all dated 28.06.2017 as amended) are as below:
 
-| Chapter/ <br> Section/ <br> Heading | Description of Service | Rate / Notification |
-| :--: | :--: | :--: |
-| 9992 | Education Services | 18\% ( 9\% Central Tax + 9\% State Tax)/ Serial No. 30 of Notification No. 11/2017-Central Tax (Rate) dated 28 $8^{\text {th }}$ June, 2017 |
-| 9992 | Services provided - <br> (a) by an educational institution to its students, faculty and staff; <br> (b) to an educational institution, by way of, (i) transportation of students, faculty and staff; <br> (ii) catering, including any mid-day meals scheme sponsored by the Central Government, State Government or Union territory; <br> (iii) security or cleaning or housekeeping services performed in such educational institution; | NIL / Serial No. 66 of Notification No. 12/2017- Central Tax (Rate) dated $28^{\text {th }}$ June, 2017 |
+| Chapter/`<br>` Section/ `<br>` Heading |                                                                                                                                                                                                                  Description of Service                                                                                                                                                                                                                  |                                                              Rate / Notification                                                              |
+| :----------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: |
+|                    9992                    |                                                                                                                                                                                                                    Education Services                                                                                                                                                                                                                    | 18\% ( 9\% Central Tax + 9\% State Tax)/ Serial No. 30 of Notification No. 11/2017-Central Tax (Rate) dated 28 $8^{\text {th }}$ June, 2017 |
+|                    9992                    | Services provided -`<br>` (a) by an educational institution to its students, faculty and staff; `<br>` (b) to an educational institution, by way of, (i) transportation of students, faculty and staff; `<br>` (ii) catering, including any mid-day meals scheme sponsored by the Central Government, State Government or Union territory; `<br>` (iii) security or cleaning or housekeeping services performed in such educational institution; |                   NIL / Serial No. 66 of Notification No. 12/2017- Central Tax (Rate) dated$28^{\text {th }}$ June, 2017                   |
 
-|  | (iv) services relating to admission to, or conduct of examination by, such institution; up to higher secondary: Provided that nothing contained in entry (b) shall apply to an educational institution other than an institution providing services by way of pre-school education and education up to higher secondary school or equivalent |  |
-| :--: | :--: | :--: |
-| 9992 | Services provided by the Indian Institutes of Management, as per the guidelines of the Central Government, to their students, by way of the following educational programmes, except Executive Development Programme: - (a) two year full time Post Graduate Programmes in Management for the | NIL / Serial No. 67 of Notification No. 12/2017- Central Tax (Rate) dated $28^{\text {th }}$ June, 2017 |
+|      | (iv) services relating to admission to, or conduct of examination by, such institution; up to higher secondary: Provided that nothing contained in entry (b) shall apply to an educational institution other than an institution providing services by way of pre-school education and education up to higher secondary school or equivalent |                                                                                                          |
+| :--: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: |
+| 9992 |                        Services provided by the Indian Institutes of Management, as per the guidelines of the Central Government, to their students, by way of the following educational programmes, except Executive Development Programme: - (a) two year full time Post Graduate Programmes in Management for the                        | NIL / Serial No. 67 of Notification No. 12/2017- Central Tax (Rate) dated$28^{\text {th }}$ June, 2017 |
 
-|  | Post Graduate Diploma in Management, to which admissions are made on the basis of Common Admission Test (CAT) conducted by the Indian Institute of Management; (b) fellow programme in Management; (c) five year integrated programme in Management. |  |
-| :--: | :--: | :--: |
+|                  |                       Post Graduate Diploma in Management, to which admissions are made on the basis of Common Admission Test (CAT) conducted by the Indian Institute of Management; (b) fellow programme in Management; (c) five year integrated programme in Management.                       |                                                                                                                          |
+| :---------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
 | 90 or any chapter | Technical aids for education, rehabilitation, vocational training and employment of the blind such as Braille typewriters, braille watches, teaching and learning aids, games and other instruments and vocational aids specifically adapted for use of the blindBraille instruments, paper etc. | 5\%/ Serial No. 257 of Schedule I of the Notification No.1/2017-Central Tax (Rate) dated $28^{\text {th }}$ June, 2017 |
 
-| 9023 | Instruments, apparatus and models, designed for demonstrational purposes (for example, in education or exhibitions), unsuitable for other uses | 28 \%/ Serial No. 191 of Schedule IV of the Notification No.1/2017-Central Tax (Rate) dated 28 th June, 2017 |
-| :--: | :--: | :--: |
+| 9023 | Instruments, apparatus and models, designed for demonstrational purposes (for example, in education or exhibitions), unsuitable for other uses | 28\%/ Serial No. 191 of Schedule IV of the Notification No.1/2017-Central Tax (Rate) dated 28 th June, 2017 |
+| :--: | :--------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
 
 Thus, services provided by an educational institution to students, faculty and staff are exempt. Educational Institution means an institution providing services by way of:
 i. pre-school education and education up to higher secondary school or equivalent;
@@ -4052,7 +3988,7 @@ Regarding, input services, it may be noted that where output services are exempt
 
 No. 12/2017- Central Tax (Rate)). Auxiliary education services other than what is specified above would not be entitled to any exemption. The exemption also comes with a rider. Such services are exempt only for educational institutions providing services by way of education up to higher secondary or equivalent. (from pre-school to HSC). Thus if such auxiliary education services are provided to educational institutions providing degree or higher education, the same would not be exempt. For instance, the services of conducting admission tests for admission to colleges in case of educational institutions are providing qualification recognized by law for the time being in force shall not be liable to GST.
 
-# Who will pay GST? 
+# Who will pay GST?
 
 Education Services are under forward charge. Therefore, GST shall be paid by the supplier of services.
 
@@ -4065,11 +4001,11 @@ i. to a registered person, shall be the location of such person;
 ii. to a person other than a registered person, shall be the place where the event is actually held
 and if the event is held outside India, the place of supply shall be the location of the recipient.
 
-# What will be the Place of supply of Educational Services where the location of the supplier of services or the location of the recipient of services is outside India? 
+# What will be the Place of supply of Educational Services where the location of the supplier of services or the location of the recipient of services is outside India?
 
 As per section 13(5) of the IGST Act, 2017, the place of supply of services supplied by way of admission to, or organisation of a cultural, artistic, sporting, scientific, educational or entertainment event, or a celebration, conference, fair, exhibition or similar events, and of services ancillary to such admission or organisation, shall be the place where the event is actually held.
 
-# Educational Institution run by charitable organizations. 
+# Educational Institution run by charitable organizations.
 
 Charitable Trusts running institutions conforming to the definition of Educational Institution as specified in the notification would be entitled to the exemptions discussed above. Apart from the general exemption available to all educational institutions, charitable activities of entities registered under Section 12AA of the Income Tax Act is also exempt. The term charitable activities are also defined in the notification. Thus, if trusts are running schools, colleges or any other educational institutions or performing activities related to advancement of educational programmes specifically for abandoned, orphans, homeless children, physically or mentally abused persons, prisoners or persons over age of 65 years residing in a rural area, activities will be considered as charitable and income from such services will be wholly exempt from GST in terms of Notification No.12/2017- Central Tax (Rate) dated 28 ${ }^{\text {th }}$ June, 2017.
 
@@ -4088,13 +4024,13 @@ However incidental auxiliary courses provided by way of hobby classes or extra-c
 The Education guide of 2012 for the purpose of service tax has given the following important clarifications in respect of educational services. The same can be gainfully referred to, for the purpose of clarity under the GST regime:
 "The supply of placement services provided to educational institutions for securing job placements for the students shall be liable to service tax. Similarly, educational institutes such as IITs, IIMs charge a fee from prospective employers like corporate bouses/ MNCs, who come to the institutes for recruiting candidates through campus interviews in relation to campus recruitments. Such services shall also be liable to service tax."
 
-# Conclusion. 
+# Conclusion.
 
 Education is fundamental to the nation building process.
 
 Right to Education is now a fundamental right of every child in India. GST Law recognises this and provides exemption to educational institutions, providing education up to higher secondary school or equivalent,from the levy of GST. Auxiliary services received by such educational institutions for the purpose of education up to Higher Secondary level is also exempt from GST. Other services related to education, not covered by the exemption, would be taxed at a standard rate of $18 \%$ with full admissibility of ITC for such taxable services in cases where the output service is not exempt. In a nutshell, every attempt is made to ensure that the core educational services are fully exempt from GST.
 
-# Chapter Forty One 
+# Chapter Forty One
 
 ## GST on Co-operative Housing Societies
 
@@ -4132,7 +4068,7 @@ The next question which arises is whether the activity of the society can be sai
 
 Thus, as per section 2(17)(e) of the CGST Act, 2017 provision by a club, association, society, or any such body (for a subscription or any other consideration) of the facilities or benefits to its members is deemed to be a business. The activities of the housing society would thus attract the levy of GST and the housing society would be required to register and comply with the GST Law.
 
-# Compliance requirements for housing societies under GST 
+# Compliance requirements for housing societies under GST
 
 If the turnover of housing society is above 20 lakhs, it needs to take registration under GST in terms of Section 22 of the CGST Act, 2017. However, taking registration does not mean that the housing society has to compulsorily charge GST in the monthly maintenance bills raised on its members. Notification No.12/2017 -Central Tax (Rate) dated 28.06.2017 at sr.no. 77 provides for the following exemption to housing societies:
 
@@ -4150,12 +4086,12 @@ Further, the question would then arise that if the monthly bill is say Rs. 9,000
 
 TRU videF.No.332/04/2017-TRU released FAQs on levy of GST on supply of services to the Co-operative society and has clarified as under.
 
-| S.No | Question | Answer |
-| :--: | :--: | :--: |
-| 1 | The society collects the following charges from the members on quarterly basis as follows: <br> 1.Property Tax-actual as per Municipal Corporation of Greater Mumbai (MCGM) <br> 2.Water Tax- Municipal Corporation of Greater Mumbai (MCGM) <br> 3.Non- Agricultural Tax- Maharashtra State Government <br> 4.Electricity charges <br> 5.Sinking Fund- mandatory under the Bye-laws of the Co-operative Societies <br> 6.Repairs \& maintenance fund | 1. Services provided by the Central Government, State Government, Union territory or local authority to a person other than business entity, is exempted from GST. So, Property Tax, Water Tax, if collected by the RWA/ Co-operative Society on behalf of the MCGM from individual flat owners, then GST is not leviable. <br> 2. Similarly, GST is not leviable on Non-Agricultural Tax, Electricity Charges etc, which are collected under other statutes from individual flat owners. However, if these charges are collected by the Society for generation of electricity by Society's generator or to provide drinking water facility or any |
+| S.No |                                                                                                                                                                                                                                   Question                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                        Answer                                                                                                                                                                                                                                                                                                                        |
+| :--: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  1  | The society collects the following charges from the members on quarterly basis as follows:`<br>` 1.Property Tax-actual as per Municipal Corporation of Greater Mumbai (MCGM) `<br>` 2.Water Tax- Municipal Corporation of Greater Mumbai (MCGM) `<br>` 3.Non- Agricultural Tax- Maharashtra State Government `<br>` 4.Electricity charges `<br>` 5.Sinking Fund- mandatory under the Bye-laws of the Co-operative Societies `<br>` 6.Repairs \& maintenance fund | 1. Services provided by the Central Government, State Government, Union territory or local authority to a person other than business entity, is exempted from GST. So, Property Tax, Water Tax, if collected by the RWA/ Co-operative Society on behalf of the MCGM from individual flat owners, then GST is not leviable.`<br>` 2. Similarly, GST is not leviable on Non-Agricultural Tax, Electricity Charges etc, which are collected under other statutes from individual flat owners. However, if these charges are collected by the Society for generation of electricity by Society's generator or to provide drinking water facility or any |
 
-|  | 7.Car parking <br> Charges <br> 8.Non Occupancy <br> Charges <br> 9. Simple interest for <br> late payment. <br> From the tax/ charge <br> as listed above, on <br> which GST is not <br> applicable. | other service, then such <br> charges collected by the <br> society are liable to GST. <br> 3. Sinking fund, repairs <br> \& maintenance fund, car <br> parking charges, Non- <br> occupancy charges or <br> simple interest for late <br> payment, attract GST, <br> as these charges are <br> collected by the RWA/ <br> Co-operative Society <br> for supply of services <br> meant for its members. |
-| :--: | :--: | :--: |
+|  | 7.Car parking `<br>` Charges `<br>` 8.Non Occupancy `<br>` Charges `<br>` 9. Simple interest for `<br>` late payment. `<br>` From the tax/ charge `<br>` as listed above, on `<br>` which GST is not `<br>` applicable. | other service, then such `<br>` charges collected by the `<br>` society are liable to GST. `<br>` 3. Sinking fund, repairs `<br>` \& maintenance fund, car `<br>` parking charges, Non- `<br>` occupancy charges or `<br>` simple interest for late `<br>` payment, attract GST, `<br>` as these charges are `<br>` collected by the RWA/ `<br>` Co-operative Society `<br>` for supply of services `<br>` meant for its members. |
+| :-: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 As per Section 23 (1) of the CGST Act, 2017, the following persons shall not be liable to registration, namely:-
 (a) any person engaged exclusively in the business of supplying goods or services or both that are not liable to tax or wholly exempt from tax under this Act or under the Integrated Goods and Services Tax Act;
@@ -4165,7 +4101,7 @@ Thus, if the turnover of the society is less than Rs. 20 Lakh or even if the tur
 
 service to its members or outsiders, then the society (essentially exclusively providing wholly exempt services) need not take registration under GST.
 
-# Whether activities of Housing Societies would become more expensive under GST 
+# Whether activities of Housing Societies would become more expensive under GST
 
 No. In the press release dated 13.07.2017, it has been clarified as under
 
@@ -4181,11 +4117,11 @@ lower for the reason that they would now be entitled to ITC in respect of taxes 
 
 Thus, there is no change made to services provided by the Housing Society (RWA) to its members in the GST era.
 
-# Conclusion 
+# Conclusion
 
 In so far as tax implications on housing societies are concerned, the position prevailing under Service Tax is sought to be continued under GST. The tax burden under GST will be lower as the society would be entitled to take ITC which was hitherto not allowed under service tax. Moreover, the exemptions given ensure that there would be no tax burden on smaller societies where the monthly contribution of the individual members does not exceed Rs.7,500/-. In a nutshell GST will be a favourable tax regime for housing societies vis a vis service tax.
 
-# Chapter Forty Two 
+# Chapter Forty Two
 
 ## Online Information Data Base Access and Retrieval (OIDAR) Services in GST
 
@@ -4203,13 +4139,13 @@ The IGST Act defines OIDAR to mean services whose delivery is mediated by inform
 (vi) digital data storage; and
 (vii) online gaming;
 
-# WHY OIDAR ISREQUIRES A TREATMENT DIFFERENT FROM OTHER SERVICES? 
+# WHY OIDAR ISREQUIRES A TREATMENT DIFFERENT FROM OTHER SERVICES?
 
 The nature of OIDAR services are such that it can be provided online from a remote location outside the taxable territory. A similar service provided by an Indian Service Provider, from within the taxable territory, to recipients in India would be taxable. Further, such services received by a registered entity in India would also be taxable under reverse charge. The overseas suppliers of such services would have an unfair tax advantage should the services provided by them be left out of the tax net. At the same time, since the service provider is located overseas and may not be having a presence in India, the compliance
 
 verification mechanism become difficult. It is in such circumstances, that the government has plans to come out with a simplified scheme of registration for such service providers located outside.
 
-# HOW WOULD OIDARSERVICES BE TAXABLE UNDER GST? 
+# HOW WOULD OIDARSERVICES BE TAXABLE UNDER GST?
 
 For any supply to be taxable under GST, the place of supply in respect of the subject supply should be in India. In case, both the supplier of OIDAR Service and the recipient of such service is in India, the place of supply would be the location of the recipient of service i.e. it would be governed by the default place of supply rules.
 
@@ -4233,7 +4169,7 @@ is responsible for the payment between the nontaxable online recipient and the s
 (c) the intermediary involved in the supply does not authorise delivery; and
 (d) the general terms and conditions of the supply are not set by the intermediary involved in the supply but by the supplier of services.
 
-# HOWWOULDTHEENTITYLOCATEDOUTSIDE INDIA COMPLY WITH THE RESPONSIBILITIES ENTRUSTED UNDER GST? 
+# HOWWOULDTHEENTITYLOCATEDOUTSIDE INDIA COMPLY WITH THE RESPONSIBILITIES ENTRUSTED UNDER GST?
 
 The supplier (or intermediary) of online information and database access or retrieval services shall, for payment of integrated tax, take a single registration under the Simplified Registration Scheme in Form GST REG-10. The supplier shall take registration at Principal Commissioner of Central Tax, Bengaluru West who has been the designated for grant registration in such cases.
 
@@ -4243,7 +4179,7 @@ In case the overseas supplier does not have a physical presence or does not have
 
 territory for the purpose of paying integrated tax and such person shall be liable for payment of such tax.
 
-# Who is a Non-Taxable Online Recipient? 
+# Who is a Non-Taxable Online Recipient?
 
 "non-taxable online recipient" means any Government, local authority, governmental authority, an individual or any other person not registered and receiving online information and database access or retrieval services in relation to any purpose other than commerce, industry or any other business or profession, located in taxable territory.
 
@@ -4256,29 +4192,29 @@ with ninety per cent or more participation by way of equity or control, to carry
 
 The inclusive part of the definition of OIDAR services are only indicative and not exhaustive. To determine if a particular service is an OIDAR service, the following test can be applied.
 
-| Service | Whether <br> Provision <br> of service <br> mediated by <br> information <br> technology <br> over the <br> internet or <br> an electronic <br> network | Whether <br> it is <br> Automated <br> and <br> impossible <br> to <br> ensure in the <br> absence of <br> information <br> technology | OIDAR <br> Service |
-| :-- | :-- | :-- | :-- |
-| Pdf document <br> manually <br> emailed by <br> provider | Yes | No | No |
-| Pdf document <br> automatically <br> emailed by <br> provider's <br> system | Yes | Yes | Yes |
-| Pdf document <br> automatically <br> downloaded <br> from site | Yes | Yes | Yes |
-| Stock <br> photographs <br> available for <br> automatic <br> download | Yes | Yes | Yes |
+| Service                                                                                     | Whether `<br>` Provision `<br>` of service `<br>` mediated by `<br>` information `<br>` technology `<br>` over the `<br>` internet or `<br>` an electronic `<br>` network | Whether `<br>` it is `<br>` Automated `<br>` and `<br>` impossible `<br>` to `<br>` ensure in the `<br>` absence of `<br>` information `<br>` technology | OIDAR `<br>` Service |
+| :------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------- |
+| Pdf document `<br>` manually `<br>` emailed by `<br>` provider                        | Yes                                                                                                                                                                                         | No                                                                                                                                                                         | No                     |
+| Pdf document `<br>` automatically `<br>` emailed by `<br>` provider's `<br>` system | Yes                                                                                                                                                                                         | Yes                                                                                                                                                                        | Yes                    |
+| Pdf document `<br>` automatically `<br>` downloaded `<br>` from site                  | Yes                                                                                                                                                                                         | Yes                                                                                                                                                                        | Yes                    |
+| Stock `<br>` photographs `<br>` available for `<br>` automatic `<br>` download      | Yes                                                                                                                                                                                         | Yes                                                                                                                                                                        | Yes                    |
 
-| Online course <br> consisting of <br> pre-recorded <br> videos and <br> downloadable <br> pdfs | Yes | Yes | Yes |
-| :-- | :-- | :-- | :-- |
-| Online course <br> consisting of <br> pre-recorded <br> videos and <br> downloadable <br> pdfs plus <br> support from a <br> live tutor | Yes | No | No |
-| Individually <br> commissioned <br> content sent in <br> digital form <br> e.g., <br> photographs, <br> reports, <br> medical results | Yes | No | No |
+| Online course `<br>` consisting of `<br>` pre-recorded `<br>` videos and `<br>` downloadable `<br>` pdfs                                                  | Yes | Yes | Yes |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-- | :-- | :-- |
+| Online course `<br>` consisting of `<br>` pre-recorded `<br>` videos and `<br>` downloadable `<br>` pdfs plus `<br>` support from a `<br>` live tutor | Yes | No  | No  |
+| Individually `<br>` commissioned `<br>` content sent in `<br>` digital form `<br>` e.g., `<br>` photographs, `<br>` reports, `<br>` medical results   | Yes | No  | No  |
 
-# Indicative List of OIDAR Services 
+# Indicative List of OIDAR Services
 
 1. Website supply, web-hosting, distance maintenance of programmes and equipment;
-(a) Website hosting and webpage hosting;
-(b) automated, online and distance maintenance of programmes;
+   (a) Website hosting and webpage hosting;
+   (b) automated, online and distance maintenance of programmes;
 
 (c) remote systems administration;
 (d) online data warehousing where specific data is stored and retrieved electronically;
 (e) online supply of on-demand disc space.
 
-# 2. Supply of software and updating thereof; 
+# 2. Supply of software and updating thereof;
 
 (a) Accessing or downloading software (including procurement/accountancy programmes and antivirus software) plus updates;
 (b) software to block banner adverts showing, otherwise known as Banner blockers;
@@ -4305,7 +4241,7 @@ The inclusive part of the definition of OIDAR services are only indicative and n
 
 networks, where players are geographically remote from one another.
 
-# (5) Supply of distance teaching. 
+# (5) Supply of distance teaching.
 
 (a) Automated distance teaching dependent on the Internet or similar electronic network to function and the supply of which requires limited or no human intervention, including virtual classrooms, except where the Internet or similar electronic network is used as a tool simply for communication between the teacher and student;
 (b) workbooks completed by pupils online and marked automatically, without human intervention,
@@ -4322,7 +4258,7 @@ the months of July, 2017, August, 2017, September, 2017, October, 2017, November
 
 It is to be noted that GSTR-5A is required to be filed only by the service provider (or his representative) providing OIDAR services from outside India to a non-taxable online recipient in India. Other categories of OIDAR service providers (like those supplying OIDAR services from India) will have to file regular returns (GSTR 1, 2, 3/3B) prescribed for general categories of registered persons.
 
-# Chapter Forty Three 
+# Chapter Forty Three
 
 ## GST Practitioners
 
@@ -4356,7 +4292,7 @@ A person desirous of becoming GST Practitioner has to submit an application in t
 
 authority as may be notified by the Commissioner on the recommendations of the Council.Any person who has been enrolled as goods and services tax practitioner by virtue of he being enrolled as a sales tax practitioner or tax return preparer under the existing law shall remain enrolled only for a period of one year from the appointed date i.e. $1^{\text {st }}$ July, 2017 unless he passes the said examination within the said period of one year.
 
-# Activities by GST practitioner: 
+# Activities by GST practitioner:
 
 A goods and services tax practitioner can undertake any or all of the following activities on behalf of a registered person:
 (a) furnish details of outward and inward supplies;
@@ -4369,7 +4305,7 @@ But it has been provided that a confirmation form registered person shall be sou
 
 Authority or Appellate Tribunal, on behalf of such registered person who has authorised him to be his GST practitioner.
 
-# Conditions for GST Practitioner 
+# Conditions for GST Practitioner
 
 Any registered person may give consent and authorise a GST practitioner in the form GST PCT -5 by listing the authorised activities in which he intends to authorise the GST practitioner. The registered person authorising a GST Practitioner shall have to authorise in standard form Part A of form GST PCT-5 and the GST practitioner will have to accept the authorisation in Part B of the form GST PCT5. The GST practitioner shall be allowed to undertake only such tasks as indicated in the authorisation form GST PCT -5 . The registered person may, at any time, withdraw such authorisation in the prescribed form GST PCT -5 .
 
@@ -4379,17 +4315,17 @@ Any statement furnished by the GST practitioner shall be made available to the r
 
 The GST practitioner shall prepare all statements with due diligence and affix his digital signature on the statements prepared by him or electronically verify using his credentials. If the GST practitioner is found guilty of misconduct, his enrolment will be liable to be cancelled. A show cause notice would be issued to him in the form GST PCT-3.
 
-# List of Formats (GST Practitioner) 
+# List of Formats (GST Practitioner)
 
-| Sr. <br> No. | Form No. | Description |
-| :--: | :-- | :-- |
-| 1. | GST PCT - 1 | Application for Enrolment <br> as Goods and Services Tax <br> Practitioner |
-| 2. | GST PCT-02 | Enrolment Certificate for Goods <br> and Services Tax Practitioner |
-| 3. | GST PCT-03 | Show Cause Notice for <br> disqualification |
-| 4. | GST PCT-04 | Order of Rejection of Application <br> for enrolment as GST Practitioner/ <br> Or Disqualification to function as <br> GST Practitioner |
-| 5. | GST PCT-05 | Authorization/withdrawal of <br> authorization of Goods and <br> Service Tax Practitioner |
+| Sr.`<br>` No. | Form No.    | Description                                                                                                                                         |
+| :-------------: | :---------- | :-------------------------------------------------------------------------------------------------------------------------------------------------- |
+|       1.       | GST PCT - 1 | Application for Enrolment `<br>` as Goods and Services Tax `<br>` Practitioner                                                                  |
+|       2.       | GST PCT-02  | Enrolment Certificate for Goods `<br>` and Services Tax Practitioner                                                                              |
+|       3.       | GST PCT-03  | Show Cause Notice for `<br>` disqualification                                                                                                     |
+|       4.       | GST PCT-04  | Order of Rejection of Application `<br>` for enrolment as GST Practitioner/ `<br>` Or Disqualification to function as `<br>` GST Practitioner |
+|       5.       | GST PCT-05  | Authorization/withdrawal of `<br>` authorization of Goods and `<br>` Service Tax Practitioner                                                   |
 
-# Chapter Forty Four 
+# Chapter Forty Four
 
 ## National Anti-Profiteering Authority in GST
 
@@ -4397,7 +4333,7 @@ The GST practitioner shall prepare all statements with due diligence and affix h
 
 Any reduction in rate of tax on any supply of goods or services or the benefit of input tax credit should have been passed on to the recipient by way of commensurate reduction in prices. However it has been the experience of many countries that when GST was introduced there has been a marked increase in inflation and the prices of the commodities. This happened in spite of the availability of the tax credit right from the production stage to the final consumption stage which should have actually reduced the final prices. This was obviously happening because the supplier was not passing on the benefit to the consumer and thereby indulging in illegal profiteering. National Antiprofiteering Authority is therefore being constituted by the central Government to examine whether input tax credits availed by any registered person or the reduction in the tax rate have actually resulted in a commensurate reduction in the price of the goods or services or both supplied by him, this is to ensure that the consumer is protected from arbitrary price increase in the name of GST.
 
-# Constitution of the Authority: 
+# Constitution of the Authority:
 
 The National Anti-Profiteering Authority shall be a fivemember committee consisting of a Chairman who holds or has held a post equivalent in rank to a Secretary to the Government of India; and four Technical Members who are or have been Commissioners of State tax or central tax or have held an equivalent post under existing laws.
 
@@ -4421,7 +4357,7 @@ The Authority would have the following duties:
 (c) imposition of penalty; and
 (d) cancellation of registration.
 
-# Application to the Authority: 
+# Application to the Authority:
 
 All applications from interested parties on issues of local nature shall first be examined by the State level Screening Committee constituted in each State by the State Governments consisting of an officer of the State Government, to be nominated by the Commissioner, and an officer of the Central Government, to be nominated by
 
@@ -4430,7 +4366,7 @@ The Screening Committee on being satisfied that the supplier has not passed on t
 
 If the Standing Committee is satisfied that there is a primafacie evidence to show that the supplier has not passed on the benefit of reduction in the rate of tax on the supply of goods or services or the benefit of input tax credit to the recipient by way of commensurate reduction in prices, it shall refer the matter to the Director General of Safeguards for a detailed investigation.
 
-# Investigation: 
+# Investigation:
 
 The Director General of Safeguards shall conduct investigation and collect evidence necessary to determine undue profiteering and before initiation of the investigation, issue a notice to the interested parties (and to such other persons as deemed fit for a fair enquiry into the matter) containing, inter alia, information on the following, namely: -
 (a) the description of the goods or services in respect of which the proceedings have been initiated;
@@ -4444,7 +4380,7 @@ The Director General of Safeguards can seek opinion of any other agency or statu
 
 The Director General of Safeguards will complete the investigation within a period of three months or within such extended period not exceeding a further period of three months for reasons to be recorded in writing as allowed by the Standing Committee and, upon completion of the investigation, furnish to the Authority, a report of its findings along with the relevant records.
 
-# Order of the Authority: 
+# Order of the Authority:
 
 The Authority shall (after granting an opportunity of hearing to the interested parties if so requested) within a period of three months from the date of the receipt of the report from the Director General of Safeguards determine whether a registered person has passed on the benefit of the reduction in the rate of tax on the supply of goods or services or the benefit of input tax credit to the recipient by way of commensurate reduction in prices.
 
@@ -4462,11 +4398,11 @@ shall be initiated to recover the amount in accordance with the provisions of th
 
 The Authority can direct any authority of central tax, State tax or Union territory tax to monitor the implementation of the order passed by it.
 
-# Conclusion: 
+# Conclusion:
 
 National Anti-Profiteering Authority is a mechanism devised to ensure that prices remain under check and to ensure that businesses do not pocket all the gains from GST because profit is fine, but undue profiteering at the expense of the common man is not.
 
-# Chapter Forty Five 
+# Chapter Forty Five
 
 ## Benefits of Goods and Services Tax (GST)
 
@@ -4498,7 +4434,7 @@ Average tax burden on trade and industry is likely to come down, which is expect
 
 # One Nation, One Market, One Tax
 
-# Chapter Forty Six 
+# Chapter Forty Six
 
 ## Special Audit in GST
 
@@ -4517,7 +4453,7 @@ In the second type which is the normal audit, the Commissioner or any officer au
 
 The third type of audit is called the Special Audit. In Special Audit the registered person can be directed to get his records including books of account examined and audited by a chartered accountant or a cost accountant during any stage of scrutiny, inquiry, investigation or any other proceedings; depending upon the complexity of the case.
 
-# Procedure: 
+# Procedure:
 
 - During the scrutiny, inquiry, investigation or any other proceedings of a registered person, the Assistant Commissioner or any officer senior to him, having regard to the nature and complexity of the case and the interest of revenue, might be of the opinion that the value has not been correctly declared or the credit availed is not within the normal limits.
 - In such cases, with the prior approval of the Commissioner, the Assistant Commissioner or any officer senior to him can direct the registered person in FORM GST ADT-03 to get his records including books of account examined and audited by
@@ -4535,12 +4471,11 @@ special audit in FORM GST ADT-04.
 
 - Where the special audit results in detection of tax not paid or short paid or erroneously refunded, or input tax credit wrongly availed or utilised, the process of demand and recovery will be initiated against the registered person.
 
-
-# Conclusion: 
+# Conclusion:
 
 Special audit provides a lawful and legal way for the GST officers to take the assistance of a chartered accountant or cost accountant to determine tax liabilities in complex cases. The professional expertise of a chartered accountant or cost accountant will be of great significance in ensuring that the interest of revenue is safeguarded at all times.
 
-# Chapter Forty Seven 
+# Chapter Forty Seven
 
 ## TDS Mechanism under GST
 
@@ -4571,23 +4506,23 @@ The value for TDS purpose shall not include 18\% GST. The TDS, so deducted, shal
 
 TDS Return: The deductor is also required to file a return in Form GSTR-7 within 10 days from the end of the month. If the supplier is unregistered, name of the supplier rather than GSTIN shall be mentioned in the return. The details of tax deducted at source furnished by the deductor in FORM GSTR-7 shall be made available to each of the suppliers in Part C of FORM GSTR-2A electronically through the Common Portal and the said supplier may include the same in FORM GSTR-2. The amounts deducted by the deductor get reflected in the GSTR-2 of the supplier (deductee). The supplier can take this amount as credit in his electronic cash register and use the same for payment of tax or any other liability.
 
-# Consequences of not complying with TDS provisions: 
+# Consequences of not complying with TDS provisions:
 
-| $\begin{gathered} \text { S/ } \\ \text { No. } \end{gathered}$ | Event | Consequence |
-| :--: | :--: | :--: |
-| 1 | TDS not deducted | Interest to be paid along with the TDS amount; else the amount shall be deter |
+| $\begin{gathered} \text { S/ } \\ \text { No. } \end{gathered}$ |      Event      |                                  Consequence                                  |
+| :---------------------------------------------------------------: | :--------------: | :---------------------------------------------------------------------------: |
+|                                 1                                 | TDS not deducted | Interest to be paid along with the TDS amount; else the amount shall be deter |
 
-|  |  | mined and recovered as per <br> the law. |
-| :-- | :-- | :-- |
-| 2 | TDS certificate not <br> issued or delayed <br> beyond the pre- <br> scribed period of <br> five days | Late fee of Rs. 100/- per <br> day subject to a maximum <br> of Rs. 5000/- |
-| 3 | TDS deducted but <br> not paid to the gov- <br> ernment or paid lat- <br> er than 10th of the <br> succeeding month | Interest to be paid along <br> with the TDS amount; else <br> the amount shall be deter- <br> mined and recovered as per <br> the law. |
-| 4 | Late filing of TDS <br> returns | Late fee of Rs. 100/- for ev- <br> ery day during which such <br> failure continues subject to <br> a maximum amount of five <br> thousand rupees. |
+|   |                                                                                                                                     | mined and recovered as per `<br>` the law.                                                                                                                      |
+| :- | :---------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2 | TDS certificate not `<br>` issued or delayed `<br>` beyond the pre- `<br>` scribed period of `<br>` five days               | Late fee of Rs. 100/- per `<br>` day subject to a maximum `<br>` of Rs. 5000/-                                                                                |
+| 3 | TDS deducted but `<br>` not paid to the gov- `<br>` ernment or paid lat- `<br>` er than 10th of the `<br>` succeeding month | Interest to be paid along `<br>` with the TDS amount; else `<br>` the amount shall be deter- `<br>` mined and recovered as per `<br>` the law.            |
+| 4 | Late filing of TDS `<br>` returns                                                                                                 | Late fee of Rs. 100/- for ev-`<br>` ery day during which such `<br>` failure continues subject to `<br>` a maximum amount of five `<br>` thousand rupees. |
 
 Any excess or erroneous amount deducted and paid to the government account shall be dealt for refund under section 54 of the CGST Act, 2017. However, if the deducted amount is already credited to the electronic cash ledger of the supplier, the same shall not be refunded.
 
 The GST Council in their $22^{\text {nd }}$ meeting held on $6^{\text {th }}$ October, 2017 at New Delhi decided that operationalization of TDS/ TCS provisions shall be postponed till 31.03.2018.
 
-# Chapter Forty Eight 
+# Chapter Forty Eight
 
 ## TCS Mechanism under GST
 
@@ -4619,7 +4554,7 @@ Notice to the Operator: An officer not below the rank of Deputy Commissioner can
 
 The GST Council in their $22^{\text {nd }}$ meeting held on $6^{\text {th }}$ October, 2017 at New Delhi decided that operationalization of TDS/ TCS provisions shall be postponed till 31.03.2018.
 
-# Chapter Forty Nine 
+# Chapter Forty Nine
 
 ## Inspection, Search, Seizure and Arrest
 
@@ -4629,7 +4564,7 @@ In any tax administration the provisions for Inspection, Search, Seizure and Arr
 However, in case of arrests the same can be carried out only where the person is accused of offences specified for this purpose and the tax amount involved is more than specified limit. Further, the arrests under GST Act can be made only under authorisation from the Commissioner.
 3. The circumstances which may warrant exercise of these options are as follows: -
 
-# (i) Inspection 
+# (i) Inspection
 
 'Inspection' is a softer provision than search which enables officers to access any place of business or of a person engaged in transporting goods or who is an owner or an operator of a warehouse or godown. As discussed above the inspection can be carried out by an officer of CGST/SGST only upon a written authorization given by an officer of the rank of Joint Commissioner or above a Joint Commissioner or an officer higher in rank can give such authorization only if he has reasons to believe that the person concerned has done one of the following actions:
 (a) Suppression of any transaction relating to supply of goods or services or stock in hand;
@@ -4641,7 +4576,7 @@ payment of tax or manipulating accounts or stocks which may cause evasion of tax
 
 Inspection can also be done of the conveyance, carrying a consignment of value exceeding specified limit. The person in charge of the conveyance has to produce documents / devices for verification and allow inspection. Inspection during transit can be done even without authorisation of Joint Commissioner.
 
-# (ii) Inspection in movement 
+# (ii) Inspection in movement
 
 (a) Any consignment, value of which is exceeding Rs. 50,000/-, may be stopped at any place for verification of the documents /devices prescribed for movement of such consignments.
 (b) If on verification of the consignment, during transit, it is found that the goods were removed without prescribed document or the same are being supplied in contravention of any provisions of the Act then the same can be detained or seized and may be subjected to penalties as prescribed.
@@ -4649,7 +4584,7 @@ Inspection can also be done of the conveyance, carrying a consignment of value e
 
 verifications. Moreover, for verification during movement of consignment will also be done through Digital interface and therefore the physical intervention will be minimum and as has already been mentioned that in case of a delay beyond 30 minutes the transporter can feed the details on the portal.
 
-# (iii) Search\& Seizure 
+# (iii) Search\& Seizure
 
 The provisions of search and seizure also provides enough safeguards and the GST Law stipulates that search of any place of business etc. can be carried out only under authorisation from an officer of the rank of Joint Commissioner and if he has a reason to believe that the person concerned has done at least one of the following:-
 (a) Goods liable to confiscation or any documents /books/record/things, which may be useful for or relevant to any proceedings, are secreted in any place then all such places can be searched;
@@ -4664,7 +4599,7 @@ for examination /enquiry/proceedings and if these are not relied on for the case
 
 made and forwarded to the Commissioner forthwith.
 
-# (iv) Arrests 
+# (iv) Arrests
 
 In the administration of taxation the provisions for arrests are created to tackle the situations created by some unscrupulous tax evaders. To some these may appear very harsh but these are necessary for efficient tax administration and also act as a deterrent and instil a sense of discipline. The provisions for arrests under GST Law have sufficient inbuilt safeguards to ensure that these are used only under authorisation from the Commissioner. Besides this, the GST Law also stipulates that arrests can be made only in those cases where the person is involved in offences specified for the purposes of arrest and the tax amount involved in such offence is more than the specified limit. The salient points of these provisions are:-
 (a) Provisions for arrests are used in exceptional circumstance and only with prior authorisation from the Commissioner.
@@ -4673,7 +4608,7 @@ In the administration of taxation the provisions for arrests are created to tack
 monetary limit shall not be applicable if the offences are committed again even after being convicted earlier i.e. repeat offender of the specified offence scan be arrested irrespective of the tax amount involved in the case.
 (c) Further, even though a person can be arrested for specified offences involving tax amount exceeding Rs. 200 lakhs, however, where the tax involved is less than Rs. 500 lakhs, the offences are classified as non-cognizable and bailable and all such arrested persons shall be released on Bail by Deputy/Assistant Commissioner. But in case of arrests for specified offences where the tax amount involved is more than Rs. 500 lakhs, the offence is classified as cognizable and non-bailable and in such cases the bail can be considered by a Magistrate only.
 
-# Appeals and Review Mechanism under GST 
+# Appeals and Review Mechanism under GST
 
 ## Introduction
 
@@ -4687,7 +4622,7 @@ right. The time limits prescribed by the statute for filing of appeals and the r
 
 GST being implemented in our country is a dual GST i.e. to say every supply attracting the levy will be leviable to both central tax and state tax. So does this mean that if a taxpayer is aggrieved by any such transaction, he will have to approach both the authorities for exercising his right of appeal? The answer is a plain NO. The Act makes provisions for cross empowerment between CGST and SGST/ UTGST officers so as to ensure that if a proper officer of one Act (say CGST) passes an order with respect to a transaction, he will also act as the proper officer of SGST for the same transaction and issue the order with respect to the CGST as well as the SGST/UTGST component of the same transaction. The Act also provides that where a proper officer under one Act(say CGST) has passed an order, any appeal/review/revision/rectification against the said order will lie only with the proper officers of that Act only (CGST Act)So also if any order is passed by the proper officer of SGST, any appeal/review/revision/rectification will lie with the proper officer of SGST only.
 
-# Appellate Mechanism 
+# Appellate Mechanism
 
 A person who is aggrieved by a decision or order passed against him by an adjudicating authority, can file an appeal to the Appellate Authority (AA, for short). It is important to note that it is only the aggrieved person who can file
 
@@ -4707,7 +4642,7 @@ of the order appealed against by enhancing any fee or penalty or fine in lieu of
 
 The Order-in-appeal has to be a "speaking order" i.e. it should state the points for determination, the decision thereon and the reasons for the decision. The law provides an advisory time limit of 1 year from date of filing of appeal for the AA to decide the appeal.
 
-# Appeals before Tribunal 
+# Appeals before Tribunal
 
 The Tribunal is the second level of appeal, where appeals can be filed against the orders-in-appeal passed by the AA or order in revision passed by revisional authority, by any person aggrieved by such an order-in-appeal/Order in revision.
 
@@ -4723,13 +4658,13 @@ Condonation of delay (on sufficient cause) applies here also, but only to the ex
 
 The Tribunal after hearing both sides may pass such orders thereon as it thinks fit, confirming, modifying or annulling the decision or order appealed against or may refer the case back to the AA or to the revisional authority, or to the original adjudicating authority, with such directions as it may think fit, for a fresh adjudication or decision, as the case may be, after taking additional evidence, if necessary. For reasons of natural justice (reasonable opportunity) it is also provided that the Tribunal may, if sufficient cause is shown, grant up to 3 adjournments to either side.
 
-# Concept of pre-deposit 
+# Concept of pre-deposit
 
 As mentioned earlier, the right to appeal is a statutory right which operates within the limitations placed on it by the law. One such limitation flows from the principle that an appellant must first deposit the adjudged dues before his further appeal can be heard. However, often an appellant may succeed in his appeal, and hence it would (in retrospect) be unfair to saddle him with this financial burden. To balance these factors, tax laws mandate some "pre-deposit" so as to discourage frivolous appeals and also safeguard the bonafide interests of both the taxpayers and the revenue.
 
 The CGST Act, 2017 require an appellant before AA to pre-deposit full amount of tax, interest, fine, fee and
 
-# penalty, as is admitted by him, arising from the impugned order and a sum equal to $10 \%$ of the remaining amount of tax in dispute arising from the impugned order. 
+# penalty, as is admitted by him, arising from the impugned order and a sum equal to $10 \%$ of the remaining amount of tax in dispute arising from the impugned order.
 
 In so far as appeals to the Tribunal is concerned, no appeal can be filed before the Tribunal unless the appellant has deposited in full, such part of the amount of tax, interest, fine, fee and penalty arising from the impugned order, as is admitted by him, and a sum equal to $20 \%$ of the remaining amount of tax in dispute, in addition to the amount deposited before the AA, arising from the said order, in relation to which appeal has been filed.
 
@@ -4743,7 +4678,7 @@ The GST Law gives powers to the Commissioner to review any order passed by his s
 
 as an adjudicating authority, or the appellate authority or revisional authority. If the Commissioner is of the view that any order passed by such authorities are not legal and proper, he can direct any officer subordinate to him to apply to the competent authority. For example, if the order of adjudicating authority is reviewed, he can order his subordinate to file an appeal before the appellate authority. If the order of the appellate authority or the revisional authority is reviewed, he can direct his subordinate to file an appeal before the Tribunal. The grounds for appeal will be mentioned in his order. The review of the order and the consequent filing of appeal by the subordinate has to be done within a period of six months from the date of communication of the order. The resultant review application is required to be dealt with by the AA or the Tribunal as if it were an appeal made against the decision or order of the adjudicating authority and the statutory provisions relating to appeals shall, so far as may be, apply to such application.
 
-# Revision by Commissioner (CGST/SGST) 
+# Revision by Commissioner (CGST/SGST)
 
 The GST Act also provides for the mechanism of revision, by the Revisional Authority, of the orders passed by his subordinate officers. If the Revisional Authority on examination of the case records is of the view that the decision or order passed by any officer subordinate to him is erroneous in so far as it is prejudicial to the interest of the revenue, and is illegal or improper or has not taken into account material facts, he may, if necessary, stay the operation of such decision or order for such period as he deems fit and after giving the person concerned an opportunity of being heard
 
@@ -4761,7 +4696,7 @@ of the High Court and the date of the decision of the Supreme Court shall be exc
 
 However, the Revisional Authority may pass an order on any point which has not been raised and decided in an appeal before AA/Tribunal/HC/SC, before the expiry of a period of one year from the date of the order in such appeal or before the expiry of a period of three years from the date of initial order, whichever is later.
 
-# Concept of authorised representative 
+# Concept of authorised representative
 
 Any person who is entitled or required to appear before a GST Officer or the AA or the Tribunal in connection with any proceedings under the Act, may appear through an authorised representative (except when he is required under the Act to appear personally for examination on oath or affirmation).
 
@@ -4771,7 +4706,7 @@ The GST law also provides for some disqualifications for an authorised represent
 
 government service, conviction under some specified Acts, insolvency, misconduct, etc. Such orders of disqualification are, however, required to be passed after following the principles of natural justice.
 
-# Appeal to the High Court 
+# Appeal to the High Court
 
 The law provides that either side (department or party) if aggrieved by any order passed by the State Bench or Area Bench of the Tribunal may file an appeal to the High Court and the High Court may admit such appeal if it is satisfied that the case involves a substantial question of law. It is to be noted that on facts, the tribunal is the final authority.
 
@@ -4779,44 +4714,44 @@ Appeals to the High Court are to be filed within 180 days, but the HC has the po
 
 On being satisfied that a substantial question of law is involved, the High Court shall formulate that question, and the appeal shall be heard only on the question so formulated. However, the High Court has the power to hear the appeal on any other substantial question of law if it is satisfied that the case involves such question. The High Court shall decide the questions of law so formulated and deliver such judgment thereon containing the grounds on which such decision is founded and may award such cost as it deems fit. The High Court may determine any issue which has not been determined by the Tribunal or has been wrongly determined by the Tribunal, by reason of a decision on such questions of law.
 
-# Appeal to the Supreme Court 
+# Appeal to the Supreme Court
 
 The law provides for appeals to the Supreme Court from any judgment or order passed by the High Court, in any case which, on its own motion or on an oral application made by or on behalf of the party aggrieved, immediately after passing of the judgment or order, the High Court certifies to be a fit one for appeal to the Supreme Court.
 
 A (direct) appeal shall also lie to the Supreme Court from any orders passed by the National/Regional Bench of the Tribunal. It may be noted that the National/Regional Bench of the Tribunal has jurisdiction to entertain appeal if the dispute or one of the issues in dispute involves place of supply.
 
-# Chapter Fifty One 
+# Chapter Fifty One
 
 ## Recovery of Tax
 
 1. All tax administration occasionally comes across a situation where the tax dues are not paid correctly by the tax payers, most of the times inadvertently and sometimes deliberately. To minimise the inadvertent short payment of taxes the concept of 'Matching' of details of 'Outward supplies' of supplier with the details of 'Inward supplies' of recipient has been introduced in the GST Act. Moreover, the self-assessed tax has to be paid by due date prescribed under the GST Act and in case of any failure to pay the same by due date the Input Tax Credit will not be available to his customers and also the tax payer will not be able to file any return for further period. Effectually these provisions works as a Self-Policing system and takes care of any mis-match in the payment of taxes. However, despite these provisions there may arise some instances where the tax was not paid correctly. To deal with all such situations the provisions for Recovery are incorporated in any tax law. Accordingly, the GST Act contains elaborate provisions for recovery of tax under various situations, which can be broadly classified into following two categories: -
-i. Tax short paid or erroneously refunded or input tax
+   i. Tax short paid or erroneously refunded or input tax
 
 credit wrongly availed; and
 ii. Non-payment of self-assessed tax or amount collected as representing the Tax.
 2. The incidence of the short payment of tax or erroneous refund or wrong availment of input tax credit may be because of an inadvertent bonafide mistake (Normal Cases) or it may be a deliberate attempt (Fraud Cases) to evade the tax. Since the nature of offence is totally different in both type of incidences, hence separate provisions for recovery of the tax and amount of penalty have been made to deal with any of such type of cases. Besides these there are provisions to encourage voluntary compliance such as no penalty or lesser penalty if the tax dues along with interest, are paid within specified time limit/incidence. The Table below gives a comprehensive chart of provisions for voluntary compliance:-
 
-| Sr. <br> No. | Action by Tax <br> Payer | Amount <br> of Penalty <br> payable- <br> Normal <br> Cases | Amount <br> of Penalty <br> payable- <br> Fraud <br> Cases | Re- <br> marks |
-| :-- | :-- | :-- | :-- | :-- |
-| 1. | Tax amount, <br> along with <br> interest, paid <br> before issuance <br> of Notice. | No Penalty <br> and no <br> Notice shall <br> be issued. | 15\% of the <br> Tax amount <br> and no <br> Notice shall <br> be issued. | The penalty <br> shall also <br> be not <br> chargeable |
+| Sr.`<br>` No. | Action by Tax `<br>` Payer                                                                        | Amount `<br>` of Penalty `<br>` payable- `<br>` Normal `<br>` Cases | Amount `<br>` of Penalty `<br>` payable- `<br>` Fraud `<br>` Cases                | Re-`<br>` marks                                                   |
+| :-------------- | :-------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------- | :------------------------------------------------------------------ |
+| 1.              | Tax amount,`<br>` along with `<br>` interest, paid `<br>` before issuance `<br>` of Notice. | No Penalty `<br>` and no `<br>` Notice shall `<br>` be issued.        | 15\% of the `<br>` Tax amount `<br>` and no `<br>` Notice shall `<br>` be issued. | The penalty `<br>` shall also `<br>` be not `<br>` chargeable |
 
-| 2. | Tax amount, along with interest, paid within 30 days of issuance of Notice. | No <br> Penalty. All proceedings deemed to be concluded. | $25 \%$ of the Tax amount. All proceedings deemed to be concluded. | in cases where the selfassessed tax or any amount collected |
-| :--: | :--: | :--: | :--: | :--: |
+| 2. |   Tax amount, along with interest, paid within 30 days of issuance of Notice.   |   No `<br>` Penalty. All proceedings deemed to be concluded.   | $25 \%$ of the Tax amount. All proceedings deemed to be concluded. |         in cases where the selfassessed tax or any amount collected         |
+| :-: | :-----------------------------------------------------------------------------: | :--------------------------------------------------------------: | :------------------------------------------------------------------: | :-------------------------------------------------------------------------: |
 | 3. | Tax amount, along with interest, paid within 30 days of communication of Order. | $10 \%$ of the Tax amount or Rs. 10,000/-, whichever is higher | $50 \%$ of the Tax amount. All proceedings deemed to be concluded. | as tax is paid (with interest) within 30 days from the due date of payment. |
-| 4. | Tax amount, along with interest, paid after 30 days of communication of Order. | $10 \%$ of the Tax amount or Rs. 10,000/-, whichever is higher | $100 \%$ of the Tax amount. |  |
+| 4. | Tax amount, along with interest, paid after 30 days of communication of Order. | $10 \%$ of the Tax amount or Rs. 10,000/-, whichever is higher |                    $100 \%$ of the Tax amount.                    |                                                                            |
 
 3. As can be seen from the foregoing para that for all types of incidences of short payment or erroneous refund or wrong availment of Input Tax credit, there are incentive for the person who accepts his tax liability and readily discharge the same. The law provides an opportunity for payment of tax, interest and a Nil or nominal penalty (depending on nature of offence) before issuance of Notice and emphatically stipulates that in all such cases no Notice shall be issued and consequently there shall be no other consequences for
 
 any of the default. However, this is not the end of the road and there is another chance to discharge tax and interest liability with Nil or nominal penalty (depending on nature of offence) within 30 days of issuance of the Notice and the law provides that all proceedings in respect of the said Notice shall be deemed to be concluded. If it becomes inevitable to issue a show cause notice and thereafter pass an Order, the GST Act ensures a timely completion of all these procedures by providing a fixed timeline for issuance of notice and order-as follows:-
 
-| Sr. No. | Nature of <br> Case | Time for issuance of <br> Notice | Time for <br> issuance of <br> Order |
-| :-- | :-- | :-- | :-- |
-| 1. | Normal <br> Cases | Within 2 years and <br> 9 months from the <br> due date of filing of <br> Annual Return for <br> the Financial Year to <br> which the demand <br> pertains or from date <br> of erroneous refund. | Within 3 years <br> from the due <br> date of filing <br> of Annual <br> Return for <br> the Financial <br> Year to which <br> the demand <br> pertains or <br> from date of <br> erroneous <br> refund. |
+| Sr. No. | Nature of `<br>` Case | Time for issuance of `<br>` Notice                                                                                                                                                                                          | Time for `<br>` issuance of `<br>` Order                                                                                                                                                                                                         |
+| :------ | :---------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.      | Normal `<br>` Cases   | Within 2 years and `<br>` 9 months from the `<br>` due date of filing of `<br>` Annual Return for `<br>` the Financial Year to `<br>` which the demand `<br>` pertains or from date `<br>` of erroneous refund. | Within 3 years `<br>` from the due `<br>` date of filing `<br>` of Annual `<br>` Return for `<br>` the Financial `<br>` Year to which `<br>` the demand `<br>` pertains or `<br>` from date of `<br>` erroneous `<br>` refund. |
 
-| 2. | Fraud <br> Cases | Within 4 years and <br> 6 months from the <br> due date of filing of <br> Annual Return for <br> the Financial Year <br> to which the demand <br> pertains or from date <br> of erroneous refund. | Within 5 years <br> from the due <br> date of filing <br> of Annual <br> Return for <br> the Financial <br> Year to which <br> the demand <br> pertains or <br> from date of <br> erroneous <br> refund. |
-| :-- | :-- | :-- | :-- |
-| 3. | Any <br> amount <br> collected <br> as tax but <br> not paid | No time limit. | Within one <br> year from the <br> date of issue of <br> notice. |
-| 4. | Non- <br> payment <br> of self- <br> assessed <br> tax | No need to issue a show cause notice. <br> Recovery proceedings can be started <br> directly. Penalty, @ 10\% of the Tax <br> amount or Rs. 10,000/-, whichever <br> is higher, shall also be payable if the <br> period of non-payment exceeds 30 days <br> from the due date of payment of tax. |  |
+| 2. | Fraud `<br>` Cases                                                         | Within 4 years and `<br>` 6 months from the `<br>` due date of filing of `<br>` Annual Return for `<br>` the Financial Year `<br>` to which the demand `<br>` pertains or from date `<br>` of erroneous refund.                                                                                            | Within 5 years `<br>` from the due `<br>` date of filing `<br>` of Annual `<br>` Return for `<br>` the Financial `<br>` Year to which `<br>` the demand `<br>` pertains or `<br>` from date of `<br>` erroneous `<br>` refund. |
+| :- | :--------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3. | Any `<br>` amount `<br>` collected `<br>` as tax but `<br>` not paid | No time limit.                                                                                                                                                                                                                                                                                                           | Within one `<br>` year from the `<br>` date of issue of `<br>` notice.                                                                                                                                                                         |
+| 4. | Non-`<br>` payment `<br>` of self- `<br>` assessed `<br>` tax        | No need to issue a show cause notice.`<br>` Recovery proceedings can be started `<br>` directly. Penalty, @ 10\% of the Tax `<br>` amount or Rs. 10,000/-, whichever `<br>` is higher, shall also be payable if the `<br>` period of non-payment exceeds 30 days `<br>` from the due date of payment of tax. |                                                                                                                                                                                                                                                      |
 
 The GST Act also ensures timely disposal of cases by further providing that if the Order is not issued within the stipulated time limit of three years or five years, as the case may be, the adjudication proceedings shall be deemed to be concluded. From all these provisions it is clear that the non-payment of self-assessed tax or the amount collected
 
@@ -4833,10 +4768,3 @@ ii. If the payable amount is not paid within the specified time limit of 3 month
 iii. However, considering various business aspects the provisions for payment of all such amounts, other than self-assessed tax, in instalments have also been made in the Act. A person can avail this benefit of payment in instalments, by making application to the Commissioner by specifying reasons for
 
 such request. On receipt of such application the Commissioner may allow payment of amount in instalments, subject to maximum 24 monthly instalments and on payment of applicable interest. Here it may be noted that if there is default in payment of any one instalment then the whole outstanding balance shall become due and payable immediately.
-
-
-
-
-
-
-
