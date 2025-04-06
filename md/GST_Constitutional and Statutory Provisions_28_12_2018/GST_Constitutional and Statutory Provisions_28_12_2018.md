@@ -111,16 +111,21 @@ Explanation.-For the purposes of this clause, supply of goods, or of services, o
 
 Table I
 
-| Union/State <br> List | Entry No. | Prior to Constitution (101 ${ }^{\text {st }}$ <br> amendment) Act, 2016 | After Constitution (101 ${ }^{\text {st }}$ amendment ) Act, <br> 2016 |
-| Union List | Entry No. 84 | 84. Duties of excise on tobacco and other goods manufactured or produced in India except- <br> (a) alcoholic liquors for human consumption. <br> (b) opium, Indian hemp and other narcotic drugs and narcotics, but including medicinal and toilet preparations containing alcohol or any substance included in sub-paragraph (b) of this entry | 84. Duties of excise on the following goods manufactured or produced in India, namely: (a) petroleum crude; <br> (b) high speed diesel; <br> (c) motor spirit (commonly known as petrol); <br> (d) natural gas; <br> (e) aviation turbine fuel; and <br> (f) tobacco and tobacco products. |
-| Union List | Entry No. 92 | 92. Taxes on the sale or purchase of newspapers and on advertisements published therein | 92. Omitted |
-| Union List | Entry No. 92C | 92 C. Taxes on services. | 92C. Omitted |
-| State List | Entry No. 52 | 52. Taxes on the entry of goods into a local area for consumption, use or sale therein | 52. Omitted |
-| State list | Entry No. 54 | 54. Taxes on the sale or purchase of goods other than newspapers, subject to the provisions of entry 92A of List I. | 54. Taxes on the sale of petroleum crude, high speed diesel, motor spirit (commonly known as petrol), natural gas, aviation turbine fuel and alcoholic liquor for human consumption, but not including sale in the course of inter-State trade or commerce or sale in the course of international trade or commerce of such goods |
-| State list | Entry No. 55 | 55. Taxes on advertisements other than advertisements published in the newspapers and advertisements broadcast by radio or television. | 55. Omitted |
-| State list | Entry No. 62 | 62. Taxes on luxuries, including taxes on entertainments, amusements, betting and gambling. | 62. Taxes on entertainments and amusements to the extent levied and collected by a Panchayat or a Municipality or a Regional Council or a District Council. |
+### Changes Brought by Constitution (101st Amendment) Act, 2016
 
-Power of Central Government /State Government to levy tax on production and manufacture after Introduction of GST
+| **List**       | **Entry No.** | **Prior to 101st Amendment Act, 2016** | **After 101st Amendment Act, 2016** |
+|----------------|----------------|-----------------------------------------|-------------------------------------|
+| **Union List** | 84             | Duties of excise on tobacco and other goods manufactured or produced in India except: <br> (a) Alcoholic liquors for human consumption <br> (b) Opium, Indian hemp, and other narcotic drugs and narcotics, but including medicinal and toilet preparations containing alcohol or any substance included in sub-paragraph (b) | Duties of excise on the following goods manufactured or produced in India, namely: <br> (a) Petroleum crude <br> (b) High speed diesel <br> (c) Motor spirit (petrol) <br> (d) Natural gas <br> (e) Aviation turbine fuel <br> (f) Tobacco and tobacco products |
+| **Union List** | 92             | Taxes on the sale or purchase of newspapers and on advertisements published therein | **Omitted** |
+| **Union List** | 92C            | Taxes on services | **Omitted** |
+| **State List** | 52             | Taxes on the entry of goods into a local area for consumption, use or sale therein | **Omitted** |
+| **State List** | 54             | Taxes on the sale or purchase of goods other than newspapers, subject to the provisions of entry 92A of List I | Taxes on the sale of petroleum crude, high speed diesel, motor spirit (petrol), natural gas, aviation turbine fuel and alcoholic liquor for human consumption, **excluding** inter-State or international trade/commerce |
+| **State List** | 55             | Taxes on advertisements other than those in newspapers or broadcast by radio/TV | **Omitted** |
+| **State List** | 62             | Taxes on luxuries, including entertainments, amusements, betting, and gambling | Taxes on entertainments and amusements **only** to the extent levied and collected by local bodies (Panchayats, Municipalities, Regional/District Councils) |
+
+---
+
+# Power of Central Government /State Government to levy tax on production and manufacture after Introduction of GST
 9. On careful analysis of the various amendments made in the Union List and State List, the following may be observed:-
 9.1 The Central Government power to levy tax on manufacture or production is now limited to the following six products.
 (a) petroleum crude;
