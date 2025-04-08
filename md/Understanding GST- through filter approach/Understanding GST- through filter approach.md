@@ -1,10 +1,4 @@
-# Part 1 (from Understanding GST- through filter approach_part1.pdf)
-
-
-
-## Page 1
-
-# Understanding GST: Through 7x 7- Steps/Filter Approach 
+# Understanding GST: Through 7x 7- Steps/Filter Approach
 
 ## Introduction:
 
@@ -23,11 +17,9 @@ With Goods and Services Tax (GST) system of taxation in place, following key que
 - What is the mechanism envisaged in the law for resolution of tax disputes?
 - Whether there are any penalty/ fine/fees/interest prescribed in the GST law for dealing with situations of non-compliance? If yes, what are the penalties/fee/interest/fine prescribed under law in different situations of noncompliance?
 
-## Page 2
-
 2. Through the $7 \times 7$ Step approach as explained below, an attempt has been made to answer the above said questions in a logical and sequential manner. If answer is negative in first two filters/steps, then one is not required to take GST registration. If answer is yes, then one should continue going through the remaining steps to determine his tax liability on every supply of goods/ services made by him.
 
-# 3.1 Part A: 7 Steps Substantive Filter Approach to Determine Liability to Pay GST and to Determine the Amount of Tax Payable on any Supply 
+# 3.1 Part A: 7 Steps Substantive Filter Approach to Determine Liability to Pay GST and to Determine the Amount of Tax Payable on any Supply
 
 Step 1: Supply filter [see whether activity done by any person falls within the scope of term "Supply" as defined under Section 7 of CGST Act, 2017 read with activities listed in the Schedule-I (activities which are deemed to be taxable supplies even when there is no consideration) and Schedule-III (activities which are neither considered supply of good nor supply of Services]
 
@@ -38,9 +30,8 @@ Three important considerations for any activity to be a "supply":
 - Whether activity can be considered as supply of goods or supply of services;
 - Whether for consideration
 - Whether in the course of business or furtherance of business
-[If any one or more of the above said elements is absent, then activity is not covered within the meaning of the term "supply"]
-[Note: If any activity being done by any personfalls within the scope of term "supply" then move to Step-2.]
-
+  [If any one or more of the above said elements is absent, then activity is not covered within the meaning of the term "supply"]
+  [Note: If any activity being done by any personfalls within the scope of term "supply" then move to Step-2.]
 
 ## Step 2: Taxable Supply Filter
 
@@ -50,9 +41,6 @@ Three important considerations for any activity to be a "supply":
 
 - If all supplies made by a person falls in non-taxable supply or exempted supply/nil rated supply or there is no import of supply/ no liability to pay tax on reverse charge/ no liability for deduction of TDS/TCS, then there is no need for him to register for GST purpose.
 - Under Section 23 (1) (b) of the CGST Act, 2017, the Government has specified an agriculturist as person not liable for registration, only to the extent of supply of produce out of cultivation of land.
-
-## Page 3
-
 - Government also has right to specify category of person who may be exempted from obtaining registration [Ref:Section 23(2) of the CGSG Act, 2017]
 - In any supply being made by a person is a taxable supply of goods and his aggregate turnover is over 40 lakhs [in other than special category states] or 20 lakhs [in special category states], then such supplier of goods needs to register under GST and discharge tax liability as per GST law.
 - In any supply being made by a person is a taxable supply of Services and his aggregate turnover is over 20 lakhs [in other than special category states] or 10 lakhs [in special category states], then such supplier of Services needs to register under GST and discharge tax liability as per GST law.
@@ -62,7 +50,7 @@ Filter 2A: Reverse Charge Filter [see whether any of the goods/services being re
 Filter 2B: TDS Filter [see whether the person is required to deduct tax at source before making payment for services received under Section 51 of the CGST Act, 2017]
 Filter 2C: TCS Filer [see whether the person is required to collect tax at source under Section 52 of the CGST Act, 2017
 
-# Filter 3: Intra-state or Inter-state supplies filter 
+# Filter 3: Intra-state or Inter-state supplies filter
 
 [see whether in a particular supply, location of supplier and place of supply is located within the same state/UT or are in different state/UTs]
 
@@ -73,15 +61,9 @@ Filter 2C: TCS Filer [see whether the person is required to collect tax at sourc
 - If location of supplier and place of supply are in different states/UTs, then supplier should pay IGST.
 - Notwithstanding above, there are certain supplies which are to be considered as Inter-state supplies i.e. import of goods (till crossing of customs frontiers)/services, sale to tourist (as defined under section 15 of IGST Act,2017), supplies made to/or by SEZ unit/ Developer, OIDAR services; and thus, require payment of IGST.
 
-
 ## Legal Provisions to be referred
 
-- Definition contained in Section 2(10) of IGST Act: Import of Goods; Section 2(11) of the IGST Act: Import of Services; Section 2(15) of the IGST Act: Location
-
-## Page 4
-
-of Supplier of Services; and Section 2(71) of the CGST Act, 2017: Location of supplier of Services.
-
+- Definition contained in Section 2(10) of IGST Act: Import of Goods; Section 2(11) of the IGST Act: Import of Services; Section 2(15) of the IGST Act: Location of Supplier of Services; and Section 2(71) of the CGST Act, 2017: Location of supplier of Services.
 - Section 7, 8, and 9 of the IGST Act, 2017 dealing with determination of nature of supply;
 - Section 10, 11, and 12 of the IGST Act, 2017 dealing with place of supply of goods or services or both.
 
@@ -92,7 +74,7 @@ Filter 4: Goods or services filter [see whether supply under consideration is "s
 
 Filter 5: Rates of GST filter [see the classification of Goods or services being supplied and rate of GST applicable on goods/services being supplied]
 
-# Key Points to Note 
+# Key Points to Note
 
 - Consider rate of schedule for goods as specified by the Government under Section 9 the of CGST Act, 2017 read with corresponding provision of State GST Act [based on Harmonized system of Nomenclature (HSN)]
 - Consider rate of GST on services as specified by Government under Schedule of Service Accounting code ( SAC) under Section 9 the of CGST Act, 2017 read with corresponding provision of State GST Act.
@@ -105,18 +87,13 @@ Step 6: Value of supply filter [see on what value of supply, the GST is payable.
 - For GST, Transaction value approach has been adopted.
 - Transaction value is price actually paid or payable for the supply of goods or services, where the supplier and recipient are not related and the price is the sole consideration for the supply ( Ref: Section 15 of the CGST Act, 2017)
 - Know as to what charges are includable in the value of supply? and what is the position in respect of various types of discounts given by supplier to the recipient?
-- Relevant legal provisions are contained in Section 15 of the CGST Act, 2017 and Rule 27 to 35 of the CGST Rules, 2017; and Rule 31A and 32A of
-
-## Page 5
-
-the CGST Rules, 2017 for determining the value of supply in case of lottery, betting, gambling ,horse racing and online gaming.
+- Relevant legal provisions are contained in Section 15 of the CGST Act, 2017 and Rule 27 to 35 of the CGST Rules, 2017; and Rule 31A and 32A of the CGST Rules, 2017 for determining the value of supply in case of lottery, betting, gambling ,horse racing and online gaming.
 
 Step 7: Time of supply [see at what point of transaction, Tax payer is liable to pay tax to the Government -whether date of receipt of goods, date of receipt of payment in the books of account; date of issue of invoice, date of provision of service etc.]
 
 - Consider legal provisions regarding "Time of supply of goods" and "Time of supply of services" contained in Section 12 and 13 of the CGST Act, 2017 respectively along with relevant definitions in Section 2 of the CGST Act, 2017 and Section 2 of the IGST Act, 2017.
 
-
-# 3.2 Part B: 7-Steps-Procedural filters: 
+# 3.2 Part B: 7-Steps-Procedural filters:
 
 Step- 1. Registration filter: (Identify the number of registrations (one or more, depending on the business operations and its spread across States/UTs) and category/ Type of registration to be obtained under the GST law).
 
@@ -130,7 +107,6 @@ Step- 1. Registration filter: (Identify the number of registrations (one or more
 - There is allocation of Unique Identify Number to UN offices/Embassy/Consulate.
 - Application for Registration to be filed electronically on GSTN platform.
 
-
 ## Legal Provisions to be referred:
 
 - Section 22 to 30 of the CGST Act, 2017.
@@ -142,8 +118,6 @@ Step 2: Tax Return Filter: [see and identify : Type, frequency and due date pres
 
 ## Key Points to note:
 
-## Page 6
-
 - Know the returns to be filed such as details of outward supplies (section 37) /details of inward supply and input tax credit (section 38)/ Return (monthly/quarterly) (section 39)/ First return (Section 40)/ Annual Return (section 44)/ final return (Section 45) /Information return (Section 150).
 - Know frequency of return such as one time return or Periodical return.
 - In case of periodical return, find out periodicity of filing return such as monthly/Quarterly /annually.
@@ -152,8 +126,7 @@ Step 2: Tax Return Filter: [see and identify : Type, frequency and due date pres
 - Find out other consequences of non-filing of returns such as issuance of notice (Section 46)/ cancellation of registration (Section 29(2)), assessment of non-filers (Section 62), denial of input tax credit to the recipient of supply (Section 16);
 - Single return for CGST/SGST/UTGST/IGST/CESS i.e. in other words, no separate returns for SGST/UTGST/CGST/IGST/CESS.
 
-
-# Legal Provisions to be referred: 
+# Legal Provisions to be referred:
 
 - Section 37 to 47 and Section 150 of the CGST Act, 2017
 - Rules 59 to 89 of CGST Rules, 2017
@@ -167,14 +140,10 @@ Step 3. Payment of Tax filter: [see as to what is the due date prescribed for pa
 - Self-assess the taxes on monthly basis (quarterly basis in case of composition taxable person) and pay the taxes on or before due date.
 - Decide the mode through which you will be paying taxes. Tax can be paid through internet banking, by using debit/credit card; NEFT or RTGS.
 - Failure to pay taxes by due date to the Government to attract interest @ rates fixed by Government and the return filed to be considered as invalid return. Delay of more than 30 days in making payment of self-assessed taxes to attract penalty of $10 \%$ of tax amount paid late.
-
-## Page 7
-
 - In case of return filed being "invalid return", it will result in denial of Input Tax Credit (ITC) to the recipient of supplies made by such tax payer.
 - $\quad$ Frequent delay in making payment of taxes also to affect Tax compliance rating as well as result in imposition of mandatory penalty on the taxpayer.
 
-
-# Legal provisions to be referred 
+# Legal provisions to be referred
 
 - Section 49 to 52 of the CGST Act, 2017
 - Rule 85 to 88 of the CGST Rules, 2017
@@ -188,7 +157,6 @@ Step-4. Input Credit Filter [see on what inputs, input services and capital good
 - Input tax credit is not admissible for inward supplies of goods and services which are not used for business. In case of partial use for business and partial use for other than business purpose, the credit is restricted to the amount attributable to supplies of goods/services used for business.
 - Input tax credit is also not admissible on inward supplies of goods and services used for making non-taxable supplies or Nil rated supplies or fully exempted supplies. However, it is available for making zero rated supplies/ deemed export.
 
-
 ## Legal Provisions to be referred:
 
 - Section 16 to 21 of the CGST Act, 2017.
@@ -200,9 +168,6 @@ Step 5. Refund Filter: [see as to when and under what situations refund is avail
 ## Key Points to note:
 
 - Refund of Tax, interest, penalty, fee paid is available in following situations:
-
-## Page 8
-
 - Export of goods/Services or zero rate supplies [refund of tax paid on zero rated supplies or refund of taxes paid on inputs /input services used in making zero rated supplies].
 - Refund of Un-utilized Input Tax credit accumulated on account of inverted duty structure where rate of tax on outward supplies (other than nil rated or exempted supplies) is less than the rate of tax on inputs.
 - Deemed exports of the goods/ services.
@@ -218,8 +183,7 @@ Step 5. Refund Filter: [see as to when and under what situations refund is avail
 - Provisional refund up to $90 \%$ of the refund amount allowed on export of zero rated supply of goods and services within 7 days of acknowledgement of refund claim.
 - Refund claim to be filed electronically on GSTN platform along with prescribed documents.
 
-
-# Legal Provisions to be referred: 
+# Legal Provisions to be referred:
 
 - Section 54 to 58 of CGST Act, 2017
 - Section 77 of the CGST Act, 2017 and Section 15 of the IGST Act, 2017.
@@ -230,9 +194,7 @@ Step 5. Refund Filter: [see as to when and under what situations refund is avail
 
 Step-6: Dispute Resolution Filter: [Be aware of the dispute resolution mechanism provided in the GST Law]
 
-## Page 9
-
-# Key Points to Note: 
+# Key Points to Note:
 
 - There is time bound disposal of dispute at adjudicating authority level.
 - Time limit of 3 years/ 5 years prescribed from relevant date for issuance of adjudication order in cases other than of fraud/willful mis-statement /suppression of facts and in case involving fraud/willful mis-statement/suppression of facts respectively.
@@ -241,7 +203,6 @@ Step-6: Dispute Resolution Filter: [Be aware of the dispute resolution mechanism
 - Concept of pre-deposit of prescribed percentage of amount of tax in dispute before admission of appeal at the level of appellate authority/ Appellate Tribunal to the extent of $10 \%$ in case of appeal to Appellate Authority and additional 20\% in case of appeal to Appellate Tribunal is required to be pre-deposited.
 - $100 \%$ of amount being disputed (subject to upper ceiling) is required to be paid before filing appeals to HC/SC.
 - Concept of Advance Ruling and Appellate Authority of advance ruling has been incorporated in the GST law as a measure of dispute avoidance.
-
 
 ## Legal Provisions to be referred:
 
@@ -258,16 +219,12 @@ Step 7: Penalty/Fee/Fine/Interest Payment Filter: [Be familiar with the legal pr
 
 - 21 types of offences have been listed in section 122 of the CGST Act, 2017 and penalty has been prescribed for these offences.
 - Penalty prescribed for relatively serious offences is of mandatory \& non-discretionary nature.
-
-## Page 10
-
 - Law also provides for general disciplines related to penalty. It incorporate concept of "minor breaches of law" and provides that the penalty imposed to be commensurate with the degree and severity of the breach.
 - In serious offences, law provides for launching of criminal proceeding seeking imprisonment of offenders as well as provision for compounding of offences.
 - Discretionary powers with the adjudicating authority to impose lesser penalty are very limited and are available in case of offences of relatively non-serious in nature.
 - Law provides enabling tools to the officer to achieve effective enforcement such as inspection, search, and seizure (Section 67); power to arrest (section 69); power to summon persons (section 70), access to business premise (section 71) and put obligation on other officers specified to assist proper officers (section 72). Section quoted are of the CGST Act, 2017.
 
-
-# Legal Provisions to be referred 
+# Legal Provisions to be referred
 
 - Section 122 to 131 of the CGST Act, 2017[for penalty and offences - civil proceedings].
 - Section 132 to 138 of the CGST Act, 2017 [for criminal proceedings].
@@ -276,8 +233,7 @@ Other Important Filters: Invoice Filter and Accounts \& Record Filter [see as to
 
 - There are other two important procedural requirement relating to issue of invoice/Bill of Supply (sections 31-34 of the CGST Act, 2017 / Accounts \& records (Sections 35-36 of the CGST Act, 2017]. Please look at these provisions carefully from compliance angle.
 - Also see Rules 46 to 55 of the CGST Rules, 2017 (for Invoice, Debit and Credit Note); and Rules 46 to 55 of the CGST Rules, 2017 (for Accounts \& Records).
-[For detail understanding on each of the subject listed above, refer to the topic-wise summary sheets/e-books which will be made available shortly. The same may be gone through carefully for the purpose of improved understanding of the subject matter as well as being on the right side of the law.
-
+  [For detail understanding on each of the subject listed above, refer to the topic-wise summary sheets/e-books which will be made available shortly. The same may be gone through carefully for the purpose of improved understanding of the subject matter as well as being on the right side of the law.
 
 ## Abbreviations Used in the Document
 
@@ -285,9 +241,6 @@ Other Important Filters: Invoice Filter and Accounts \& Record Filter [see as to
 - CGST Act: Central Goods and Services Tax Act, 2017
 - CGST Rules: Central Goods and Services Tax Rules, 2017
 - GST: Goods and Services Tax
-
-## Page 11
-
 - GSTN: Goods and Services Network
 - HSN: Harmonized System of Nomenclature
 - IGST: Integrated Goods and Services Tax
@@ -302,9 +255,3 @@ Other Important Filters: Invoice Filter and Accounts \& Record Filter [see as to
 - UTGST Act: Union Territory Goods and Services Tax Act, 2017
 - TCS: Tax collected at Source
 - TDC: Tax Deducted at Source
-
-
-# Disclaimer: 
-
-This document has been prepared for capacity building purpose and is meant for use by the Departmental officers. Necessary precautions have been taken to make this document error free. However, it is not ruled out that some errors might have crept into this document. Therefore, before using this document for any legal purpose, real text of GST law may be referred to.
-

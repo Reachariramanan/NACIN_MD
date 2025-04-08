@@ -1,8 +1,8 @@
-# FORMS 
+FORMS 
 
-## CONTENTS
+CONTENTS
 
-| SR. <br> NO. | FORM NUMBER | SUBJECT | ISSUED UNDER <br> RULE |
+| SR. NO. | FORM NUMBER | SUBJECT | ISSUED UNDER RULE |
 | :--: | :--: | :--: | :--: |
 | COMPOSITION SCHEME |  |  |  |
 | 1. | FORM GST CMP -01 | Intimation to pay tax under section 10 (composition levy) (only for person registered under the existing law migrating on the appointed day). | Rule 3(1) |
@@ -22,7 +22,7 @@
 | 6. | FORM GST REG-06 | Registration Certificate | Rule 10(1) |
 | 7. | FORM GST REG-07 | Application for Registration as Tax Deductor at Source (u/s 51) or Tax Collector at source (u/s 52). | Rule 12(1) |
 
-| $\begin{gathered} \text { SR, } \\ \text { NO. } \end{gathered}$ | FORM NUMBER | SUBJECT | ISSUED UNDER RULE |
+| SR.NO .| FORM NUMBER | SUBJECT | ISSUED UNDER RULE |
 | :--: | :--: | :--: | :--: |
 | 8. | FORM GST REG-08 | Order of Cancellation of Registration as Tax Deductor at Source or Tax Collector at Source | Rule 12(3) |
 | 9. | FORM GST REG-09 | Application for Registration on Non-Resident Taxable Person | Rule 13(1) |
@@ -44,7 +44,7 @@
 | 25. | FORM GST REG-25 | Certificate for Provisional Registration | Rule 24(1) |
 | 26. | FORM GST REG-26 | Registration for Enrolment of Existing Taxpayer | Rule 24(1) |
 
-| $\begin{aligned} & \text { SR. } \\ & \text { NO. } \end{aligned}$ | FORM NUMBER | SUBJECT | ISSUED UNDER RULE |
+| SR.NO .| FORM NUMBER | SUBJECT | ISSUED UNDER RULE |
 | :--: | :--: | :--: | :--: |
 | 27. | FORM GST REG-27 | Show Cause Notice for cancellation of Provisional Registration | Rule 24(3) |
 | 28. | FORM GST REG-28 | Order for Cancellation of Provisional Registration | Rule 24(3) |
@@ -60,28 +60,28 @@
 | ENROLMENT BY OWNER /OPERATOR OF GODOWN /WAREHOUSE AND TRANSPORTER |  |  |  |
 | 1. | FORM GST ENR-01 | Application for Enrolment under section 35(2) (only for un-registered persons) | Rule 58(1) |
 | 2. | FORM GST ENR-02 | Application for obtaining Unique Common Enrolment Number (only for transporters registered in more than one State or Union Territory having the same PAN) | Rule 58(1A) |
-| 3. | FORM GSR ENR-03 [Inserted vide notification No. 12/2024-Central Tax, dated 10.07.2024)] | Application for Enrolment [only for unregistered persons] | Rule 138(3) |
+| 3. | FORM GSR ENR-03 | Application for Enrolment [only for unregistered persons] | Rule 138(3) |
 | GST RETURNS |  |  |  |
 | 1. | FORM GSTR-1 | Details of Outward Supplies of Goods or Services | Rule 59(1) |
 
-| $\begin{gathered} \text { SR, } \\ \text { NO. } \end{gathered}$ | FORM NUMBER | SUBJECT | ISSUED UNDER RULE |
+| SR.NO .| FORM NUMBER | SUBJECT | ISSUED UNDER RULE |
 | :--: | :--: | :--: | :--: |
 | 2. | FORM- GSTR-1A <br> (omitted vide notification No. 19/2022-Central-Tax, dated 28.09.2022) (w.e.f. 1.10.2022). | Details of Auto Drafted Supplies (from GSTR-2; GSTR-4 or GSTR-6) | Rule 59 (4) |
 | 2. | FORM GSTR-1A <br> [Insertal vide notification No. 12/2024-Central Tax, dated 10.07.2024 (w.e.f. 10.07.2024)] | Amendment of outward supplies of goods or services for current tax period | Proviso to Rule 59(1) |
-| 3. | FORM-GSTR-2-(Omitted vide-notification-No.-19/2022Central-Tax,-dated-28.09.2022) (w.e.f. 1.10.2022). | Details-of-Inward-Supplies-of-Goods-or Services | Rule 60(1) |
+| 3. | FORM-GSTR-2 | Details-of-Inward-Supplies-of-Goods-or Services | Rule 60(1) |
 | 3. | FORM GSTR-2A | Details of Auto-drafted Supplies (from GSTR-1, GSTR-5, GSTR-6, GSTR-7 and GSTR-8) | Rule 60(1) |
-| 4. | FORM GSTR-2B <br> [Substituted vide notification No. 12/2024-Central Tax, dated 10.07.2024 (w.e.f. 10.07.2024)] | Auto Drafted ITC Statement (From FORM GSTR1/IFF including E-commerce supplies, GSTR-1A, GSTR5, GSTR-6 and Import data received from ICEGATE). | Rule 60(7). |
+| 4. | FORM GSTR-2B | Auto Drafted ITC Statement (From FORM GSTR1/IFF including E-commerce supplies, GSTR-1A, GSTR5, GSTR-6 and Import data received from ICEGATE). | Rule 60(7). |
 | 5. | FORM-GSTR-3-(Omitted vide-notification-No.-19/2022-Central Tax, dated 28.09.2022) (w.e.f. 1.10.2022). | Monthly Returns | Rule 61(1) |
 | 5. | FORM GSTR-3A | Notice for Return defaulter u/s 46 for not filing returns, Or Notice to return defaulter u/s 46 for not filing final returns upon cancellation of registration | Rule 68 |
 | 6. | FORM GSTR-3B | Monthly Summary Return | Rule 61(5) |
 | 7. | FORM GSTR-4 | Return for financial year of Registered Person who has opted for Composition Levy or availing benefit of notification No. 02/2019Central Tax (Rate). | Rule 62 |
 | 8. | FORM GSRT-4A | Auto-drafted details for Registered Person opting for Composition Levy (Auto-drafted from GSTR-1, GSTR-1A, GSTR-5 and GSTR-7) | Rule 59 (3) and 66(2) |
 | 9. | FORM GSTR-5 | Return for Non-resident taxable person | Rule 63 |
-| 10. | FORM GSTR-5A <br> [substituted vide notification No. 51/2023-Central Tax, dated 29.09.2023 (w.e.f. 01.10.2023). | Details of supplies of Online Information and Database Access or Retrieval Services by a person located outside India made to nontaxable online recipient (as defined in Integrated Goods and Services Tax Act, 2017) and to registered persons in India and details of supplies of online money gaming by a person located outside India to a person in India. | Rule 64 |
+| 10. | FORM GSTR-5A  | Details of supplies of Online Information and Database Access or Retrieval Services by a person located outside India made to nontaxable online recipient (as defined in Integrated Goods and Services Tax Act, 2017) and to registered persons in India and details of supplies of online money gaming by a person located outside India to a person in India. | Rule 64 |
 | 11. | FORM GSTR-6 | Return for Input Service Distributor (ISD) | Rule 65 |
 | 12. | FORM GSTR-6A | Details of supplies auto-drafted form (Autodrafted from GSTR-1, GSTR-1A, GSTR-5 and | Rule 59(3) and 65 |
 
-| $\begin{aligned} & \text { SR. } \\ & \text { NO. } \end{aligned}$ | FORM NUMBER | SUBJECT | ISSUED UNDER RULE |
+| SR.NO .| FORM NUMBER | SUBJECT | ISSUED UNDER RULE |
 | :--: | :--: | :--: | :--: |
 |  |  | GSTR-7) |  |
 | 13. | FORM GSTR-7 | Return for Tax Deducted at Source | Rule 66(1) |
@@ -107,7 +107,7 @@
 | 3. | FORM GST PMT-03 | Order for Re-credit of the amount of Cash or Credit ledger on rejection of refund claim | Rule 86(4) and Rule 87(11) |
 | 3A. | FORM GST PMT-03A | Order for Re-credit of the amount to electronic Credit ledger | Rule 86(4B) |
 
-| $\begin{gathered} \text { SR. } \\ \text { NO. } \end{gathered}$ | FORM NUMBER | SUBJECT | ISSUED UNDER RULE |
+| SR.NO . | FORM NUMBER | SUBJECT | ISSUED UNDER RULE |
 | :--: | :--: | :--: | :--: |
 | 4. | FORM GST PMT-04 | Application for intimation of discrepancy in Electronic Credit Ledger /Cash Ledger/Liability Register | Rule 85(7), 86(6) and 87(12). |
 | 5. | FORM GST PMT-05 | Electronic Cash Ledger(To be maintained at the Common Portal) | Rule 87(1) |
@@ -129,7 +129,7 @@
 | 11. | FORM GST RFD-09 | Reply to show cause notice | Rule 92(3) |
 | 12. | FORM GST RFD-10 | Application for refund by any specialized agency of UN or any Multilateral Financial Institution and Organisation, Consulate or Embassy of foreign countries, etc. | Rule 95(1) |
 
-| $\begin{gathered} \text { SR, } \\ \text { NO. } \end{gathered}$ | FORM NUMBER | SUBJECT | ISSUED UNDER RULE |
+| SR.NO . | FORM NUMBER | SUBJECT | ISSUED UNDER RULE |
 | :--: | :--: | :--: | :--: |
 | 11. | FORM GST RFD-10A | Application for refund by Canteen Stores Department (CSD) | Rule 95B |
 | 12. | FORM GST RFD-10B | Application for refund by Duty Free Shops/ Duty Paid Shops (Retail outlets). | Rule 95A |
@@ -153,7 +153,7 @@
 | 16. | FORM GST ASMT-16 | Assessment Order under section 64 | Rule 100(3) |
 | 17. | FORM GST ASMT-17 | Application for withdrawal of assessment order issued under section 64 | Rule 100(4) |
 
-| $\begin{aligned} & \text { SR, } \\ & \text { NO. } \end{aligned}$ | FORM NUMBER | SUBJECT | ISSUED UNDER RULE |
+| SR.NO .| FORM NUMBER | SUBJECT | ISSUED UNDER RULE |
 | :--: | :--: | :--: | :--: |
 | 18. | FORM GST ASMT-18 | Acceptance or Rejection of application filed under section 64(2) | Rule 100(5) |
 | AUDIT |  |  |  |
@@ -167,17 +167,17 @@
 | 3. | FORM GST ARA-03 | Appeal to the Appellate Authority for Advance Ruling(by the officer) | Rule 106(2) |
 | APPEAL |  |  |  |
 | 1. | FORM GST APL-01 | Appeal to Appellate Authority | Rule 108(1) |
-| 2. | FORM GST APL-02 | Acknowledgement for submission of appeal | $\begin{aligned} & \text { Rule 108(3), 109(2), } \\ & 110(1) \text { and 111(1) } \end{aligned}$ |
+| 2. | FORM GST APL-02 | Acknowledgement for submission of appeal |  Rule 108(3), 109(2), 110(1)and 111(1) |
 | 3. | FORM GST APL-03 | Application to the Appellate Authority under sub-section (2) of Section 107 | Rule 109(1) |
 | 4. | FORM GST APL-01/ 03W (inserted vide notification No. 26/22-Central Tax, dated 26.12.2022). | Application for withdrawal of Appeal Application | Rule 109 C |
 | 5. | FORM GST RVN-01 | Notice under section 108 | Rule 109B |
 | 6. | FORM GST APL-04 | Summary of Demand after issue of Order by the Appellate Authority, Revisional Authority, Tribunal or Court | Rule 109B, 113(1), and 115 |
 | 7. | FORM GST APL-05 | Appeal to the Appellate Tribunal | Rule 100(1) |
-| 8. | FORM GST APL-05 /07W <br> [Inserted vide notification no. 12/2024-Central Tax, dated 10.07.2024 (w.e.f. 10.07.2024)]. | Application for Withdrawal of Appeal/ Application filed before the Appellate Tribunal | Rule 113A |
+| 8. | FORM GST APL-05  | Application for Withdrawal of Appeal/ Application filed before the Appellate Tribunal | Rule 113A |
 | 9. | FORM GST APL-06 | Cross-objections before the Appellate Tribunal under sub-section (5) of Section 112 | Rule 110(2) |
 | 10. | FORM GST APL-07 | Application to the Appellate Tribunal under sub-section (3) of Section 112. | Rule 111(1) |
 
-| $\begin{aligned} & \text { SR. } \\ & \text { NO. } \end{aligned}$ | FORM NUMBER | SUBJECT | ISSUED UNDER RULE |
+| SR.NO . | FORM NUMBER | SUBJECT | ISSUED UNDER RULE |
 | :--: | :--: | :--: | :--: |
 | 11. | FORM GST APL-08 | Appeal to the High Court under section 117 | Rule 114(1) |
 | TRANSITIONAL CREDIT |  |  |  |
@@ -191,18 +191,17 @@
 | 5. | FORM GST INS-05 | Order of Release of Goods/Things of Perishable or Hazardous Nature | Rule 141 (1) |
 | TAX RECOVERY |  |  |  |
 | 1. | FORM GST DRC-01 | Summary of Show Cause Notice | Rule 100 (2) and 142(1)(a) |
-| 2. | FORM GST DRC-01A | Intimation of tax ascertained as being payable under section 73(5) /74(3) <br> Part A: Intimation of liability under section 73(5)/Section 74(5) <br> Part B: Reply to the communication for payment before issuance of Show Cause Notice <br> Part C: Acceptance of submission and/or payment made in reply to intimation made in Part A of FORM GST DRC-01A. | Rule 142(1A), (2A) |
-| 3. | FORM GST DRC-01B <br> (Inserted vide notification No. 26/2022-Central Tax, dated 26.12.2022) | Part A (system Generated): Intimation of difference in liability reported in statement of outward supplies and that reported in return <br> Part B: Reply by taxpayer in respect of the Intimation of difference in liability | Rule 88C |
-| 4. | FORM GST DRC-01C <br> (Inserted vide notification No. 38/2023-Central Tax, dated 04.08.2023) | Part A (System Generated): Intimation of difference in input tax credit available in autogenerated statement containing the details of input tax credit and that availed in return <br> Part B: Reply by taxpayer in respect of the intimation of difference in input tax credit | Rule 88D |
-| 5. | FORM GST DRC-01D <br> (Inserted vide notification No. 38/2023-Central Tax, | Intimation for amount recoverable under section 79 | Rule 142B |
+| 2. | FORM GST DRC-01A | Intimation of tax ascertained as being payable under section 73(5) /74(3)  Part A: Intimation of liability under section 73(5)/Section 74(5) Part B: Reply to the communication for payment before issuance of Show Cause Notice  Part C: Acceptance of submission and/or payment made in reply to intimation made in Part A of FORM GST DRC-01A. | Rule 142(1A), (2A) |
+| 3. | FORM GST DRC-01B  | Part A (system Generated): Intimation of difference in liability reported in statement of outward supplies and that reported in return <br> Part B: Reply by taxpayer in respect of the Intimation of difference in liability | Rule 88C |
+| 4. | FORM GST DRC-01C  | Part A (System Generated): Intimation of difference in input tax credit available in autogenerated statement containing the details of input tax credit and that availed in return Part B: Reply by taxpayer in respect of the intimation of difference in input tax credit | Rule 88D |
+| 5. | FORM GST DRC-01D  | Intimation for amount recoverable under section 79 | Rule 142B |
 
-| $\begin{aligned} & \text { SR, } \\ & \text { NO. } \end{aligned}$ | FORM NUMBER | SUBJECT | ISSUED UNDER RULE |
+| SR.NO .| FORM NUMBER | SUBJECT | ISSUED UNDER RULE |
 | :--: | :--: | :--: | :--: |
-|  | dated 04.08.2023) |  |  |
 | 6. | FORM GST DRC-02 | Summary of Statement | Rule 142(1)(b) |
 | 7. | FORM GST DRC-03 | Intimation of payment made voluntarily or made against the Show Cause Notice (SCN) or Statement | Rule 142(2) and 142(3) |
-| 8. | FORM GST DRC-03A <br> [Inserted vide notification no. 12/2024-Central Tax, dated 10.07.2024 (w.e.f. 10.07.2024)]. | Application for adjustment of the amount paid through FORM GST DRC-03 against the order of demand. | Rule 142(2B) |
-| 9. | FORM GST DRC-04 <br> [Substituted vide notification no. 12/2024-Central Tax, dated 10.07.2024 (w.e.f. 10.07.2024)]. | Acknowledgement of acceptance of payment made voluntarily | Rule 142(2) \& 142(3) |
+| 8. | FORM GST DRC-03A  | Application for adjustment of the amount paid through FORM GST DRC-03 against the order of demand. | Rule 142(2B) |
+| 9. | FORM GST DRC-04  | Acknowledgement of acceptance of payment made voluntarily | Rule 142(2) \& 142(3) |
 | 10. | FORM GST DRC-05 | Intimation of conclusion of Proceedings | Rule 142(3) |
 | 11. | FORM GST DRC-06 | Reply to the Show Cause Notice | Rule 142(4) |
 | 12. | FORM GST DRC-07 | Summary of the order | Rules 100(1),100(2), <br> 100(3) and 142(5) |
@@ -218,7 +217,7 @@
 | 22. | FORM GST DRC-15 | Application before the Civil Court Requesting Execution for a Decree | Rule 146 |
 | 23. | FORM GST DRC-16 | Notice for Attachment and Sale of Immovable/Movable Goods/Shares under section 79 | Rule 147(1) and Rule 151(1) |
 
-| $\begin{gathered} \text { SR. } \\ \text { NO. } \end{gathered}$ | FORM NUMBER | SUBJECT | ISSUED UNDER RULE |
+| SR.NO .| FORM NUMBER | SUBJECT | ISSUED UNDER RULE |
 | :--: | :--: | :--: | :--: |
 | 24. | FORM GST DRC-17 | Notice for Auction of Immovable Property under Section 79(1) (d) | Rule 147(4) |
 | 25. | FORM GST DRC-18 | Certificate action under clause (e) of subsection (1) of section 79 | Rule 155 |
@@ -244,7 +243,7 @@
 | 1. | FORM GST INV-01 | Format/Schema for e-invoice | Rule 48 |
 | INSPECTION OF GOODS WHILE IN MOVEMENT |  |  |  |
 
-| $\begin{gathered} \text { SR, } \\ \text { NO. } \end{gathered}$ | FORM NUMBER | SUBJECT | ISSUED UNDER RULE |
+| SR.NO .| FORM NUMBER | SUBJECT | ISSUED UNDER RULE |
 | :--: | :--: | :--: | :--: |
 | 1. | FORM GST MOV-01 | Statement of Owner/Driver/Person in Charge of the Goods and Conveyance | - |
 | 2. | FORM GST MOV-02 | Order for physical verification/inspection of the conveyance, goods and documents | - |
@@ -265,7 +264,7 @@
 | 5. | FORM GST SBY-05 | Order sanctioning/rejecting claim of reimbursement |  |
 | 6. | FORM GST SBY-06 | Payment Advice |  |
 
-| SR. <br> NO. | FORM NUMBER | SUBJECT | ISSUED UNDER <br> RULE |
+| SR.  NO. | FORM NUMBER | SUBJECT | ISSUED UNDER <br> RULE |
 | :--: | :--: | :--: | :--: |
 | Special Procedure for Tobacco Products and Pan Masala Manufacturer (Notification No. 04/2024-Central Tax, dated 05.01.2024) |  |  |  |
 | 1. | FORM GST SRM-I | Registration and disposal of packing machines of pan masala and tobacco products | Notification No. 04/2024-Central Tax, dated 05.01.2024 |

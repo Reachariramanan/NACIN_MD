@@ -9,14 +9,13 @@ GSR......(E).- In exercise of the powers conferred by sub-section (3) of section
 
 1. In the said notification, in the Table, after serial number 5AA and the entries relating thereto, the following serial number and entries relating thereto in columns (2), (3) and (4) shall be inserted, namely: -
 
-| (1) | (2) | (3) | (4) |
-| :--: | :-- | :--: | :--: |
-| "5AB | Service by way of renting of any <br> property other than residential <br> dwelling. | Any unregistered <br> person | Any registered <br> person." |
+| (1) | (2)                                                                           |           (3)           |            (4)            |
+| :--: | :---------------------------------------------------------------------------- | :----------------------: | :-----------------------: |
+| "5AB | Service by way of renting of any property other than residential  dwelling. | Any unregistered  person | Any registered  person." |
 
 2. This notification shall come into force with effect from the $10^{\text {th }}$ day of October, 2024.
-[F.No. 190354/149/2024-TO(TRU-II) - Part-I CBEC]
-(Dilmil Singh Soach)
-Under Secretary to the Government of India
+   [F.No. 190354/149/2024-TO(TRU-II) - Part-I CBEC]
+   (Dilmil Singh Soach)
+   Under Secretary to the Government of India
 
 Note: -The principal notification number 13/2017 -Central Tax (Rate), dated the 28th June, 2017 was published in the Gazette of India, Extraordinary, vide number G.S.R. 692 (E), dated the 28th June, 2017 and was last amended vide notification number 14/2023 -Central Tax (Rate), dated the $19^{\text {th }}$ October, 2023 published in the Gazette of India vide number G.S.R. 765(E), dated the $19^{\text {th }}$ October, 2023.
-
