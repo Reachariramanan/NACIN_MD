@@ -1,0 +1,47 @@
+title: Explanatory Notes to the Scheme of Classification of Services
+context: NACIN / GST Council
+summary: >
+  This document provides explanatory notes to the Scheme of Classification of Services under GST in India.
+  It is adapted from the United Nations Central Product Classification and serves as a guide for assessees
+  and tax administrators in classifying services under GST. It includes detailed descriptions of service codes
+  (e.g., 9954 for construction services) with scope notes, inclusions, exclusions, and annotations.
+
+source: Central Board of Indirect Taxes and Customs (CBIC), Ministry of Finance, Government of India
+document_type: Reference Document / Guidance Manual
+legal_basis:
+  - Section 9 of CGST Act, 2017
+  - Section 7 and 8 of IGST Act, 2017
+  - Related GST Rules and Notifications
+amended_upto: null  # not specified in the document; can be updated if known
+original_date: 2017-07-01  # assumed from GST rollout, update if exact issue date is known
+gazette_reference: null  # not specified; update if official notification number is known
+
+parts:
+  - Preface and Scope
+  - Construction Services Classification (9954)
+  - Site Preparation, Erection, and Specialized Trade Construction Services (99543–99545)
+  - Installation, Completion and Finishing Services (99546–99547)
+  - Accommodation and Food Services (9963)
+  - Passenger and Freight Transport Services (9964–9966)
+  - Supporting Transport Services (9967)
+  - Postal, Courier, and Utility Distribution Services (9968–9969)
+  - Financial, Insurance, and Real Estate Services (9971–9973)
+  - Other Miscellaneous Service Codes (truncated)
+
+tags:
+  - GST Classification
+  - SAC Codes
+  - CGST
+  - Service Taxonomy
+  - UNCPC-based Classification
+  - NACIN
+  - Real Estate GST
+  - Construction Services
+  - Transport Services
+  - Accommodation & Food Services
+
+status: current
+version_notes: >
+  Based on the initial GST implementation framework and UNCPC guidance; includes comprehensive SAC codes
+  and detailed service descriptions for various sectors. No amendments noted in the document body.
+
